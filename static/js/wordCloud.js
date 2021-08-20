@@ -65,23 +65,26 @@ maskImage.onload = function () {
 
 maskImage.src = '../static/resource/logo.png';
 
-async function setWordCloud(type,month) {
-    await axios({
-        method: 'get',
+function setWordCloud(type,month) {
+    $.ajax({
+        type: "GET",
         url: 'http://127.0.0.1:5000/wordCloud',
-        params: {
+        data:  {
             month: month,
             type: type
+        },
+        dataType: "JSON",
+        success: function (res) {
+            console.log(res)
+            data=[];
+            for (let name in res) {
+                data.push({
+                    name: name,
+                    value: Math.sqrt(res[name])
+                })
+            }
+            option.series[0]['data']=data;
+            chart.setOption(option);
         }
-    }).then((res) => {
-        data=[];
-        for (let name in res.data) {
-            data.push({
-                name: name,
-                value: Math.sqrt(res.data[name])
-            })
-        }
-        option.series[0]['data']=data;
-        chart.setOption(option);
-    })
+    });
 }
