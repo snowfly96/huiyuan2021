@@ -2,23 +2,17 @@ from flask import Flask,render_template,request,jsonify
 from flask_cors import *
 from config import Config
 import json
+from tools import *
+
 app = Flask(__name__)
 # 添加配置
 app.config.from_object(Config)
 CORS(app, supports_credentials=True)
 
-TYPES = ['下载', '浏览', '检索']
-def toFileName(t, month):
-    if month < 10:
-        month = '0' + str(month)
-    else:
-        month = str(month)
-    filename = 'E:\\Python Projects\\dataProcess\\topWords\\Tops_' + month + '_' + TYPES[t] + '.json'
-    return filename
-
 # 主界面
 @app.route('/')
 def index():
+    get_user_db()
     return render_template("index.html")
 
 @app.route("/wordCloud", methods=["GET"])
@@ -32,6 +26,10 @@ def getwordCloud():
         data = json.load(f)
 
     return data
+
+@app.route('/anomaly',methods=["GET","POST"])
+def getAnomalyAnalysis():
+    user_db=get_user_db()
 
 if __name__ == '__main__':
     app.run()

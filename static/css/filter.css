@@ -1,0 +1,146 @@
+/* 过滤面板配置 */
+#filter-box{
+    height: 228px;
+    width: 240px;
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 12px;
+}
+.filter-box-child{
+    display: block;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+/* 类型过滤 */
+#type-filter-box{
+    font-size: 12px;
+}
+.filter-box-label{
+    width: 20%;
+    height: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: bisque;
+    font-size: 12px;
+    float: left;
+}
+.filter-box-content{
+    width: 80%;
+    height: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+/* 类型过滤 */
+.type-radio-box{
+    display: inline;
+    padding-left: 10px;
+}
+input[type="radio"]{
+    opacity: 0.6;
+    zoom: 0.8;
+    cursor: pointer;
+}
+
+/* 日期过滤 */
+#date-filter-box{
+    font-size: 12px;
+    display: block;
+}
+#date-filter-start{
+    zoom: 0.6;
+    margin-left: 16px;
+}
+#date-filter-end{
+    zoom: 0.6;
+}
+
+/* 时间过滤 */
+#times-times-label-box{
+    display: inline;
+    font-size: 12px;
+}
+#time-filter-slider-start{
+    margin-left: 16px;
+}
+#time-filter-slider{
+    width: 60px;
+    display: inline;
+}
+
+.tt-selector{
+    zoom: 0.8;
+}
+#times-selector{
+    margin-left: 16px;
+}
+#time-filter-box{
+    /* border: 1px dashed black; */
+}
+
+#frequency-filter-box{
+    /* border: 1px dashed black; */
+}
+#area-box{
+    height: 100px;
+    border: 1px black solid;
+}
+
+.tag {
+    width: 40px;
+    height: 18px;
+    border: 1px black dashed;
+    font-size: 12px;
+    /*padding: 2px 2px 2px 4px;*/
+    border-radius: 2px;
+    background-color:cadetblue;
+    cursor: pointer;
+    align-content: center;
+    zoom: 0.8;
+}
+.tag-content{
+    display: inline;
+}
+.tag-del{
+    display: inline;
+    font-weight: bolder;
+}
+
+
+/* slider样式 */
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 4px;
+    border-radius: 4px;
+    background: -webkit-linear-gradient(#fcc671, #fcc671) no-repeat, #d3d3d3;
+    background-size: 60% 100%; /*设置左右宽度比例*/
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fcc671;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
+}
