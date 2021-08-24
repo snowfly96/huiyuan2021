@@ -1,4 +1,4 @@
-let chart = echarts.init(document.getElementById('word-cloud'));
+let chart_word_cloud = echarts.init(document.getElementById('word-cloud'));
 
 let keywords = {
     "护理": 1129,
@@ -17,7 +17,6 @@ let keywords = {
     "危险因素": 472,
     "大数据": 459
 };
-console.log(keywords);
 let data = [];
 for (let name in keywords) {
     data.push({
@@ -28,7 +27,7 @@ for (let name in keywords) {
 
 let maskImage = new Image();
 
-let option = {
+let option_word_cloud = {
     series: [ {
         type: 'wordCloud',
         sizeRange: [5, 30],
@@ -59,8 +58,8 @@ let option = {
 };
 
 maskImage.onload = function () {
-    option.series[0].maskImage
-    chart.setOption(option);
+    option_word_cloud.series[0].maskImage
+    chart_word_cloud.setOption(option_word_cloud);
 }
 
 maskImage.src = '../static/resource/logo.png';
@@ -83,8 +82,8 @@ function setWordCloud(type,month) {
                     value: Math.sqrt(res[name])
                 })
             }
-            option.series[0]['data']=data;
-            chart.setOption(option);
+            option_word_cloud.series[0]['data']=data;
+            chart_word_cloud.setOption(option_word_cloud);
         }
     });
 }
