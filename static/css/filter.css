@@ -1,16 +1,27 @@
+/* 异常分析面板 */
+#anomaly-box{
+    margin-top: 300px;
+    height: 240px;
+    width: 100%;
+    border: 1px solid black;
+
+}
+
 /* 过滤面板配置 */
 #filter-box{
-    height: 228px;
-    width: 240px;
+    height: 20%;
+    width: 100%;
     border: 1px solid black;
+    box-sizing: border-box;
     padding: 3px;
     font-size: 12px;
 }
 .filter-box-child{
-    display: block;
     height: 20px;
-    width: 100%;
+    width: 20%;
     margin-bottom: 10px;
+    margin-left: 20px;
+    float: left;
 }
 /* 类型过滤 */
 #type-filter-box{
@@ -108,7 +119,6 @@ input[type="radio"]{
     font-weight: bolder;
 }
 
-
 /* slider样式 */
 .slider {
     -webkit-appearance: none;
@@ -143,4 +153,35 @@ input[type="radio"]{
     border-radius: 50%;
     background: #4CAF50;
     cursor: pointer;
+}
+
+
+/* 异常视图 */
+#anomaly-view{
+    height: 80%;
+    width: 100%;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+#anomaly-table{
+    height: 100%;
+    width: 30%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+#anomaly-line{
+    height: 100%;
+    width: 40%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+#anomaly-wc{
+    height: 100%;
+    width: 30%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: left;
 }

@@ -116,7 +116,7 @@ def filter_user_by_selection(paras):
 # 临时函数
 dict_slice=lambda dt,start,end: {k:dt[k] for k in list(dt.keys())[start:end]}
 
-def get_user_db():
+def get_view_info():
     user_db=pd.read_csv('./static/data/example.csv',index_col=0)
     user_ID=list(user_db['USER_ID'])
 
@@ -148,10 +148,8 @@ def get_user_db():
         end_time = date_to_num(paras['end_date'])
         frequency_span = paras['frequency_span'] * 30
         cur_user_line=sorted(list(cur_user['DATETIME']))
-        cur_user_line_dict=dict(Counter([int(tm / frequency_span) for tm in cur_user_line]))
+        cur_user_line_dict=dict(Counter([num_to_date(int(tm/frequency_span)*frequency_span+start_time) for tm in cur_user_line]))
 
         viewInfo[user].append(cur_user_line_dict)
 
-    print(viewInfo)
-
-get_user_db()
+    return viewInfo

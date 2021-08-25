@@ -12,7 +12,6 @@ CORS(app, supports_credentials=True)
 # 主界面
 @app.route('/')
 def index():
-    get_user_db()
     return render_template("index.html")
 
 @app.route("/wordCloud", methods=["GET"])
@@ -27,9 +26,12 @@ def getwordCloud():
 
     return data
 
-@app.route('/anomaly',methods=["GET","POST"])
+@app.route('/anomaly',methods=["POST","GET"])
 def getAnomalyAnalysis():
-    user_db=get_user_db()
+    viewInfo=get_view_info()
+    print(viewInfo)
+    return jsonify(viewInfo)
+
 
 if __name__ == '__main__':
     app.run()
