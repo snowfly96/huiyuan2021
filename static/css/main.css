@@ -1,80 +1,94 @@
+:root {
+    --background-color: #ffffff;
+    --border-color: #e8e8e8;
+    --shadow-color: #f3f3f3;
+    --text-color: #34495e;
+    --active-color: bisque;
+    --color1: #EC3E27;
+    --color2: #fd79a8;
+    --color3: #0984e3;
+    --color4: #00b894;
+    --color5: #fdcb6e;
+    --color6: #e056fd;
+    --color7: #F97F51;
+    --color8: #BDC581;
+    --a_border_color: #86a3b3;
+    --h2_border_color: #8ea2b8;
+    --a_hover_background_color: #86a3b3;
+    --font_color: black;
+}
+
 * {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 }
-body {
-	background-color: #ffffff;
-    SCROLLBAR-FACE-COLOR:  #ffcc99;
+
+html,body {
+	background-color: var(--background-color);
     width: 100%;
     height: 100%;
     overflow: hidden;
 }
-
-.block-div {
-	height: 100%;
-	border-radius: 2px;
+#header{
+    width: 100%;
+    height: 6%;
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 2px 2px var(--shadow-color);
+    display: flex;
+}
+#logo{
+    width: 8%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+#logo-img{
+    width: 36px;
+    height: 28px;
+}
+#path{
+    width: 88%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+#help{
+    width: 6%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
 }
 
-.outer-div{
-	background-color: #fff;
-	border-radius: 2px;
-    border: 1px solid #e2e2e2;
-    box-sizing: border-box
-}
 
-#content-div {
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
+#content{
+    width: 100%;
+    height: 94%;
+    box-sizing: border-box;
 }
-
-#left-div {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    bottom: 0px;
-    width: 70%;
+#left-list{
+    width: 20%;
+    height: 100%;
+    box-sizing: border-box;
+    border-right: 1px solid var(--border-color);
+}
+#right-charts{
+    width: 80%;
     height: 100%;
 }
-#left-top-div {
-    position: absolute;
-    top: 0px;
-    left: 0px;
+#user-article-list{
     width: 100%;
-    height: 70%;
+    height: 80%;
+    box-sizing: border-box;
+    border-bottom: 1px solid var(--border-color);
 }
-
-#left-bottom-div {
-    position: absolute;
-    top: 70%;
-    left: 0px;
+#list-setting{
     width: 100%;
-    height: 30%;
-}
-
-#right-div {
-    position: absolute;
-    top: 0px;
-    bottom: 0px;
-    right: 0px;
-    left: 70%;
-    width: 30%;
-    height: 100%;
-}
-#right-top-div {
-    position: absolute;
-    top: 0px;
-    left: 1px;
-    width: 98%;
-    height: 40%;
-}
-#right-bottom-div{
-    position: absolute;
-    top: 40%;
-    left: 1px;
-    width: 98%;
-    height: 60%
+    height: 20%;
+    box-sizing: border-box;
 }

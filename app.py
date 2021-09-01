@@ -12,7 +12,8 @@ CORS(app, supports_credentials=True)
 # 主界面
 @app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template("test.html")
+    # return render_template("index.html")
 
 @app.route("/wordCloud", methods=["GET"])
 def getwordCloud():

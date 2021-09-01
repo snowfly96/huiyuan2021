@@ -1,50 +1,44 @@
-/* 异常分析面板 */
-#anomaly-box{
-    margin-top: 300px;
-    height: 240px;
-    width: 100%;
-    border: 1px solid black;
-
-}
-
 /* 过滤面板配置 */
 #filter-box{
-    height: 20%;
+    height: 100%;
     width: 100%;
-    border: 1px solid black;
     box-sizing: border-box;
-    padding: 3px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     font-size: 12px;
+
+    display: -webkit-flex;
+    display:flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 .filter-box-child{
     height: 20px;
-    width: 20%;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    float: left;
+    width: 90%;
+    border: 1px solid var(--border-color);
+    border-radius: 1px;
 }
 /* 类型过滤 */
 #type-filter-box{
-    font-size: 12px;
+
 }
 .filter-box-label{
     width: 20%;
     height: 100%;
-    border: 1px solid black;
     box-sizing: border-box;
     text-align: center;
-    background-color: bisque;
+    background-color: var(--active-color);
     font-size: 12px;
     float: left;
 }
 .filter-box-content{
     width: 80%;
     height: 100%;
-    border: 1px solid black;
     box-sizing: border-box;
     float: left;
 }
-/* 类型过滤 */
+/*!* 类型过滤 *!*/
 .type-radio-box{
     display: inline;
     padding-left: 10px;
@@ -76,10 +70,14 @@ input[type="radio"]{
 #time-filter-slider-start{
     margin-left: 16px;
 }
-#time-filter-slider{
+#slider-start{
     width: 60px;
     display: inline;
 }
+/*#slider-end{*/
+/*    width: 60px;*/
+/*    display: inline;*/
+/*}*/
 
 .tt-selector{
     zoom: 0.8;
