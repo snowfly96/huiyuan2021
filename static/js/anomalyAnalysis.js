@@ -110,6 +110,12 @@ function abnormalAnalysisView() {
         var chart=echarts.init(document.getElementById("anomaly-line"));
 
         var lOption = {
+            grid:{
+                left: 0,
+                right:'0%',
+                height: '100%',
+                bottom: 0
+            },
             xAxis: {
                 type: 'category',
                 data: xAxisData,
