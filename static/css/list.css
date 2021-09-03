@@ -1,11 +1,4 @@
 /* list group样式配置 */
-/*.list-item:first-child{*/
-/*    width: 100%;*/
-/*    height: 60px;*/
-/*    box-sizing: border-box;*/
-/*    border-top: 1px var(--border-color) solid;*/
-/*    border-bottom: 1px var(--border-color) solid;*/
-/*}*/
 .list-item{
     width: 100%;
     height: 70px;
@@ -14,18 +7,51 @@
     border-bottom: 0.5px var(--border-color) solid;
 }
 .list-item-title{
-    line-height: 10px;
+    font-size: 14px;
+    margin-top: 3px;
 }
 .list-item-keywords{
     font-size: 12px;
-    line-height: 10px;
     padding-left: 6px;
+    margin-top: 3px;
 }
 .list-item-content{
     font-size: 10px;
-    line-height: 10px;
-    padding-left: 6px;
+    padding-left: 10px;
+    margin-top: 3px;
 }
 .item-active{
     background-color: var(--active-color);
+}
+
+#update-list{
+    position: fixed;
+}
+
+
+/* 滑动条 */
+/* 系统滑动条样式设置 */
+/*#user-article-list::-webkit-scrollbar{display: none;}*/
+/*#user-article-list{ -ms-overflow-style: none; }*/
+/*#user-article-list{ overflow: -moz-scrollbars-none; }*/
+
+.list-scroll::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #eee;
+    border:1px #737373 solid;
+    /*border-radius: 5px;*/
+}
+.list-scroll::-webkit-scrollbar-track {
+    background-color: #eee;
+}
+.list-scroll::-webkit-scrollbar-thumb {
+    background: #b3b3b3;
+    /*border-radius: 5px;*/
+}
+.list-scroll::-webkit-scrollbar-button:start {
+    display: none;
+}
+.list-scroll::-webkit-scrollbar-button:end {
+    display: none;
 }

@@ -14,7 +14,7 @@ def toFileName(t, month):
         month = '0' + str(month)
     else:
         month = str(month)
-    filename = 'E:\\Python Projects\\dataProcess\\topWords\\Tops_' + month + '_' + TYPES[t] + '.json'
+    filename = './static/data/topWords/Tops_' + month + '_' + TYPES[t] + '.json'
     return filename
 
 

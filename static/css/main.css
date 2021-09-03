@@ -4,6 +4,7 @@
     --shadow-color: #f3f3f3;
     --text-color: #34495e;
     --active-color: bisque;
+    --hover--color: #007bff;
     --color1: #EC3E27;
     --color2: #fd79a8;
     --color3: #0984e3;
@@ -56,6 +57,7 @@ html,body {
     box-sizing: border-box;
     display: flex;
     align-items: center;
+    font-size: 16px;
 }
 #help{
     width: 6%;
@@ -63,6 +65,24 @@ html,body {
     box-sizing: border-box;
     display: flex;
     align-items: center;
+    font-size: 14px;
+}
+#article-interface,#person-interface{
+    cursor: pointer;
+}
+#article-interface:hover{
+    color: var(--hover--color);
+}
+#person-interface:hover{
+    color: var(--hover--color);
+}
+
+#update-list{
+    cursor: pointer;
+}
+#update-list:hover{
+    cursor: pointer;
+    color: var(--hover--color);
 }
 
 
@@ -76,19 +96,29 @@ html,body {
     height: 100%;
     box-sizing: border-box;
     border-right: 1px solid var(--border-color);
-}
-#right-charts{
-    width: 80%;
-    height: 100%;
+    float: left;
 }
 #user-article-list{
     width: 100%;
     height: 80%;
     box-sizing: border-box;
     border-bottom: 1px solid var(--border-color);
+    overflow-y: auto;
 }
 #list-setting{
     width: 100%;
     height: 20%;
     box-sizing: border-box;
 }
+
+#right-charts{
+    width: 80%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+}
+#word-cloud{
+    width: 100%;
+    height: 100%;
+}
+
