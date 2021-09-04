@@ -28,6 +28,17 @@
     position: fixed;
 }
 
+#keywords-text{
+    border: none;
+    width: 100%;
+    outline: none;
+    box-sizing: border-box;
+    padding-left: 2px;
+}
+#keywords-text:focus{
+    outline: none;
+}
+
 
 /* 滑动条 */
 /* 系统滑动条样式设置 */

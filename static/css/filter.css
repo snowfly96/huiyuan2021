@@ -20,9 +20,6 @@
     border-radius: 1px;
 }
 /* 类型过滤 */
-#type-filter-box{
-
-}
 .filter-box-label{
     width: 20%;
     height: 100%;
@@ -182,4 +179,10 @@ input[type="radio"]{
     border: 1px solid black;
     box-sizing: border-box;
     float: left;
+}
+
+#keywords-box{
+    height: 60%;
+    width: 90%;
+    border: 1px solid var(--border-color);
 }

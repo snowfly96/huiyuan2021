@@ -1,71 +1,68 @@
 {% extends "index.html" %}
 
 {% block content %}
-    <div id="filter-box">
-        <div id="type-filter-box" class="filter-box-child">
-            <div class="filter-box-label">
-                类型
+    <div id="left-list">
+        <div id="user-article-list" class="list-scroll">
+            <div id="update-list">
+                <i class="fa fa-refresh"></i>
             </div>
-            <div class="filter-box-content">
-                <div class="type-radio-box">
-                    <input type="radio" id="retrieve-type" name="behavior-type" value="retrieve" checked>
-                    <label for="retrieve">检索</label>
-                </div>
-                <div class="type-radio-box">
-                    <input type="radio" id="browse-type" name="behavior-type" value="retrieve">
-                    <label for="browse">浏览</label>
-                </div>
-                <div class="type-radio-box">
-                    <input type="radio" id="download-type" name="behavior-type" value="retrieve">
-                    <label for="download">下载</label>
-                </div>
-            </div>
+            {#  top列表   #}
         </div>
-        <div id="date-filter-box"  class="filter-box-child">
-            <div class="filter-box-label">
-                日期
-            </div>
-            <div class="filter-box-content">
-                <input type="date" name="datetime" id="date-filter-start" min="2020-01-01" max="2020-12-31">
-                <span>-</span>
-                <input type="date" name="datetime" id="date-filter-end" min="2020-01-01" max="2020-12-31">
-            </div>
-        </div>
-        <div id="time-filter-box"  class="filter-box-child">
-            <div class="filter-box-label">
-                时间
-            </div>
-            <div class="filter-box-content">
-                <span id="time-filter-slider-start">0</span>
-                <input type="range" min="0.5" max="1" step="0.05" value="0.2" class="slider" id="slider-start"/>
-{#                            <input type="range" min="0.5" max="1" step="0.05" value="0.8" class="slider" id="slider-end"/>#}
-                <span>24</span>
-            </div>
-        </div>
-        <div id="frequency-filter-box"  class="filter-box-child">
-            <div class="filter-box-label">
-                频率
-            </div>
-            <div class="filter-box-content">
-                <select name="times-selector" id="times-selector" class="tt-selector">
-                    <option value="5">5</option>
-                    <option value="10">10</option>
-                    <option value="20">20</option>
-                    <option value="30">30</option>
-                </select>
-                <span>/</span>
-                <select name="time-selector" id="time-selector"  class="tt-selector">
-                    <option value="5">5</option>
-                    <option value="10">10</option>
-                    <option value="20">20</option>
-                    <option value="30">30</option>
-                </select>
-                <div id="times-times-label-box">
-                     <label for="time-selector">次/分钟</label>
+        <div id="list-setting">
+            {#  过滤设置面板  #}
+            <div id="filter-box">
+                <div id="type-filter-box" class="filter-box-child">
+                    <div class="filter-box-label">
+                        类型
+                    </div>
+                    <div class="filter-box-content">
+                        <div class="type-radio-box">
+                            <input type="radio" id="retrieve-type" name="behavior-type" value="retrieve" checked>
+                            <label for="retrieve">检索</label>
+                        </div>
+                        <div class="type-radio-box">
+                            <input type="radio" id="browse-type" name="behavior-type" value="retrieve">
+                            <label for="browse">浏览</label>
+                        </div>
+                        <div class="type-radio-box">
+                            <input type="radio" id="download-type" name="behavior-type" value="retrieve">
+                            <label for="download">下载</label>
+                        </div>
+                    </div>
+                </div>
+                <div id="keywords-filter-box" class="filter-box-child">
+                    <div class="filter-box-label">
+                        关键字
+                    </div>
+                    <div class="filter-box-content">
+                        <input type="text" id="keywords-text">
+                    </div>
+                </div>
+                <div id="keywords-box">
+
                 </div>
             </div>
         </div>
     </div>
+    <div id="right-charts">
+        <div id="right-charts-0">
+            <div id="word-cloud">
+
+            </div>
+            <div id="circle-packing">
+
+            </div>
+        </div>
+        <div id="right-charts-1">
+            <div id="line">
+
+            </div>
+            <div id="article-line">
+
+            </div>
+        </div>
+    </div>
+
 {% endblock %}
 
 

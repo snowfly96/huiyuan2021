@@ -1,0 +1,85 @@
+/* 主视图 */
+#right-charts-0{
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#word-cloud{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+#circle-packing{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+
+#right-charts-1{
+    width: 100%;
+    height: 50%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#line{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+#article-line{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+
+
+
+/* 个人用户 */
+#right-charts-2{
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#user-word-cloud{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+#user-article-tree{
+    width: 45%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+
+#right-charts-3{
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ab-user-line{
+    width: 95%;
+    height: 90%;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 2px 2px var(--shadow-color);
+}
+
