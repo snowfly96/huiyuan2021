@@ -16,11 +16,21 @@ def index():
 
 @app.route('/article')
 def article_interface():
-    return render_template("article.html")
+    header={
+        'path':"热点文章",
+        'articleColor': "black",
+        'personColor':"#a6a6a6"
+    }
+    return render_template("article.html",header=header)
 
 @app.route('/person')
 def person_interface():
-    return render_template("person.html")
+    header = {
+        'path': "异常用户",
+        'articleColor': "#a6a6a6",
+        'personColor': "black"
+    }
+    return render_template("person.html",header=header)
 
 @app.route("/wordCloud", methods=['GET'])
 def getwordCloud():

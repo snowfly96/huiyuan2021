@@ -39,8 +39,11 @@ function drawTopList() {
             "                    </div>\n" +
             "                </div>");
 
+            listItem.attr({"id":"article-item-"+index});
+
             listSelector.append(listItem);
         });
+        $("#article-item-0").css({"backgroundColor":"bisque"});
 
     }
 }

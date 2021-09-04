@@ -6,6 +6,10 @@
     border-top: 0.5px var(--border-color) solid;
     border-bottom: 0.5px var(--border-color) solid;
 }
+.list-item:hover{
+    cursor: pointer;
+    box-shadow: 0 0 2px 2px var(--border-color);
+}
 .list-item-title{
     font-size: 14px;
     margin-top: 3px;

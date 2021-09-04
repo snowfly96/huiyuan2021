@@ -20,10 +20,10 @@
             <img src="../static/resource/logo.png" alt="" id="logo-img">
         </div>
         <div id="path">
-            <strong>惠源大赛</strong>/<span id="hot-title">热点文章</span>/<span id="data-type">浏览数据</span>
+            <strong>慧源大赛</strong>/<span id="hot-title">{{ header.path }}</span>/<span id="data-type">浏览数据</span>
         </div>
         <div id="help">
-            <a id="article-interface" href="/article">文章</a>|<a id="person-interface" href="/person">用户</a>
+            <a id="article-interface" href="/article" style="color: {{ header.articleColor }}">文章</a>|<a id="person-interface" href="/person" style="color: {{ header.personColor }}">用户</a>
         </div>
     </div>
     <div id="content">

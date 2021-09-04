@@ -176,7 +176,7 @@ function drawCirclePacking() {
                 max: maxDepth,
                 dimension: 'depth',
                 inRange: {
-                    color: ['#006edd', '#e0ffff']
+                    color: ['white', '#ffcc99']
                 }
             },
             hoverLayerThreshold: Infinity,
