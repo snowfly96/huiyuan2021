@@ -1,12 +1,12 @@
 /* list group样式配置 */
-.list-item{
+.list-article-item{
     width: 100%;
     height: 70px;
     box-sizing: border-box;
     border-top: 0.5px var(--border-color) solid;
     border-bottom: 0.5px var(--border-color) solid;
 }
-.list-item:hover{
+.list-article-item:hover{
     cursor: pointer;
     box-shadow: 0 0 2px 2px var(--border-color);
 }
@@ -69,4 +69,17 @@
 }
 .list-scroll::-webkit-scrollbar-button:end {
     display: none;
+}
+
+
+.list-user-item{
+    width: 100%;
+    /*height: 50px;*/
+    box-sizing: border-box;
+    border-top: 0.5px var(--border-color) solid;
+    border-bottom: 0.5px var(--border-color) solid;
+}
+.list-user-item:hover{
+    cursor: pointer;
+    box-shadow: 0 0 2px 2px var(--border-color);
 }

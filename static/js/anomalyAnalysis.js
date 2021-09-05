@@ -1,24 +1,24 @@
 // 异常分析视图
 function abnormalAnalysisView() {
     $.ajax("/anomaly",{
-            type:'POST',
-            data:{},
-            dataType: 'json',
-            success:function (data) {
-                console.log(data);
-                var table=Object.keys(data).map(function (item,index) {
-                    return [item,data[item][0]];
-                });
-                var curUser=Object.keys(data)[0];
-                var curUserWC=data[curUser][1];
-                var curUserLine=data[curUser][2];
-                // createFilterTable(table);
-                // createCurrentUserWordCloud(curUserWC);
-                // createCurrentUserLine(curUserLine);
-            },
-            error:function (e) {
-                alert("Anomaly: "+e);
-            }
+        type:'POST',
+        data:{},
+        dataType: 'json',
+        success:function (data) {
+            console.log(data);
+            var table=Object.keys(data).map(function (item,index) {
+                return [item,data[item][0]];
+            });
+            var curUser=Object.keys(data)[0];
+            var curUserWC=data[curUser][1];
+            var curUserLine=data[curUser][2];
+            // createFilterTable(table);
+            // createCurrentUserWordCloud(curUserWC);
+            // createCurrentUserLine(curUserLine);
+        },
+        error:function (e) {
+            alert("Anomaly: "+e);
+        }
     });
 
     // 创建过滤得到的用户
@@ -136,61 +136,24 @@ function abnormalAnalysisView() {
         lOption && chart.setOption(lOption);
     }
 
-    function drawUserKeyWords() {
-        var chart=echarts.init(document.getElementById("user-word-cloud"));
-
-        option = {
-            legend: {
-                top: 'bottom'
-            },
-            toolbox: {
-                show: true,
-                feature: {
-                    mark: {show: true},
-                    dataView: {show: true, readOnly: false},
-                    restore: {show: true},
-                    saveAsImage: {show: true}
-                }
-            },
-            series: [
-                {
-                    name: '面积模式',
-                    type: 'pie',
-                    radius: [20, 80],
-                    center: ['50%', '50%'],
-                    roseType: 'area',
-                    itemStyle: {
-                        borderRadius: 8
-                    },
-                    data: [
-                        {value: 40, name: '治疗'},
-                        {value: 38, name: '护理'},
-                        {value: 32, name: '应用'},
-                        {value: 30, name: '诊断'},
-                        {value: 28, name: '疾病'},
-                        {value: 26, name: '大数据'},
-                        {value: 22, name: 'AI'},
-                        {value: 18, name: '综述'},
-                        {valye: 16, name: '其他'}
-                    ]
-                }
-            ]
-        };
-        option && chart.setOption(option);
-    }
-    drawUserKeyWords();
-    
     function drawTopUserArticle() {
         var ROOT_PATH = 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/examples';
 
         var chartDom = document.getElementById('ab-user-line');
         var myChart = echarts.init(chartDom);
         var option;
-
         myChart.showLoading();
-        $.get(ROOT_PATH + '/data/asset/data/flare.json', function (data) {
+        $.get('./static/data/user_top5.json', function (_rawData) {
             myChart.hideLoading();
-
+            var curUser=Object.keys(_rawData)[0];
+            var curUserInfo=_rawData[curUser];
+            var curNewData={"name":curUser,"children":[]};
+            Object.keys(curUserInfo).forEach(function (tp,index) {
+                var keywords=curUserInfo[tp].map(function (ky) {
+                    return {"name":ky}
+                });
+                curNewData["children"].push({"name":tp,"children":keywords});
+            });
             myChart.setOption(option = {
                 tooltip: {
                     trigger: 'item',
@@ -200,7 +163,7 @@ function abnormalAnalysisView() {
                     {
                         type: 'tree',
 
-                        data: [data],
+                        data: [curNewData],
 
                         left: '2%',
                         right: '2%',
@@ -236,94 +199,115 @@ function abnormalAnalysisView() {
             });
         });
 
+
         option && myChart.setOption(option);
     }
     drawTopUserArticle();
 
     function drawUserLine() {
-        var ROOT_PATH = 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/examples';
-
         var chartDom = document.getElementById('user-article-tree');
         var myChart = echarts.init(chartDom);
         var option;
 
-        $.get(ROOT_PATH + '/data/asset/data/life-expectancy-table.json', function (_rawData) {
-            run(_rawData);
-        });
-
-        function run(_rawData) {
-
-            option = {
-                dataset: [{
-                    id: 'dataset_raw',
-                    source: _rawData
-                }, {
-                    id: 'dataset_since_1950_of_germany',
-                    fromDatasetId: 'dataset_raw',
-                    transform: {
-                        type: 'filter',
-                        config: {
-                            and: [
-                                { dimension: 'Year', gte: 1950 },
-                                { dimension: 'Country', '=': 'Germany' }
-                            ]
-                        }
-                    }
-                }, {
-                    id: 'dataset_since_1950_of_france',
-                    fromDatasetId: 'dataset_raw',
-                    transform: {
-                        type: 'filter',
-                        config: {
-                            and: [
-                                { dimension: 'Year', gte: 1950 },
-                                { dimension: 'Country', '=': 'France' }
-                            ]
-                        }
-                    }
-                }],
-                title: {
-                    text: '用户下载浏览记录折线图'
-                },
-                tooltip: {
-                    trigger: 'axis'
-                },
-                xAxis: {
-                    type: 'category',
-                    nameLocation: 'middle'
-                },
-                yAxis: {
-                    name: 'Income'
-                },
-                series: [{
+        option = {
+            title: {
+                text: '用户下载浏览折线图'
+            },
+            tooltip: {
+                trigger: 'axis'
+            },
+            legend: {
+                data: ['下载', '浏览']
+            },
+            grid: {
+                left: '3%',
+                right: '4%',
+                bottom: '3%',
+                containLabel: true
+            },
+            toolbox: {
+                feature: {
+                    // saveAsImage: {}
+                }
+            },
+            xAxis: {
+                type: 'category',
+                boundaryGap: false,
+                data: ['一月', '二月', '三月', '四月', '五月', '六月', '七月']
+            },
+            yAxis: {
+                type: 'value'
+            },
+            series: [
+                {
+                    name: '下载',
                     type: 'line',
-                    datasetId: 'dataset_since_1950_of_germany',
-                    showSymbol: false,
-                    encode: {
-                        x: 'Year',
-                        y: 'Income',
-                        itemName: 'Year',
-                        tooltip: ['Income'],
-                    }
-                }, {
+                    stack: '总量',
+                    data: [120, 132, 101, 134, 90, 230, 210]
+                },
+                {
+                    name: '浏览',
                     type: 'line',
-                    datasetId: 'dataset_since_1950_of_france',
-                    showSymbol: false,
-                    encode: {
-                        x: 'Year',
-                        y: 'Income',
-                        itemName: 'Year',
-                        tooltip: ['Income'],
-                    }
-                }]
-            };
-
-            myChart.setOption(option);
-
-        }
+                    stack: '总量',
+                    data: [220, 182, 191, 234, 290, 330, 310]
+                }
+            ]
+        };
 
         option && myChart.setOption(option);
     }
     drawUserLine();
+
+    function drawUserArticleList() {
+        var chartDom = document.getElementById('user-word-cloud');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        // echarts.registerTransform(ecStat.transform.regression);
+
+        var data = [
+            [1200, 600,"《国家疾病综述》"],
+            [1100, 500,"《国家疾病综述》"],
+            [900, 60,"《国家疾病综述》"],
+            [800, 600,"《国家疾病综述》"],
+            [100, 1200,"《国家疾病综述》"],
+            [526, 929,"《国家疾病综述》"],
+            [887, 617,"《国家疾病综述》"],
+            [859, 393,"《国家疾病综述》"]
+        ];
+
+        option = {
+            xAxis: {},
+            yAxis: {},
+            tooltip: {
+                trigger: 'axis',
+                axisPointer: { type: 'cross' }
+            },
+            title: {
+                text: '用户质量下载浏览数据统计',
+                subtext: '用户: mfzz201312002',
+                left: 'center'
+            },
+            series: [{
+                symbolSize: 20,
+                data: data,
+                type: 'scatter',
+                emphasis: {
+                    focus: 'series',
+                    label: {
+                        show: true,
+                        formatter: function (param) {
+                            return param.data[2];
+                        },
+                        position: 'top'
+                    }
+                }
+            }]
+        };
+
+        option && myChart.setOption(option);
+
+    }
+    drawUserArticleList();
 }
 abnormalAnalysisView();
