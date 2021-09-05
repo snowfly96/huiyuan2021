@@ -137,8 +137,6 @@ function abnormalAnalysisView() {
     }
 
     function drawTopUserArticle() {
-        var ROOT_PATH = 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/examples';
-
         var chartDom = document.getElementById('ab-user-line');
         var myChart = echarts.init(chartDom);
         var option;

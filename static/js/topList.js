@@ -8,23 +8,48 @@ function drawTopList() {
             success:function (data) {
                 var pageFlag=($("#hot-title").text()).slice(2,4);
                 if(pageFlag==="文章"){
-                    drawTopArticleList(data["topArticles"]);
+                    drawTopArticleList(data["topArticles"],0);
                 }
                 else{
-                    drawTopUserList(data["topUsers"]);
+                    drawTopUserList(data["topUsers"],0);
                 }
+
+                $("input[name='behavior-type']").click(function () {
+                    if($("input[name='behavior-type']:checked").val()==='download'){
+                        $("#data-type").text("下载数据");
+                        pageFlag=($("#hot-title").text()).slice(2,4);
+                        if(pageFlag==="文章"){
+                            drawTopArticleList(data["topArticles"],0);
+                        }
+                        else{
+                            drawTopUserList(data["topUsers"],0);
+                        }
+                    }
+                    else{
+                        $("#data-type").text("浏览数据");
+                        pageFlag=($("#hot-title").text()).slice(2,4);
+                        if(pageFlag==="文章"){
+                            drawTopArticleList(data["topArticles"],1);
+                        }
+                        else{
+                            drawTopUserList(data["topUsers"],1);
+                            console.log("hello")
+                        }
+                    }
+                });
             },
             error:function (e) {
                 alert("List: "+e);
             }
     });
 
-    function drawTopArticleList(data) {
+    function drawTopArticleList(data,ty) {
         var listSelector=$("#user-article-list");
+        listSelector.empty();
         var updateSelector=$("#update-list");
         updateSelector.css({"left":listSelector.width()-24});
         var sortedUsers=Object.keys(data).sort(function(a,b){
-            return data[b][0]-data[a][0];
+            return data[b][ty]-data[a][ty];
         });
 
         var sortedData={};
@@ -57,13 +82,14 @@ function drawTopList() {
         $("#article-item-0").css({"backgroundColor":"bisque"});
 
     }
-    function drawTopUserList(data){
+    function drawTopUserList(data,ty){
         var listSelector=$("#user-article-list");
+        listSelector.empty();
         var updateSelector=$("#update-list");
         updateSelector.css({"left":listSelector.width()-24});
 
         var sortedUsers=Object.keys(data).sort(function(a,b){
-            return data[b][0]-data[a][0];
+            return data[b][ty]-data[a][ty];
         });
 
         var sortedData={};
@@ -80,7 +106,7 @@ function drawTopList() {
             "                        <small>"+curUserInfo[0]+"&nbsp</small>\n" +
             "                        <i class=\"fa fa-eye\"></i>\n" +
             "                        <small>"+curUserInfo[1]+"&nbsp</small>\n" +
-            "                        <i class=\"fa fa-calendar\"></i>\n" +
+            "                        <i class=\"fa fa-search\"></i>\n" +
             "                        <small>"+curUserInfo[2]+"&nbsp</small>\n" +
             "                    </div>\n" +
             "                </div>");

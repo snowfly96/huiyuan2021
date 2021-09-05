@@ -153,3 +153,8 @@ def get_view_info():
         viewInfo[user].append(cur_user_line_dict)
 
     return viewInfo
+
+
+
+
+
