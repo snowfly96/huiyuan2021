@@ -95,6 +95,13 @@ def getArticleData():
         print(map)
     return map
 
+@app.route('/get_user_line',methods=['GET'])
+def getUserLine():
+    args = request.args.to_dict()
+    user = str(args["user"])
+    with open('./static/data/test.json','rb') as f:
+        user_line = json.load(f)
+    return user_line
 
 if __name__ == '__main__':
     app.run()
