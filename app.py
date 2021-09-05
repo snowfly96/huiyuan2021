@@ -12,7 +12,7 @@ CORS(app, supports_credentials=True)
 # 主界面
 @app.route('/')
 def index():
-    return render_template("article.html")
+    return redirect('/article')
 
 @app.route('/article')
 def article_interface():
@@ -40,8 +40,6 @@ def getwordCloud():
 
     with open(toFileName(t,month), encoding='utf-8') as f:
         data = json.load(f)
-
-
     return data
 
 @app.route('/anomaly',methods=['POST','GET'])
@@ -53,8 +51,10 @@ def getAnomalyAnalysis():
 def getListData():
     with open('./static/data/top_articles_d.json','rb') as f:
         top_article_json = json.load(f)
+    with open('./static/data/user_top300_list.json','rb') as f:
+        top_user_json = json.load(f)
 
-    return jsonify(top_article_json)
+    return jsonify({"topArticles":top_article_json,"topUsers":top_user_json})
 
 
 if __name__ == '__main__':
