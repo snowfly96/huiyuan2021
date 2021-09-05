@@ -3,6 +3,7 @@ from flask_cors import *
 from config import Config
 import json
 from tools import *
+from datetime import datetime
 
 app = Flask(__name__)
 # 添加配置
@@ -63,6 +64,36 @@ def getListData():
         top_user_json = json.load(f)
 
     return jsonify({"topArticles":top_article_json,"topUsers":top_user_json})
+
+@app.route('/get_article_data',methods=['GET'])
+def getArticleData():
+    args = request.args.to_dict()
+    article = str(args["article"])
+    type = str(args["type"])
+    with open('./static/data/article_top_list.json','rb') as f:
+        article_top_list = json.load(f)
+    times = article_top_list[article][4]
+    map = {}
+
+    for time in times:
+        time = datetime.strptime(time, '%Y-%m-%d %H:%M:%S')
+        if type == 'month':
+            if time.month in map:
+                map[time.month] += 1
+            else:
+                map[time.month] = 1
+        elif type == 'hour':
+            if time.hour in map:
+                map[time.hour] += 1
+            else:
+                map[time.hour] = 1
+        else:
+            if time.weekday() in map:
+                map[time.weekday()] += 1
+            else:
+                map[time.weekday()] = 1
+        print(map)
+    return map
 
 
 if __name__ == '__main__':
