@@ -6,6 +6,14 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: relative;
+}
+
+#month-select{
+    position: absolute;
+    width:50px;
+    left:40%;
+    top:30px
 }
 #word-cloud{
     width: 45%;
@@ -21,12 +29,21 @@
 }
 
 #right-charts-1{
+    z-index: 10;
     width: 100%;
     height: 50%;
     box-sizing: border-box;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: relative;
+}
+
+#select_time{
+    left: 40%;
+    top:30px;
+    position: absolute;
+    z-index:99
 }
 
 #line{
@@ -34,8 +51,10 @@
     height: 90%;
     border: 1px solid var(--border-color);
     box-shadow: 0 0 2px 2px var(--shadow-color);
+    padding: 10px;
 }
 #article-line{
+    padding:10px;
     width: 45%;
     height: 90%;
     border: 1px solid var(--border-color);
@@ -52,15 +71,26 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: relative;
+    z-index: 10;
+}
+
+#select_time2{
+    position: absolute;
+    right: 5%;
+    top:30px;
+    z-index:99;
 }
 
 #user-word-cloud{
+    padding: 10px;
     width: 35%;
     height: 90%;
     border: 1px solid var(--border-color);
     box-shadow: 0 0 2px 2px var(--shadow-color);
 }
 #user-article-tree{
+    padding: 10px;
     width: 55%;
     height: 90%;
     border: 1px solid var(--border-color);
@@ -77,6 +107,7 @@
 }
 
 #ab-user-line{
+    padding: 10px;
     width: 95%;
     height: 90%;
     border: 1px solid var(--border-color);

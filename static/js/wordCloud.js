@@ -1,3 +1,22 @@
+// 注意
+// 注意
+// 注意
+//
+// 现在词云的月份已经没有用了
+// 目前展示的是全年的关键词词云
+
+var chart_word_cloud;
+var option_word_cloud;
+var cur_type = 1;
+var cur_month = 1;
+
+$(() => {
+            $('#month-select').change(() => {
+                cur_month = $('#month-select').val();
+                updateWordCloud(cur_type,$('#month-select').val());
+            });
+        });
+
 
 function setWordCloud(type,month) {
     $.ajax({
@@ -10,53 +29,19 @@ function setWordCloud(type,month) {
         dataType: "JSON",
         success: function (keywords) {
             console.log(keywords);
-            keywords={
-                "护理": 1129,
-                "治疗": 1041,
-                "应用": 976,
-                "对策": 882,
-                "诊断": 861,
-                "儿童": 818,
-                "综述": 712,
-                "影响因素": 610,
-                "问题": 575,
-                "预后": 574,
-                "大型底栖动物": 494,
-                "现状": 484,
-                "人工智能": 478,
-                "危险因素": 472,
-                "大数据": 459,
-                "指南": 430,
-                "磁共振成像": 419,
-                "并发症": 418,
-                "管理": 409,
-                "糖尿病": 406,
-                "设计": 386,
-                "疗效": 378,
-                "研究进展": 363,
-                "发展": 356,
-                "策略": 352,
-                "分析": 350,
-                "影响": 336,
-                "大学生": 334,
-                "老年人": 328,
-                "生活质量": 324
-            };
             let wcData=Object.keys(keywords).map(function (item,index) {
                 return {name:item,value:Math.sqrt(keywords[item])};
             });
-            let chart_word_cloud = echarts.init(document.getElementById('word-cloud'));
-            let maskImage = new Image();
-            let option_word_cloud = {
+            chart_word_cloud = echarts.init(document.getElementById('word-cloud'));
+            option_word_cloud = {
 
                 series: [ {
                     type: 'wordCloud',
-                    sizeRange: [5, 30],
+                    sizeRange: [5, 40],
                     rotationRange: [0, 0],
                     rotationStep: 45,
                     gridSize: 2,
                     shape: 'pentagon',
-                    //maskImage: maskImage,
                     drawOutOfBound: false,
                     textStyle: {
                         color: function () {
@@ -74,18 +59,37 @@ function setWordCloud(type,month) {
                     },
                     data: wcData.sort(function (a, b) {
                         return b.value  - a.value;
-                    })
+                    }).slice(0,150)
                 } ]
             };
 
-            maskImage.onload = function () {
-                option_word_cloud.series[0].maskImage;
-            };
-            maskImage.src = '../static/resource/logo.png';
-
-            option_word_cloud.series[0]['data']=wcData;
             chart_word_cloud.setOption(option_word_cloud);
         }
     });
 }
-setWordCloud(0,4);
+
+function updateWordCloud(type,month = cur_month){
+    cur_type = type
+    $.ajax({
+        type: "GET",
+        url: 'http://127.0.0.1:5000/wordCloud',
+        data:  {
+            month: month,
+            type: type
+        },
+        dataType: "JSON",
+        success: function (keywords) {
+            console.log(keywords);
+            let wcData=Object.keys(keywords).map(function (item,index) {
+                return {name:item,value:Math.sqrt(keywords[item])};
+            });
+
+            option_word_cloud.series[0].data = wcData.sort(function (a, b) {
+                        return b.value  - a.value;
+                    }).slice(0,150)
+            chart_word_cloud.setOption(option_word_cloud);
+        }
+    });
+}
+setWordCloud(cur_type,1);
+

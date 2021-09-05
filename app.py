@@ -37,8 +37,16 @@ def getwordCloud():
     args = request.args.to_dict()
     month = int(args["month"])
     t = int(args["type"])
-
-    with open(toFileName(t,month), encoding='utf-8') as f:
+    # map = {}
+    # for i in range(1,13):
+    #     with open(toFileName(t,i), encoding='utf-8') as f:
+    #         data = json.load(f)
+    #         for key in data.keys():
+    #             if key in map:
+    #                 map[key] += data[key]
+    #             else:
+    #                 map[key] = data[key]
+    with open(toFileName(t, month), encoding='utf-8') as f:
         data = json.load(f)
     return data
 

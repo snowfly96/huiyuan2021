@@ -29,7 +29,7 @@ function  drawArticleLines() {
 
         title: [{
             left: 'center',
-            text: '《文章下载图》'
+            text: '文章下载图'
         }, {
             top: '55%',
             left: 'center',
