@@ -1,69 +1,149 @@
-function  drawArticleLines() {
-    var chart=echarts.init(document.getElementById('article-line'));
-    var data = [["2000-06-05",116],["2000-06-06",129],["2000-06-07",135],["2000-06-08",86],["2000-06-09",73],["2000-06-10",85],["2000-06-11",73],["2000-06-12",68],["2000-06-13",92],["2000-06-14",130],["2000-06-15",245],["2000-06-16",139],["2000-06-17",115],["2000-06-18",111],["2000-06-19",309],["2000-06-20",206],["2000-06-21",137],["2000-06-22",128],["2000-06-23",85],["2000-06-24",94],["2000-06-25",71],["2000-06-26",106],["2000-06-27",84],["2000-06-28",93],["2000-06-29",85],["2000-06-30",73],["2000-07-01",83],["2000-07-02",125],["2000-07-03",107],["2000-07-04",82],["2000-07-05",44],["2000-07-06",72],["2000-07-07",106],["2000-07-08",107],["2000-07-09",66],["2000-07-10",91],["2000-07-11",92],["2000-07-12",113],["2000-07-13",107],["2000-07-14",131],["2000-07-15",111],["2000-07-16",64],["2000-07-17",69],["2000-07-18",88],["2000-07-19",77],["2000-07-20",83],["2000-07-21",111],["2000-07-22",57],["2000-07-23",55],["2000-07-24",60]];
+var cur_article_line_type = "day";
+var option;
+var chart
+var cur_article = "cqsxyxb202002001"
 
-    var dateList = data.map(function (item) {
-        return item[0];
+$(() => {
+    $('#select_time').change(() => {
+        cur_article_line_type = $('#select_time').val();
+        setArticle(cur_article, cur_article_line_type);
     });
-    var valueList = data.map(function (item) {
-        return item[1];
-    });
-
-    option = {
-        // Make gradient line here
-        visualMap: [{
-            show: false,
-            type: 'continuous',
-            seriesIndex: 0,
-            min: 0,
-            max: 400
-        }, {
-            show: false,
-            type: 'continuous',
-            seriesIndex: 1,
-            dimension: 0,
-            min: 0,
-            max: dateList.length - 1
-        }],
+});
 
 
-        title: [{
-            left: 'center',
-            text: '文章下载图'
-        }, {
-            top: '55%',
-            left: 'center',
-        }],
-        tooltip: {
-            trigger: 'axis'
+function drawArticleLines() {
+    $.ajax({
+        type: "GET",
+        url: 'http://127.0.0.1:5000/get_article_data',
+        data: {
+            article: cur_article,
+            type: cur_article_line_type
         },
-        xAxis: [{
-            data: dateList
-        }, {
-            data: dateList,
-            gridIndex: 1
-        }],
-        yAxis: [{
-        }, {
-            gridIndex: 1
-        }],
-        grid: [{
-            bottom: '60%'
-        }, {
-            top: '60%'
-        }],
-        series: [{
-            type: 'line',
-            showSymbol: false,
-            data: valueList
-        }, {
-            type: 'line',
-            showSymbol: false,
-            data: valueList,
-            xAxisIndex: 1,
-            yAxisIndex: 1
-        }]
-    };
-    chart.setOption(option);
+        dataType: "JSON",
+        success: function (data) {
+            chart = echarts.init(document.getElementById('article-line'));
+            var dateList = [];
+            var valueList = [];
+            if (cur_article_line_type == "day") {
+                dateList = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+                for (let i = 0; i < 7; i++) {
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            } else if (cur_article_line_type == "month") {
+                for (let i = 1; i <= 12; i++) {
+                    dateList.push(i);
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            } else {
+                dateList = ["0-1点", "1-2点", "2-3点", "3-4点", "4-5点", "5-6点", "6-7点", "7-8点", "8-9点", "9-10点", "10-11点", "11-12点", "12-13点", "13-14点", "14-15点", "15-16点", "16-17点", "17-18点", "18-19点", "19-20点", "20-21点", "21-22点", "22-23点", "23-24点"];
+                for (let i = 0; i < 24; i++) {
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            }
+
+            option = {
+                title: {
+                    text: '单篇文章时段折线图'
+                },
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    data: ['浏览', '下载']
+                },
+                grid: {
+                    left: '3%',
+                    right: '4%',
+                    bottom: '3%',
+                    containLabel: true
+                },
+                xAxis: {
+                    boundaryGap: false,
+                    data: dateList
+                },
+                yAxis: {
+                    type: 'value'
+                },
+                series: [
+                    {
+                        name: '浏览',
+                        type: 'line',
+                        data: valueList
+                    },
+                    {
+                        name: '下载',
+                        type: 'line',
+                        data: valueList
+                    }
+                ]
+            };
+            chart.setOption(option);
+        }
+    })
+
 }
+
+function setArticle(article, type = "day") {
+    cur_article = article;
+    $.ajax({
+        type: "GET",
+        url: 'http://127.0.0.1:5000/get_article_data',
+        data: {
+            article: article,
+            type: cur_article_line_type
+        },
+        dataType: "JSON",
+        success: function (data) {
+            var dateList = [];
+            var valueList = [];
+            if (cur_article_line_type == "day") {
+                dateList = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+                for (let i = 0; i < 7; i++) {
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            } else if (cur_article_line_type == "month") {
+                for (let i = 1; i <= 12; i++) {
+                    dateList.push(i);
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            } else {
+                dateList = ["0-1点", "1-2点", "2-3点", "3-4点", "4-5点", "5-6点", "6-7点", "7-8点", "8-9点", "9-10点", "10-11点", "11-12点", "12-13点", "13-14点", "14-15点", "15-16点", "16-17点", "17-18点", "18-19点", "19-20点", "20-21点", "21-22点", "22-23点", "23-24点"];
+                for (let i = 0; i < 24; i++) {
+                    if (data[i]) {
+                        valueList.push(data[i])
+                    } else {
+                        valueList.push(0);
+                    }
+                }
+            }
+
+            option.xAxis.data = dateList;
+            option.series[0].data = valueList;
+            option.series[1].data = valueList;
+
+            chart.setOption(option);
+        }
+    })
+}
+
 drawArticleLines();
