@@ -1,0 +1,6520 @@
+{
+  "下载": [
+    {
+      "id": "jxgys201303009",
+      "title": "云制造环境下中小企业信息化建设思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glxxxt201908013",
+      "title": "学生成绩预测模型中挖掘技术的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxzx201906006",
+      "title": "'算法逻辑'下的数字劳动:一项对平台经济下外卖送餐员的研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hljszfglgbxyxb201706037",
+      "title": "“一带一路”战略下国际商事仲裁机制的优势与制度设想",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzhswdxzhsxzxyxb201904002",
+      "title": "论'一国两制'成功实施的两个必要条件",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsy201829309",
+      "title": "关于港独问题的若干反思",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201615020",
+      "title": "“互联网+”时代下的企业信息化管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb200704006",
+      "title": "弹道修正弹六自由度弹道仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb200403026",
+      "title": "火箭炮射表编拟及发射诸元快速装定研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb200805056",
+      "title": "基于正交试验设计法的弹道参数优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb200703019",
+      "title": "发射装药挤压破碎对燃烧规律的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanddz201908061",
+      "title": "基于诺兰模型的中小企业信息化建设策略分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxyxb200703010",
+      "title": "AE/VTMS二元共聚物的合成研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtfzxb200704040",
+      "title": "气动和结构多学科优化设计过程集成技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zsddkzjs200602025",
+      "title": "靶场外弹道试验弹丸速度测定研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxb200304005",
+      "title": "对比试验法在射表编制中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201606038",
+      "title": "基于EKF的机载光电吊舱目标定位研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh200504009",
+      "title": "弹丸阻力系数辨识模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201918041",
+      "title": "'云会计'在中小企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb200502004",
+      "title": "弹道修正弹末段脉冲推力控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskjxx201925007",
+      "title": "新经济环境下中小企业信息化发展的机遇与挑战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201613053",
+      "title": "云计算在中小企业信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200602191",
+      "title": "气动和结构多学科设计优化的需求和流程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shgcjsdxxb200702020",
+      "title": "我国城市国际化水平比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjsjj200809012",
+      "title": "中小企业信息化的若干问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201207128",
+      "title": "试论面向电子商务的企业信息化网络平台建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjwt201303019",
+      "title": "中小企业信息化建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201212145",
+      "title": "基于中小企业EIP系统的集成信息管理平台总体设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dypj201903023",
+      "title": "国产医疗剧创作问题探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyrj201411064",
+      "title": "基于 MapReduce的并行聚类算法设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jhdxxb-shkx201905001",
+      "title": "回归20年:'一国两制'的'澳门模式'辨析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lhjy-wl201909011",
+      "title": "现场金相检验技术及误判案例分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201901031",
+      "title": "基于百科知识的军事装备知识图谱构建与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201301013",
+      "title": "两栖装甲车辆水上射击位移规律仿真研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201911010",
+      "title": "基于模板边缘的自适应Harris角点检测算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201235057",
+      "title": "中小企业信息化建设模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangssl200504025",
+      "title": "中小企业信息化建设探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jhxk201206039",
+      "title": "中小企业信息化建设模式创新的取向与路径——基于云计算的分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gpxygpfx200306007",
+      "title": "γ射线辐照石英玻璃吸收光谱的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb200305048",
+      "title": "γ射线辐照对电熔石英玻璃介电性质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx2015z1114",
+      "title": "Hadoop平台下Mahout聚类算法的比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbydjs201806009",
+      "title": "干扰信号检测技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbhsdxxb201817045",
+      "title": "香港回归20年一国两制的辉煌",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "njydxyxb-shkxb201404007",
+      "title": "基于企业战略的组织结构调整——以国外电信运营商为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201501001",
+      "title": "工业机器人的技术发展及其应用",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "jcyyy200502023",
+      "title": "机器人关节空间的轨迹规划研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cldb201924030",
+      "title": "复合材料残余应力和固化变形数值模拟及本构模型评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgwy201902011",
+      "title": "金相分析在YG类硬质合金中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgccl201911012",
+      "title": "工艺参数对激光冲击诱导表面残余应力洞的影响规律",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkxyjs201909021",
+      "title": "切削加工表面粗糙度组合预测模型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hjtj201502017",
+      "title": "X射线衍射残余应力测试方法及应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yhclgy201804014",
+      "title": "X射线衍射法测量残余应力的相对误差及不确定度评定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201925038",
+      "title": "基于WBS的研究生招生工作分解",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyy200907052",
+      "title": "基于圆形靶标的数码相机外部参数标定算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzkx201104009",
+      "title": "泡沫灭火剂的发展与应用现状",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201924053",
+      "title": "浅议信息化背景下的中小企业管理创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb200502028",
+      "title": "末段修正迫弹主要参数确定方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201706038",
+      "title": "基于EKF的机载光电吊舱目标定位研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201615088",
+      "title": "中小企业信息化系统建设及综合应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201703025",
+      "title": "采用CAN总线的生产现场监控系统的设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb200707007",
+      "title": "末段修正迫弹激光探测器及目标方位模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxzyglxb201601011",
+      "title": "智能时代中小企业信息化(二)——信息环境、信息化现状与信息化战略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnj201810019",
+      "title": "米勒正时对天然气发动机燃烧工作特性的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "tljsjyy201911007",
+      "title": "基于Kettle的铁路客运营销数据交换平台的设计与实现",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yndxxb-fxb201201026",
+      "title": "QQ号码等虚拟财产归属及流转问题再思考——以电子格式条款的法律规制为视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kzllyyy200302005",
+      "title": "工业机器人时间最优轨迹规划及轨迹控制的理论与实验研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "qzysjx201908028",
+      "title": "基于X射线衍射法的圆筒对接焊缝残余应力测试与分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "gjjs201908004",
+      "title": "基于优化的组合协方差高斯过程的表面粗糙度预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdyth200602001",
+      "title": "全球工业机器人产业现状与趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjyjszb201501014",
+      "title": "基于车辆比赛及测试的辅助装备集成工具车",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201344048",
+      "title": "交通运输类专业实践教学体系的研究与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyfdj201605009",
+      "title": "基于 GT-Power 的天然气发动机爆震分析与研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wjfz201709006",
+      "title": "基于MapReduce的单遍K-means聚类算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "twgztx201901003",
+      "title": "为实现民族伟大兴推进祖国和统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcdxxb-shkx201905005",
+      "title": "论台湾地区军备“国造”问题——兼谈美台安全关系新趋向",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qiaoy201901001",
+      "title": "为实现民族伟大复兴推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话(2019年1月2日)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjglyj200809087",
+      "title": "基于供应链的中小企业信息化策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjgydxxb201006021",
+      "title": "中小企业信息化应用能力的综合评价体系及方法的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201210009",
+      "title": "中小企业信息化软件选型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcjsyyj201605011",
+      "title": "某款混合动力客车动力系统匹配及控制方案设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ylwszb201511010",
+      "title": "单兵防弹衣对穿甲破片的防护效应研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201314021",
+      "title": "中小企业信息化实施成败的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd200914024",
+      "title": "谈中小企业非适度信息化的成因及其防范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201912023",
+      "title": "基于FAST和SURF的特征点快速匹配算法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb200801097",
+      "title": "带电粒子辐照下石英玻璃和镀铝膜反射镜光学性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdyywl201804011",
+      "title": "电子辐照导致CMOS图像传感器性能退化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "henszfglgbxyxb201906003",
+      "title": "“一国两制”实践的回顾与前瞻",
+      "download_times": 10,
+      "browse_times": 9
+    },
+    {
+      "id": "gdxzxyxb201902005",
+      "title": "准确理解和贯彻'一国两制'方针是遏制'港独'的关键",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "kjzx201823133",
+      "title": "分析电磁学在生活中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201905152",
+      "title": "浅析磁悬浮列车的电磁学原理",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hpfsykzxb200403018",
+      "title": "两栖战车浮心测量方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhj201414046",
+      "title": "云计算与中小企业信息化建设模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201203084",
+      "title": "面向中小企业信息化的云服务选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201206070",
+      "title": "中小企业信息化建设探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "htfhyyg200904010",
+      "title": "光学遥感器光电信号处理系统的空间辐射效应研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201912027",
+      "title": "改进的SURF特征快速匹配算法",
+      "download_times": 11,
+      "browse_times": 5
+    },
+    {
+      "id": "xydxxjs201911005",
+      "title": "基于Mahout与Hadoop2.0的聚类实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl201619174",
+      "title": "云南民族教育思考——以德宏州瑞丽市为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg201905084",
+      "title": "电磁学在大型趣味实验中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxxxtyjs201903012",
+      "title": "基于开源数据的军事领域知识图谱构建方法",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtsxytxfx200204013",
+      "title": "金相学和材料显微组织定量分析技术",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zhykzxb201604008",
+      "title": "军事知识图谱构建技术",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "jjs201901004",
+      "title": "我国企业跨国并购财务风险成因及化解对策建议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jckxjs201803017",
+      "title": "柴油引燃缸内直喷天然气发动机燃烧和排放特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cdsygdzkxxxb201504013",
+      "title": "基于GT-Power的发动机配气相位优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjgydxxb201412014",
+      "title": "天然气发动机点火提前角的优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyfdj201202010",
+      "title": "基于GT-Power的天然气发动机动力性能恢复研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdgc200605031",
+      "title": "低能粒子辐照对铝膜反射镜光学性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdn201701003",
+      "title": "基于hadoop和mahout的聚类系统的研究与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcdzgc201906006",
+      "title": "基于知识图谱的军事知识演化技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdtsqbjs201910010",
+      "title": "基于LDA2Vec和残差网络的跨媒体融合方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy201923038",
+      "title": "企业日志数据的交互式可视分析方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjkxyts201905004",
+      "title": "面向多源数据的可扩展主题建模分析框架*",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzsjgc201809005",
+      "title": "基于神经网络算法的大数据分析方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjxb201908006",
+      "title": "支持Unikernel的流式计算引擎:Hummer",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjxtyy201907009",
+      "title": "科技政策库的系统集成与建设",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gyd201910006",
+      "title": "面向配电异构数据的生成对抗式数据增殖技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201706014",
+      "title": "基于AHP的作战实验综合量化评估模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "pxyyj-hbjyxyxb201908013",
+      "title": "基于Spark的分布式大数据并行化聚类方法研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "shanddz201907064",
+      "title": "基于Android平台的校园志愿者APP的设计与开发研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfdk201945206",
+      "title": "面向中小企业信息化建设的ASP服务平台",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200303021",
+      "title": "欧拉方程计算气动力时的粘性修正研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb200803015",
+      "title": "速度追踪制导律制导回路建模及解析分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj201922050",
+      "title": "中小企业预算管理探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjmdk201633038",
+      "title": "基于信息化的中小企业供应链管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200404054",
+      "title": "弹道修正弹追踪制导律研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcjs201512007",
+      "title": "基于GT-Power的EGR率对当量比燃烧的发动机性能影响研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hdsfdxxb201303013",
+      "title": "LDA算法在Mahout下的高效实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggba201703014",
+      "title": "医院大数据的内涵解析及应用现状探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb201804021",
+      "title": "面向海量数据的海情分析技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201910052",
+      "title": "基于ETL-KETTLE模式的苹果产业数据整合",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sztsglt201812009",
+      "title": "基于OWL+SKOS的期刊本体构建与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qygl201804035",
+      "title": "商务智能基于大数据的有效决策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlaqjsyyy201906032",
+      "title": "针对面向多源异构数据的数据集成中间件的设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yznkxjs201002021",
+      "title": "γ辐照对空间用光学玻璃透射率的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjch201911015",
+      "title": "基于SURF特征提取和Brute-Force搜索的图像匹配算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccgcxyxb-shkx201903011",
+      "title": "皖北中小企业内部控制信息化途径探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200501017",
+      "title": "末段修正迫弹脉冲修正方案研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt201910009",
+      "title": "粤港澳大湾区与'一国两制'新探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hongw200509006",
+      "title": "辐照对硅光电二极管可靠性影响的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyjyfz201907002",
+      "title": "共享和私有信息最大化的跨媒体聚类",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb201312020",
+      "title": "面向异构数据分析的形式概念分析扩展模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jckxjs201802018",
+      "title": "基于云计算的海洋综合性试验船大数据处理模式探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njsdxbz201903013",
+      "title": "交互式电力数据可视化与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gddl201808018",
+      "title": "输电线路多源异构数据处理关键技术研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcykx201903005",
+      "title": "面向CPU-GPU异构系统的数据分析负载均衡策略",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sdnrj201601010",
+      "title": "基于DOE的天然气发动机参数优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxydzgc201605032",
+      "title": "几种光学材料γ总剂量辐射效应",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb200705010",
+      "title": "CL-20的催化热分解行为及非等温分解反应动力学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qygl201901039",
+      "title": "世邦:云上的ERP",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200403004",
+      "title": "地空导弹视线指令制导系统目标跟踪装置模型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh200503011",
+      "title": "弹道修正弹丸的脉冲控制参数设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hpfsykzxb200202008",
+      "title": "一种轮式自行火炮水上射击动力学分析的方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jckxjs201011006",
+      "title": "两栖武器水上射击后坐运动规律研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdtsqbjs201910006",
+      "title": "一种适合多元异构图数据管理系统的交互分析框架",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjfz201409017",
+      "title": "基于关系代数的异构关系数据集成研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dsjs201811015",
+      "title": "Hadoop平台下加权马氏距离的Web大数据分析研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdn201601059",
+      "title": "基于Hadoop平台的Canopy算法研究及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjyddxxb-shkxb201203006",
+      "title": "与账号有关的“数字遗产”继承问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shenh201608037",
+      "title": "风尘苦旅 ——读《文化苦旅》有感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsj201312029",
+      "title": "轿车内饰造型设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cadcamyzzyxxh201005018",
+      "title": "NX5在汽车人机工程中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "swxtb201902014",
+      "title": "2018年北京生物学中考对生物学总复习教学的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lkksyj-czb201904025",
+      "title": "基于核心素养的生物中考试题解题技巧例析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201733234",
+      "title": "制造工艺发展现状与未来发展趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbnjh201915013",
+      "title": "先进机械制造技术与机械制造工艺发展现状及趋势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jssj201903005",
+      "title": "太阳能电池用无铅或少铅三维钙钛矿光吸收材料的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kzllyyy200401031",
+      "title": "汽车主动悬挂控制的研究现状和未来挑战",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxyxxh201732048",
+      "title": "汽车仪表板的设计工艺及评价研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqc201905007",
+      "title": "汽车仪表板中控面板设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsxjy-cz201901009",
+      "title": "2018年中考'函数'专题解题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjysddzzz-e201706087",
+      "title": "谈谈初中地理的中考复习",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxkcfd-jxyj201715028",
+      "title": "中考地理的有效复习策略探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201509006",
+      "title": "多孔氧化铝膜的光学特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxlwszz201909006",
+      "title": "灾难心理援助中临床心理工作者胜任力认知与实践的访谈",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hxyjyyy201002010",
+      "title": "1,2,4-噁二唑类化合物的合成及抗菌活性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fxlx201002015",
+      "title": "巡飞器无舵偏情况下的气动数值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzsg200802019",
+      "title": "大型充气膜结构及膜材的发展概述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia201909417",
+      "title": "促进农村剩余劳动力转移确保农村经济全面发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjx200803022",
+      "title": "基于人机工程的汽车座椅设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qddxxb200303017",
+      "title": "汽车EPS动力学模型分析及控制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201806190",
+      "title": "人因工程学在汽车中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzqc201409022",
+      "title": "长城汽车哈弗H6",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glxj201306372",
+      "title": "浅谈汽车新技术的应用与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcypj200217009",
+      "title": "安全带的最新技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxqgy200911061",
+      "title": "汽车外后视镜造型设计解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjzgcxyxb-shkx201304002",
+      "title": "基于人机工程学的轿车驾驶室座椅研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxwyxkx201803004",
+      "title": "心理援助热线求助者自杀企图的特征及相关因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz200305054",
+      "title": "汽车设计人机工程综合评价的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201902113",
+      "title": "基于脑电控制的智能机械臂控制系统研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "njsfdxxb-gcjsb201803005",
+      "title": "基于深度学习监控场景下的多尺度目标 检测算法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hwyjggc201806029",
+      "title": "氧化铝基体3.7μm与4.8μm双波段带通滤光膜研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyjs201902013",
+      "title": "尺度约束辅助的空对地目标智能检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb201915024",
+      "title": "蓝光钙钛矿发光二极管:机遇与挑战",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xjysddzzz-e201829203",
+      "title": "'地图+关键词'的教材中区域地理内容中考复习方法——以新人教版八年级下册地理为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjjyxyxb201803009",
+      "title": "从中考看地理复习教学落脚点——学生的'学'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsxjy-cz201901007",
+      "title": "问渠那得清如许,为有源头活水来 ——2018年中考'方程与不等式'专题解题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsxjy-cz201901006",
+      "title": "化繁为简,大巧不工 ——2018年中考'方程与不等式'专题命题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjj201910035",
+      "title": "农村劳动力资源统筹配置机制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jslgdxxb-sk201904008",
+      "title": "农业机械化、购置补贴扩展与农村劳动力转移——基于全国县级层面时空变化的实证分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201105003",
+      "title": "3,3’-二硝基-4,4’-偶氮氧化呋咱的合成及性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yhxb201101004",
+      "title": "平流层飞艇流固耦合分析方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgaqkxxb200710011",
+      "title": "基于人因的汽车仪表设计及工效学评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzlxxcy201940137",
+      "title": "人性化空间的塑造—汽车内饰发展的新趋势",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "scgyxyxb201206008",
+      "title": "基于AE的两厢轿车室内空间布置设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201942146",
+      "title": "地理思维导图在中考复习中的有效应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcjs200108003",
+      "title": "汽车简式液阻减振器技术的发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tjqc201907007",
+      "title": "基于发泡硬度分布的汽车座椅舒适性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdyy202001123",
+      "title": "正念减压疗法对乳腺癌患者心理状态及睡眠质量的影响",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "zgmzyxzz201918040",
+      "title": "心理护理对焦虑症患者睡眠质量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggckx200111010",
+      "title": "关于柔性航天器动力学模型降阶问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hfgydxxb201411001",
+      "title": "基于人机工程学的轿车车身总布置设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cm201805017",
+      "title": "寻找契机上汽斯柯达明锐旅行版综合油耗测试",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjjdk201635192",
+      "title": "2016年中国塑料加工行业的市场调研及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcjs200402002",
+      "title": "轿车总布置设计中人机工程应用的初步探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxqykj200920031",
+      "title": "仪表板总成布置及人机工程分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjs201809013",
+      "title": "基于可穿戴加速度传感器的机械臂控制系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sykxyjs201803002",
+      "title": "基于Leap Motion的仿生机械臂交互控制系统研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yjyxs201809011",
+      "title": "基于深度学习的航空对地小目标检测",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mlzg201945545",
+      "title": "青少年'御宅族'的社会现象与介入研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wfjyxyxb201902021",
+      "title": "自媒体言论自由的法律思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs201920006",
+      "title": "纳米粒子治疗心肌梗死的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjc201911027",
+      "title": "EtherCAT姿态监测从站的设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jdjs201906021",
+      "title": "基于DSP和LabVIEW的车辆远程驾驶系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkx201706063",
+      "title": "机械制造工艺发展现状与未来发展趋势研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ncsyjs201911012",
+      "title": "我国农业劳动力需求的长期均衡与短期动态",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsxjy-cz201901003",
+      "title": "2018年中考试题评价报告",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201915142",
+      "title": "深度学习和深度强化学习综述",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "dc2002z1002",
+      "title": "锂离子电池正极材料的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wlxb201915029",
+      "title": "扭曲二维结构钝化的钙钛矿太阳能电池",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxszsd-cz201903011",
+      "title": "掌握有效做题技巧,轻松突破中考地理题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "etdsj-x201804108",
+      "title": "地理中考复习策略浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl2004z1020",
+      "title": "3,3′-二氨基-4,4′-偶氮呋咱及其氧化偶氮呋咱的合成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjtk200801009",
+      "title": "可展开航天器的充气系统分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnlgdxxb201007024",
+      "title": "预应力薄膜充气梁模态的分析方法及特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syjsysyj201903039",
+      "title": "基于台架试验的座椅动态舒适性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shgcjsdxxb201604007",
+      "title": "FSC赛车驾驶室的人机工程适应性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxlwszz201610011",
+      "title": "911恐怖袭击后的心理危机干预",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jkxlxzz201906038",
+      "title": "失独家庭心理健康及心理援助研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxlwszz201507010",
+      "title": "北京心理援助热线来电者自杀未遂的相关因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sjjbyjsws201907009",
+      "title": "河北省2 853例心理援助热线求助者的人口学特征及来电需求分析",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "bjlgdxxb200712021",
+      "title": "太阳光泵浦固体激光器的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjxtyy201911002",
+      "title": "生成对抗网络研究综述",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "lxxb201901001",
+      "title": "大型柔性航天器动力学与振动控制研究进展",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zjgydxxb200202010",
+      "title": "柔性航天器的模态综合-混合坐标动力学建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201507045",
+      "title": "基于人机工程的客车驾驶员坐姿舒适性校核与评估",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qclbj201511004",
+      "title": "安全带佩戴舒适性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcgcxb201205001",
+      "title": "汽车人机交互界面设计研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bjqc200103003",
+      "title": "轿车驾驶室计算机辅助设计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201717160",
+      "title": "浅析人机工程在轿车仪表板设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201406055",
+      "title": "人机工程学下轿车座椅舒适尺度设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfzsjytxxxb201907015",
+      "title": "结合DBSCAN聚类的室内场景分割",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201908002",
+      "title": "起爆方式对定向多爆炸成型弹丸成型性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcjs200811011",
+      "title": "基于Ramsis的微型汽车驾驶员舒适性分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hongw201908003",
+      "title": "3.7～4.8μm中红外带通滤光膜研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgysybzyj200902001",
+      "title": "高动态范围图像显示技术综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxxb199903008",
+      "title": "纳米尺寸氧化铝的红外光谱研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz201909173",
+      "title": "剖析'御宅文化'——ACG爱好者群体画像及产业分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs200405011",
+      "title": "人体尺寸在汽车设计中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyzhly201804028",
+      "title": "我国废旧塑料的废物再利用现状以及未来趋势",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jslgdxxb200205014",
+      "title": "电动助力转向系统及系统模型分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngyxyxb201705015",
+      "title": "显示面板对驾驶员视觉舒适性的布置设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qckj200106005",
+      "title": "汽车座椅系统动态舒适性的研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zbzzjs201509003",
+      "title": "基于微分博弈的多机器人追逃策略研究及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahdzxxzyjsxyxb201904026",
+      "title": "恐惧管理理论视角下灾害社会工作对心理援助的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jtyy201912379",
+      "title": "肿瘤患者放疗后心理和睡眠障碍影响因素分析及护理",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hgjz201301022",
+      "title": "锂离子电池聚合物正极材料研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngcxyxb-skb200902031",
+      "title": "轿车仪表人性化设计的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb200823103",
+      "title": "操纵装置设计的人机工程问题初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yskj201905155",
+      "title": "基于用户体验的智能车载后视镜界面设计研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zxkcfd-jxyj201926027",
+      "title": "用好三张卷,复习提分段 ——浅谈初中地理中考复习策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjl201927214",
+      "title": "初中地理中考备考的复习方法探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxlwszz201204008",
+      "title": "心理危机干预热线来电者的特征及咨询内容",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201837108",
+      "title": "地理中考复习课的策略与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cczl201731028",
+      "title": "论提高地理中考复习有效性的策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wy-zxb201901450",
+      "title": "中考背景下初中地理复习课的优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyx-x201834190",
+      "title": "浅析初中生物中考复习策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcaqyjn201804003",
+      "title": "集成主动预紧式安全带的乘员可接受度与优化措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jdcpkfycx200801011",
+      "title": "汽车驾驶座椅的人机工程学设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shqc201512011",
+      "title": "汽车外后视镜镜片尺寸及位置设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qclbj201409014",
+      "title": "安全带固定点位置对乘员损伤及舒适性仿真分析与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqc201304005",
+      "title": "基于CATIA软件的汽车后视镜校核",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsxjy-cz201901004",
+      "title": "2018年中考'数与式'专题命题分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsxjy-cz201901005",
+      "title": "夯实数与式轻松来中考 ——2018年中考'数与式'专题解题分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "llj201908007",
+      "title": "'拐点'之际的农业劳动力深层次转移思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "crjy201809015",
+      "title": "基于新生代农民工职业能力的农业培训供给机制探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gznykx201908035",
+      "title": "浙江农村剩余劳动力转移的驱动因素与变化趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yckj200710009",
+      "title": "卷烟烟丝中游离态氨基酸的主成分分析和聚类分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201403002",
+      "title": "几种呋咱类含能化合物的合成、热行为及理论爆轰性能预估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjjsjbzz201708006",
+      "title": "厦门心理援助热线重复来电求助者的特征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "yhxb200701024",
+      "title": "可变构型复合柔性结构航天器动力学建模研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201406004",
+      "title": "轿车典型驾驶室人机工程设计与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgtsjy201911014",
+      "title": "睡眠质量与大学生心理健康的关系:一个有中介的调节模型",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "jkys201922121",
+      "title": "心理护理联合认知行为干预改善老年患者睡眠障碍的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yycyzx201934015",
+      "title": "表面修饰糖类化合物的纳米粒子主动靶向肿瘤的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "txt201905016",
+      "title": "聚氨酯/纳米粒子复合材料的研究进展 *",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "tjqc201606004",
+      "title": "汽车驾驶员视野拓展系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glyqy201802002",
+      "title": "基于整车布置的安全带舒适性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "asgtxyxb200405013",
+      "title": "汽车座椅的设计与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201804038",
+      "title": "基于人机工程学的汽车设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjxxb200705005",
+      "title": "基于知识工程的车内布置可视化系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyaqyfc200502019",
+      "title": "基于人机工程学的驾驶疲劳模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzlxxcy201940137",
+      "title": "人性化空间的塑造—汽车内饰发展的新趋势",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zxqykj201601029",
+      "title": "基于RAMSIS的某车型驾驶员安全带人机舒适性分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcyjswx-wxb201907028",
+      "title": "乘用车安全带舒适性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gygc201205010",
+      "title": "基于人机工程的汽车设计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yskj201808138",
+      "title": "'御宅族'文化对商业插画的影响和推动",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gpsys200703018",
+      "title": "α型氧化铝的微观结构对红外光谱图的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zbzzjs201001023",
+      "title": "小型汽车外后视镜的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "msjyyj201415036",
+      "title": "谈谈汽车产品的人性化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201106037",
+      "title": "基于人机工程的汽车组合仪表设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201918024",
+      "title": "农村劳动力流动对农村经济的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2016113510",
+      "title": "航天器动力学与控制的研究进展与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjsj-xby201608004",
+      "title": "雷达散射截面积研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nhcl201906019",
+      "title": "镧系钙钛矿型红外辐射陶瓷材料的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kszk201763129",
+      "title": "初中地理教学及中考复习策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxszsd-cz201904012",
+      "title": "初中地理图表题常见形式及读图攻略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzzzbyjs201906011",
+      "title": "热固性酚醛树脂在铸造3D打印砂型中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx200923347",
+      "title": "锂离子电池的工作原理及其主要材料",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "swxjx201912023",
+      "title": "以学科核心素养立意的中考生物学试题解析及备考策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjg201004007",
+      "title": "ETFE气囊膜结构设计分析方法与数值分析特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201927013",
+      "title": "青海省农村富余劳动力转移就业问题研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jmlyjsycp201816105",
+      "title": "机械制造工艺发展现状与未来发展趋势分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqc201207033",
+      "title": "轿车脚踏板布置要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201902047",
+      "title": "汽车设计脚踏板布置理念",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zbzzjs200503017",
+      "title": "人机工程在汽车总布置设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxqykj201604028",
+      "title": "基于某车型外后视镜眩光分析及优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzzgc200105006",
+      "title": "驾驶疲劳与汽车人机工程学初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzzjsyzb201605025",
+      "title": "轿车车身安全带固定点设计优化问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcypj201336017",
+      "title": "汽车外饰零部件材料的选择与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201504008",
+      "title": "外后视镜造型及布置的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hfgydxxb201106016",
+      "title": "薄膜充气梁有限元分析方法与结构特性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201712011",
+      "title": "飞艇主气囊结构湿模态分析与试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb201104002",
+      "title": "平流层验证飞艇结构体系比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201402238",
+      "title": "论机械制造工艺发展现状与未来发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zbzzjs201507089",
+      "title": "机械制造工艺发展现状与未来发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hblgxyxb201804013",
+      "title": "基于Workbench某V12发动机曲轴有限元模态对比分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnj201710007",
+      "title": "基于Workbench的某V6柴油机曲轴有限元分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hpfsykzxb200902022",
+      "title": "对某试验装置膛炸故障分析与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bkltdzzz2019090453",
+      "title": "基于双目视觉的目标识别与定位研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jx201908005",
+      "title": "基于二维图像的三维重建技术研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyjggc201807006",
+      "title": "基于改进SSD的轻量化小目标检测算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fgxb201912009",
+      "title": "1J高光束质量免水冷脉冲Nd:YAG激光器",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnz201909041",
+      "title": "新疆葡萄酒产业价值链优化策略研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jyyxylc201922051",
+      "title": "一起亚硝酸盐食物中毒事件的调查分析",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "fhdd200601016",
+      "title": "含铝炸药爆轰特性研究现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlgdxxb201203001",
+      "title": "含铝炸药水下爆炸特性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201908008",
+      "title": "两种DNAN基含铝炸药的爆轰性能",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zxyjhxxgbdzzz201734132",
+      "title": "研究枸杞子对小鼠抗缺氧抗疲劳能力的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lsyyz201810011",
+      "title": "枸杞大豆多肽复配运动饮料的研制及其对大鼠抗疲劳功能的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "slgy201909035",
+      "title": "石墨烯/碳纳米管协同增强再生纤维素复合薄膜的导热性能研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201824028",
+      "title": "高能钝感推进剂配方改性的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxjs200303033",
+      "title": "一种红外热像文件及其图像的处理方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201703064",
+      "title": "缓冲区溢出漏洞攻击及其对策探析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "rjgcs201709009",
+      "title": "Windows栈缓冲区溢出攻击原理及其防范",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201922069",
+      "title": "精益生产背景下的制造业大型国有企业改革策略研究 ——以沈阳市M公司为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201703025",
+      "title": "轨道车辆制造企业准时化生产物流配送研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nbzyjsxyxb201702020",
+      "title": "基于准时制(JIT)生产模式的库存管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qywh-x201903236",
+      "title": "基于准时制的生产管控模式探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjzh201819096",
+      "title": "准时化(JIT)生产模式在汽车制造领域的应用及生产方式的基本条件探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mkjx201710066",
+      "title": "生产辅助工具准时配送制管理及实现方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl201809032",
+      "title": "水下传感器组网拓扑结构研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjtxyxb201902010",
+      "title": "基于VGT的二级可调增压系统 调节特性试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjstx98201011015",
+      "title": "切削SiC增强铝基复合材料时刀具的磨损形态及机理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjjs201701002",
+      "title": "碳化硅增强铝基复合材料切削加工研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs201107033",
+      "title": "高超声速飞行器自抗扰姿态控制器设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qygl201911037",
+      "title": "中国企业志愿服务发展趋势探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddqnyj201906006",
+      "title": "青年志愿组织资本积累的三种机制",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "bjlgdxxb200706007",
+      "title": "二级增压系统压气机性能试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dqcd201902008",
+      "title": "图像处理在机械手视觉定位控制中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgjsxb201911018",
+      "title": "基于PROSAC算法与ORB-SLAM2的RGB-D相机室内视觉定位研究",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "kjhcy201911028",
+      "title": "基于图像处理和位姿误差修正的机械手视觉定位研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dhdwyss201904001",
+      "title": "地面无人平台视觉导航定位技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201910105",
+      "title": "谈提升职业院校青年教师教学能力的路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddqnyj201906005",
+      "title": "大学生志愿者志愿行为可持续性研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkx-ce200202010",
+      "title": "非线性系统的变论域稳定自适应模糊控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kzllyyy200703015",
+      "title": "滑模变结构控制理论及其算法研究与进展",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "xxy-s201111037",
+      "title": "谈病毒之特洛伊木马",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "gzhg200903028",
+      "title": "两步法甲醇脱水合成二甲醚技术研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czszxb201003036",
+      "title": "MIT——创业型大学的发展经验及其启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyfdj200704018",
+      "title": "径流式二级增压系统的喘振分析与试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb-tkzjc200702001",
+      "title": "二级增压系统压比分配试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs201906039",
+      "title": "基于视觉传感器的移动机器人定位算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201907004",
+      "title": "目标检测网络在无人机视觉定位的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cyykjlt201918025",
+      "title": "视觉坐标测量中像点质心定位方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjczzxt201908015",
+      "title": "基于RGB-D图像的机器人无标定视觉定位",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggyjj200602001",
+      "title": "国家高新区阶段转换的界面障碍及破解思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201835194",
+      "title": "准时制生产企业与物流企业共生机理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjc201704244",
+      "title": "准时化生产在我国制造企业的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb201910021",
+      "title": "城市老年人微信使用与主观幸福感的关系研究——以N市为例",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "kcjyyj-xjsjx201511028",
+      "title": "关于幼儿不良饮食习惯的教育研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "qbq200910003",
+      "title": "独步全球的'艾布拉姆斯杀手'——俄罗斯RPG-30反坦克火箭筒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbq200521003",
+      "title": "欲与导弹试比高--单兵反坦克火箭筒新发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zsddkzjs200403004",
+      "title": "基于自适应控制理论的自动驾驶仪设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdhyy201810029",
+      "title": "智能巡检机器人在综合管廊智慧运维管理中的研究与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "niangjkj201912027",
+      "title": "体验式葡萄酒旅游产业带形成演化的影响因素研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hggl201403172",
+      "title": "二甲醚工艺生产及其产业发展展望",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hnhg200912005",
+      "title": "二甲醚生产工艺及市场前景",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgzjt201807086",
+      "title": "甲醇双塔精馏与三塔精馏对比分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzhg201217011",
+      "title": "二甲醚生产工艺技术路线进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lchlyyzz201912049",
+      "title": "人参及其炮制品对小鼠耐缺氧和抗疲劳能力的作用分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jysjyyj201419027",
+      "title": "关于幼儿健康饮食的几点建议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201612179",
+      "title": "浅谈饮食护理对早期糖尿病肾病患者影响体会",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ysbjzn-x201743071",
+      "title": "中医饮食护理干预对早期糖尿病肾病的效果分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjwh201808174",
+      "title": "中医饮食护理干预对早期糖尿病肾病的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxzx201933036",
+      "title": "人教版和部编版初中语文教材助读系统比较分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcb201509016",
+      "title": "微博与微信的比较分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej201409010",
+      "title": "浅谈自然交互的儿童示教玩具设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxglkf200701006",
+      "title": "未来坦克装甲车辆技术的发展趋势",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "qbq200504015",
+      "title": "伊朗展示最新RPG-7火箭筒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb200702006",
+      "title": "对发射装药引起膛炸机理的讨论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdch201601005",
+      "title": "一种基于双目视觉的三维重建方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdcpkfycx201906002",
+      "title": "基于双目视觉的工件空间定位方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrxxck201824023",
+      "title": "双货币并行能否拯救委内瑞拉?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201511003",
+      "title": "二级可调增压柴油机高海拔模拟试验平台及平台验证",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsjgc201923040",
+      "title": "基于视觉SLAM的拾取目标定位方法研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cyykjlt201605123",
+      "title": "服务外包园区呼叫中心行业人才建设问题研究--以重庆永川软件与信息产业园为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsysc201905068",
+      "title": "浅谈对短应力线轧机辊缝调整装置的改进及影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjfz201912016",
+      "title": "基于卷积神经网络的目标检测模型综述",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb200103005",
+      "title": "含铝炸药圆筒试验及爆轰产物JWL状态方程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bzycj199903014",
+      "title": "含铝炸药爆轰产物JWL状态方程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytctyy201802009",
+      "title": "基于抗疲劳及耐缺氧活性的人参枸杞提取物补肾壮阳作用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yinsbj201721468",
+      "title": "人参抗疲劳活性成分研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ywknw201930136",
+      "title": "以插图为例,谈苏教版高中语文必修教材助读系统的使用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201507019",
+      "title": "含能增塑剂DAMNP的合成与性能",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jcjx201906009",
+      "title": "曾小亮副研究员团队利用三维石墨烯微球作为填料 来提高聚合物的导热性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201302011",
+      "title": "不同增塑剂含量对含铝炸药环境适应性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201605009",
+      "title": "中性高分子键合剂在含能增塑剂/粘合剂预聚物中相分离的介观模拟",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xyjsclygc201312008",
+      "title": "AIMg/KMnO4高活性铝热剂的点火和燃烧性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhgkzz98201404018",
+      "title": "内倾型后踝骨折的诊断与治疗",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj201918111",
+      "title": "基于机器人的管廊环境监测系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201923014",
+      "title": "准时制生产(JIT)在焦炭检验管理中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xjsxgy201808008",
+      "title": "基于准时制生产模式的飞机制造企业生产可视化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201707040",
+      "title": "双目立体视觉下的计算机的三维重建方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbq201601010",
+      "title": "美国披露精确打击式PSRL火箭筒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb200916012",
+      "title": "计算机特洛伊木马病毒的攻击与清除",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wjygy201802018",
+      "title": "ZSM-23/活性氧化铝复合催化剂在甲醇脱水反应中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynjr201809018",
+      "title": "委内瑞拉缘何实施双货币并行政策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjhkgcxyxb200206002",
+      "title": "导弹控制系统设计方法综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qzdk201909070",
+      "title": "不可忽视的本科毕业论文开题报告",
+      "download_times": 28,
+      "browse_times": 75
+    },
+    {
+      "id": "qbq201702014",
+      "title": "萨博公司成功完成卡尔·古斯塔夫M4火箭筒实弹射击演示",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gjjs201712011",
+      "title": "PCD刀具高速铣削高体积分数SiCp/Al复合材料的表面粗糙度研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "txt200502009",
+      "title": "利用粘弹性阻尼结构研究聚氨酯的阻尼性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcdzgc201904020",
+      "title": "缓冲区溢出攻击研究",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgkzz98201722005",
+      "title": "螺钉与钢板固定骨质疏松患者后踝骨折在模拟正常步态周期中的生物力学研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdhxb200003009",
+      "title": "PID参数先进整定方法综述",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj201911119",
+      "title": "基于大数据的网络安全态势感知",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy201924001",
+      "title": "网络安全态势感知研究综述",
+      "download_times": 13,
+      "browse_times": 5
+    },
+    {
+      "id": "zzgydxxb201601005",
+      "title": "基于发育网络的复杂背景下人脸识别",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjsyzdh201902025",
+      "title": "平行双目视觉系统的定位误差补偿",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jgjs201905020",
+      "title": "无人机自主降落过程视觉定位方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxwlxyxb201611001",
+      "title": "MIT：世界上第一所成功的创业型大学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgqkyx201504023",
+      "title": "手测量法则食物交换份法在社区2型糖尿病患者饮食指导中的应用效果研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ysbjzn-x201835194",
+      "title": "糖尿病肾病早期患者的饮食护理干预效果分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysbjzn-x201933177",
+      "title": "低脂饮食护理干预对早期糖尿病肾病患者疾病控制效果的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201847290",
+      "title": "中医饮食护理干预对早期糖尿病肾病的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gngfzxb200001019",
+      "title": "聚氨酯/乙烯基酯树脂互穿聚合物网络阻尼性能的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zbjsytg201709011",
+      "title": "我国蝗虫灾害可持续治理成效与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxgcjsybzh201906018",
+      "title": "5G远程医疗的探索与实践",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgnz201911041",
+      "title": "山东省葡萄酒产业现状及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "niangjkj201911029",
+      "title": "长城葡萄酒企业营销渠道的成本管理",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "rmlt201935033",
+      "title": "做好物联网时代的信息安全法律保护",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201206024",
+      "title": "含铝炸药爆炸能量预估",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bp201901008",
+      "title": "含铝炸药爆轰产物JWL状态方程参数的预估方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh200704014",
+      "title": "爆炸洞内废旧弹药破片质量分布研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201902010",
+      "title": "含能增塑剂一缩二甘油四硝酸酯的基本性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201901004",
+      "title": "三叠氮新戊醇乙酸酯的合成、表征与性能研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gdjssfxyxb201510025",
+      "title": "高职公共管理类人才培养与区域产业深度融合的路径探究——以广东行政职业学院为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxgbdsdxxb201906013",
+      "title": "以实践技能为导向的 《社区管理》教学模式改革研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lzzyjsxyxb201603029",
+      "title": "应用型本科公共管理类专业人才培养的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtzh201101012",
+      "title": "三种二甲醚生产系统的流程模拟和3E评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlyhg200803021",
+      "title": "二甲醚生产工艺技术的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lqjx201403045",
+      "title": "基本RS触发器电路分析教学探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201802004",
+      "title": "含能增塑剂2,3-二羟甲基-2,3-二硝基-1,4-丁二醇四苯甲酸酯的合成及表征",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "tjhg201105006",
+      "title": "含铝典型炸药爆轰参数计算研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201201011",
+      "title": "Al粉对含铝炸药爆轰性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlaqjsyyy200801010",
+      "title": "特洛伊木马病毒的隐藏技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskjxx201320033",
+      "title": "浅析特洛伊木马病毒",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgfyy201912027",
+      "title": "人参皂苷单体的抗疲劳作用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "njzyydxxb201905005",
+      "title": "人参中活性组分与肠道菌群的互动调控研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djykzxb201705013",
+      "title": "多水下机器人编队的组网通信方法研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qbq200913004",
+      "title": "来自俄罗斯的约旦新铁拳——RPG-32火箭筒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgsfdxxb-jykx201011028",
+      "title": "公共事业管理专业应用型本科人才培养途径研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzjy201812015",
+      "title": "基于'双创型'人才培养的西藏高校公共管理类专业课程教学改革研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxjy201901001",
+      "title": "'后MOOC时代'中医药高校公共管理学科教师能力素质研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkj201912015",
+      "title": "基于单目视觉的工件定位技术研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcmkhj201308084",
+      "title": "当今微博谣言分类及影响谣言传播效果的关键指标研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fhdd200909019",
+      "title": "导弹自动驾驶仪设计方法综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggys201807006",
+      "title": "CAR-T细胞治疗产品中复制型病毒的风险分析及控制",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc202003111",
+      "title": "物联网发展应用浅析",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "gncl201513026",
+      "title": "Mn掺杂TiO2负载竹质活性炭纤维的制备及可见光光催化性能研究?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201917032",
+      "title": "二级增压柴油机高海拔模拟试验系统及方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gych200910003",
+      "title": "二甲醚生产工艺及其催化剂研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnhg201611011",
+      "title": "甲醇气相脱水制二甲醚生产工艺的节能优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txxb200201010",
+      "title": "一种全CMOS工艺吉比特以太网串并-并串转换电路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjtb200606028",
+      "title": "传统CMOS到绝热CMOS接口电路的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjc201901035",
+      "title": "双目视觉引导机器人定位抓取技术的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcsjs201812021",
+      "title": "基于手眼系统的视觉定位研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjcyj201905022",
+      "title": "基于视觉测量的舰载机空间定位方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysxyjssxxb201701009",
+      "title": "压差方程Chapman-Jouguet燃烧模型爆轰波与激波的相互作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyy201404044",
+      "title": "基于两阶段投票的小样本目标检测方法",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "bfjm201405145",
+      "title": "公共安全管理专业“双师型”教师队伍建设刍议——针对高职院校",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jkr201113071",
+      "title": "糖尿病肾病早期饮食护理干预",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bpqc201905009",
+      "title": "AP对RDX基含铝炸药爆轰性能影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201706003",
+      "title": "含能增塑剂BDNPF/A与几种高能炸药相容性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201711040",
+      "title": "齐聚物含能增塑剂的合成研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxyxxh201911097",
+      "title": "基于Mask R-CNN的自动驾驶目标检测分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "qbq200209012",
+      "title": "征尘漫漫 --RPG-7式火箭筒履历",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjcb201915073",
+      "title": "巡检机器人在城市综合管廊中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjcdl201204069",
+      "title": "基于65nm CMOS工艺的高速串并转换电路设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jryjj201912009",
+      "title": "人口红利转变下'老龄金融'的发展趋势及路径研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsj200802003",
+      "title": "二甲醚生产工艺概述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnyzyyqh201910024",
+      "title": "葡萄酒产业纵向协作模式农户选择影响因素 ——以河西走廊葡萄酒产区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxglyjyyj201620007",
+      "title": "转型期公共事业管理专业人才培养的困境与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzlxxcy201908144",
+      "title": "机器人技术在烹饪智能化中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gg201404009",
+      "title": "连轧管机辊缝调整机构设计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj201812153",
+      "title": "基于双目视觉的三维重建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201712072",
+      "title": "国内蝗虫防治研究现状",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jyz201610138",
+      "title": "浅议社交网络的分析工具——以新浪微博、微信为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywjs201507024",
+      "title": "《美国语文》教材编写启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs200308005",
+      "title": "SiC颗粒增强铝基复合材料高速铣削实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbgydxxb201901002",
+      "title": "全翼布局太阳能无人机滑跑特性分析与控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcysj201904038",
+      "title": "基于YOLOv3的自动驾驶中运动目标检测",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dsjs201805023",
+      "title": "基于YOLOv2的复杂场景下车辆目标检测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdkjyc201803006",
+      "title": "自动驾驶场景下小且密集的交通标志检测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg201922028",
+      "title": "儿童实体交互玩具设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mysd-s201910035",
+      "title": "基于知识图谱的交互式智能儿童玩具设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kwyw201910046",
+      "title": "苏教版中学语文教材和《美国语文》助读系统比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlgxyxb201506015",
+      "title": "双目立体视觉三维重建技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjc201912031",
+      "title": "基于机器视觉的机器人工件定位系统",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "wjzl200917044",
+      "title": "甲午海战失败的原因及其启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxydzgc202001002",
+      "title": "122GHz毫米波在管状结构内的传输特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtxtxxb-a201201001",
+      "title": "压缩感知基本理论:回顾与展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdhxb201408002",
+      "title": "压缩感知及其图像处理应用研究进展与展望",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgmtjjxyxb201404005",
+      "title": "山东省经济增长中的产业结构变迁及变化趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdspkj201902009",
+      "title": "吡罗昔康-d3的合成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx201912036",
+      "title": "反馈机制的实体及关系联合抽取方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201830119",
+      "title": "近几年来人民币升值对中国经济的影响分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hjtj200501001",
+      "title": "微型推进系统技术方案研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201701003",
+      "title": "新能源汽车轻量化途径及其评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjj201935057",
+      "title": "关于工业园区绿色创新系统的构建与机制分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyy201714020",
+      "title": "大小调相互渗透为创作提供色彩和声",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyy201911048",
+      "title": "钢琴即兴伴奏中的和声运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dsjs201609001",
+      "title": "超分辨率重建算法综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201302011",
+      "title": "含硼富燃料推进剂一次燃烧产物组分的计算研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201818075",
+      "title": "浅谈如何加强企业应收账款管理",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn201916162",
+      "title": "纪委监察工作在企业管理中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjyj202003003",
+      "title": "纪委参与改善了国有企业监事会的治理效率吗? —基于代理成本视角的考察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjbzhyzlgl201912028",
+      "title": "纯电动客车驱动电机系统的匹配设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hqsgkj201326099",
+      "title": "现代雷达抗干扰技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxdb-kxjy201506082",
+      "title": "现代和声（和弦）的运用及其色彩分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "szyxsj202003001",
+      "title": "5G中的编码调制与多址技术(续)",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zwxxxb201909010",
+      "title": "结合注意力机制与双向LSTM的中文事件检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjhkgcxyxb201705013",
+      "title": "小型太阳能无人机超大展弦比轻质主梁设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jcdzgc201904020",
+      "title": "缓冲区溢出攻击研究",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "ydsjjs201607010",
+      "title": "面向5G的高速基带数字调制技术应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201806272",
+      "title": "面向5G的非正交多址接入技术(NOMA)浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxkx201907004",
+      "title": "面向5G的非正交多址接入技术",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "spyzl201843085",
+      "title": "设备功能组在国际先进工作管理流程中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hdjjgl201210024",
+      "title": "绿色管理、企业形象与竞争优势关联性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjjs200805012",
+      "title": "尾喷管构型对类乘波飞行器性能影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hdjjgl201511014",
+      "title": "我国节能减排政策目标的有效性分析--基于1052条节能减排政策的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "htqhjgc201906004",
+      "title": "火星探测器全任务期空间环境特征与防护要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201619010",
+      "title": "基于3D slicer的医学影像分割算法及其应用研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgqkyx201936009",
+      "title": "不同年龄阶段重度阻塞性睡眠呼吸暂停低通气综合征患者睡眠脑电波特征研究",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "zdhbl201709030",
+      "title": "边缘计算实验平台推介——智慧安监边缘计算实验平台",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201904042",
+      "title": "固体复合推进剂TNT当量计算及其可视化软件开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201808043",
+      "title": "汽车轻量化评价方法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjxx201904048",
+      "title": "车载多旋翼无人机充电装置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjgcs201709009",
+      "title": "Windows栈缓冲区溢出攻击原理及其防范",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201710038",
+      "title": "面向5G的FQAM调制技术应用研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hebsfdxzrkxxb201306013",
+      "title": "缓冲区溢出攻击原理分析与防范方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dsjs200812005",
+      "title": "压缩感知理论简介",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxdnyy200207020",
+      "title": "个人电脑“特洛伊木马”病毒的防范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb200916012",
+      "title": "计算机特洛伊木马病毒的攻击与清除",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201908211",
+      "title": "从严治党清风护'芯' ——打造合资企业新型纪检监察业务模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj202001011",
+      "title": "无人机航母系统的构建与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj201806051",
+      "title": "国内外观光巴士发展模式经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rkx201612023",
+      "title": "工业企业节能行为与节能投资影响因素研究——以能源工业基地山西为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201713034",
+      "title": "基于计划行为理论的企业节能减排驱动力研究——以淮安市工业企业为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzdxxb-shkxb201705001",
+      "title": "试论专责监督体系的构建与'两个责任'的基层落实",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201931006",
+      "title": "论扩大内需对我国经济发展的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wrxtjs201901002",
+      "title": "人工智能与'星际争霸':多智能体博弈研究新进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yysk201919027",
+      "title": "调性和声的逻辑性特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxtjjygfzcl201105012",
+      "title": "B-GAP对复合固体推进剂能量性能影响理论研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb201701030",
+      "title": "多通道同步数据采集的大当量爆炸场参数光电测试系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc200906006",
+      "title": "闪光X射线技术在爆炸过程中的成像应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "txjs201705031",
+      "title": "5G时代车联网安全和隐私问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szyxsj202002002",
+      "title": "5G中的编码调制与多址技术",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjkxyts202002001",
+      "title": "图像超分辨率技术的回顾与展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xajtdxxb201805015",
+      "title": "加入用户对项目属性偏好的奇异值分解推荐算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wysh-whyy201912051",
+      "title": "谈民族乐队中管乐器组的和声",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qnyshh201112008",
+      "title": "邓小平的豁达人生观——从他的“三落三起”谈起",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdgs201508019",
+      "title": "接我云班车：成为拼车大巴“霸主”，总共分几步？",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxxxgwk201709003",
+      "title": "术中发现胸膜转移扩散的非小细胞肺癌外科手术治疗效果",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "szyxsj202002002",
+      "title": "5G中的编码调制与多址技术",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyyzy-geb201609079",
+      "title": "浅谈'裱糊匠'李鸿章",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djxk201904009",
+      "title": "论李鸿章对朝全面干涉政策的大背景和直接动因",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dnm201417043",
+      "title": "缓冲区溢出攻击与防御的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc201308045",
+      "title": "缓冲区溢出攻击的原理和防范技术分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxtxjs201904007",
+      "title": "5G时代大容量光接入网的安全技术",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201921002",
+      "title": "面向5G的毫米波D2D通信技术综述",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsjtx201703064",
+      "title": "缓冲区溢出漏洞攻击及其对策探析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201916161",
+      "title": "浅谈5G非正交多址接入中干扰消除技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxtxjs201703003",
+      "title": "毫米波大规模MIMO无线传输关键技术",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dxkx201606002",
+      "title": "面向5G应用的OQAM-OFDM调制:原理、技术和挑战",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb-tkzjc201603006",
+      "title": "车用轮毂电机多物理场耦合分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jkxlxzz201607038",
+      "title": "西安市成年人的情绪状态和睡眠质量及其关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjsd202002012",
+      "title": "基于shellcode分析缓冲区溢出攻击",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txjs201912032",
+      "title": "基于BiLSTM和Attention的命令序列检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201806259",
+      "title": "小型太阳能无人机技术特点及设计要点分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcpkkxyhjsy201904020",
+      "title": "无氰电镀银工艺国内外研究现状及存在的主要问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdjs201706002",
+      "title": "高密度S形流道冷却板的优化设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcgyyj201903001",
+      "title": "人工智能在汽车自动驾驶中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjzlgl201811030",
+      "title": "人工智能在汽车上的应用现状及发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shhg201303003",
+      "title": "克劳斯硫磺回收工艺数学模型的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaijj201503054",
+      "title": "甲午中日战争黄海海战败因简析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynmzxyxb201906014",
+      "title": "基于深度学习的图像超分辨率重建方法综述",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "gxjs200801013",
+      "title": "战斗部破片速度光幕靶测量方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szyxsj202003001",
+      "title": "5G中的编码调制与多址技术(续)",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dxkx201907004",
+      "title": "面向5G的非正交多址接入技术",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "xxy-s201111037",
+      "title": "谈病毒之特洛伊木马",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "ggkxyghx201705018",
+      "title": "CoSe/TiN同轴纳米管阵列在染料敏化太阳能电池对电极中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2017322299",
+      "title": "一种多功能工地营救机器人的构想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskjxx201320033",
+      "title": "浅析特洛伊木马病毒",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jhws200401015",
+      "title": "也为李鸿章褒上一笔",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzysh201025135",
+      "title": "邓小平'三落三起':大学生素质教育的生动范例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tlxyxb201703011",
+      "title": "创新型人力资本对区域经济增长的贡献率研究——以皖江城市带为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sz-sxk202005041",
+      "title": "谈钢琴演奏中和声的色彩感",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfyy202003040",
+      "title": "浅析曲式分析在和声中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxtxjs201904007",
+      "title": "5G时代大容量光接入网的安全技术",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sdhg201309007",
+      "title": "吡罗昔康工艺的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cdjs201703005",
+      "title": "纯电动汽车动力传动系统参数的匹配设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjgl201912009",
+      "title": "安徽省产业结构升级现状分析及优化建议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhek201909021",
+      "title": "青少年睡眠健康及常见睡眠障碍",
+      "download_times": 15,
+      "browse_times": 13
+    },
+    {
+      "id": "fjzlgl201817005",
+      "title": "流程管理在编辑工作中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xyjsclygc2008z2002",
+      "title": "TiO2薄膜的低温制备及有机半导体对其光催化活性的提高",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szdxxb-rwsh201105015",
+      "title": "对我国创业板“三高”现象的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201310025",
+      "title": "基于MFC的绘图软件设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnszxb-shkxb201804014",
+      "title": "谈甲午海战清军失败的根源",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy201614027",
+      "title": "'互联网+'模式下上班族出行方式分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qyzl201938068",
+      "title": "中小企业风险管理策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201918079",
+      "title": "食品工程原理实验虚拟仿真教学体系探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxda201806013",
+      "title": "新常态下的高校基建档案管理优化策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slgy201404004",
+      "title": "我国注塑模具关键技术的研究与应用进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cldb200501022",
+      "title": "微孔发泡塑料注射成型技术及其新进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx202001075",
+      "title": "浅析第五代移动通信技术在物联网中的发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202004021",
+      "title": "浅析第五代移动通信技术对虚拟现实技术的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "htdzdk201902007",
+      "title": "侦察卫星星座覆盖性能仿真分析软件设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xadzkjdx201302022",
+      "title": "对地侦察卫星星座优化设计及仿真分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201206008",
+      "title": "4,4'-联-1,2,4-三唑的晶型转变及热分解行为",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqgyxyxb201501009",
+      "title": "阿德福韦酯Ⅰ晶型非等温热分解动力学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xsjsyzb200508012",
+      "title": "CAD/CAE/CAM技术在模具设计制造中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjxx200835111",
+      "title": "基于AD8337的自动增益调节电路的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt202006023",
+      "title": "中国公共卫生体系建设历程、短板及应对",
+      "download_times": 11,
+      "browse_times": 7
+    },
+    {
+      "id": "dagl201902036",
+      "title": "高校基建档案数字化流程与探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy200908007",
+      "title": "基于AD603的自动增益控制电路的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tsyqb202001004",
+      "title": "我国公共卫生突发事件应对的情报机制及体系",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "jcdzgc201907036",
+      "title": "战术导弹武器系统作战效能评估数据处理方法研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xbgydxxb201405034",
+      "title": "多任务卫星簇适应性轨道设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzixb200612005",
+      "title": "非均匀采样信号的分数阶数字频谱研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxtxjs201703003",
+      "title": "毫米波大规模MIMO无线传输关键技术",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201911016",
+      "title": "四款常见共享单车消费体验报告",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "slgy200302002",
+      "title": "水辅助注塑成型技术及其进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsljgyy200204012",
+      "title": "注射成型技术进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mjgy200603016",
+      "title": "注射压缩成型新方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl201910008",
+      "title": "'材料分析方法'虚拟仿真实验教学系统建设及应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zzyzdh200711024",
+      "title": "工业以太网现场总线EtherCAT及驱动程序设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gcslyy202004014",
+      "title": "扫描仪双色手柄注塑模具设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj2015250303",
+      "title": "一种求距离最近点对的lisp序程",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdzjs201906006",
+      "title": "基于强跟踪滤波和模糊逻辑推理的有向图切换算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slgy201104002",
+      "title": "塑料注塑成型技术新进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mjjs200502014",
+      "title": "注塑成型质量缺陷分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201905040",
+      "title": "共享单车智能锁插销轴的静力学分析与结构优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ltsj201905025",
+      "title": "高校基建档案全程化管理模式分析与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hebdxxb201901015",
+      "title": "实数编码遗传算法的改进及并行化实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sl200304013",
+      "title": "注塑件变形分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slkj200903014",
+      "title": "注塑成型新技术的发展概况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slkj200003011",
+      "title": "注塑成型中制品的缺陷原因及其对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgxb200701041",
+      "title": "注塑工艺参数对制品残余应力和收缩的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gcslyy200303018",
+      "title": "注射成型技术发展概况",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbydjs201503048",
+      "title": "国外航天侦察卫星的现状与发展",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "sxjx201705036",
+      "title": "EtherC A T协议从站设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201935044",
+      "title": "企业战略管理对企业发展的意义分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjy-ld201803019",
+      "title": "从中国共产党夺取政权谈对党的建设启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxkx201907004",
+      "title": "面向5G的非正交多址接入技术",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj201924088",
+      "title": "浅谈5G无线接入网络的异构切换技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200503018",
+      "title": "富氮化合物研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wsjjyj202001002",
+      "title": "在国家治理体系框架下加强医药卫生体系治理能力的建设",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sxqn202007151",
+      "title": "国有企业'党建+'模式的实践与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201728045",
+      "title": "基于决策树的共享单车满意度影响因素分析——以北京地区ofo为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slkj200205001",
+      "title": "注塑成型流动模拟技术发展的三个阶段",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slkj200002010",
+      "title": "国内注塑机发展概述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mjjs200602013",
+      "title": "工艺参数对注塑制品变形影响的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sl200406018",
+      "title": "精密注塑成型技术的最新进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xsjsyzb200605003",
+      "title": "高分子材料成型加工装备及技术的进展、趋势与对策(上)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkj202003002",
+      "title": "基于个体排序的自适应遗传算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcpsj200409020",
+      "title": "宽带中频数字接收机的FPGA实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gfkj201301015",
+      "title": "美军开发“空海一体战”概念研究述论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dbdxxb200803016",
+      "title": "柔性作业车间多目标调度优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "suxjy201906006",
+      "title": "第五代移动通信网络技术的教育领域应用及其发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ltsj202002020",
+      "title": "高校档案馆员职业生涯高原之我见",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hlyzhkz201803021",
+      "title": "一种多卫星侦察下的部队机动策略",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gcslyy200606017",
+      "title": "电动注塑机与液压注塑机共创注塑机新发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgjz200403007",
+      "title": "CAE技术在注塑成型中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsljgyy200701016",
+      "title": "微注射成型技术的发展现状与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzgydxxb200303016",
+      "title": "工艺参数对注塑制品质量的影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "slgy200808001",
+      "title": "微注射成型技术的最新进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs200803025",
+      "title": "电子侦察卫星侦察仿真预案设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201912044",
+      "title": "市场营销创新和风险管理在新时期中小企业的实施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckyk201819010",
+      "title": "纯电动汽车与传统燃油汽车的生命周期成本评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201507009",
+      "title": "EtherCAT从站硬件设计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj201902021",
+      "title": "共享单车商业模式、成本结构与发展趋势 ——基于OFO与摩拜的比较",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sclyj202001024",
+      "title": "基于创新驱动战略的中小企业发展路径规划模型",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "htdzdk201906014",
+      "title": "美国军用卫星系统最新发展分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjkx200801066",
+      "title": "空间最近点对的计算机算法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shcfyk201902002",
+      "title": "好演员不问出处,假人设不可姑息——两会代表委员热谈'演员的品格'",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jsysc201801033",
+      "title": "共享单车硬件设计及其影响因素——以ofo与摩拜单车为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcslyy200304016",
+      "title": "注塑制品常见的缺陷及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgjx200404003",
+      "title": "新型气辅注塑成型方法及发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slgy201010001",
+      "title": "微注塑成型模具设计与制造技术研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdxxkj202010006",
+      "title": "基于XGBoost与多种机器学习方法的房价预测模型",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "gfkjdxxb202002005",
+      "title": "流水的浮点倒数近似值运算部件的设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bjlgdxxb-shkxb200703008",
+      "title": "作为权利保障的北京市志愿服务立法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzckjs202010037",
+      "title": "关于完善《注册会计师法》法律责任部分的若干建议",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jtyys201303022",
+      "title": "歼-15“飞鲨”威震海空",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdfx202004002",
+      "title": "数字人权时代人脸识别技术应用的治理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "djyzdxb201203059",
+      "title": "装甲车辆易损性的一种定量计算方法",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "nrjxb201906006",
+      "title": "海拔对柴油喷雾和附壁燃烧过程的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxzgl202003004",
+      "title": "人工智能时代的劳动力市场综合治理:挑战与政策工具",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jiangssl202009025",
+      "title": "试论行政事业单位内部控制审计",
+      "download_times": 9,
+      "browse_times": 10
+    },
+    {
+      "id": "qhfx202002005",
+      "title": "自动驾驶汽车的缺陷及其产品责任",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kxdz-zx201807003",
+      "title": "从我“2018海上阅兵”透视航母编队的学问",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz200101006",
+      "title": "DEVS的面向对象可视化建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qhfx202001010",
+      "title": "“我不是药神”——印度药品专利的司法原则及其社会语境",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj202011027",
+      "title": "活塞二阶运动对非道路高压共轨柴油机振动及噪声影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangssl202009038",
+      "title": "新型冠状病毒肺炎防控视阈下我国城市应急管理能力提升研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jxyk-zxbzzjx202004008",
+      "title": "从新冠肺炎疫情防控看中国共产党的坚强领导",
+      "download_times": 9,
+      "browse_times": 27
+    },
+    {
+      "id": "shej202016018",
+      "title": "素·减座椅设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej202001009",
+      "title": "'红船精神'旅游纪念品设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xyxl202004040",
+      "title": "因失恋引发的危机干预案例一例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmzbl202014064",
+      "title": "中国传统吉祥图案在视觉动态设计中的运用探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnbz202001019",
+      "title": "'背上摇篮'苗族背带文化对婴童产品设计的启示",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyj201603008",
+      "title": "管理层权力、内部控制与腐败治理",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bkltdzzz2019031059",
+      "title": "V型多层级小角度防雷结构车辆设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qhmzyj201903001",
+      "title": "新时代民族学发展与协同创新——中国民族学学会2019年高层论坛会议综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xlys-xbyb201204518",
+      "title": "从心理学角度谈如何面对失恋",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ddgr202015032",
+      "title": "失恋期成长季",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxqn202012144",
+      "title": "对女大学生失恋问题的处理及辅导员工作的思考",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "yycyzx202024048",
+      "title": "西藏传统文化对妇幼健康及服务利用的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shihjs202009151",
+      "title": "国际地热利用发展形势对中国的启发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmykjyjj202010005",
+      "title": "一带一路新形势下国际经济与贸易的发展展望",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gjwtyj202005014",
+      "title": "'国际形势与中国外交'蓝皮书发布会暨新闻茶座在京召开",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej202015016",
+      "title": "设计介入民间美术——山西花馍文化承变及应用实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej202001039",
+      "title": "普通高校艺术设计专业基础课学生评教问题研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qhmzyj201903026",
+      "title": "历史记忆与文化表述:记忆视阈下的藏族祝赞词研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzmzxyxb-zxshkx201902021",
+      "title": "西藏民族大学藏、汉族学生体质对比研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcdswdxxb201702018",
+      "title": "有机马克思主义视域下的生态文明建设及当代启示探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "klyd202009018",
+      "title": "失恋这件小事",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "bjhkhtdxxb-shkxb202004020",
+      "title": "腐败对环境政策效果影响的国际研究趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjj201703009",
+      "title": "国际形势新变化下的中国关税政策运用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shej202001015",
+      "title": "基于幼儿审美特征的书籍设计探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "msjyyj201420090",
+      "title": "平面艺术设计中的中国民族元素与国际潮流的融合",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjm201724108",
+      "title": "联想的'贸工技'之发展之痛",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzjy202009015",
+      "title": "试析西藏高校大学生思政课获得感的制约因素及提升路径",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rjdk-jyjs201910026",
+      "title": "AR技术课程设计应用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyykjlt202013044",
+      "title": "大学生的失恋心理危机及其对策研究",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "zxxxljkjy202026014",
+      "title": "走出失恋阴霾——一例高中女生失恋咨询个案报告",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnbz202002026",
+      "title": "'国潮'研究:潮牌文化与中国文化融合下的服装设计新趋势",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hxjx200707004",
+      "title": "水中氨氮的测定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "twyjjk202003001",
+      "title": "“一国两制”台湾方案的理论与实践探索",
+      "download_times": 6,
+      "browse_times": 10
+    },
+    {
+      "id": "xzyj201703011",
+      "title": "牧区农村藏族妇女家庭分工与生态建设能力提升研究——来自川西北牧区的个案调查",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc200422009",
+      "title": "半导体生产线群体智能调度模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjjxxyxb201405009",
+      "title": "女性家庭角色的伦理传统及其现代解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxdgy201724032",
+      "title": "蚂蚁的高效群体行为",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddgz201214039",
+      "title": "35年前的高考记忆",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shzylt202007020",
+      "title": "落实全面从严治党推进全面从严治校",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwdw202007031",
+      "title": "蚂蚁与雪孩子(上)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sjkx200809006",
+      "title": "从蚂蚁群体学到人类进化的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjlgdxxb-shkxb201002016",
+      "title": "从国内法与国际法的比较看国际法的等级性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtjswdxxb202004002",
+      "title": "全面从严治党进程中“为官不为”行为的类型与规制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "btjs202020017",
+      "title": "坚定政治方向 全面从严治党",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ddgz201846008",
+      "title": "光阴的故事",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdgydxxb-shkxb201805005",
+      "title": "从学生视角看中国社会工作专业硕士教育存在的问题——基于'世界咖啡屋'方法的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzg201708002",
+      "title": "光电子集成芯片技术发展现状与趋势",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "kx24xs200102024",
+      "title": "可敬的蚂蚁群体",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xkcdx-s201916003",
+      "title": "贵阳市清华中学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjszxb202003002",
+      "title": "浅析习近平新时代全面从严治党",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jjyjdk201919022",
+      "title": "贵州省区域经济发展不平衡原因及对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "guizjy200823001",
+      "title": "贵州教育30年:开创伟业奠基未来",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqshzyxyxb202006009",
+      "title": "台湾地区民众对'一国两制'台湾方案的心理认知——基于前景理论的评析",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "zxtxjs201804010",
+      "title": "5G无线光模块的需求分析和关键技术",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xnlxyxb202001026",
+      "title": "蚂蚁与植物的互惠共生关系研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ygxb200805018",
+      "title": "农村中小学布局调整之空间可达性分析——以河南省巩义市初级中学为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sd-zx201902270",
+      "title": "对教育资源分配不平衡现状的调研及数学建模分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb200109005",
+      "title": "性别、民族的研究与反思:分析自我体验及行动",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhnzxysdfyxb201905002",
+      "title": "少数民族女性在社会发展进程中的性别作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wstd201208019",
+      "title": "一个回乡知青的三年经历",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fsdtfx201802027",
+      "title": "博创科技:布局光电子芯片",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lldk202008003",
+      "title": "习近平全面从严治党思想形成发展的历史逻辑",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyszgc201212008",
+      "title": "MANET网络中一种基于蚂蚁群体的路由算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "czgxyxb200604009",
+      "title": "单纯矩阵的谱分解",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shanddz201808037",
+      "title": "光通信器件及芯片发展问题分析",
+      "download_times": 5,
+      "browse_times": 4
+    }
+  ],
+  "浏览": [
+    {
+      "id": "jtyys201303022",
+      "title": "歼-15“飞鲨”威震海空",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdfx202004002",
+      "title": "数字人权时代人脸识别技术应用的治理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qhfx202002005",
+      "title": "自动驾驶汽车的缺陷及其产品责任",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzlt-gbwz201411051",
+      "title": "未来航母编队阵容畅想",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxzgl202003004",
+      "title": "人工智能时代的劳动力市场综合治理:挑战与政策工具",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgxzgl202008014",
+      "title": "垃圾分类政策试点扩散的逻辑分析——基于中国235个城市的实证研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "qhfx202001010",
+      "title": "“我不是药神”——印度药品专利的司法原则及其社会语境",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zgfx202002014",
+      "title": "论法律大数据“领域理论”的构建",
+      "download_times": 0,
+      "browse_times": 21
+    },
+    {
+      "id": "fxj202001002",
+      "title": "ABSTRACTS",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "xdfx202005011",
+      "title": "增设新罪的观念",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "fxpl202002014",
+      "title": "预警:突发公共卫生事件应对中缺失的环节——以新型冠状病毒肺炎疫情为例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxzgl202003003",
+      "title": "人工智能与公共管理研究:技术可能性、议题重构和治理创新",
+      "download_times": 6,
+      "browse_times": 8
+    },
+    {
+      "id": "shej202015016",
+      "title": "设计介入民间美术——山西花馍文化承变及应用实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej202001015",
+      "title": "基于幼儿审美特征的书籍设计探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgmzbl202014064",
+      "title": "中国传统吉祥图案在视觉动态设计中的运用探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnbz202002026",
+      "title": "'国潮'研究:潮牌文化与中国文化融合下的服装设计新趋势",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "shej202016018",
+      "title": "素·减座椅设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsgkj201720016",
+      "title": "热处理温度对高强度螺栓用45钢力学性能的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lxxb201604001",
+      "title": "断裂力学判据的评述",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "mzjyyj202001001",
+      "title": "“民族心理与民族地区社会心理服务”暨2019年中国民族心理学高峰论坛成功召开",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "shej202001039",
+      "title": "普通高校艺术设计专业基础课学生评教问题研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "klyd202009018",
+      "title": "失恋这件小事",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "bzgc201912057",
+      "title": "中国传统纹样在平面设计中的应用",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "klyd202009018",
+      "title": "失恋这件小事",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "cyykjlt202013044",
+      "title": "大学生的失恋心理危机及其对策研究",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "zgkx-cg201707002",
+      "title": "延性金属动态拉伸断裂的损伤演化研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hnbz202001019",
+      "title": "'背上摇篮'苗族背带文化对婴童产品设计的启示",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xzjy202009015",
+      "title": "试析西藏高校大学生思政课获得感的制约因素及提升路径",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zxxxljkjy202026014",
+      "title": "走出失恋阴霾——一例高中女生失恋咨询个案报告",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cyykjlt202013044",
+      "title": "大学生的失恋心理危机及其对策研究",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "xzmzxyxb-zxshkx201902021",
+      "title": "西藏民族大学藏、汉族学生体质对比研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xzyj201703011",
+      "title": "牧区农村藏族妇女家庭分工与生态建设能力提升研究——来自川西北牧区的个案调查",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjjxxyxb201405009",
+      "title": "女性家庭角色的伦理传统及其现代解读",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "辽宁舰编队",
+    "关键词:社会契约",
+    "胶囊机器人 控制",
+    "AUV矢量推进器",
+    "英语口语训练",
+    "英语语调评估",
+    "儿童福利 未成年人保护法",
+    "太阳能电池工作原理",
+    "聚碳酸酯",
+    "提线木偶",
+    "作者:'Abdollah, Vahid'",
+    "作者:Vahid Abdollah",
+    "(主题:(北大核心)) (Type:'Periodical' )",
+    "最少受惠者原则",
+    "无人车路径平滑",
+    "(Japan) (Language:'eng' )",
+    "(Japan) (Language:'eng' )",
+    "热声",
+    "循环伏安法",
+    "(时代发展与青年) (Type:'Periodical' )",
+    "(时代发展与青年) (Type:'Periodical' CorePeriodical:'NJU' )",
+    "(时代发展与青年) (Type:'Periodical' )",
+    "(中美贸易战) (Type:'Periodical' )",
+    "虚拟现实的技术原理",
+    "(时代发展与青年) (Type:'Periodical' )",
+    "中美贸易战",
+    "时代发展与青年",
+    "Japan",
+    "基于距离走动校正的星载雷达空中动目标检测",
+    "餐饮品牌推广",
+    "(主题:(弹性设计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(关键词:动态平面设计) (ClassCodeForSearch:'0/J' )",
+    "(题名:弹性设计) (ClassCodeForSearch:'0/J' )",
+    "白血病抑制因子",
+    "carbon materials supercapicitor",
+    "佟岩",
+    "植物学",
+    "Botany",
+    "Botany",
+    "(Botany) (Type:'Periodical' )",
+    "植物学",
+    "查重",
+    "适量推进器",
+    "蜂鸣器",
+    "白血病抑制因子",
+    "查重",
+    "Wire based additive layer",
+    "台湾问题和中美关系",
+    "(题名或关键词:(茶and清代)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(茶文化and清)) (Type:(Periodical OR Thesis OR Conference) )",
+    "关键词:'荼室家具'",
+    "台湾问题",
+    "社会福利 未成年人保护法",
+    "韩君玲",
+    "(韩君玲) (ClassCodeForSearch:'0/D' )",
+    "品牌推广",
+    "双学位",
+    "服务国家特殊需求人才培养项目",
+    "李志宇 VR与AR技术教育应用研究",
+    "李志宇 VR与AR技术教育应用研究",
+    "动物园产品",
+    "高职教育职业生涯规划",
+    "抓取装置",
+    "固定翼与旋翼",
+    "设计",
+    "(设计) (Type:'Periodical' )",
+    "家暴",
+    "交通大数据",
+    "供给侧改革 新能源汽车",
+    "北京寺庙观堂",
+    "杜威学校即社会",
+    "白血病抑制因子",
+    "甲醇在硫酸溶液中的循环伏安行为",
+    "analysis and redesign of an antilock brake system",
+    "analysis and redesign of an antilock brake system",
+    "刊名:'IEE proceedings. Control theory and applications'",
+    "the new  and compact ABS5 unit",
+    "服务国家特殊需求人才培养项目",
+    "服务国家特殊需求人才培养项目",
+    "服务国家特殊需求人才培养项目",
+    "服务国家特殊需求人才培养项目",
+    "(主题:(弹性设计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(（艺术 or 建筑）and 弹性设计)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "社会福利 未成年人",
+    "卷积",
+    "卷积",
+    "生态",
+    "白血病抑制因子",
+    "3种CL-20/粘结剂PBX体系摩擦特性研究",
+    "植物学",
+    "Botany",
+    "台湾统一",
+    "(多感官设计) Date:2010-2015",
+    "服务国家特殊需求人才培养项目",
+    "李志宇 VR与AR技术教育应用研究",
+    "李志宇",
+    "中日文化外交历史",
+    "中日文化外交的历史文化基础",
+    "李志宇 VR与AR技术教育应用研究",
+    "固定翼与旋翼",
+    "抓取装置",
+    "固定翼抓取装置",
+    "设计",
+    "设计",
+    "设计",
+    "设计",
+    "设计",
+    "设计",
+    "设计",
+    "设计",
+    "作者:高伟栋",
+    "家暴",
+    "家暴",
+    "家暴",
+    "杜威学校即社会",
+    "((多感官概念) Date:*-2005) (PublishYear:'2004' )",
+    "(多感官设计) Date:*-2005",
+    "(多感官概念) Date:*-2005",
+    "多感官概念",
+    "(题名或关键词:(中国传统皮影)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(多感官设计) Date:2007-2010",
+    "多感官",
+    "(多感官设计) Date:2005-2007",
+    "(多感官概念) (PublishYear:'2004' )",
+    "多感官概念",
+    "(多感官设计) Date:*-2005",
+    "数理方法 化学",
+    "数理方法 分析",
+    "带有距离走动和多普勒扩散的高速运动目标检测",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' OrganizationNorm:'北京理工大学' )",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' OrganizationNorm:'北京理工大学' )",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' )",
+    "(长时间积累) (Type:'Thesis' Degree:'博士' ClassCodeForSearch:'0/T' )",
+    "Grounded Semantic Parsing for Complex Knowledge Extraction",
+    "艺术设计与中国潮流",
+    "李斯特",
+    "声波定位 扫地",
+    "声波定位",
+    "导盲拐杖",
+    "(题名或关键词:(网络西班牙语)) (Type:(Periodical OR Thesis) )",
+    "企业文化",
+    "计算机微视觉",
+    "企业文化宣传",
+    "大学军训",
+    "企业文化",
+    "企业文化",
+    "原油沥青质沉淀抑制剂",
+    "显微镜快速聚焦",
+    "温控传感器",
+    "(题名或关键词:(洋河酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(工业遗产) and 题名或关键词:(酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:孟毓焕",
+    "作者:王铎",
+    "中国港口",
+    "((技术) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Periodical' )",
+    "(技术) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "技术",
+    "白血病抑制因子",
+    "中日文化外交的历史基础",
+    "作者:Kanglin Xing",
+    "逆向歧视",
+    "最少受惠者原则",
+    "多刚体系统碰撞/接触/摩擦中多尺度动力学理论及实验研究",
+    "(Japan) (Language:'eng' )",
+    "(japaese) (Language:'eng' )",
+    "新中国成立六十年来的对台政策演变",
+    "最少受惠者原则",
+    "祁连山冻土区天然气水合物激光拉曼光谱特征",
+    "自由曲面在离轴反射式空间光学成像系统中的应用",
+    "Japan",
+    "手势识别",
+    "(儿童福利 ) (Type:'Thesis' ClassCodeForSearch:'0/D' )",
+    "英语语调评估",
+    "英语语调评估",
+    "Spark",
+    "Spark",
+    "红色文献",
+    "(红色文献) (ClassCodeForSearch:'2/G/G2/G25' )",
+    "红色文献",
+    "智能材料",
+    "弹性工作制的负面",
+    "某微型涡轴发动机控制系统设计与验证",
+    "中美文化差异",
+    "双学位",
+    "中美文化差异",
+    "中美文化差异",
+    "未成年人保护法",
+    "(全部:(未成年人保护法  政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "艺术设计",
+    "HJ-12",
+    "GmbH., E. M. P. (2020). 'EndoDrive.'",
+    "歼12",
+    "红箭12",
+    "C919结构",
+    "雷达高速机动目标长时间积累方法研究",
+    "信息技术和生命科学",
+    "(题名或关键词:(茶and清代)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(茶and家具)) (Type:(Periodical OR Thesis OR Conference) )",
+    "关键词:'茶艺家具'",
+    "(餐饮品牌推广) (Type:'Thesis' )",
+    "中美饮食文化差异",
+    "中美饮食文化差异",
+    "动物园讲解",
+    "ABS5",
+    "行政赔偿诉讼",
+    "abs",
+    "汽车制动防抱装置构造与原理",
+    "anti-lock and traction control system",
+    "杜威教育社会学",
+    "杜威教育社会学",
+    "光控控传感器",
+    "(Analysis error of waste water quality detection) (Language:'eng' )",
+    "石油沥青沉淀抑制剂的作用机理研究",
+    "关键词:一带一路",
+    "弹性设计",
+    "(主题:(弹性设计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(弹性设计) (ClassCodeForSearch:'0/J' )",
+    "题名:弹性设计",
+    "Math",
+    "植物学",
+    "Botany",
+    "植物学",
+    "(植物学) 关键词:'挖掘与实践'",
+    "Colonoscopy with robotic steering and automatedlumen centralization: a feasibility study in a colonmodel",
+    "(多感官设计) Date:2015-2020",
+    "硝化反应制备几种典型硝基含能化合物",
+    "AUV矢量推进器",
+    "GB/T 36176-2018",
+    "李志宇 VR与AR技术",
+    "设计",
+    "中日文化外交的历史文化基础",
+    "多感官概念",
+    "教师风格与大学生创造力关系",
+    "固定翼yu'xue'yi",
+    "(固定翼yu'xue'yi) (ClassCodeForSearch:'0/G' )",
+    "权利继承",
+    "逆向歧视",
+    "作者:Kanglin Xing",
+    "数理方法 分析",
+    "数理方法 分析",
+    "电子散斑测振技术进展",
+    "设计",
+    "共享单车运营平台",
+    "设计",
+    "(设计) (Type:'Periodical' )",
+    "设计",
+    "长时间积累",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' )",
+    "图像处理",
+    "(美术史) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "北京寺庙观堂",
+    "北京寺庙观堂",
+    "(主题:(集成电路) and 题名或关键词:(芯片制造)) (Type:(Periodical OR Thesis OR Conference) )",
+    "大学师生比例",
+    "简析杜威的教育社会观",
+    "港澳台",
+    "作者: 江雷",
+    "(最少受惠者原则) (PublishYear:'2019' )",
+    "(主题:(北大核心)) (Type:'Periodical' )",
+    "中日文化外交的历史基础",
+    "中日文化外交的历史基础",
+    "����:���޺�",
+    "作者:李忠新",
+    "作者:刘艳红",
+    "(学生欺凌 未成年人保护法) (ClassCodeForSearch:'0/D' )",
+    "(Aducanumab) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "基于显微图像处理的MEMS运动测量方法",
+    "三相三电平VIENNA整流器的研究",
+    "三相三电平VIENNA整流器的研究",
+    "泉州提线木偶",
+    "(多感官概念) Date:*-2005",
+    "(题名或关键词:(中国传统皮影)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(多感官设计) Date:*-2005",
+    "(题名或关键词:(中国传统皮影)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(多感官设计) Date:*-2005",
+    "(多感官概念) (PublishYear:'2000' )",
+    "(题名或关键词:(中国传统皮影)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(多感官设计) Date:2005-2007",
+    "多感官",
+    "多感官",
+    "(教师风格与大学生创造力关系) (Language:'chi' )",
+    "数理方法 分析",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' OrganizationNorm:'电子科技大学' )",
+    "(长时间积累) (Degree:'博士' ClassCodeForSearch:'0/T' )",
+    "Large-Scale Extraction and Use of Knowledge from Text",
+    "作者:袁武",
+    "港澳台",
+    "患者满意度与客观评价",
+    "主观评价的价值与有效性与意义与客观评价的差别和结合",
+    "企业文化",
+    "企业文化",
+    "企业文化",
+    "固定翼无人机与旋翼无人机空中对接",
+    "无人机之间空中对接装置",
+    "(题名或关键词:(蚂蚁金服)) (Type:(Periodical OR Thesis OR Conference) )",
+    "多旋翼无人机对固定翼无人机的抓取装置",
+    "企业文化宣传",
+    "文化 设计",
+    "航天固定",
+    "中国21世纪新发展",
+    "中国新发展",
+    "一带一路",
+    "城市经济体制改革",
+    "(机器人) (Language:'eng' )",
+    "工作弹性的负面",
+    "关键词动态化平面设计",
+    "(弹性设计) (ClassCodeForSearch:'0/J' )",
+    "题名:动态化平面设计",
+    "(关键词:动态平面设计) (ClassCodeForSearch:'0/J' )",
+    "(弹性设计) (ClassCodeForSearch:'0/J' )",
+    "关键词:动态平面设计",
+    "(主题:(弹性设计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "植物学",
+    "Botany",
+    "台湾问题",
+    "台湾",
+    "LED分类",
+    "最少受惠者原则",
+    "蜂鸣器",
+    "军事文化遗产",
+    "美术史",
+    "无人机抓取装置",
+    "抓取装置",
+    "计算机微视觉",
+    "设计",
+    "设计",
+    "交通大数据",
+    "交通大数据",
+    "hadoop",
+    "北京寺庙观堂",
+    "董事会碳披露",
+    "(主题:(集成电路)) (Type:(Periodical OR Thesis OR Conference) )",
+    "碳披露",
+    "杜威的教育社会观",
+    "杜威学校即社会",
+    "白血病抑制因子",
+    "(Japan) (Language:'eng' )",
+    "信息技术与人类基因组计划",
+    "生态",
+    "生态",
+    "(作者:Vahid Abdollah) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "作者:'Xing Kanglin' 作者单位:'Shndong HFB Phoonics Co. Ld.'",
+    "作者:'Abdollah, Vahid'",
+    "作者:'Abdollah, Vahid'",
+    "作者:'Abdollah, Vahid'",
+    "权利继承财富继承",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' )",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' )",
+    "供给侧改革之科技企业技术创新",
+    "服务国家特殊需求人才培养项目",
+    "服务国家特殊需求人才培养项目",
+    "(儿童福利) (ClassCodeForSearch:'0/D' )",
+    "儿童福利 未成年人保护法",
+    "泉州提线木偶",
+    "(逆向歧视) (PublishYear:'2020' )",
+    "作者:'Abdollah, Vahid'",
+    "作者:'Abdollah, Vahid'",
+    "(最少受惠者原则) (PublishYear:'2020' )",
+    "UUV能源推进与隐身技术课题报告",
+    "白血病抑制因子",
+    "(Japan) (Language:'eng' )",
+    "循环伏安法",
+    "循环伏安法 阴极",
+    "循环伏安法原理",
+    "(中美贸易战) (Type:'Thesis' PublishYear:'2020' )",
+    "中国发展 青年",
+    "中国少年说",
+    "青年",
+    "中国发展 青年",
+    "关键词:动态平面设计",
+    "(主题:(弹性设计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(弹性设计)) (ClassCodeForSearch:'0/J' Type:(Periodical OR Thesis OR Conference) )",
+    "关键词:动态平面设计",
+    "(关键词:动态平面设计) (ClassCodeForSearch:'0/T' )",
+    "plants",
+    "Botany",
+    "矢量推进器",
+    "LED分类",
+    "(离子交换纤维) 关键词:Cr",
+    "关于信息通信产业(ICT)发展趋势以及金融在其中作用的研究",
+    "关于信息通信产业(ICT)发展趋势以及金融在其中作用的研究",
+    "多感官",
+    "(多感官概念) (PublishYear:'2003' )",
+    "(题名或关键词:(中国传统皮影)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(多感官设计) Date:*-2005",
+    "(多感官概念) (PublishYear:'1998' )",
+    "多感官设计",
+    "教师风格与学生创造力关系",
+    "(韩君玲) (ClassCodeForSearch:'0/D' )",
+    "(矢量推进器) (PublishYear:'2020' )",
+    "工业文化遗产",
+    "(主题:(海底捞的管理链)) (Type:(Periodical OR Thesis OR Conference) )",
+    "李志宇 VR与AR技术",
+    "中日文化外交的历史",
+    "帽型试样动态绝热剪切破坏演化分析",
+    "艺术与设计",
+    "中日文化外交",
+    "数理方法 化学",
+    "数理方法 分析",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' )",
+    "(长时间积累) (ClassCodeForSearch:'0/T' Type:'Periodical' OrganizationNorm:'西安电子科技大学' )",
+    "(长时间积累) (Type:'Thesis' Degree:'博士' ClassCodeForSearch:'0/T' )",
+    "wire based additive layer",
+    "大学师生比例",
+    "无人机之间空中对接装置",
+    "设计",
+    "设计",
+    "设计",
+    "(设计) (Type:'Periodical' )",
+    "艺术设计与中国潮流",
+    "艺术设计与中国潮流",
+    "美术史",
+    "家暴",
+    "供给侧改革 新能源汽车",
+    "(李斯特) (ClassCodeForSearch:'0/D' )",
+    "设计",
+    "李斯特",
+    "碳排放",
+    "自愿性信息披露与公司治理:董事会功能与大股东行为",
+    "杜威学校即社会",
+    "企业文化",
+    "企业文化",
+    "无人机连接装置",
+    "企业文化",
+    "(题名或关键词:(蚂蚁金服 )) (Type:(Periodical OR Thesis OR Conference) )",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' )",
+    "基于性能的消能减震结构抗震设计与分析",
+    "航天稳定",
+    "液体气泡",
+    "液体消泡",
+    "中美饮食文化差异",
+    "(题名或关键词:(洋河酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(洋河酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "白血病抑制因子",
+    "白血病抑制因子",
+    "可燃冰形成机理",
+    "树莓派手势识别",
+    "树莓派手势识别",
+    "树莓派手势识别",
+    "虚拟旅游",
+    "虚拟旅游",
+    "中日文化外交基础",
+    "股权架构",
+    "(餐饮品牌推广) (Type:'Thesis' )",
+    "(餐饮品牌推广) (Type:'Periodical' )",
+    "(餐饮品牌推广) (Type:'Periodical' )",
+    "动物园产品",
+    "卷积",
+    "动物园讲解",
+    "动物园周边",
+    "胡庆雷",
+    "analysis and redesign of an antilock brake system",
+    "(光学) Date:2018-*",
+    "循环伏安法",
+    "艺术",
+    "量子计算机",
+    "艺术",
+    "白血病抑制因子",
+    "时代发展与青年",
+    "虚拟现实原理",
+    "(时代发展与青年) (Type:'Thesis' )",
+    "(中美贸易战) (Type:'Thesis' )",
+    "全球化对策",
+    "中美贸易战",
+    "(儿童福利与未成年人保护法) (ClassCodeForSearch:'0/D' )",
+    "信息技术和生命科学",
+    "((作者:('刘荣华')) and (作者:('李朝禄'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "刘荣华 李朝禄",
+    "基于ccd的电子散斑干涉系统中离面位移",
+    "废水水质检测化验误差及数据处理方式分析",
+    "地坛公园",
+    "water quality analysis",
+    "(关键词:一带一路) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true) )))",
+    "英语语调",
+    "英语语调评估",
+    "Flink",
+    "港澳台",
+    "形状记忆合金",
+    "纳米酶",
+    "纳米酶",
+    "Flink",
+    "管理科学学报",
+    "电极表面吸附",
+    "儿童福利 未成年人保护法",
+    "微小尺度封闭空间内火焰传播特性和动力学研究",
+    "儿童福利 未成年人保护法",
+    "微小尺度封闭空间内火焰传播特性和动力学研究",
+    "微型燃烧室蒸发管燃油雾化和蒸发特性数值研究",
+    "微尺度爆震燃烧的基础研究与微动力推进的初步探索",
+    "微小型发动机",
+    "中美文化差异",
+    "中美文化差异",
+    "双学位",
+    "中美文化差异",
+    "(全部:(未成年人保护法 修订 政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "未成年人保护法 政府保护",
+    "美术史",
+    "未成年人保护法 政府保护",
+    "美术史",
+    "我国未来经济",
+    "我国未来经济发展",
+    "基于人脸识别的驾驶员疲劳驾驶检测系统的研究与实现",
+    "半导体",
+    "众生皆佛",
+    "佛教自然观",
+    "(虚拟仿真) (PublishYear:'2020' )",
+    "(虚拟仿真) (PublishYear:'2020' )",
+    "(虚拟仿真) (PublishYear:'2020' )",
+    "(虚拟仿真) (PublishYear:'2020' )",
+    "aducanumab",
+    "(Japan) (Language:'eng' )",
+    "carbon materials  supercapicitor",
+    "HPV疫苗",
+    "解放初期对台政策",
+    "(尘肺病) (Language:'eng' )",
+    "(题名或关键词:(西班牙语文化)) (Type:(Periodical OR Thesis) )",
+    "餐饮品牌推广",
+    "(品牌推广) 题名:茶",
+    "(品牌推广) 题名:茶",
+    "图像处理",
+    "动物园品牌",
+    "作者:'何玉青'",
+    "ABS",
+    "ABS",
+    "ABS",
+    "ABS",
+    "(Water quality testing) (Language:'eng' )",
+    "地坛公园",
+    "Water quality testing",
+    "Analysis error of waste water quality",
+    "(water quality analysis) (Language:'eng' )",
+    "petroleum asphalt precipitation inhibitor",
+    "电子散斑 振动",
+    "英语语调评估",
+    "终端镍氢电池充放电智能管理系统的应用研究",
+    "and other structures",
+    "纳米酶",
+    "Spark",
+    "(红色文献) (ClassCodeForSearch:'1/G/G3' )",
+    "(红色文献) (ClassCodeForSearch:'1/G/G1' )",
+    "(红色文献) (ClassCodeForSearch:'1/G/G4' )",
+    "红色文献",
+    "热声发电",
+    "循环伏安法",
+    "虚拟现实和工程制图教学",
+    "(中美贸易战) (Type:'Thesis' )",
+    "(时代发展与青年) (Type:'Periodical' ClassCodeForSearch:'0/G' )",
+    "中国发展之于青年",
+    "一带一路",
+    "时代发展与青年",
+    "(中美贸易战) (Type:'Periodical' )",
+    "(时代发展与青年) (Type:'Periodical' )",
+    "儿童福利 未成年人保护法",
+    "儿童福利 未成年人保护法",
+    "(儿童福利) (ClassCodeForSearch:'0/D' )",
+    "(儿童福利 未成年人保护法) (ClassCodeForSearch:'0/D' )",
+    "儿童福利与成年人保护法",
+    "mine mobile substation",
+    "智能材料",
+    "微小型发动机",
+    "白血病抑制因子",
+    "中性分子电极表面吸附",
+    "中美文化差异",
+    "双学位",
+    "双学位",
+    "双学位",
+    "未成年人保护法 修订",
+    "(全部:(未成年人保护法  政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "GmbH., E. M. P. (2020). 'EndoDrive.' ECE Website.",
+    "红箭",
+    "LPI信号",
+    "HJ-12",
+    "红箭12",
+    "红箭12",
+    "产品设计",
+    "民胞物与",
+    "中国传统自然观",
+    "信息技术与人类基因组计划",
+    "(李斯特) 关键词:'弗兰茨·冯·李斯特'",
+    "(李斯特) (ClassCodeForSearch:'0/D' )",
+    "Software-Defined Industrial Internet of Things in the Context of Industry 4.0",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' PublishYear:'2019' )",
+    "颠覆性技术",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' )",
+    "(颠覆性技术) (ClassCodeForSearch:'0/T' )",
+    "恩格斯《自然辩证法》中科学技术思想研究",
+    "文化 设计",
+    "企业文化宣传",
+    "六硝基六氮杂异伍兹烷包覆钝感的探索",
+    "国外高能量密度材料研究最新进展",
+    "服务国家特殊需求人才培养项目",
+    "碳氢水合物生成",
+    "航天减震",
+    "图像拼接",
+    "快速聚焦",
+    "(题名或关键词:(洋河酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "中美饮食文化差异",
+    "中美饮食文化",
+    "(题名或关键词:(工业遗产) and 题名或关键词:(酒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "中国人喜欢喝凉水",
+    "毛宇峰",
+    "作者:李忠新",
+    "作者:刘艳红",
+    "作者:刘艳红",
+    "包产到户",
+    "机器人",
+    "中国经济",
+    "((机器人) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Language:'eng' )",
+    "aducanumab",
+    "白血病抑制因子",
+    "aducanumab",
+    "白血病抑制因子",
+    "尘肺病",
+    "高能量密度材料",
+    "中日文化外交的历史文化基础",
+    "循环伏安法原理",
+    "(中美贸易战) (Type:'Periodical' )",
+    "科技报告",
+    "儿童福利",
+    "(儿童福利与未成年人保护法) (ClassCodeForSearch:'0/D' )",
+    "儿童福利与未成年人保护法",
+    "未成年人保护法 儿童福利",
+    "(儿童福利与未成年人保护法) (ClassCodeForSearch:'0/D' )",
+    "信息技术和生命科学",
+    "发光二极管工作原理",
+    "道法自然",
+    "多感官",
+    "多感官",
+    "教学风格与大学生创造力关系",
+    "多感官概念",
+    "多感官概念",
+    "多感官",
+    "多感官设计",
+    "多感官概念",
+    "(多感官概念) Date:*-2005",
+    "教师风格与大、学生创造力关系",
+    "动物园品牌",
+    "信息技术与人类基因组计划",
+    "颠覆性技术",
+    "(abs) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "a feasibility study of an automotive slip",
+    "antilock brake system review",
+    "作者:'徐信明' 作者单位:'山东省莒县公路局'",
+    "ABS",
+    "刘荣华",
+    "数理方法 分析",
+    "数理方法 分析",
+    "电子产品对儿童的影响",
+    "(长时间积累) (ClassCodeForSearch:'0/T' )",
+    "白血病抑制因子",
+    "GC电极 甲醇 循环伏安",
+    "杜威教育社会学",
+    "additive manufacturing of Ti-6Al-4V components",
+    "Analysis error of waste water quality detection",
+    "石油沥青沉淀抑制剂",
+    "大学师生比",
+    "大学师生比例",
+    "大学师生比",
+    "港澳台工作",
+    "甲醇循环伏安行为",
+    "英语语调评估",
+    "英语语调评估",
+    "(英语语调评估) 关键词:'英语语音评估与测试'",
+    "主观评价与客观评价",
+    "患者满意度",
+    "主观评价",
+    "主观评价与客观评价",
+    "主观评价有效性",
+    "主观评价有效性",
+    "中日文化外交的历史基础",
+    "服务国家特殊需求人才培养项目",
+    "服务国家特殊需求人才培养项目",
+    "(李斯特) (ClassCodeForSearch:'0/D' )",
+    "高分子材料",
+    "(李斯特) (ClassCodeForSearch:'0/D' )",
+    "形势与政策",
+    "Flink",
+    "(题名或关键词:(网络西班牙语)) (Type:(Periodical OR Thesis) )",
+    "企业文化宣传",
+    "(题名或关键词:(网络西班牙语)) (Type:(Periodical OR Thesis) )",
+    "企业文化宣传",
+    "无人机之间空中对接装置",
+    "无人机之间空中对接装置",
+    "企业文化宣传",
+    "无人机空中发射起降",
+    "(题名或关键词:(西班牙语)) (Type:(Periodical OR Thesis) )",
+    "移动物体对接装置",
+    "智能材料",
+    "自动调节光源",
+    "固体表面吸附",
+    "微型能源动力装置及微尺度燃烧研究",
+    "某型微型发动机转子动力学分析",
+    "电极表面吸附",
+    "微型航空发动机先进燃烧室设计与研究",
+    "作者:宁海燕",
+    "双学位",
+    "双学位",
+    "中美饮食文化差异",
+    "香港回归",
+    "科技",
+    "(全部:(未成年人保护法 修订 政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(未成年人保护法 修订 政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "学生欺凌 未成年人保护法",
+    "台湾问题",
+    "半导体智能社会",
+    "(Aducanumab) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "红箭",
+    "C919",
+    "红箭",
+    "GmbH., E. M. P. (2020). 'EndoDrive.'",
+    "EndoDrive",
+    "半导体智能社会",
+    "非物质文化遗产",
+    "Application and properties of nanometric HMX in PBX",
+    "中国政策与发展",
+    "民族区域自治",
+    "((技术) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Periodical' Language:'eng' )",
+    "中国抗疫",
+    "(甲醇循环伏安行为) 关键词:'直接甲醇燃料电池'",
+    "中日文化外交的历史基础",
+    "服务国家特殊需求人才培养项目",
+    "Aducanumab",
+    "(题名或关键词:(马克思商业)) (Type:(Periodical OR Thesis OR Conference) )",
+    "半导体智能社会",
+    "台湾问题",
+    "电子散斑",
+    "中日文化外交的历史基础",
+    "Japan",
+    "Japan",
+    "信息技术和生命科学",
+    "餐饮品牌推广",
+    "北京大兴野生动物园",
+    "(餐饮品牌推广) (Type:'Thesis' )",
+    "diablo",
+    "作者:高圣平",
+    "supercapacitor carbon",
+    "白血病抑制因子",
+    "supercapicitor",
+    "肖淑芳",
+    "(作者:高圣平) (PublishYear:'2020' )",
+    "大学师生比例",
+    "HPV疫苗",
+    "HPV疫苗",
+    "台湾政策",
+    "(餐饮品牌推广) (Type:'Thesis' )",
+    "动物园讲解员",
+    "卷积",
+    "刘海欣.复杂环境下的特定物体识别算法研究与实现",
+    "动物园游戏",
+    "何玉青",
+    "ABS",
+    "(abs) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "((作者:('刘荣华')) and (作者:('李朝禄'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "ABS",
+    "ABS",
+    "作者:'徐信明' 作者单位:'山东省莒县公路局'",
+    "using pioncare concept",
+    "作者:'徐信明' 作者单位:'山东省莒县公路局'",
+    "ABS株式会社",
+    "杜威教育社会学",
+    "(关键词:一带一路) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true) )))",
+    "英语语调评估",
+    "Spark",
+    "红色文献",
+    "(红色文献) (ClassCodeForSearch:'1/G/G0' )",
+    "红色文献",
+    "微尺度燃烧",
+    "微燃烧器的热特性优化研究",
+    "微尺度燃烧",
+    "白血病抑制因子",
+    "微型热光电系统微尺度燃烧特性",
+    "中美节日饮食文化差异",
+    "中美文化差异",
+    "中美文化差异",
+    "中美文化差异",
+    "中国古代艺术发展",
+    "(全部:(未成年人保护法 修订 政府保护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "全国未来经济",
+    "查重",
+    "红箭-12",
+    "Robotic control of a traditional flexible endoscope for therapy",
+    "工程 伦理  案例",
+    "军事纳米",
+    "(题名:(主动网络技术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "钻石鉴别",
+    "原子能",
+    "原子能",
+    "教师教学风格",
+    "非晶态合金",
+    "信息抽取 技术应用 综述",
+    "信息抽取 应用 综述",
+    "risc-v",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "无人驾驶车辆运动障碍物检测、预测和避撞方法研究",
+    "In-wheel Motor Design for Electric Vehicles",
+    "雷达天线",
+    "天线",
+    "天线",
+    "天线",
+    "天线",
+    "Eviews",
+    "仿真软件",
+    "(主题:(测试技术) and 题名或关键词:(国防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "氢镍电池自放电",
+    "Dropout as data augmentation.",
+    "复杂网络时间序列",
+    "复杂网络时间序列",
+    "雷达原理",
+    "信息抽取综述",
+    "信息抽取的具体应用",
+    "机器翻译  产品",
+    "(作者:(温来成)) (Type:(Periodical OR Thesis OR Conference) )",
+    "多功能金属配合物作为探测细胞微环境诊疗试剂的研究",
+    "宜昌 生态",
+    "介观系统中的量子输运研究",
+    "(周建华 北京理工大学) (ClassCodeForSearch:'0/D' )",
+    "周建华",
+    "(周建华) (ClassCodeForSearch:'0/D' )",
+    "能源发展史及前景展望",
+    "镍氢电池自放电",
+    "声表面波驱动布拉格型波导声光调制器的研究",
+    "多普勒测振",
+    "汽油机和柴油机",
+    "汽油机和柴油机的差异",
+    "不燃材料",
+    "NE555定时器工作基于单稳态",
+    "555定时器",
+    "工作于单稳态触发电路",
+    "一种基于NE555",
+    "人 体 动 作 姿 态 识 别",
+    "就业城市选择",
+    "就业城市选择",
+    "用经济学原理分析就业城市",
+    "就业城市选择  经济学",
+    "就业城市选择  经济学",
+    "军事纳米",
+    "农业纳米药物制备新技术及应用",
+    "常见饮料中咖啡因",
+    "一国两制",
+    "时间序列动态网络",
+    "时间序列网络",
+    "镍氢电池自放电",
+    "镍氢电池自放电",
+    "美苏争霸对中国道路选择的影响",
+    "温来军",
+    "中国坦克发展史",
+    "坦克发展史",
+    "(主题:(退出与让利机制)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(准入门槛与双落地)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(军事纳米) Date:2010-*",
+    "(电化学钝化) 关键词:'点蚀'",
+    "adaptive inverse control of air supply flow for",
+    "nonlinear predictive control for oxygen supply of a fuel cell system",
+    "层压板",
+    "健康中国",
+    "能源结构",
+    "实验心理学",
+    "In-wheel Motor Design for Electric Vehicles",
+    "K. Cakir In-wheel motor design for electric vehicles",
+    "非晶态合金",
+    "非晶态合金",
+    "非晶态合金",
+    "八大环境公害",
+    "就业城市选择",
+    "就业城市选择",
+    "紫外拉曼",
+    "咖啡因拉曼",
+    "(主题:(退出与让利机制)) (Type:(Periodical OR Thesis OR Conference) )",
+    "钝化",
+    "电化学钝化机理",
+    "形状记忆合金",
+    "Eviews",
+    "Eviews",
+    "Eviews",
+    "仿真软件",
+    "HFSS",
+    "复杂网络时间序列",
+    "中国坦克发展史",
+    "中国坦克发展史",
+    "中国坦克发展史",
+    "白血病抑制因子",
+    "作者:'吴伯荣'",
+    "(主题:(DRGS) and 题名或关键词:(DRGS)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮) and 全部:(引流 or 导引) and 全部:(水)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮水) and 全部:(引流 or 导引) and 全部:(罐 or 桶 or 筒)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(国际政策) (PublishYear:'2020' )",
+    "汽油机和柴油机的差异",
+    "(作者:(温来成)) (Type:(Periodical OR Thesis OR Conference) )",
+    "多功能金属配合物作为探测细胞微环境诊疗试剂的研究",
+    "NE555定时器工作于单稳态触发电路",
+    "(主题:(多媒体数据库)) (Type:(Periodical OR Thesis OR Conference) )",
+    "AO",
+    "红外光谱仪鉴别钻石",
+    "(GU) (CorePeriodical:'SCI' )",
+    "基于频闪微视觉的MEMS微运动测试系统研究",
+    "risc-v",
+    "(作者单位:('天津大学')) (Type:(Periodical OR Conference) )",
+    "硅  振动",
+    "十八大经济成就",
+    "脉冲放电纳米",
+    "脉冲放电",
+    "(作者:(石云波) and 作者单位:('中北大学')) (Type:(Periodical OR Standard) )",
+    "作者:'陆晓东'",
+    "(国际形势) (PublishYear:'2020' )",
+    "雷达原理",
+    "雷达原理",
+    "光电成像目标识别与检测",
+    "光电成像目标探测系统",
+    "光电成像目标探测系统",
+    "光电成像目标识别与检测",
+    "(镍氢电池梭式反应) 关键词:'自放电性能'",
+    "(题名:(新一代网络技术——主动网络)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(镍氢电池) 关键词:'自放电机理'",
+    "(题名:(technical summary)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(technical summary)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(镍氢电池) 关键词:'自放电性能'",
+    "新原理陀螺仪",
+    "新型高精度陀螺仪",
+    "热力学 中药配伍",
+    "(主题:(中国航天) and 题名或关键词:(装备)) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "(主题:(中国航天) and 题名或关键词:(装备)) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "基于粗糙集的神经网络建模方法研究",
+    "人类权",
+    "纳米技术 农业",
+    "时间序列网络",
+    "白血病抑制因子",
+    "热力学与中医药关系",
+    "新原理惯性传感器",
+    "新型惯性传感器",
+    "2010-2020能源",
+    "镍氢电池自放电影响",
+    "医学伦理",
+    "论疫情防控中中国特色社会主义制度优势",
+    "天然钻石光谱",
+    "热力学 中医药",
+    "((仿射投影算法) 题名:仿射投影算法 ) 关键词:步长",
+    "(((仿射投影算法) 题名:仿射投影算法 ) 关键词:步长 ) 关键词:MSE",
+    "社会情感学习项目",
+    "微结构特性的光学测试平台",
+    "利用 Linnik 显微干涉技术测量微结构动态特性",
+    "港澳历史遗留问题",
+    "港澳历史遗留问题",
+    "氢能经济",
+    "(主题:(电子琴) and 题名或关键词:(8253)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Dropout as data augmentation.",
+    "九华山",
+    "九华山",
+    "镍氢电池梭式反应",
+    "时间序列",
+    "时间序列构建",
+    "时间序列",
+    "时间序列网络",
+    "工程 伦理  大数据",
+    "((作者:('赵昭灵'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "汽油机和柴油机的差异",
+    "不燃材料 高分子材料",
+    "不燃材料",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽) and 全部:(水)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "题名:直接序列扩频信号",
+    "人类学学者访谈录",
+    "文化动态论",
+    "Eviews",
+    "Eviews",
+    "Eviews",
+    "文化人类学",
+    "工作于单稳态触发电路实现报警",
+    "工作于单稳态触发电路",
+    "白血病抑制因子",
+    "作者:'DONNER Reik V.'",
+    "人 体 动 作 姿 态 识 别 专 利 技 术 综 述",
+    "爱奇艺盈利",
+    "作者:'杨凯'",
+    "脉冲放电纳米",
+    "就业城市选择",
+    "就业行业选择",
+    "就业行业选择",
+    "就业城市选择",
+    "就业城市选择",
+    "雷达目标微多普勒曲线提取方法研究",
+    "光电成像目标识别与检测",
+    "(作者:(张慧) and 作者单位:('天津大学')) (PublishYear:'2019' Type:(Periodical OR Conference) )",
+    "(作者:('靳世久') and 作者单位:('天津大学')) (Type:(Periodical OR Thesis OR Conference) )",
+    "显微干涉  动态",
+    "陈晓峰",
+    "滑膜阻尼惯性传感器",
+    "高精度惯性传感器",
+    "(医学伦理) (ClassCodeForSearch:'0/G' )",
+    "(新冠 调解) (ClassCodeForSearch:'0/D' )",
+    "新冠 调解",
+    "医学伦理",
+    "疫情 非诉",
+    "教师教学风格",
+    "教师教学风采",
+    "(后危机时代国际经济形势与中国国际贸易形势分析) (PublishYear:'2018' )",
+    "基于话目的新手教师课堂话语个案研究——教师培训办法探索",
+    "机器视觉",
+    "天线",
+    "宜昌 扶贫",
+    "信息抽取分析",
+    "机器翻译 应用",
+    "信息抽取",
+    "计算机微视觉 动态",
+    "特朗普政府新亚太战略与中国应对",
+    "频闪微视觉 动态",
+    "反投比例及计算口径",
+    "基金准入门槛与双落地",
+    "舱段对接",
+    "手部动作灵活性",
+    "聚酯热固性",
+    "聚酯现状",
+    "((高光谱图像混合像元分解) 作者:张兵",
+    "tutorial overview of anomaly detection in hyperspectral images",
+    "(((高光谱图像混合像元分解) 作者:张兵 ) 作者:孙旭",
+    "高光谱图像混合像元分解",
+    "浮动抵押的财产变动与效力限制",
+    "(天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "(天线) (Type:'Thesis' )",
+    "((天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Patent' MainClassCodeForSearch:'2/H/H01/H01Q' )",
+    "(天线) (Type:'Thesis' )",
+    "(概述) (ClassCodeForSearch:'1/T/TP' )",
+    "概述",
+    "性别角色意识",
+    "远程多管火箭武器",
+    "(mems  拉曼) (PublishYear:'2017' )",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "中国遥感卫星应用区域发展企业",
+    "氢镍电池充电放热",
+    "openMV",
+    "白血病抑制因子",
+    "(作者:(张慧) and 作者单位:('天津大学')) (Type:(Periodical OR Conference) )",
+    "(作者:(张慧) and 作者单位:('天津大学')) (Type:(Periodical OR Conference) )",
+    "世界能源需求",
+    "分子结构 阻燃",
+    "白血病抑制因子",
+    "作者:'吴伯荣'",
+    "模拟实弹激光打靶系统的研究与设计",
+    "原子能发展史",
+    "教师教学风格",
+    "国际形势",
+    "机器视觉",
+    "后危机时代国际经济形势与中国国际贸易形势分析",
+    "工程 伦理  图像",
+    "伦理  图像",
+    "嗪类多氮含能化合物",
+    "(天线) (Type:'Thesis' )",
+    "(题名:(主动网络技术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(测试技术) and 题名或关键词:(航天)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(DRGS)) (Type:(Periodical OR Thesis OR Conference) )",
+    "钝化机理",
+    "干涉  动态",
+    "作者:吴欣怡",
+    "Eviews",
+    "Eviews",
+    "openMV激光",
+    "(作者:(温来成)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于STM32的太阳能车",
+    "复杂网络时间序列",
+    "复杂网络时间序列",
+    "九华山",
+    "就业城市选择",
+    "就业城市选择",
+    "就业城市选择",
+    "就业城市选择",
+    "nonlinear predictive control for oxygen supply of a fuel cell system",
+    "nonlinear predictive control for oxygen supply of a fuel cell system",
+    "adaptive inverse control of air supply flow for",
+    "nonlinear predictive control for oxygen supply of a fuel cell system",
+    "(nonlinear predictive control for oxygen supply of a fuel cell system) (PublishYear:'2012' )",
+    "一国两制 台湾",
+    "(题名:(technical summary)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(主动网络的研究与进展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "坦克发展 中国",
+    "5G通信系统",
+    "反投比例及计算口径",
+    "天基红外监视系统目标检测与跟踪技术研究",
+    "储氢材料",
+    "电化学钝化",
+    "(实验心理学) 作者:杨治良",
+    "动态网络构建",
+    "形状记忆合金",
+    "时间序列网络",
+    "光电成像目标识别与检测",
+    "光电成像目标识别与检测",
+    "能源发展史",
+    "能源发展史及前景展望",
+    "APA",
+    "(仿射投影算法) (Type:'Periodical' )",
+    "仿射投影算法",
+    "(TBD) 关键词:RBF",
+    "Recursive Bayesian Filtering",
+    "((TBD) 关键词:RBF ) 关键词:'RBf'",
+    "TBD",
+    "光电成像目标探测系统",
+    "光电成像目标探测系统",
+    "光电成像目标探测系统",
+    "新惯性传感器",
+    "十年内能源",
+    "作者:'Rusty W. Conner'",
+    "APKWS-Ⅱ新型制导火箭弹",
+    "美国九头蛇直升机",
+    "(主题:(声誉指标)) (Type:(Periodical OR Thesis OR Conference) )",
+    "非晶态合金",
+    "雷达目标微多普勒曲线提取方法研究",
+    "基于MCMC粒子滤波的检测前跟踪方法",
+    "随机多假设跟踪的最大似然法",
+    "计算机微视觉  张宪民",
+    "基于MCMC粒子滤波的检测前跟踪方法",
+    "新型陀螺仪",
+    "生物工程 空气净化",
+    "(题名:(机器学习)) (Type:(Periodical OR Thesis OR Conference) )",
+    "疫情防控中中国特色社会主义制度优势",
+    "医学伦理",
+    "医学伦理",
+    "(科技论文) (Type:'Cstad' )",
+    "报警器",
+    "报警",
+    "科技论文",
+    "(作者:(张慧) and 作者单位:('天津大学')) (PublishYear:'2020' Type:(Periodical OR Conference) )",
+    "(作者单位:('天津大学')) (Type:(Periodical OR Conference) )",
+    "后危机时代国际经济形势与中国国际贸易形势分析",
+    "能源发展史",
+    "澳门回归",
+    "汽油机和柴油机的差异",
+    "机器视觉",
+    "雷达天线",
+    "天基红外监视系统目标检测与跟踪技术研究",
+    "非晶态合金",
+    "新时代变革",
+    "马原新时代变革",
+    "镍氢电池 充电 热",
+    "(主题:(中国航天) and 题名或关键词:(装备)) (Type:(Periodical OR Thesis OR Conference) )",
+    "4G协议",
+    "文化人类学",
+    "NE555定时器单稳态",
+    "信息抽取 技术应用",
+    "引力波探测:引力波天文学的新时代",
+    "作者:'吴伯荣'",
+    "白血病抑制因子",
+    "概率论在计算机科学",
+    "仲裁与调解相结合",
+    "医学伦理",
+    "智慧司法",
+    "疫情 ADR",
+    "(仲裁与调解相结合) (ClassCodeForSearch:'0/D' )",
+    "(题名或关键词:(测控技术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于STM32的太阳能小车",
+    "基于STM32的太阳能小车",
+    "计算机微视觉在微运动测量中的应用",
+    "中美关系定向之旅",
+    "特朗普执政时期",
+    "mems  动态测试",
+    "中日语言拟声词的比较研究——以漫画翻译为例",
+    "纳米技术 农业",
+    "纳米技术应用",
+    "常关型GaN HEMT器件制备研究",
+    "CCD应用",
+    "(主题:(A Point-Based Technique for Free-Form Deformation)) (Type:(Periodical OR Thesis OR Conference) )",
+    "新材料",
+    "(新材料) (ClassCodeForSearch:'0/T' )",
+    "CCPA法案",
+    "CCPA劳动者隐私",
+    "(AO) (CorePeriodical:'EI' )",
+    "AO",
+    "被测物离焦状态对",
+    "一国两制",
+    "ADCP技术发展及其应用综述",
+    "印制电路用覆铜箔层压板",
+    "3-D mapping with an RGB-D Camera",
+    "田渠,罗淦,尹海涛",
+    "黄迅,崔敏,黄隆群",
+    "仲裁与调解相结合",
+    "医学伦理",
+    "科学技术负面效应的哲学反思",
+    "(医学伦理) (ClassCodeForSearch:'0/G' )",
+    "互联网 非诉讼解纷解决",
+    "医学伦理",
+    "互联网法院 非诉讼解纷解决",
+    "(智慧司法) (ClassCodeForSearch:'0/D' )",
+    "mems  动态",
+    "白血病抑制因子",
+    "白血病抑制因子",
+    "计算机微视觉  谢勇君",
+    "光电成像目标探测系统",
+    "光电成像目标探测系统",
+    "光电成像目标探测系统",
+    "光电成像目标识别与检测",
+    "光电成像目标探测系统",
+    "新型加速度计",
+    "BD-II-601",
+    "手指灵活性",
+    "毛发流速传感器",
+    "新型惯性传感器",
+    "白血病抑制因子",
+    "大数据伦理",
+    "仿射投影算法",
+    "仿射投影算法",
+    "作者:'岳新霞'",
+    "(主题:(DRGs 发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "汽油机两大机构",
+    "(报警器) (Type:'Cstad' )",
+    "(报警器) (Type:'Cstad' )",
+    "报警器",
+    "(报警) (Type:'Cstad' )",
+    "德国隐私权",
+    "街区",
+    "非晶态材料",
+    "论劳动者隐私权的保护",
+    "TBD",
+    "新时代的变革",
+    "世界的物质性新时代的变革",
+    "(主题:(SID指数)) (Type:(Periodical OR Thesis OR Conference) )",
+    "伦理  图像处理",
+    "非晶态合金",
+    "非晶态合金",
+    "香港回归",
+    "频闪 干涉  动态",
+    "(成像实现) 关键词:'成像仿真'",
+    "马汉炎 天线技术",
+    "(频率扫描天线) 关键词:'频率扫描天线'",
+    "遥感卫星星上数据智能信息处理",
+    "中国遥感卫星应用产业发展",
+    "((天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Patent' )",
+    "((天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Patent' )",
+    "天线",
+    "天线",
+    "概述",
+    "(概述) (ClassCodeForSearch:'0/T' )",
+    "is there a divide between science and humanity",
+    "(主题:(刮水) and 全部:(引流 or 导引) and 全部:(罐 or 桶 or 筒)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "聚酯电子封装",
+    "((高光谱图像混合像元分解) 作者:张兵 ) Date:2015-*",
+    "高光谱图像混合像元分解",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "微型磁通门传感器研究的现状与未来发展",
+    "(题名:(technical summary)) (Type:(Periodical OR Thesis OR Conference) )",
+    "氢镍电池自放电",
+    "农业纳米药物制备新技术及应用",
+    "农业纳米",
+    "计算机微视觉在微运动测量中的应用",
+    "干涉  动态",
+    "risc-v",
+    "介观系统中的量子输运研究",
+    "时间序列",
+    "时间序列构建动态网络",
+    "时间序列网络",
+    "时间序列",
+    "时间序列动态网络",
+    "冷畅",
+    "discharge nickel-hydrogen",
+    "生命科学的哲学核心是非线性问题",
+    "(热力学 中医药) (PublishYear:'1994' )",
+    "引力波与其测量",
+    "声学超表面抑制 模态机理与优化设计",
+    "英国占领香港",
+    "港澳问题",
+    "港澳回归",
+    "NE555报警器",
+    "((天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))) (Type:'Thesis' )",
+    "(天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "Eviews 银行",
+    "基于社会认同理论的微博群体用户画像",
+    "概述",
+    "is there a divide between science and art",
+    "(主题:(刮水) and 全部:(引流 or 导引)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "刊名:'电子工艺简讯'",
+    "聚酯热固性",
+    "mems  拉曼",
+    "(mems  拉曼) (PublishYear:'2018' )",
+    "(((高光谱图像混合像元分解) 作者:张兵 ,孙旭",
+    "论文查重",
+    "工程 伦理  自动化",
+    "(主题:(刮水) and 全部:(引流 or 导引) and 全部:(罐 or 桶 or 筒)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮水) and 全部:(引流 or 导引) and 全部:(罐 or 桶 or 筒)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "国际政策",
+    "关键词:直接序列扩频信号捕获",
+    "In-wheel Motor Design for Electric Vehicles",
+    "仿真软件",
+    "matlab",
+    "服装业发展历史",
+    "白血病抑制因子",
+    "作者:'张军'",
+    "基于联合仿真的微发泡注塑轻量化制品的性能研究",
+    "就业城市选择",
+    "就业城市选择",
+    "就业城市选择",
+    "功能金属微纳结构的飞秒激光制备与集成技术研究",
+    "常见饮料中",
+    "坦克发展 中国",
+    "刊名:'国家人文历史'",
+    "坦克发展 中国",
+    "白血病抑制因子",
+    "钝化机理",
+    "(军事纳米) Date:2010-*",
+    "(军事纳米) Date:2010-*",
+    "港澳历史",
+    "港澳历史",
+    "基于STM32的太阳能",
+    "递归贝叶斯滤波 TBD",
+    "(TBD) 关键词:GM",
+    "TBD",
+    "TBD",
+    "电镀法制备非晶态合金",
+    "作者:'Mikhail A. Zamkov'",
+    "APKWS-Ⅱ新型制导火箭弹",
+    "adaptive inverse control of air supply flow for",
+    "Control of fuel cell air supply system based on  LPV model",
+    "adaptive inverse control of air supply flow for",
+    "常关型GaN HEMT器件制备研究",
+    "(主题:(声誉指标)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(SID)) (Type:(Periodical OR Thesis OR Conference) )",
+    "成型加工层压板",
+    "中药四性的生物热动力学研究",
+    "余惠敏",
+    "一国两制",
+    "人民健康",
+    "BP能源统计",
+    "仲裁与调解相结合",
+    "(新冠 ADR) (ClassCodeForSearch:'0/D' )",
+    "智慧司法 ADR",
+    "(医学伦理) (ClassCodeForSearch:'0/G' )",
+    "智慧司法 非诉讼解纷解决",
+    "基于频闪微视觉的MEMS微运动测试系统研究",
+    "利益变化、角色转换和关系均衡——特朗普时期中美关系发展趋势",
+    "软件导刊 文本情感分析",
+    "文本情感分析",
+    "壁虎机器人",
+    "十八大经济成就",
+    "GINA 法案",
+    "GINA 美国",
+    "GINA法案",
+    "迈克尔杰克逊",
+    "白血病抑制因子",
+    "香港回归",
+    "(成像实现) 关键词:'成像仿真'",
+    "(成像实现) 关键词:'成像仿真'",
+    "频率扫描天线阵",
+    "食用油拉曼",
+    "天线",
+    "Eviews 金融科技",
+    "Eviews 金融科技",
+    "(天线) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Conference AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR ((Type:Standard)  AND  (Type:Standard AND SingleSourceDB:(WFLocal))) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "Eviews 金融科技",
+    "Eviews 开放银行",
+    "(概述) (ClassCodeForSearch:'1/T/TN' )",
+    "粒度级配",
+    "(主题:(简易漆)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(主题:(简易漆) and 全部:(调节盘)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "性别角色意识",
+    "is there a divide between science and humanity",
+    "聚酯电子封装",
+    "mems  拉曼",
+    "(高光谱图像混合像元分解) 作者:张兵",
+    "(高光谱图像混合像元分解) Date:2015-2015",
+    "TCP/IP",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "生命科学 计算机",
+    "白血病抑制因子",
+    "(军事纳米) Date:2010-*",
+    "(实验心理学) 作者:杨治良",
+    "滑膜阻尼惯性传感器",
+    "新惯性传感器",
+    "白血病抑制因子",
+    "risc-v",
+    "risc-v",
+    "文本情感分析综述",
+    "壁虎机器人",
+    "壁虎机器人",
+    "壁虎机器人",
+    "(主题:(中国航天) and 题名或关键词:(装备)) (Type:(Periodical OR Cstad) )",
+    "4G协议",
+    "(概率论与计算机学科) (ClassCodeForSearch:'0/T' )",
+    "负泊松比防护结构",
+    "街区",
+    "美国劳动者隐私",
+    "非晶态材料",
+    "大数据时代我国劳动者的隐私保护",
+    "马克思原理新时代变革",
+    "街区",
+    "(题名:(机器学习)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(机器学习)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(机器学习)) (Type:(Periodical OR Thesis OR Conference) )",
+    "医学伦理",
+    "仿射投影算法",
+    "仿射投影算法",
+    "(仿射投影算法) 题名:仿射投影算法",
+    "基于STM32的太阳能",
+    "温来军",
+    "论调解的市场化运作",
+    "汽油机机构",
+    "报警器",
+    "传感器",
+    "报警器",
+    "NE555",
+    "港澳问题",
+    "EW TBD",
+    "递归贝叶斯滤波TBD",
+    "Gaussian Mixture",
+    "非晶态合金",
+    "电镀法制备非晶态合金",
+    "作者:孙起",
+    "美国九头蛇直升机",
+    "Ultrafast Chemistry of Nanoenergetic Materials Studied by Time-Resolved Infrared Spectroscopy:",
+    "(主题:(SID指数)) (Type:(Periodical OR Thesis OR Conference) )",
+    "伦理  人脸识别",
+    "非晶态合金",
+    "(成像实现) 关键词:'成像仿真'",
+    "迈克尔杰克逊",
+    "氢镍电池自放电",
+    "锂离子电池 安全",
+    "瑞典 sep",
+    "NE555报警系统",
+    "查重",
+    "(概述) (ClassCodeForSearch:'0/T' )",
+    "(概述) (ClassCodeForSearch:'2/T/TN/TN4' )",
+    "(概述) (ClassCodeForSearch:'0/T' )",
+    "(概述) (ClassCodeForSearch:'1/T/TN' )",
+    "(概述) (ClassCodeForSearch:'2/T/TN/TN4' )",
+    "迈克尔杰克逊",
+    "(迈克尔杰克逊) (PublishYear:'2019' )",
+    "性别角色意识",
+    "关键词:直接序列扩频信号捕获",
+    "聚酯热固性",
+    "mems  拉曼",
+    "振动  拉曼",
+    "(mems  拉曼) (PublishYear:'2019' )",
+    "高光谱图像混合像元分解",
+    "(高光谱图像混合像元分解) Date:2015-2015",
+    "(主题:(刮) and 全部:(引流槽 or 导引槽)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "医用高分子",
+    "电容惯性传感器",
+    "超高精度惯性传感器",
+    "汽油机和柴油机的差异",
+    "(作者:(温来成)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(温来成)) (Type:(Periodical OR Thesis OR Conference) )",
+    "激光雷达 工作原理",
+    "BD-II",
+    "手指灵活性",
+    "仿生惯性传感器",
+    "冷畅",
+    "医学伦理",
+    "仿射投影算法",
+    "引力波",
+    "光谱图像的处理",
+    "引力波的测量",
+    "汽油机",
+    "报警器",
+    "(传感器) (Type:'Cstad' )",
+    "TBD",
+    "(TBD) 关键词:DP",
+    "FISST",
+    "GM-TBD",
+    "高斯混合 TBD",
+    "FISST",
+    "(TBD) 关键词:RBF",
+    "基于网络店铺订单数据的群体用户画像构建研究",
+    "非晶态合金作为弹药包装电磁屏蔽材料可行性研究",
+    "电镀法制备非晶态合金",
+    "Ultrafast Chemistry of Nanoenergetic Materials",
+    "论大有作为的战略机遇期",
+    "作者:'Dana D. Dlott'",
+    "佛教",
+    "美国九头蛇直升机",
+    "周建华 北京理工大学",
+    "低秩矩阵恢复理论方法分析",
+    "一种响应波长在120nm-200nm的紫外像增强器",
+    "AO",
+    "GU",
+    "(GU) (CorePeriodical:'PKU' )",
+    "GU",
+    "(AO) (CorePeriodical:'PKU' )",
+    "扩展差动共焦显微系统量程范围的方法与措施",
+    "宜昌 教育",
+    "机器翻译 应用场景",
+    "人体科学和现代科技发展纵横观",
+    "(介观系统中的量子输运研究) (Type:'Periodical' )",
+    "健康中国",
+    "非晶态合金",
+    "医学伦理",
+    "概率论在算法上的",
+    "概率论在算法上的",
+    "新冠 ADR",
+    "(医学伦理) (ClassCodeForSearch:'0/G' )",
+    "计算机微视觉",
+    "risc-v",
+    "软件导刊",
+    "新时代变革",
+    "新材料",
+    "(新材料) (ClassCodeForSearch:'0/T' Type:'Periodical' )",
+    "(新材料) (ClassCodeForSearch:'0/T' )",
+    "(美国劳动者隐私) (PublishYear:'2020' )",
+    "港澳回归",
+    "(频率扫描天线) 关键词:'频率扫描天线'"
+  ]
+}

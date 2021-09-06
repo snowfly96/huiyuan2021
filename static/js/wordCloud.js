@@ -32,6 +32,7 @@ function setWordCloud(type,month) {
             let wcData=Object.keys(keywords).map(function (item,index) {
                 return {name:item,value:Math.sqrt(keywords[item])};
             });
+
             chart_word_cloud = echarts.init(document.getElementById('word-cloud'));
             option_word_cloud = {
                 title: {

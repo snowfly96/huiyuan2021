@@ -1,0 +1,5281 @@
+{
+  "下载": [
+    {
+      "id": "xdjsj-xby201629012",
+      "title": "偏微分方程的积分变换法及其MATLAB解算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj201907013",
+      "title": "对跨境电商消费者行为模式及营销策略的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjc201711012",
+      "title": "柔性机械臂变刚度关节的设计与仿真研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "htfhyyg201605007",
+      "title": "半刚性机械展开式气动减速技术机构特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szxxzyjsxyxb201905014",
+      "title": "余华《兄弟》中明喻的翻译研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sdfzjj201910006",
+      "title": "浅析上海对长三角小微企业跨境电商的影响——以太仓小微企业为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfjsycpxx200108013",
+      "title": "消防机器人--消防员的好助手",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bqclkxygc201002017",
+      "title": "Ni/(TiO_2+Urea)纳米核壳颗粒电磁流变行为的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njxxgcdxxb201806008",
+      "title": "基于Quanser实验平台的带有输出约束单连杆柔性机械臂的神经网络控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxyxxh201827061",
+      "title": "柔性关节设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs201901017",
+      "title": "一种刚性与柔性联合驱动的农产品采摘机械手设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzyjy201923236",
+      "title": "多途径、多模式机电一体化特色专业建设的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjczzxt201906002",
+      "title": "基于数字孪生的复杂机械产品多学科协同设计建模技术",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "txsj201901159",
+      "title": "朴素贝叶斯在文本分类上的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caix201924055",
+      "title": "国内企业并购绩效评价方法回顾与评述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201933024",
+      "title": "种田文与传统文学精神气质的背离 ——'种田文'研究文献综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj201535530",
+      "title": "浅析傅里叶变换的作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jzglxdh201804029",
+      "title": "商品房住户居住满意度对住户忠诚度的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjsx201804013",
+      "title": "基于因子分析的我国区域经济发展水平研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqywh201923093",
+      "title": "企业并购后整合与绩效相关性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjs200810008",
+      "title": "基于傅里叶变换的干涉条纹对比度增强算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb201826084",
+      "title": "浅析傅里叶变换在信息光学中的应用",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wl200801004",
+      "title": "小波变换及其应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh-bgsbygc201501014",
+      "title": "焊接机器人技术现状与发展趋势的研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "tjyxxlt201802002",
+      "title": "基于傅里叶变换的时变参数回归模型:估计、设定检验和实证应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy201416007",
+      "title": "薄壁不锈钢管切管机的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzsj201821018",
+      "title": "几种改进的朴素贝叶斯分类器模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdsnyglgbxyxb201910007",
+      "title": "农产品营销渠道优化管理研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh201912024",
+      "title": "跨境电子商务出口贸易中选品的思路及技巧",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangssl201809009",
+      "title": "多因素视角下跨境电子商务出口选品策略研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsy201807006",
+      "title": "论余华小说的生存困境及超越方式 ——以《活着》为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "glhtgygdzkxxxb201901017",
+      "title": "产业融合背景下小微企业与区域经济协调发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201203043",
+      "title": "小波分析在信号处理中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkcyj-gd201702046",
+      "title": "探究实践教学与学科竞赛相融合的教学模式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjxgc201912013",
+      "title": "柔性基、柔性关节空间机械臂的运动混合控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201810015",
+      "title": "柔性飞网拦截刚性弹体的性能分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfwx-x201502058",
+      "title": "余华与卡夫卡的相遇",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddzjpl201904024",
+      "title": "余华小说:从欧化到中国化",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bfwx-x201204030",
+      "title": "论小说《活着》中体现的生命哲学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjhcy201610006",
+      "title": "基于结构方程模型的民营经济政策环境满意度研究——基于江苏省1072家民营企业调查数据的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjsx201804013",
+      "title": "基于因子分析的我国区域经济发展水平研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnydxxb-shkxb201903005",
+      "title": "农村小微企业特征、融资偏好与影响约束——基于浙江调查数据的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjsfdxxb201104005",
+      "title": "快速傅里叶变换在频谱分析中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201819028",
+      "title": "柔性基、柔性铰空间机器人基于状态观测的改进模糊免疫混合控制及抑振研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201903031",
+      "title": "农业采摘机器人柔性机械手研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qdhydxxb201901015",
+      "title": "尾缘柔性变形对翼型水动力学性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhkht201204004",
+      "title": "自由浮动空间柔性机械臂在轨操作刚性载荷的组合控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjz201804028",
+      "title": "办公楼绿色建筑结构设计的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljdwjm201811023",
+      "title": "速卖通平台新手卖家选品过程分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcsxxb201901009",
+      "title": "基于广义傅里叶变换的线性卷积算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjy-j200910080",
+      "title": "函数的Fourier变换及其在反常积分中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb201921010",
+      "title": "快速傅里叶变换在阿秒束线光路稳定控制中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kszk2015A0042",
+      "title": "傅里叶级数与傅里叶变换相互关系在两个公式推导中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gxjmgc201906006",
+      "title": "通过傅里叶变换测量多表面面形",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201929183",
+      "title": "用悲剧美学的视角重读余华《活着》",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdk201429090",
+      "title": "浅析余华小说《第七天》中的人物命运",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qwtd201112028",
+      "title": "从后现代主义角度解读余华",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjm201502031",
+      "title": "韩国汽车企业国际化对中国的启示——以现代汽车为例分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbdxxb201306031",
+      "title": "傅里叶变换的产生与完善",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzqgyxy201103005",
+      "title": "基于离散傅里叶变换的数字水印算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxycf201302285",
+      "title": "国内旅游业经济发展影响因素的计量分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sclyj201604019",
+      "title": "甘肃省旅游业发展因素的实证分析——基于多元线性回归计量经济模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxjzcl201408024",
+      "title": "多孔材料饰面建筑构件的当量热阻实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjzcl201404017",
+      "title": "浅层遮挡式蓄水屋面隔热性能对比研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjscx201803016",
+      "title": "工业厂房屋面喷淋降温的数值分析——基于温湿度环境",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjyqy201322269",
+      "title": "我国居民人均旅游消费影响因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdzdxxb-shkx201004010",
+      "title": "理解中国工业化与能源消费:基于计量经济模型的实证检验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjmdxxb200804004",
+      "title": "中国工业技术发展战略与经济增长——基于宏观计量经济模型的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjnyxb201306045",
+      "title": "现代商贸流通发展对浙江农业经济增长影响的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcyk201910162",
+      "title": "基于学情分析的独立学院新生学业引导模式的探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lngcjsdxxb201005076",
+      "title": "国内旅游收入预测模型的比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lvykx201501004",
+      "title": "中国旅游发展与经济增长——基于省际面板数据的协整分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-x201607249",
+      "title": "城镇居民国内旅游消费水平的影响因素分析——基于计量经济模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjxx201207206",
+      "title": "基于计量经济模型的国内旅游收入研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201915102",
+      "title": "影响国内旅游收入因素的计量经济学分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjtjj201619056",
+      "title": "中国旅游产业收入影响因素的分析与启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjyglyj200903001",
+      "title": "我国能源工业投资与能源产量的计量经济模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsc201707004",
+      "title": "关于国内旅游收入影响因素的计量经济模型的初步研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxdlzgdxxb201907010",
+      "title": "中国新能源企业技术创新与能源价格间关系的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fcyyy201801027",
+      "title": "被动蒸发冷却屋面在夏热冬冷地区的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqdxxb201805011",
+      "title": "被动蒸发与架空遮阳不同组合 对屋面防热降温的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zlykt201605020",
+      "title": "蓄水与盖板开孔对屋面蓄水砖隔热效果的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201932106",
+      "title": "16×16点阵广告滚动显示屏控制系统的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xxjzcl201210024",
+      "title": "膨胀珍珠岩蒸发层厚度对屋面蒸发隔热效果的影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201434002",
+      "title": "我国城镇居民消费水平的计量经济模型分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddgz201925042",
+      "title": "井底之蛙",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxwxjsjxt201805003",
+      "title": "云游戏中基于帧率控制的FEC补偿策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mysd-c201702003",
+      "title": "城市公共空间设计中的文化元素运用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201910027",
+      "title": "一种基于瘦客户端的云游戏系统优化方法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wjfz202001017",
+      "title": "非对称加密算法在身份认证中的应用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb-shkxb201503002",
+      "title": "丝绸之路经济带建设的区域差异化研究--基于可变交易成本的区域均衡模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzckjs202001023",
+      "title": "股权激励、所有权结构与非效率投资",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xxydzn-dnjb201910033",
+      "title": "井底之蛙",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjwt201604001",
+      "title": "“丝绸之路经济带”背景下中国与核心国家经济贸易关系--基于 SEM 模型的实证研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xajtdxxb-shkxb201506001",
+      "title": "'一带一路'建设与周边区域经济合作推进路径",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxqnjs201719016",
+      "title": "五个『看似』引发的思考——以《井底之蛙》教学为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyy201907022",
+      "title": "Gaming@Edge:基于边缘节点的低延迟云游戏系统",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xdsmgy201835029",
+      "title": "基于90后消费群体对联名品牌的价值分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201905050",
+      "title": "服装大牌与潮牌联名现象分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "gykzjsj201911066",
+      "title": "基于STM32的电导率测量仪设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scfzkj201908003",
+      "title": "动漫衍生品中联名服饰的商业价值探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "smsfgdzkxxxb201604031",
+      "title": "城市公共空间设计中的绘画艺术元素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxjz201826007",
+      "title": "谈旧居住区内街道空间合理化利用的设计策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjwt201705003",
+      "title": "生态文明视角下丝绸之路经济带复合生态系统构建研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201808055",
+      "title": "LV与Supreme品牌联名营销策略",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyjkjzz201722001",
+      "title": "品牌×名人, 联名款还能走多远?",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rpyrl201905015",
+      "title": "聚焦新IP时代的万物联名",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zggxkj201821044",
+      "title": "服饰品牌跨界营销现状与问题分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzfzzk201933001",
+      "title": "'联名'风潮",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xdkjyc201402001",
+      "title": "人工蜂群算法研究综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tykx201812010",
+      "title": "“中国体育深化改革的法律问题与《体育法》研究高层论坛”近日在苏州大学召开",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tykx201808002",
+      "title": "习近平总书记关于体育工作重要论述的4个维度",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201923065",
+      "title": "股利政策变动对股价短期影响 ——以格力电器为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx202010001",
+      "title": "教育部关于应对新冠肺炎疫情做好2020届全国普通高等学校毕业生就业创业工作的通知",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "huaz201414117",
+      "title": "高校学生党员发挥先锋模范作用发挥情况的实证调研",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangssl201910006",
+      "title": "新零售背景下零售业内部控制问题研究 ——以沃尔玛为例",
+      "download_times": 10,
+      "browse_times": 7
+    },
+    {
+      "id": "ldbzsj202004001",
+      "title": "吉林省人社厅多项惠民利企政策助力打好打赢疫情防控阻击战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgqkyx202003016",
+      "title": "Framingham高血压发病风险预测模型对新疆哈萨克族牧民发生高血压的预测价值研究",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "zgxxgzz202001022",
+      "title": "老年高血压降压治疗的研究进展",
+      "download_times": 6,
+      "browse_times": 10
+    },
+    {
+      "id": "hbhg201005016",
+      "title": "小麦秸秆的催化裂解及其生物油成分分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cczyxyxb202001051",
+      "title": "中医药治疗老年高血压的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgywylc202003069",
+      "title": "结构式家庭护理干预在高血压脑出血术后护理中的应用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zglnxzz201922001",
+      "title": "高血压患者中心动脉压与生理因素的相关性",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyjhxnxgbzz202004003",
+      "title": "高血压合并2型糖尿病病人血浆IL-17水平变化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cwykj201916025",
+      "title": "浅析白色家电行业上市公司股利政策",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "xzqykj201728008",
+      "title": "浅谈制造业中小企业内部控制存在的问题及措施的分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzfzzk202006001",
+      "title": "复工战'疫'",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ldbzsj202004013",
+      "title": "安图县:'七个加速度'全力做好疫情防控工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgmzdxxb-j201104035",
+      "title": "浅谈R＆D的内部控制",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xbyx202001029",
+      "title": "慢性肾脏病高血压患者夜间高血压患病率及影响因素",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "zglnxzz201924001",
+      "title": "男性高血压患者围治疗期性激素水平变化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnykdx201912015",
+      "title": "终末期肾病与肺高血压",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "guizhouyy202002032",
+      "title": "社区高血压自我管理模式对高血压患者健康状况及血压控制的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zglnxzz202003062",
+      "title": "原发性高血压患者抑郁、应对方式与主观幸福感的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lchc201911020",
+      "title": "慢性肾脏疾病患者高血压的管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcjyzz202002010",
+      "title": "肠道菌群与高血压相关性及检测方法的研究进展",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "tykx201906001",
+      "title": "我国青少年校园足球特色学校管理的基本问题与策略选择",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "tykx201807001",
+      "title": "从'体育理论'到'体育人文社会学'——对学科分化与整合的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tykx201801010",
+      "title": "从'形而上学式'到'历史主义式'体育哲学——始于体育概念无穷性困境的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tykx201911001",
+      "title": "中国体育深化改革相关法律问题研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "tykx201804001",
+      "title": "从'有'到'强':新时代青少年校园足球的战略定位与发展方向",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbqy202003053",
+      "title": "疫情背景下河北人力资源服务业的应对策略研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ldbzsj202004005",
+      "title": "保障重点企业用工,人社部门多措并举促实效",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "tykx201905002",
+      "title": "改革开放40年我国学校体育改革与发展的政策审思",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nmgmzdxxb-j201104035",
+      "title": "浅谈R＆D的内部控制",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "cqyx202003026",
+      "title": "妊娠期高血压疾病相关因素分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "cjj202007005",
+      "title": "六措并举化危为机应科学决策、因地制宜、分区分级、差异化防控",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ldbzsj202004009",
+      "title": "长春市:凝心聚力显担当同心向力共战'疫'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyk202004003",
+      "title": "高血压脑出血的手术治疗",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zglcsjwkzz201912005",
+      "title": "高血压性脑出血病人收缩压与不良预后的关系",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hbyy202006039",
+      "title": "个性化护理干预在妊娠高血压致早产预防中的应用效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxda202002023",
+      "title": "档案文创产品商业化开发研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ldbzsj202004033",
+      "title": "就业服务不断线,线上渠道解你忧——关于疫情防控期间公共就业服务十问十答",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "hcxwgy201901009",
+      "title": "聚丙烯腈基交联水解羧酸纤维的制备及其结构性能表征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhiy201324055",
+      "title": "三相异步电动机的调速方法浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ywknw201831327",
+      "title": "欧美儿童影视与我国儿童影视的对比分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjy201903021",
+      "title": "借助影视作品促进儿童听说读写均衡发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "llgdzkxxxb201505004",
+      "title": "电子竞技项目《英雄联盟》的营销模式研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "niangjkj201012026",
+      "title": "白酒品牌塑造探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "niangjkj200803030",
+      "title": "论白酒的品牌塑造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhhlzz201905002",
+      "title": "护理临床思维训练平台的构建",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "yncmxyxb-jjblb200301050",
+      "title": "防治'非典'与体育锻炼",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlwjs202003037",
+      "title": "基于单片机的多功能智能行李箱设计",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "niangjkj201701024",
+      "title": "2016中国宜宾白酒文化节开幕",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzh201918045",
+      "title": "影视文化对小学生德育的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzdb201204013",
+      "title": "同轴静电纺及其芯壳结构纳米纤维的研究现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201902002",
+      "title": "中国锂离子电池产业发展现状及市场发展趋势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qclbj201901020",
+      "title": "纯电动汽车锂离子电池管理系统关键技术现状分析",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "tyn201911014",
+      "title": "一种用于MPPT的改进型遗传算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shyyjsxyxb201804008",
+      "title": "钠离子电池电解质的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zxyjhxnxgbzz201907008",
+      "title": "中西医结合'鸡尾酒疗法'有效改善颈动脉斑块的临床研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "pjkj201906023",
+      "title": "LUXEROSE鸡尾酒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbyy201911024",
+      "title": "鸡尾酒式镇痛复合液对髋部骨折手术后认知功能及髋关节功能恢复的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xynygdzkxxxb201603022",
+      "title": "消费文化下的广告--以RIO鸡尾酒为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqhrlsyj201903008",
+      "title": "新华商企业跨文化管理中的'鸡尾酒效应'及其启示 ——以日本华商严浩及其高技术企业EPS为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cddxxb201904016",
+      "title": "基于植酸钠热分解制备新能源电池碳基负极材料",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlyfz201201018",
+      "title": "未来人力资源管理新趋势——员工自我管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyggygl201718079",
+      "title": "企业管理中的激励机制浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyfzyj200812003",
+      "title": "回到教学:教师专业成长的原点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hainandxxb-rwsh201101019",
+      "title": "游走在公义与律法之间——中国近现代侦探小说的文化解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfwx-x201210025",
+      "title": "中国古典诗词中的酒文化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dywx202005038",
+      "title": "《海王》:景观电影的新神话建构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjjssxzz201902019",
+      "title": "跟骨骨折的微创手术治疗进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tq201406008",
+      "title": "发达地区率先全面建成小康社会指标体系构建研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdbg201912052",
+      "title": "有限责任公司章程范本的经济分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201807061",
+      "title": "柔性铜铟镓硒薄膜太阳电池的制备及性能表征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "renj201622192",
+      "title": "壶中洞天——论诗酒文化在李白诗中的体现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201903054",
+      "title": "李白诗句中酒文化考察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whtyxyxb200305069",
+      "title": "'非典'期间人们体育锻炼情况的透析",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjtdxxb-shkx201402011",
+      "title": "学习型组织理论研究综述与评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nykg200804039",
+      "title": "泛谈我国酒的起源与酒文化考古",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz202001339",
+      "title": "中国酒文化历史与代表人物漫谈",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "xzsfdxxb-zxsh201801004",
+      "title": "施蛰存与20世纪词学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjyxyxb200602034",
+      "title": "重视培养文本解读能力--从语文新课标看高师中文专业的教学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxxyxb201306032",
+      "title": "最大熵分布估计算法及其在旅行商问题中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgjwkzz201805015",
+      "title": "关节镜清理联合术后针刺与鸡尾酒疗法治疗膝骨关节炎",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "pjkj201906005",
+      "title": "许忠镇推动中式鸡尾酒走向世界",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddgz201123033",
+      "title": "2011生态文明贵阳会议“国酒茅台鸡尾酒招待会”举行中华名酒爽爽贵阳共呈多彩贵州文化盛景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxxxljkjy201906022",
+      "title": "孩子喜欢听他们想听的 ——鸡尾酒会效应对家庭教育的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxxyxb201906016",
+      "title": "基于多层导热模型的高温作业专用服装设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xsj201103024",
+      "title": "从神灵世界向现实世界的演变——从出土文献的盟誓文书中看神灵崇拜的式微与革新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiaozdxxb201701038",
+      "title": "灾难报道中的新闻伦理实践研究——以上海外滩踩踏事件为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lgxk-yyj201603026",
+      "title": "《五侯鲭字海》未编码字考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj201909033",
+      "title": "合肥市二手房价多元线性回归预测模型",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xzk-a201533030",
+      "title": "英语教学中的语法翻译法和直接法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj202009055",
+      "title": "机器学习算法保险场景应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "shqgy201203017",
+      "title": "绩效考核与绩效管理",
+      "download_times": 7,
+      "browse_times": 32
+    },
+    {
+      "id": "syjlr201633011",
+      "title": "教育培训行业营销策略的探究与创新 ——以新东方教育科技集团为例",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "xinny201918038",
+      "title": "瑞幸咖啡——成为每个人生活中的一部分",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjzl201812037",
+      "title": "新时代将'红船精神'融入大学生思想政治教育的新思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201427050",
+      "title": "三相异步电动机的调速原理及方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ybjsycgq202003005",
+      "title": "光沉积Pd修饰Bi2WO6微米花用作乙醇气敏传感器",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xsj201912009",
+      "title": "老子思想结构的系统透视",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "cldb201603003",
+      "title": "硅基单结太阳能电池的制备技术、缺陷及其性能的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tyn201709014",
+      "title": "高效率柔性钙钛矿太阳电池",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianqjs200901025",
+      "title": "船用电缆绞车自动收放系统分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjyjc200712023",
+      "title": "小康社会的指标体系与综合评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxhlkj201608055",
+      "title": "深度学习及其在人脸识别中的应用进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt201726042",
+      "title": "自我领导力在企业管理中的重要作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ywjxyyj201108039",
+      "title": "李白诗歌中的酒文化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ybxyxb201301005",
+      "title": "诗酒文化中的李白",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "niangjkj201510053",
+      "title": "李白饮酒诗的文化史意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "st201912033",
+      "title": "中国化的'影视分级制度'初考量",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdyxzz201830009",
+      "title": "端粒(酶)对衰老及肿瘤的调节研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201919028",
+      "title": "PEO基全固态聚合物电解质",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hgscyjs201904004",
+      "title": "钠离子电池聚丙烯腈复合Na2SiO3固态电解液研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cnkxyjs201603005",
+      "title": "钠离子电池的电解质",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201724063",
+      "title": "HTML5在移动Web App中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hggl201923143",
+      "title": "驱油剂聚丙烯酰胺在油田生产中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm202001097",
+      "title": "认缴制下股东出资义务加速到期的可行性",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgxzqykj201412162",
+      "title": "企业授信体系探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzbl202002056",
+      "title": "认缴制下股东出资加速到期问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxsfxyxb-zxsh201104020",
+      "title": "广西民族地区民间文学的语文德育功能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxshkx200402060",
+      "title": "清末至建国前课程标准中语文德育目标述评",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qzsfgdzkxxxb201301015",
+      "title": "课题指导式教学初探——语文教学论研究生专业发展研究之二",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zzkjx201509017",
+      "title": "论初中语文新教材课后习题的二次开发--以人教版为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjykx-gjyj201803017",
+      "title": "教师资源配置标准的政策反思及标准重构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxmtglgbxyxb201602083",
+      "title": "古典诗词中的酒文化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "niangjkj201701038",
+      "title": "中国酒文化的关键性问题分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bjyddxxb-shkxb201905005",
+      "title": "消费者冲动性网购行为的影响因素研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "niangjkj201812023",
+      "title": "中国白酒国际化策略分析",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "msdg201809056",
+      "title": "媒介融合环境下儿童绘画思维训练方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xlxdt202002007",
+      "title": "机器学习在抑郁症领域的应用",
+      "download_times": 7,
+      "browse_times": 5
+    },
+    {
+      "id": "yyqxxb202003001",
+      "title": "机器学习技术在现代农业气象中的应用",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgqkyx200205001",
+      "title": "社区康复与社区卫生服务",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg201919050",
+      "title": "浅析秦朝服饰中的'黑色'",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qcsyjs201921012",
+      "title": "燃料电池发展现状与分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdl202004018",
+      "title": "基于机器学习和图像识别的电力作业现场安全监督方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjjxxyxb201903013",
+      "title": "柔性CZTSSe太阳电池的制备及性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjsfgdzkxxxb201402005",
+      "title": "计算机之父冯·诺伊曼对计算机逻辑的探讨及其意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spysh202002030",
+      "title": "《双子杀手》和威士忌姜汁鸡尾酒",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mdjsfxyxb-zxshkxb200803019",
+      "title": "评《典型的美国人》中'鸡尾酒'同化模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spyjykf201922001",
+      "title": "鸡尾酒与音乐艺术的交融",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgspgy201808012",
+      "title": "牵手鸡尾酒走向世界白酒完成时尚转身",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bzyxyxb201903022",
+      "title": "“鸡尾酒”注射应用于单侧膝关节置换术的早期疗效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggc201911006",
+      "title": "葡萄酒鸡尾酒的调配工艺研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlwjs202002011",
+      "title": "农业环境监测系统WebAPP的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdxx201208271",
+      "title": "浅析钢结构工业厂房的设计思路与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jizgc201933007",
+      "title": "关于新形势下网络新闻专题现状及发展的几点思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnnydxxb-shkx201605012",
+      "title": "中俄农产品贸易及其比较优势、互补性演变趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ynnydxxb-s201904014",
+      "title": "中俄农产品贸易的竞争性和互补性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xwzs201811004",
+      "title": "网络新闻对外传播的特点及其在中国的发展趋势",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zsjjeqy201810096",
+      "title": "基于营销3.0视角的教育培训新媒体营销策略研究——以'新东方教育'为例",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "zghgmy201510260",
+      "title": "新东方教育集团的营销策略分析",
+      "download_times": 4,
+      "browse_times": 14
+    },
+    {
+      "id": "ckyk202003007",
+      "title": "论股东出资加速到期制度:适用、理论基础与构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdfx201906011",
+      "title": "认缴制下股东出资加速到期问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdglkx202001037",
+      "title": "认缴资本制下股东出资期限加速到期的责任研究——以资本维持原则为视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cldb202001016",
+      "title": "柔性钠离子电池研究进展",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jiaozdxxb201201039",
+      "title": "应用型本科教育背景下的古代汉语课程建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ybjsycgq201808016",
+      "title": "基于WSN的齿轮箱温度监测系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lhzyjsxyxb200802016",
+      "title": "锂离子可充电电池的最新研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "guig201417095",
+      "title": "水热法在材料合成中的应用及其发展趋势",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnz200101015",
+      "title": "中华酒文化(一)--酒的起源和发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gskjzh201002033",
+      "title": "浅谈三相异步电动机的几种常用调速方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sz-sxk201919018",
+      "title": "浅谈中国鸡尾酒文化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxzlyx201719039",
+      "title": "端粒酶活性抑制在癌症治疗中的作用研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh201916038",
+      "title": "自我效能感在企业人力资源管理中的应用探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201908033",
+      "title": "梭车收放缆装置的设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201307107",
+      "title": "下肢深静脉血栓形成的预防与护理研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljyy201904054",
+      "title": "鸡尾酒疗法治疗帕金森病痴呆患者的临床疗效和安全性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spysh201808004",
+      "title": "鸡尾酒沁心酷爽",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg201917018",
+      "title": "皮革脱脂剂及其发展概述",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ckjs201410004",
+      "title": "主动式胶囊内窥镜系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjyxyxb201201020",
+      "title": "经典阅读与人文素养的培养——兼论中国古代文学教学对大众文化的积极引导",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jianghlt200301027",
+      "title": "'诗圣'的标准与'谪仙'的意义--谈宋人对李白的评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sczl201803017",
+      "title": "水阁 乌镇 尽枕河",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxsfxyxb-zxsh201001013",
+      "title": "高中语文课程的价值追求",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnydxxb-shkxb200706018",
+      "title": "唐传奇中侠女形象精神风貌及文学史意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjyxyxb201701012",
+      "title": "“文化自信”与中国现代文学教学的几个问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsyr-dxpd201601047",
+      "title": "论高校写作课教学的四个'点'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdshkx201209016",
+      "title": "论中国古典诗词中的酒文化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qzdk201616121",
+      "title": "浅谈中国古代诗词中的“酒文化”",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dnm201824055",
+      "title": "基于Vue.js的WebApp应用研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wjsjxx201720061",
+      "title": "基于Vue.js的Web前端应用研究",
+      "download_times": 8,
+      "browse_times": 13
+    },
+    {
+      "id": "cnkxyjs202003016",
+      "title": "钠离子电池机遇与挑战",
+      "download_times": 8,
+      "browse_times": 9
+    },
+    {
+      "id": "kxyxxh202001160",
+      "title": "网络新闻编辑的发展与创新策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tykj201409022",
+      "title": "*大型矿用挖掘机电缆卷筒装置改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201806006",
+      "title": "矿用梭车机载电缆收放控制系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrlzykf201910005",
+      "title": "不待扬鞭自奋蹄:资源观视角下自我管理对工作绩效的作用机理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201921415",
+      "title": "一种新型多功能行李箱",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "smsj201907280",
+      "title": "肠道胶囊内镜的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cnkxyjs201705011",
+      "title": "钠离子固体电解质材料研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lsltjs201903022",
+      "title": "利用海藻渣栽培食用菌的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfwx-x201901050",
+      "title": "李白诗语言中的酒文化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xkc-jyxx201106137",
+      "title": "浅谈酒文化对李白诗歌的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zzyfl201904013",
+      "title": "股东出资义务加速到期研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzjk201812049",
+      "title": "预防艾滋病也有“鸡尾酒疗法”",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "pjkj201910008",
+      "title": "梦之蓝2019中国白酒鸡尾酒世界杯赛完美收官现场超燃",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncpjg201209026",
+      "title": "葡萄酒的品评与鉴别",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mysfxyxb200701021",
+      "title": "'网络文学':命名的草率与内涵的无区别性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyyzy201526035",
+      "title": "师范生实践课程体系建设及实施路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyx201612030",
+      "title": "论中国酒文化传承与创新的五个关键问题",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonggsm201917055",
+      "title": "论平衡计分卡在我国企业绩效管理中的应用",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jmsjyxyxb201704116",
+      "title": "RPG教学游戏设计模式研究——基于'英雄之旅'理论的视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gtlxxb200904004",
+      "title": "使用主值空间表示的各向同性塑性本构方程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdwy-jj200907052",
+      "title": "浅谈政府委托审计中的取证工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201706052",
+      "title": "网络消费者行为特征及营销策略分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjxx201303209",
+      "title": "气敏传感器的研究现状及发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggckx201803011",
+      "title": "柔性太阳电池发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyzxjjxyxb201205016",
+      "title": "光照不均QR码图像二值化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qywh-x201911127",
+      "title": "在人力资源管理中推进企业职工'自我实现'的作用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cjck201833225",
+      "title": "农村初中生汉字书写现状及对策──以皖北农村初中为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "huaz201213003",
+      "title": "大革命失败后中国共产党对中国革命道路的探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcyj201303093",
+      "title": "三相异步电动机的几种调速方法",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jcyyy200106048",
+      "title": "齿轮箱故障的实时监测的原理和系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ccgcxyxb201602026",
+      "title": "心血管微创介入手术机器人推进机构的关键技术研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sdhg201923031",
+      "title": "燃料电池的发展趋势及应用前景综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nnsfgdzkxxxb201702029",
+      "title": "乡村教师现代化发展困境及突围——乡村教师发展系列研究之一",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxsfxyxb-zxsh201301019",
+      "title": "场景入式指导初探--语文教学论研究生专业发展研究之一",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj202008070",
+      "title": "李白诗语言中的酒文化",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "ccjyxyxb200803030",
+      "title": "中国古代文人的诗酒情怀",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggjz202002005",
+      "title": "人工智能时代新闻媒体创新发展的对策建议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201919028",
+      "title": "PEO基全固态聚合物电解质",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "cjck201726021",
+      "title": "影视动画中儿童审美心理变化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jianghlt200306024",
+      "title": "宋代诗论对李白不公正评价的时代原因",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjyxyxb200905002",
+      "title": "女性意识的增长与女性词选的出现——宋、明人选录女性词人的定量分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywjs201201020",
+      "title": "“洿池”析义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjyjc200310003",
+      "title": "全面小康社会评价指标体系的构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lxs202003023",
+      "title": "苗族锡绣在现代时装中的设计应用",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mfkj202002015",
+      "title": "黔东南(革)家蜡染图案艺术特征及其在时装设计中的运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzdb202004013",
+      "title": "纳米材料在纺织品功能整理中的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rzjs201706018",
+      "title": "手工印染中的时尚纺织品设计创新策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggxj201909033",
+      "title": "快时尚与人类需要的快行动",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgtspl200904010",
+      "title": "《纽约客》:媒介知识分子的傲慢与偏见",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rzjs201907016",
+      "title": "手工印染工艺在时尚纺织品中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyuan201601022",
+      "title": "什么是时尚:试论消费社会语境下的时尚观",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rzjs201801026",
+      "title": "手工印染时尚纺织品的肌理图案设计方法探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qdhb201310010",
+      "title": "大牌独爱手工艺——传统工艺成时尚新贵",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxfzkj202004011",
+      "title": "苏绣元素在现代纺织品设计中的创新与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggfz201810024",
+      "title": "三元集团:诠释'科技、时尚、绿色'纺织新概念",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mfkj201904019",
+      "title": "智能纺织品的分类及其应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjzxdb202003007",
+      "title": "泛在电力物联网基本构架应用的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzjy201904006",
+      "title": "基于时尚创意需求的纺织品设计人才培养模式探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yrzj201705001",
+      "title": "漫谈生态纺织染整技术及其发展动向",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzzb201204024",
+      "title": "什么是产业用纺织品？",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "guowsc201802005",
+      "title": "室内软装沙发布艺纺织品分类查询系统的构建",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rlgxx202001012",
+      "title": "面向可持续时尚的纺织品设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzsj201504048",
+      "title": "中国传统纺织品时尚化设计中科学与艺术的关系--夏布设计中的科学与艺术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdb201908009",
+      "title": "新材料、新技术在时尚家纺产品开发中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xbpg202005062",
+      "title": "唐三彩的艺术元素在时装设计中的创新应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xwahz201802010",
+      "title": "论时尚传播中的价值导向与人文关怀",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggxj201912015",
+      "title": "专家解读:什么是抗菌纺织品?抗菌性如何界定?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsfz200708006",
+      "title": "纺织品的概念营销",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hndzcmzyjsxyxb201305028",
+      "title": "探析媒介素养介入文秘专业人才培养方案的必要性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dxjy201312045",
+      "title": "良好的媒介素养是做好秘书工作的关键",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "aydxxb201703036",
+      "title": "新媒体时代秘书媒介素养培育的思考与实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ktnw-gzb201207041",
+      "title": "日本小学生的理想该让中国人反思",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "clgc202009001",
+      "title": "陶瓷光固化3D打印技术研究进展",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "zhjc202005027",
+      "title": "基于FDM彩色3 D打印自适应控制系统的设计",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "qywh-x201802214",
+      "title": "新媒体时代秘书媒介素养培育的思考与实践",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xbgbds201807034",
+      "title": "信息时代下秘书职业媒介素养缺失的原因分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcyk201709007",
+      "title": "从青少年'追星'现象中浅谈榜样教育",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "miszy201111007",
+      "title": "现代秘书应具有一定的媒介素养",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hljszfglgbxyxb201705015",
+      "title": "流质条款认定标准辨析——由“朱俊芳诉嘉和泰案”引起的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxxxljkjy202025019",
+      "title": "在小学语文教育中践行童话教育",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "whyjglgbxyxb201704024",
+      "title": "论小学教育专业中的童话写作教学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jtyx-xjk201903011",
+      "title": "来自星星的孩子——自闭症儿童",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gdsxyj200304002",
+      "title": "从微积分的发展看微积分的教学",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzysh201533118",
+      "title": "法学教育中学生法律思维的提升途径探寻",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kwyw202010044",
+      "title": "小学语文教育生活化的策略分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jydk202008008",
+      "title": "统编小学语文教材中国家认同教育内容研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtsjy200803006",
+      "title": "孤独症者知觉信息加工理论评述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfybj200717062",
+      "title": "儿童孤独症临床研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xbyxjy200606054",
+      "title": "孤独症成因的心理学研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dxs-jyjxyj201342249",
+      "title": "依托童话教育指导小学生童话创作的策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjjz201105002",
+      "title": "构筑人性化的高校校园居住环境——以嘉兴学院梁林校区总体规划为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kszk201904047",
+      "title": "对小学语文童话教学的几点反思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201663029",
+      "title": "论小学语文童话教学的实践与探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qs2012z1007",
+      "title": "关于中国特色社会主义道路世界影响的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjsk201806013",
+      "title": "催产素在孤独症发病机制及治疗中的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc202013190",
+      "title": "企业新闻宣传报道工作不足及应对策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slsy201803096",
+      "title": "秘书学专业新闻宣传课程教学重点探究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cmlt202019081",
+      "title": "企业宣传中宣传性与思想性的平衡",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jcyxx-zxk201512115",
+      "title": "新形势下关于秘书新闻宣传报道工作的探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jyz202011184",
+      "title": "新媒体背景下企业政工宣传方式的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cmlt202012107",
+      "title": "上市企业形象宣传策略探析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fzbl201814011",
+      "title": "论代孕中亲子关系的确认",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xkc-jy202038054",
+      "title": "小学语文课堂教学提问的优化策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxxxljkjy201824018",
+      "title": "教育戏剧与心理童话融合的创新教学实践—— 以'让我和你在一起'一课为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cmlt202010099",
+      "title": "新媒体时代下国有企业文化宣传工作的发展方向",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "ggykf202011009",
+      "title": "浅谈国有企业宣传创新及舆情应对——以H国企为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsjyxyxb201610145",
+      "title": "童话与儿童审美教育 ——对小学语文教材童话体课文改编问题的思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dyx-x201608043",
+      "title": "以童话为载体力促小学德育教育的有效性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjzl201906022",
+      "title": "小学语文童话情感教育促进学生健全人格的塑造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsmgy202019076",
+      "title": "教育戏剧在小学语文童话故事教学中的实施路径研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "ddjyllysj201607005",
+      "title": "童话引领小学生诗意教育的研究与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201905101",
+      "title": "小学语文童话教学存在的问题及对策",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201806014",
+      "title": "基于互联网思维下的应用型大学创新创业人才培养",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201902004",
+      "title": "细胞自噬与疾病的研究进展",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "ywknw202015107",
+      "title": "小学语文课堂提问技巧探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyys202004015",
+      "title": "高效小学语文课堂的提问艺术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kwyw-jyb202009032",
+      "title": "小学语文高年段课堂提问策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-ekx201812014",
+      "title": "孤独症谱系障碍儿童的早期识别",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsfjd200404012",
+      "title": "试论鉴定分歧的相关问题",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxxyxb201101020",
+      "title": "关于'管辖错误'作为再审事由的思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcjykc202019002",
+      "title": "我国中小学劳动教育发展历程概述(下)",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "ddjyllysj201508002",
+      "title": "小学一年级学生养成教育童话化研究与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiaos201729013",
+      "title": "群文阅读模式下高校小学教育专业学生儿童文学素养提升的方法探究——以童话教学的议题选择为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xswzk202005124",
+      "title": "如何发挥新媒体在企业宣传中的创新作用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sdyj202002022",
+      "title": "新形势下做好企业新闻宣传工作的途径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdsmgy202023041",
+      "title": "新形势下做好企业文化宣传工作的途径",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xdqy202008054",
+      "title": "新媒体背景下如何做好企业党政宣传工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kwyw202005032",
+      "title": "统编本小学语文教材选文体裁类型特点及分布探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdzxxjy201711025",
+      "title": "童话教育的理论与实践探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsjtx201611104",
+      "title": "浅论小学语文童话审美教学",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jxyk-xxb202005004",
+      "title": "指向思维提升的小学语文课堂提问策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyjzy-jyyjysj202004070",
+      "title": "小学语文课堂教学中的教师提问艺术研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsy201935073",
+      "title": "新媒体背景下企业宣传策略研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qyggygl202010094",
+      "title": "新媒体在企业宣传工作中的应用途径探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnjz201935038",
+      "title": "企业宣传报道要践行“五种思维”",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh202006104",
+      "title": "新时代企业宣传工作的新思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qywm202010041",
+      "title": "融媒体时代企业新闻宣传工作初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qywh-x201702007",
+      "title": "浅谈如何加强新形势下企业新闻宣传工作",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia202002363",
+      "title": "浅谈新媒体环境下企业新闻宣传工作开展思路",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xwyjdk202016124",
+      "title": "大数据技术下能源企业融媒体新闻宣传创新途径研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyyjypl201204025",
+      "title": "永远是童话（上）——新教育小学（扬州宝应）开放周记实",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ywknw201903148",
+      "title": "关于语文教材中童话选文的研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyyjypl201205018",
+      "title": "永远是童话（下）——新教育小学（扬州宝应）开放周记实",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxyj200403011",
+      "title": "聚丙烯酸增稠剂的反相乳液聚合及其增稠性能",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "zxyjzy-jyyjysj202007124",
+      "title": "小学语文课堂有效提问的几点策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz202018065",
+      "title": "浅谈小学语文课堂提问有效性的优化应用策略",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "shhg200501008",
+      "title": "耐盐聚丙烯酸阴离子增稠剂的研制",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zjgcxyxb201602003",
+      "title": "耐电解质疏水缔合增稠剂的制备",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rzjs202004007",
+      "title": "聚丙烯酸类增稠剂的合成及其应用性能",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ryhxgy201706010",
+      "title": "化妆品用聚丙烯酸类增稠剂的增稠性及耐离子性分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "tskx201612174",
+      "title": "极值规律的进一步探索:微分中值定理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgdb201933028",
+      "title": "小学语文教学中童话寓言的教育价值与策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwcgzl-g201606052",
+      "title": "在小学童话文本教学中践行陶行知的'创造教育'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyswx202001014",
+      "title": "微生物-肠-脑轴在孤独症谱系障碍中作用的研究进展",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "dzwy201911127",
+      "title": "舞绘'星'声——为自闭症儿童插上艺术的翅膀",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qyggygl202015099",
+      "title": "新闻宣传工作在企业文化建设中的作用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gj202020092",
+      "title": "试析新媒体时代如何做好企业新闻宣传工作",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcgyxx202008278",
+      "title": "论企业新闻宣传工作在推进企业文化建设中的实践与思考",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "msj-xia202002196",
+      "title": "论企业宣传工作的重要性及宣传策略",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jzjsjsj200808012",
+      "title": "嘉兴学院梁林校区扩建工程总体规划优胜方案设计评述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzyjycl200209009",
+      "title": "TiO2纳米粉体的制备工艺研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kszk201412046",
+      "title": "新课标下小学语文童话教学实践谈",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kwyw-jyb201909126",
+      "title": "试析德育在小学语文低段童话教学中的渗透策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "msj-xia201912121",
+      "title": "小学语文课堂提问策略",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dyx-x202027057",
+      "title": "农村小学语文课堂提问有效评价方式探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjykc202018002",
+      "title": "小学语文课堂提问现状与改进建议",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "fzxb200607027",
+      "title": "制作医用敷料的羧甲基纤维素纤维",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxdb-kxjy201408266",
+      "title": "童话在小学教育中的重要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkfyxzz201910017",
+      "title": "共同注意力训练对孤独症谱系障碍儿童共同注意能力疗效的观察",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "hxjs202015063",
+      "title": "孤独症儿童语言康复训练方法的探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scslkxzz201402023",
+      "title": "地方高等医学院校临床专业医学基础课程现状及改革策略",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yixjy200103005",
+      "title": "地方院校临床医学专业课程体系改革与办学模式探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkfyxzz201403014",
+      "title": "培训-家庭康复训练模式治疗儿童孤独症疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jydk202009007",
+      "title": "近十年我国中小学健康教育研究热点及趋势(2009-2019)——基于Citespace软件文献计量可视化分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yr201123003",
+      "title": "耐盐增稠剂的合成与性能",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sjzxyy-e202053023",
+      "title": "自噬与肿瘤疾病的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgqkyx201918010",
+      "title": "孤独症幼儿的情绪行为问题研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lcyxyjysj201705083",
+      "title": "从临床用药角度看抗高血压药物的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hljfz201904007",
+      "title": "基于消费心理的汉服初创企业市场调研与建议",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "cjck201920056",
+      "title": "浅析破产法司法解释(三)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scgc202010013",
+      "title": "破产法的宪法性及市场经济价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyzyhxp202001001",
+      "title": "上海市餐厨废弃油脂闭环管理模式实施成效及问题探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ctfz201936076",
+      "title": "试论互联网经济发展与破产法变革趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxyjmzszxb200903022",
+      "title": "谈谈现代汉语语素教学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyxjy201701075",
+      "title": "高血压药物治疗的原则及临床应用进展",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sxqn201906074",
+      "title": "论我国破产法的完善",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shej202004036",
+      "title": "基于汉服文化的交互产品设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gxfzkj202011025",
+      "title": "女性汉服消费意向调研分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxxxzz201543457",
+      "title": "抗高血压药物的临床应用及发展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "njtyxyxb202001006",
+      "title": "从依赖到固化:新时代大学生运动打卡现象解析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz202005249",
+      "title": "浅谈大学生早起手机打卡行为引导教育与学风建设",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbcjgdzkxxxb202005014",
+      "title": "中国元素在洛丽塔服装中的应用研究",
+      "download_times": 3,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "c7lXaTyy41UwqLdvBkijnaq37pkyyRsFR7HkDyyDxUQ=",
+      "title": "VOCs治理技术综述",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kGl+y/Z+za4SMODwG0lAOQ1Tx0vsub6zjtaCDr03j7E=",
+      "title": "甘肃省绿色金融发展现状、问题及对策建议∗",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QW+Zb8bQx+GaUi4ztDalwKmuY4FbMTP3zJhk4A7BM7Q=",
+      "title": "跨境电商综合试验区再“扩容”",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "S7in7n4YpWNnXme9FqyM8yKuR1krcLbv+isJVGVbm/c=",
+      "title": "我国跨境电商综合试验区加速扩容",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "EXxjXYK9dakNAQGoxjEVx8nvbQAAnXz1d7+1bpwWfMw=",
+      "title": "甘肃省商业银行发展绿色金融面临的问题及应对策略",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "CAdCx1+dhaiB7jOG5dERJH9w34f+bxJjoWd8LP9B8jA=",
+      "title": "甘肃省绿色金融发展思路",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "miszy201111007",
+      "title": "现代秘书应具有一定的媒介素养",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "miszy201210005",
+      "title": "浅议信息时代背景下秘书的媒介素养",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "662129030",
+      "title": "浅析媒介素养在秘书工作中的重要性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "665270296",
+      "title": "浅析媒介素养在秘书工作中的重要性",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "ktnw-gzb201207041",
+      "title": "日本小学生的理想该让中国人反思",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "CASS_43630816",
+      "title": "青少年偶像崇拜心理之引导",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "hndzcmzyjsxyxb201305028",
+      "title": "探析媒介素养介入文秘专业人才培养方案的必要性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dxjy201312045",
+      "title": "良好的媒介素养是做好秘书工作的关键",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "NSSD201803200000539073",
+      "title": "青少年偶像崇拜心理之引导",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wcyk201709007",
+      "title": "从青少年'追星'现象中浅谈榜样教育",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qywh-x201802214",
+      "title": "新媒体时代秘书媒介素养培育的思考与实践",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "aydxxb201703036",
+      "title": "新媒体时代秘书媒介素养培育的思考与实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "CiJVM9kaoppo6ah+IKxqiO2ItSTb6lkyPI37qPQzYXQ=",
+      "title": "微型企业信用风险评估——基于Logit模型的分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cmlt202019081",
+      "title": "企业宣传中宣传性与思想性的平衡",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qywh-x201702007",
+      "title": "浅谈如何加强新形势下企业新闻宣传工作",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsfjd200404012",
+      "title": "试论鉴定分歧的相关问题",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "666972254",
+      "title": "新形势下关于秘书新闻宣传报道工作的探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jxxyxb201101020",
+      "title": "关于'管辖错误'作为再审事由的思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_36445112",
+      "title": "关于“管辖错误”作为再审事由的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjdkdz-xx201303123",
+      "title": "新形势下秘书新闻宣传报道工作的探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "mis201710009",
+      "title": "办公室宣传工作应抓住五个着力点",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QKBJBD20202020102200001700",
+      "title": "新形势下加强企业新闻宣传工作浅谈",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cmlt202010099",
+      "title": "新媒体时代下国有企业文化宣传工作的发展方向",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "msj-xia202002196",
+      "title": "论企业宣传工作的重要性及宣传策略",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgsyw201306028",
+      "title": "中国秘书如何走向世界",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jcgyxx202008278",
+      "title": "论企业新闻宣传工作在推进企业文化建设中的实践与思考",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "fzysh201533118",
+      "title": "法学教育中学生法律思维的提升途径探寻",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "TkWhysI6xXYoRFgpEjtKe9tZ3xFtfKqDQtHsaKOEUA8=",
+      "title": "基于MATLAB的语音信号处理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "haWQHWGZvp3SDmLReUhPKg6v0nb9SDqJ6MvxT6uLQfY=",
+      "title": "MATLAB语音信号处理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "llzpTIMzWXA/oNtB+WptaSqlTOtgGBJwjup6S8gUFfQ=",
+      "title": "基于LabVIEW的语音信号处理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zm+Chv0E8u/oGAiarpBNqGhHzP2uxayqzWdNH6gvd+o=",
+      "title": "精确砂型铸造技术",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "v/LMmtM8DN+WMGcKyeGQ97BPKRsGJRC+LIP/co4RTEc=",
+      "title": "美术课中美育与德育的相互渗透",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "XLCMGA/i5jyo96ciFi43v/T/hxxHl/iQm2LhFrb85ro=",
+      "title": "基于单片机的放大器非线性失真研究装置设计",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "s/uKnwR8qS7B0jA7hKMRiV0TeDkn+Lccf4elZjRsIU0=",
+      "title": "关于Yolo目标检测算法的基础研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "/xVDr6QPeGp5JJvwreXJEwY8uUiuBTF0hxoj4x+pnPI=",
+      "title": "加压砂型铸造",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "Facilitating consumer preferences and product shelf life data in the design of e-grocery deliveries",
+    "淘鲜达和盒马鲜生的区别",
+    "广告植入",
+    "The effects of wait expectations and store atmosphere evaluations on patronage intentions in service-intensive retail stores．",
+    "经济衰退致英国“啃老”一族",
+    "The effects of wait expectations and store atmosphere evaluations on patronage intentions in service-intensive retail stores．",
+    "The effects of wait expectations and store atmosphere evaluations on patronage intentions in service-intensive retail stores．",
+    "rewal D，Baker J,Levy M，et a1．The effects of wait expectations and store atmosphere evaluations on patronage intentions in service-intensive retail stores．",
+    "企业并购",
+    "浅谈证券法第二条",
+    "logistucs distribution mode",
+    "并购财务风险",
+    "环境法案例分析",
+    "The effects of wait expectations and store atmosphere evaluations on patronage intentions in service-intensive retail stores．",
+    "外文文献",
+    "Audit risk of electronic commerce",
+    "电子商务审计风险",
+    "电子商务审计风险",
+    "Audit risk of electronic commerce *(年份:2020)",
+    "电子企业审计风险",
+    "Audit risk of electronic commerce *(年份:2019)",
+    "Audit risk of electronic commerce",
+    "电子商务审计风险研究",
+    "电子商务审计风险",
+    "电子商务审计风险研究",
+    "电子商务审计风险研究 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017)",
+    "电子企业审计风险",
+    "Audit risk of electronic commerce *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "Audit risk of electronic commerce *(年份:2019)",
+    "电子商务审计风险",
+    "电子商务审计风险",
+    "电子商务审计",
+    "电子企业审计风险",
+    "信息披露 违规研究 案例分析",
+    "外文文献",
+    "电子商务审计风险研究",
+    "电子企业审计风险",
+    "电子企业审计风险",
+    "电子商务审计风险研究",
+    "财务共享模式下",
+    "财务共享模式下",
+    "财务共享服务",
+    "财务共享服务模式",
+    "哈佛分析",
+    "哈佛分析",
+    "财务共享服务模式",
+    "财务共享服务模式",
+    "第三类主要为有机气态污染物，是挥发性有机物(VOCs)的重要来源，挥发性有机物是大气区域性复合型污染的重要前体物，在餐饮油烟中，可检测出的VOCs达300多种。",
+    "哈佛分析",
+    "财务共享模式下",
+    "第三类主要为有机气态污染物，是挥发性有机物(VOCs)的重要来源，挥发性有机物是大气区域性复合型污染的重要前体物，在餐饮油烟中，可检测出的VOCs达300多种。",
+    "财务共享服务模式",
+    "财务共享模式下营运资金管理",
+    "财务共享服务模式",
+    "财务共享服务模式",
+    "财务共享服务模式",
+    "财务共享服务模式",
+    "财务共享模式下",
+    "财务共享模式下营运资金管理",
+    "财务共享服务模式",
+    "财务共享服务模式",
+    "哈佛分析",
+    "哈佛分析",
+    "哈佛分析",
+    "经营绩效",
+    "Co-evolution path and its innovative design of China’s export cross-border e-commerce: a case study",
+    "甘肃省商业银行发展绿色金融面临的问题及应对策略",
+    "多中心治理视角下的兰州市生活垃圾分类治理问题研究",
+    "多中心治理视角下的兰州市生活垃圾分类治理问题研究",
+    "多中心治理视角下的兰州市生活垃圾分类治理问题研究",
+    "多中心治理视角下的兰州市生活垃圾分类治理问题研究",
+    "An Exploratory Study of Cross Border E-commerce (CBEC) in China: Opportunities and Challenges for Small to Medium Size Enterprises (SMEs)",
+    "Treatment technology of garbage classification and recovery *(年份:2020 OR 年份:2019 OR 年份:2018)",
+    "Treatment technology of garbage classification and recovery",
+    "嘉兴跨境电商综合试验区",
+    "经营绩效",
+    "甘肃省商业银行发展绿色金融面临的问题及应对策略",
+    "Treatment technology of garbage classification and recovery",
+    "Treatment technology of garbage classification and recovery *(年份:2020 OR 年份:2019 OR 年份:2018)",
+    "Treatment technology of garbage classification and recovery *(年份:2020 OR 年份:2019 OR 年份:2018)",
+    "Treatment technology of garbage classification and recovery",
+    "Application of Balanced Scorecard in E-Commerce Enterprise Performance Management–Taking Alibaba Group as an Example",
+    "多中心治理视角下的兰州市生活垃圾分类治理问题研究",
+    "((Gregory) 作者:Gregory 关键词:internal) 作者:Gregory 关键词:internal audit Date:2008-2008",
+    "((Gregory) Gregory internal) Gregory internal audit Date:2008-2008",
+    "作者:李海东 刊名:无机化学学报",
+    "高荧光性Eu3%2B掺杂CdMoO4薄膜有序结构的构筑及性能",
+    "零售电商企业的盈利模式",
+    "零售电商企业的盈利模式",
+    "青少年偶像崇拜与榜样教育研究",
+    "(高荧光性Eu3+掺杂CdMoO4薄膜有序结构的构筑及性能) 作者:李海东 刊名:无机化学学报",
+    "((Gregory) Gregory internal) Gregory internal audit Date:2008-2008",
+    "审计外包",
+    "内部审计外包",
+    "审计外包",
+    "内部审计外包",
+    "青少年偶像崇拜与榜样教育研究",
+    "审计外包",
+    "审计外包",
+    "(高荧光性Eu3%2B掺杂CdMoO4薄膜有序结构的构筑及性能) 作者:李海东 刊名:无机化学学报",
+    "青少年偶像崇拜与榜样教育研究",
+    "内部审计外包",
+    "内部审计",
+    "内部审计外包",
+    "零售电商企业的盈利模式",
+    "零售电商企业的盈利模式",
+    "内部审计外包",
+    "审计外包",
+    "秘书 宣传工作",
+    "企业宣传秘书",
+    "秘书 宣传",
+    "企业宣传",
+    "秘书 宣传工作",
+    "秘书 企业宣传",
+    "企业宣传",
+    "贾宪三角",
+    "财务共享服务构建的对策",
+    "5-硝基水杨醛缩乙二胺双希夫碱铜(Ⅱ)配合物的合成、晶体结构",
+    "5-硝基水杨醛缩乙二胺双希夫碱钴（Ⅲ）配合物的合成、晶体结构及热稳定性研究",
+    "高速公路服务区模式 英国",
+    "Financial risk network",
+    "(Assessment of financial risk ) (Language:'eng' )",
+    "((Financial risk  ) Date:2015-2020) (Language:'eng' )",
+    "(题名或关键词:(初中数学分层教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(探寻小学数学生活化教学的途径和策略)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(小学数学教师教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(员工培训) (Language:'eng' )",
+    "(题名:(新课改背景下)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名:(小学数学“统计与概率”结构化教学研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "(题名:(新课改背景下中小学数学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名:(小学数学分层异步教学的实施策略)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文写作",
+    "(题名或关键词:(小学数学教师教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(探寻小学数学生活化教学的途径和策略)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "(题名:(小学数学分层教学研究 ) and 作者:(杜丽)) (Type:(Periodical OR Thesis OR Conference) )",
+    "A gateway to creating an inclusive learning environment",
+    "(课堂主动 ) (Language:'eng' )",
+    "毛细管电泳法测定氨基酸",
+    "染料敏化太阳能",
+    "Financial risk",
+    "(Financial risk ) (Language:'eng' )",
+    "Financial risk",
+    "生物监测的优势",
+    "口语交际教学策略",
+    "口语交际教学策略",
+    "小学生勤俭",
+    "课标口语交际",
+    "语文口语交际教学策略",
+    "主动式课堂",
+    "(小学阶段传统文化教育) (Type:'Periodical' )",
+    "主动课堂定义",
+    "翻转课堂",
+    "翻转课堂定义",
+    "主动型课堂定义",
+    "主动型课堂定义",
+    "改革开放设计教育",
+    "改革开放艺术设计教育",
+    "((Financial risk ) Date:2015-2020) (Language:'eng' )",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "mouse",
+    "Financial risk identification and control of",
+    "小学数学“综合与实践”校本化实施策略研究",
+    "Patient Posture Monitoring",
+    "Flexible Sensors Testing",
+    "Patient Posture Monitoring System Based on Flexible Sensors",
+    "Patient Posture Monitoring System Based on Flexible Sensors",
+    "题名:Patient Posture Monitoring System",
+    "L苏氨酸",
+    "贾宪",
+    "论文查重",
+    "书法",
+    "依赖人格",
+    "(作者:(张华)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(新课改背景下)作者:(张华)) (Type:(Periodical OR Thesis OR Conference) )",
+    "共享服务构建过程中的问题",
+    "题名:室内空气质量检测",
+    "(作者:陈志林)",
+    "L苏氨酸",
+    "破损服装",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "有酶生物传感器检测抗坏血酸",
+    "有酶电化学生物传感器检测抗坏血酸",
+    "(Financial risk  ) Date:2015-2020",
+    "论文发表",
+    "(题名:(小学数学“统计与概率”结构化教学研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "(题名:(小学数学“统计与概率”教学中的问题研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(小学数学教师教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(浅议小学数学分层异步教学的实施策略) and 作者:(李英花)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(基于数学核心素养的小学数学教学改革 )) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学分层教学)) (Type:'Periodical' )",
+    "(题名或关键词:(小学数学分层教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(新课改背景下中小学数学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "教师学术论文写作",
+    "食品添加剂抗氧化剂",
+    "高速切削",
+    "翻转课堂定义",
+    "翻转课堂",
+    "(翻转课堂) (Language:'eng' )",
+    "口语交际",
+    "国内外高速公路服务区",
+    "((Financial risk ) Date:2015-2020) (Language:'eng' )",
+    "Financial risk",
+    "小学生勤俭",
+    "景观灯",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭品行",
+    "小学生勤俭",
+    "mouse design",
+    "生物监测",
+    "((Financial risk identification ) Date:2015-2020) (Language:'eng' )",
+    "Financial risk identification",
+    "(Financial risk identification ) (Language:'eng' )",
+    "Financial risk identification",
+    "((Financial risk identification ) Date:2015-2020) (Language:'eng' )",
+    "财务共享服务构建的问题",
+    "Patient Posture Monitoring",
+    "题名:Patient Posture Monitoring System",
+    "Flexible Sensors Testing",
+    "Patient Posture Monitoring System",
+    "Patient Posture Monitoring System",
+    "Flexible Sensors",
+    "Gulf of Thailand Information Super Highway, A Business Case on the Foundation of Integrated Operations",
+    "(小学阶段传统文化教育) (Type:'Thesis' )",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学阶段传统文化教育",
+    "小学语文课堂教学机智研究",
+    "小学语文课堂教学机智研究",
+    "(口语交际) (Language:'eng' )",
+    "Ten years of experience and results",
+    "课堂主动",
+    "翻转课堂定义",
+    "Ten years of experience and results",
+    "(微积分的创立) (Type:'Periodical' )",
+    "美国第一公路",
+    "有酶生物传感器检测抗坏血酸",
+    "抗坏血酸",
+    "微积分的创立",
+    "无酶生物传感器检测抗坏血酸",
+    "高分子",
+    "机器人工程专业",
+    "小学生勤俭",
+    "口语交际教学策略",
+    "分光光度法检测抗坏血酸",
+    "(小学阶段传统文化教育) (Type:'Thesis' )",
+    "小学生勤俭",
+    "(小学阶段传统文化教育) (Type:'Periodical' )",
+    "书法抑郁",
+    "依赖人格",
+    "敏感心理",
+    "敏感心理",
+    "高敏感特质",
+    "控制系统时钟",
+    "秘书 宣传工作",
+    "秘书 宣传",
+    "企业宣传",
+    "宣传 秘书",
+    "企业宣传秘书",
+    "秘书 企业宣传",
+    "秘书 宣传工作",
+    "宣传 秘书",
+    "企业宣传",
+    "financial risk",
+    "A gateway to creating an inclusive learning environment",
+    "Inverting the classroom",
+    "主动型课堂定义",
+    "主动课堂定义",
+    "Gulf of Thailand Information Super Highway, A Business Case on the Foundation of Integrated Operations",
+    "Financial risk",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "景观灯",
+    "小学生勤俭",
+    "景观灯",
+    "教师利益",
+    "生物监测在水环境",
+    "依赖人格",
+    "(题名或关键词:(小学数学教师教学)作者:(张华)) (Type:(Periodical OR Thesis OR Conference) )",
+    "高分子",
+    "((Financial risk identification ) Date:2015-2020) (Language:'eng' )",
+    "Financial risk network architect",
+    "Financial risk network architect",
+    "(题名或关键词:(小学数学分层教学)) (Type:'Periodical' CorePeriodical:'PKU' )",
+    "(题名或关键词:(小学数学教学教师)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(初中数学教学设计中应用差异教育的研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(小学数学“统计与概率”教学的行动研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "生物致突变致癌效应监测",
+    "(题名或关键词:(小学数学分层教学)) (CorePeriodical:'PKU' Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "论文发表",
+    "(题名:(小学“统计与概率”中数学实验教学的现状调查与策略研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "(题名:(小学数学分层异步教学的实施策略初探)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(Financial risk identification) (Language:'eng' )",
+    "高分子应用",
+    "高分子",
+    "导致幼儿孤独症交流障碍",
+    "秘书 企业宣传",
+    "秘书 企业宣传",
+    "企业宣传 秘书",
+    "企业宣传 秘书",
+    "企业宣传",
+    "秘书 宣传",
+    "宣传 秘书",
+    "纸层析法测定苏氨酸",
+    "作者:陈志林",
+    "L苏氨酸应用",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "((Assessment of financial risk ) Date:2013-2020) (Language:'eng' )",
+    "((Financial risk identification ) Date:2015-2020) (Language:'eng' )",
+    "(题名:(小学数学分层异步教学的实施策略)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(小学数学教师教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(初中数学教学设计中应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:'刘雅函'",
+    "(题名或关键词:(小学数学分层教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "论文发表",
+    "Financial risk identification",
+    "Financial risk",
+    "毛细管电泳法测定苏氨酸",
+    "高速切削机床",
+    "时钟控制系统",
+    "企业宣传",
+    "企业宣传",
+    "作者:陈莉",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "高敏感人群",
+    "高敏感",
+    "逃避型依赖人格",
+    "作者:'孟明娟'",
+    "小学阶段传统文化教育",
+    "课标口语交际",
+    "课标口语交际",
+    "课标口语交际",
+    "口语交际教学策略",
+    "口语交际教学策略",
+    "课标口语交际",
+    "股权激励与财务绩效中兴",
+    "(主题:(新课改背景下关于)作者:(张华)) (Type:(Periodical OR Thesis OR Conference) )",
+    "从小培养学生勤俭节约",
+    "荷移比色法测定苏氨酸",
+    "财务共享服务构建的对策",
+    "patient posture",
+    "脑白金",
+    "Flexible Sensors Testing",
+    "Patient Posture Monitoring",
+    "patient osture",
+    "Patient Posture Monitoring System",
+    "(题名或关键词:(基于数学核心素养的小学数学教学改革 )) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "企业宣传",
+    "企业宣传",
+    "秘书 宣传工作",
+    "企业宣传",
+    "宣传 秘书",
+    "企业宣传",
+    "(全部:(凝胶渗透)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(凝胶渗透)) (Type:(Periodical OR Thesis OR Conference) )",
+    "对产苏氨酸的展望",
+    "导致幼儿孤独症交流障碍原因",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "小学生勤俭",
+    "美国一号公路",
+    "口语交际教学策略",
+    "小学生勤俭",
+    "(小学生勤俭) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "(小学生勤俭) (CorePeriodical:'PKU' )",
+    "课标口语交际",
+    "勤俭",
+    "口语交际教学策略",
+    "(作者:陈志林) (PublishYear:'2020' )",
+    "((作者:陈志林) ) (ClassCodeForSearch:'0/T' )",
+    "高效液相色法法测定苏氨酸",
+    "荷移分光光度测定苏氨酸",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(商业银行) and 题名或关键词:(风险管理) and 题名或关键词:(流动性)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(流动性风险) and 题名或关键词:(风险管理) and 题名或关键词:(商业银行)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(流动性风险) and 题名或关键词:(风险管理) and 题名或关键词:(商业银行)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(流动性风险) and 题名或关键词:(风险管理) and 题名或关键词:(商业银行)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:Patient Posture Monitoring System) (Type:'Periodical' )",
+    "patient posture",
+    "Patient Posture",
+    "Flexible Sensors",
+    "(题名:Patient Posture Monitoring System) (Type:'Conference' )",
+    "patient",
+    "Patient Posture",
+    "小学生勤俭",
+    "口语交际教学策略",
+    "分光光度法检测抗坏血酸含量",
+    "口语交际教学策略",
+    "(股权激励与财务绩效中兴) (Type:'Thesis' )",
+    "高效液相色法法测定苏氨酸",
+    "Flexible Sensors Testing",
+    "(Patient Posture Monitoring) (Type:'Periodical' )",
+    "脑白金",
+    "Flexible Sensors Testing",
+    "Flexible Sensors Testing",
+    "Patient Posture Monitoring",
+    "(题名或关键词:(小学数学教学改革 )) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "微型企业信用风险评估—— 基于LOCIT模型的分析",
+    "抗坏血酸",
+    "Assessment of financial risk",
+    "(题名:(小学数学“统计与概率”教学的行动研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(小学数学教材螺旋上升编排方式探析——以统计与概率为例)) (Type:(Periodical OR Thesis OR Conference) )",
+    "生物效应监测",
+    "(题名或关键词:(初中数学教学设计中应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(初中数学教学设计中应用差异教育的研究)作者:(管彦民)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名:(小学数学统计与概率的教学思考)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(初中数学教学设计中应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "毛细管电泳法",
+    "(Financial risk ) (Language:'eng' )",
+    "高分子前景",
+    "导致幼儿孤独症交流障碍",
+    "导致幼儿孤独症交流障碍原因",
+    "导致幼儿孤独症交流障碍",
+    "题名:室内空气质量检测",
+    "L苏氨酸",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('商业银行') and 题名或关键词:(风险管理) and 题名或关键词:('流动性')) (Type:(Periodical OR Thesis OR Conference) )",
+    "生 物 柴 油 研 究 现 状 和 发 展 趋 势",
+    "新型绿色液体燃料——生物柴油",
+    "教师在课堂上的应变语",
+    "机箱",
+    "(主题:(小学数学) and 题名或关键词:(分类与整理)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(分类与整理)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(作者:(史宁中)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学教育思想)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(试谈我国当前数学教学方法的改革)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学基本思想) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(浅谈小学数学教学方法的选择)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学基本思想) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "新冠肺炎疫情下农产品",
+    "(主题:(小学数学基本思想) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(作者:(史宁中)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "信息技术能力与创新开放性对物流服务业创新的影响",
+    "信息过载环境下网络消费者购买意愿的形成研究",
+    "助力网易考拉海购",
+    "(主题:(小学养成教育)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Social Media and Human Need Satisfaction",
+    "(主题:(小学养成教育)) (Type:(Periodical OR Thesis OR Conference) )",
+    "社会化媒体环境下消费者信息搜寻效率研究",
+    "跨境电商平台存在问题及创新对策探索",
+    "(外文文献) (Language:'eng' )",
+    "赏识教育",
+    "A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalization[J].Child Development",
+    "driving school management system",
+    "外文文献",
+    "作者:'Beth Ackerman'",
+    "儿童场地设计",
+    "室内空气质量检测发展",
+    "室内空气质量检测发展",
+    "室内空气质量检测发展",
+    "室内空气质量检测发展",
+    "中医药",
+    "(橡胶材料) (Language:'eng' )",
+    "张艺谋电影",
+    "太阳能电池研究",
+    "刊名:教育理论与实践",
+    "砂型铸造成型工艺参数",
+    "临床输血技术规范",
+    "浅谈小学语文教师的应变能力",
+    "刊名:教育理论与实践",
+    "Design of Indoor Air Quality Monitoring  Systems",
+    "超市收银管理系统",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "设计方法",
+    "解决信息不对称问题",
+    "发展工程大数据标准化",
+    "Three-Dimensional Printing of a LiFePO4/Graphite Battery Cell via Fused Deposition Modeling",
+    "发展工程大数据标准化",
+    "Amplifier nonlinear distortion circuit",
+    "碱性电解池电解水水制氢",
+    "质子交换膜电解池",
+    "电解水制氢方式的原理及研究进展",
+    "基于yolo目标检测算法的实现 *(年份:2020)",
+    "基于yolo目标检测算法的实现 *(年份:2020)",
+    "基于yolo目标检测算法的实现",
+    "海的女儿教学设计",
+    "Ni-Fe-WSx polynary hollow nanoboxes as promising electrode catalysts for high-efficiency triiodide reduction in dye-sensitized solar cells",
+    "抗血小板凝聚药物",
+    "粉末包装机趋势",
+    "包装机背景",
+    "颗粒包装机背景",
+    "(web) (Language:'eng' )",
+    "management system",
+    "(computer system web) (Language:'eng' )",
+    "( web) (Language:'eng' )",
+    "(web) (Language:'eng' )",
+    "房间温控系统",
+    "沸石 固体碱催化剂 生物柴油",
+    "榆树下的欲望与雷雨",
+    "雷雨伦理",
+    "服装旧物回收",
+    "新能源发电并网系统",
+    "浅探小学数学校本课程开发路径与案例研究",
+    "室内污染",
+    "(主题:(小学养成教育)) (Type:(Periodical OR Thesis OR Conference) )",
+    "吸烟室",
+    "框架结构",
+    "(主题:(reinforced concrete structure) and 题名或关键词:(reinforced concrete structure) and 题名:(reinforced concrete structure)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(reinforced concrete structure) and 题名或关键词:(reinforced concrete structure) and 题名:(reinforced concrete structure)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "建筑中的色彩美",
+    "医学",
+    "(",
+    "博弈论与信息经济学",
+    "染料敏化Ti",
+    "(主题:(养成教育发展过程) and 题名或关键词:(习惯养成) and 题名或关键词:(发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "瀑布开发",
+    "抖音和快手运营模式",
+    "报应观念推动下的刑罚变迁",
+    "报复观念",
+    "报复观念",
+    "室内环境空气质量监测技术规范研究",
+    "基于yolo目标检测算法的实现",
+    "5G",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于yolo目标检测算法的实现",
+    "氯吡格雷副作用",
+    "引起湿罗音",
+    "微泵的使用",
+    "氯吡格雷抗血小板聚集副作用",
+    "(主题:(金融机构)) (Type:(Periodical OR Thesis OR Conference) )",
+    "微泵的使用",
+    "Adaptive Large Neighborhood Search",
+    "氯吡格雷副作用",
+    "小学语文 分角色朗读",
+    "3D打印技术 锂离子电池电极材料",
+    "((主题:(养成教育) and 题名或关键词:(习惯养成) and 题名:(小学)) and Date:2000-*) (Type:'Periodical' )",
+    "((主题:(养成教育) and 题名或关键词:(习惯养成) and 题名:(小学)) and Date:2000-*) (SingleSourceDB:(WF) Type:'Periodical' )",
+    "大陆架划界原则",
+    "国际经济与贸易",
+    "大陆架划界自然延伸原则内涵",
+    "大陆架划界原则内涵",
+    "合成 乙酰水杨酸",
+    "法人人格逆向否认",
+    "关键词:涤纶 医用",
+    "涤纶医用防臭",
+    "涤纶服装内衬",
+    "自我生命价值教育",
+    "赏识教育幼儿园",
+    "(橡胶材料) (Language:'eng' )",
+    "赏识教育幼儿园",
+    "学前美术中美育与德育",
+    "美育与德育关系的当代阐述",
+    "学前美术",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "海的女儿解读",
+    "(主题:(小学) and 题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(酒店) (Language:'eng' )",
+    "室内空气质量智能检测发展",
+    "室内空气质量智能检测系统设计",
+    "(双循环经济) Date:2020-*",
+    "室内空气质量检测发展",
+    "(双循环经济) Date:2020-*",
+    "公司法人格外部逆向否认研究",
+    "旧衣物回收意识",
+    "旧衣物回收再利用",
+    "(powder packing machine) Date:2015-2020",
+    "新冠肺炎疫情下电子商务的机遇和挑战",
+    "(顾琳琳 2005) (ClassCodeForSearch:'0/F' Creator:'顾琳琳' )",
+    "Amplifier nonlinear distortion circuit",
+    "路灯市场现状",
+    "路灯市场现状",
+    "精馏在工业生产中的应用及发展现状",
+    "( 关键词:新型精馏) (PublishYear:'2017' )",
+    "勤俭品行养成",
+    "labelling machine",
+    "(等距离中间线) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "包装机",
+    "电瓶充电柜APP",
+    "(packing machine) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "光伏控制系统",
+    "外交特权与豁免的理论依据",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "外交特权与豁免的理论依据及主要内容",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "养成教育德",
+    "法人人格逆向否认",
+    "家长群",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "(语音信号处理) (Type:'Thesis' )",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "试论美国法上揭穿公司面纱原则之适用",
+    "公司法人人格外部逆向否认研究",
+    "人工神经网络在纺织工业中的应用",
+    "An Expert System for Special Body Shapes Recognition in Apparel Made-to-Measure",
+    "孩子自我追求",
+    "新能源微电网",
+    "海的女儿解读",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "光伏控制柜",
+    "小学生道德养成",
+    "(主题:(小学数学教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "一种城市LED路灯远程智能控制方法及装置",
+    "(主题:(小学数学) and 题名或关键词:(条形统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "太阳能电池研究",
+    "产品设计",
+    "外观设计",
+    "(产品设计) (Language:'eng' )",
+    "外观设计方法",
+    "(产品设计) (Language:'eng' )",
+    "长宁区0-3岁婴幼儿心智健康状况研究和干预课题报告",
+    "公益性儿童活动场地研究",
+    "氨氯地平降压",
+    "阿司匹林不良反应",
+    "氨氯地平",
+    "阿司匹林和氢氯吡格雷抗血小板聚集",
+    "新冠疫情制度",
+    "消费者个人信息再利用的立法规制研究",
+    "B2C模式下我国跨境进口电商成功经验探析——以网易考拉海购为例",
+    "(主题:(幼儿) and 题名或关键词:(纸艺)) (Type:(Periodical OR Thesis) )",
+    "作者:张彩华",
+    "阿司匹林的合成",
+    "( 作者:张彩华) (Type:'Cstad' )",
+    "( 作者:张彩华) (ClassCodeForSearch:'0/T' )",
+    "Amplifier nonlinear distortion circuit",
+    "(注塑模具) (Language:'eng' )",
+    "学前美术中美育与德育",
+    "(外文翻译) (ClassCodeForSearch:'0/H' )",
+    "注塑",
+    "美术中美育与德育关系",
+    "(硅橡胶) (Language:'eng' )",
+    "(模具) Date:2010- and",
+    "学前美术中美育与德育",
+    "(模具综合) (Language:'eng' )",
+    "((模具) Date:2010- and ) (Language:'eng' )",
+    "(纸艺) (Type:'Thesis' )",
+    "学前美术美育与德育",
+    "((模具) Date:2010- and ) (Language:'eng' Type:'Periodical' )",
+    "((模具类) Date:2010- and ) (Language:'eng' )",
+    "学前美术中美育与德育关系",
+    "基于信息采纳理论的在线商品评论有用性影响因素研究",
+    "“亚马逊物流",
+    "网易考拉海购经营模式研究",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(中医药) (Type:'Periodical' )",
+    "作文教学",
+    "酒店",
+    "(题名或关键词:(药物毒性作用机制的代谢组学研究)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(代谢组学的研究方法及其在药学中的应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(代谢组学的研究方法及其在药学中的应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(labelling machine) (Language:'eng' SingleSourceDB:(WF) )",
+    "labeller",
+    "浅谈我国现有生物柴油生产工艺",
+    "生物柴油的发展",
+    "(主题:('养成教育研究')) (Type:(Periodical OR Thesis OR Conference) )",
+    "小学生勤俭",
+    "染料敏化TiO2太阳能电池纳米材料",
+    "Circuit design of amplifier nonlinear distortion research device",
+    "(嘉兴 经济) Date:2019-2020",
+    "报复观念",
+    "学校信息化",
+    "瀑布开发",
+    "报复观念",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:基于YOLO目标检测算法的实现 AND (题名或关键词:YOLO AND 题名或关键词:(目标检测 OR 'Object detection')))) (Type:'Periodical' )",
+    "基于yolo目标检测算法的实现",
+    "基于yolo目标检测算法的实现",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "程恩富主编《现代政治经济学案例》简评",
+    "Fabrication of flexible lithium-ion battery electrodes for wearable full battery with high electrochemical performance",
+    "低年级阅读教学设计策略——以部编小学语文一、二年级教材为例",
+    "桩基一体化",
+    "大陆架划界原则内涵",
+    "作者:'Leann Lipps Birch'",
+    "室内空气质量检测发展",
+    "室内空气质量检测",
+    "小学数学校本课程生活化的探究",
+    "Durability of concrete",
+    "(框架结构) (Language:'eng' )",
+    "(主题:(框架结构)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(Office building) and 题名或关键词:(Office building) and 题名:(Office building)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(preparation conductive polymers) (Language:'chi' )",
+    "preparation conductive polymers",
+    "(主题:(小学养成教育意义)) (Type:(Periodical OR Thesis OR Conference) )",
+    "糖尿病病人右下肢疼痛",
+    "徐明霞",
+    "微泵的使用",
+    "氨氯地平",
+    "作者:'李杰'",
+    "Weeder",
+    "语文作文问题",
+    "关键词:residential design shanghai",
+    "生物柴油的研究现状和发展趋势",
+    "Amplifier nonlinear distortion circuit",
+    "敷料综述",
+    "5G",
+    "computer system web",
+    "(web) (Language:'eng' )",
+    "computer system web",
+    "质子交换膜燃料电池膜电极的 结构优化",
+    "(web程序设计) (Language:'chi' )",
+    "(web) (Language:'eng' )",
+    "computer system",
+    "(computer system web) (Language:'eng' )",
+    "web程序设计",
+    "(  Weeder) (Language:'eng' )",
+    "Weeder Human factors",
+    "榆树下的欲望伦理意识",
+    "共同家庭悲剧下迥异的伦理意识及救赎",
+    "盐酸文拉法辛的反应条件",
+    "沸石分子筛 固体碱催化剂 生物柴油",
+    "作者:'Grazyna Kochanska'",
+    "Grazyna Kochanska,Nazan Aksan,Amy L. Koenig",
+    ".A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalizatio",
+    "作者:'Beth Ackerman'",
+    "Appreciation education",
+    "室内空气质量检测发展",
+    "(小学应变语) (Type:'Thesis' )",
+    "BP neural network",
+    "The female suit",
+    "静电场应用",
+    "其他催化剂合成阿司匹林",
+    "Facebook as a tool for learning purposes: Analysis of the determinants leading to improved students' learning",
+    "Facebook as a tool for learning purposes: Analysis of the determinants leading to improved students' learning",
+    "(中药炮制和用法) 作者:徐明霞",
+    "关键词:超市收银管理",
+    "Amplifier nonlinear distortion circuit",
+    "放大器非线性失真研究装置",
+    "(汇率不确定性和金融危机) (PublishYear:'2020' )",
+    "Amplifier nonlinear distortion",
+    "外汇风险控制",
+    "汇率不确定性和金融危机",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion circuit",
+    "疫情",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "法人人格逆向否认制度",
+    "室内空气质量检测发展",
+    "基于yolo目标检测算法的实现",
+    "基于yolo目标检测算法的实现",
+    "美育与德育",
+    "(硅橡胶) (Language:'eng' )",
+    "赏识教育幼儿园",
+    "康龙化成",
+    "股权激励措施",
+    "颗粒包装机现状",
+    "儿童期",
+    "(主题:(小学生数据分析能力)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(中华人民共和国教育部 全日制义务教育数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "γ-Al2O3 固体碱催化剂生物柴油",
+    "(主题:(小学数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(中华人民共和国教育部 全日制义务教育数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "Amplifier nonlinear distortion circuit",
+    "涤纶",
+    "涤纶医用抗菌",
+    "中国图腾纹样在珠宝首饰中的运用与创新研究--以龙凤图腾为例",
+    "涤纶保暖服装",
+    "新冠肺炎疫情下的中国物流行业:挑战与机遇",
+    "新冠肺炎疫情下电子商务",
+    "(street lamp) (Language:'eng' )",
+    "基于数学校本课程培养学生创新能力",
+    "小学数学校本课程开发的识与实践",
+    "(street lamp) (Language:'eng' )",
+    "小学数学校本课程开发的；识与实践",
+    "节气 视觉",
+    "(Landscape lamp) (ClassCodeForSearch:'0/H' )",
+    "小学数学校本课程开发的；人识与实践",
+    "street lamp",
+    "基于产业结构演进分析桂林市的发展定位",
+    "L小学STEM校本课程开发与实施的 个案研究",
+    "空气质量检测",
+    "空气质量检测发展",
+    "空气质量检测发展",
+    "新冠肺炎疫情复工",
+    "新能源发电并网",
+    "光伏微电网系统",
+    "微电网",
+    "基于触觉体验的儿童户外活动场地设计探析",
+    "(嘉兴 经济) Date:2019-2020",
+    "碱性电解水制氢",
+    "Amplifier nonlinear distortion circuit",
+    "(Amplifier nonlinear distortion circuit) (Language:'eng' )",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "(((labelling machine ) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))) AND ((IsOA:true))) (Type:'Periodical' Language:'eng' )",
+    "labelling machine",
+    "labelling machine",
+    "(相邻或相向国家大陆架划界问题) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "发展工程大数据标准化",
+    "解决信息不对称问题",
+    "BIM在工程造价中的应用",
+    "3D printing nanocomposite gel-based thick electrode enabling both high areal capacity and rate performance for lithium-ion battery",
+    "(web程序设计) (Language:'eng' )",
+    "(computer system) (Language:'eng' )",
+    "(computer system) (Language:'eng' )",
+    "( web) (Language:'eng' )",
+    "web",
+    "web development",
+    "web",
+    "management system",
+    "(榆树下的欲望与雷雨) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "Application of zirconia modified with KOH as heterogeneous solid base catalyst to new non-edible oil for biodiesel",
+    "(榆树下的欲望与雷雨) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "榆树下的欲望伦理",
+    "魁北克 法案",
+    "学前美术中美育与德育",
+    "学前美术中美育与德育",
+    "(橡胶材料) (Language:'eng' )",
+    "赏识教育幼儿园",
+    "浅谈教师在课堂上的应变语",
+    "(主题:('养成教育')) (Type:(Periodical OR Thesis OR Conference) )",
+    "Photovoltaic performance and long-term stability of dye-sensitized meosocopic solar cells",
+    "(主题:(养成教育发展过程) and 题名或关键词:(习惯养成) and 题名或关键词:(发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(小学生勤俭) Date:2017-2020",
+    "(主题:(养成教育发展) and 题名或关键词:(习惯养成) and 题名或关键词:(发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "染料敏化TiO2太阳能电池",
+    "浆料的制备方法对染料敏化太阳能电池",
+    "(主题:('养成教育发展') and 题名或关键词:(习惯养成) and 题名或关键词:(发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "生物柴油概述及前景",
+    "语言与言语障碍",
+    "迭代开发",
+    "抖音和快手运营模式的比较",
+    "报应",
+    "新冠肺炎疫情",
+    "(主题:(小学数学教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "程恩富主编《现代政治经济学案例》简评",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "电子商务实施因素的信息量度量模型",
+    "作者:'Yu-Chen Chen'",
+    "太阳能电池",
+    "太阳能电池研究",
+    "拉曼检测多糖",
+    "表面增强拉曼蛋白质",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "表面增强拉曼",
+    "(主题:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "大陆架划界公平原则",
+    "(设计方法) (Language:'eng' )",
+    "外观设计方法",
+    "(外观设计) (Language:'eng' )",
+    "作者:Jennifer Henderlong Corpus",
+    "作者:'Paul C. Burnett'",
+    "作者:'Paul C. Burnett'",
+    "mba交联剂魔芋",
+    "作者:'Julie Rotter'",
+    "氨氯地平",
+    "阿司匹林",
+    "Fuzzy multi-attribute equipment selection based on information axiom",
+    "浅谈小学数学学科校本课程的开发",
+    "小学STEAM校本课程的开发研究",
+    "(框架结构) (Language:'eng' )",
+    "钢筋混凝土框架结构",
+    "(Durability of concrete) (Language:'eng' )",
+    "(主题:(框架结构)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(钢筋混凝土框架结构) (Language:'eng' )",
+    "框架结构",
+    "(主题:(框架结构)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Development of Magnetic Multi-Shelled Hollow Catalyst for Biodiesel Production",
+    "液态电解质染料敏化太阳能电池",
+    "作文教学",
+    "(SSM) (Language:'eng' )",
+    "(基于SSM酒店管理系统) (Language:'chi' )",
+    "日本歌舞伎与中国京剧",
+    "纸艺幼儿",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号",
+    "语音信号处理",
+    "语音信号处理",
+    "Construction and Application of an Intelligent Air Quality Monitoring System for Healthcare Environment[",
+    "(  Weeder) (Language:'eng' Type:'Periodical' )",
+    "公司法人格逆向否认研究",
+    "(air quality inspection ) (Language:'eng' )",
+    "揭开公司面纱制度应用于司法实践的若干问题研究",
+    "量身定制西装",
+    "论公司法人人格否认的反向适用",
+    "小学生家长接受家庭教育指导现状研究——基于南昌市Q区的调查",
+    "作者:张彩华",
+    "作者:张彩华",
+    "( 作者:张彩华) 关键词:浓硫酸",
+    "勇气教育",
+    "小学应变语",
+    "小学应变语",
+    "沟通方式对沟通效果的影响",
+    "拖延症",
+    "敷料综述",
+    "静电场",
+    "中药炮制和用法",
+    "(中药炮制和用法) (Type:'Thesis' )",
+    "关键词:加盐精馏",
+    "文本解读",
+    "(关键词:加盐精馏) 关键词:'加盐萃取精馏'",
+    "导电高分子的电极材料制备",
+    "preparation conductive polymers",
+    "赏识教育研究",
+    "A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalization[J].Child Development",
+    "Chao．R．K．1994．Beyond parental control and authoritarian parenting style：Understanding Chinese parenting through the cultural notion of training．Chiid Development",
+    "质子交换膜燃料电池低载Pt",
+    "作者:'Jennifer  Henderlong'",
+    "computer system",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "汇率不确定性",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "(放大器非线性失真研究装置) (Type:'Periodical' )",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "教学设计",
+    "(主题:('养成教育意义')) (Type:(Periodical OR Thesis OR Conference) )",
+    "室内空气质量检测发展",
+    "室内空气质量检测发展",
+    "低功耗室内空气质量检测系统的设计与研究",
+    "中药炮制和用法",
+    "氯吡格雷",
+    "氨氯地平副作用",
+    "氯吡格雷副作用",
+    "室性早搏",
+    "Adaptive Large Neighborhood Search",
+    "(徐明霞) (Type:'Periodical' )",
+    "室性早搏的疾病",
+    "魁北克问题",
+    "氯吡格雷副作用",
+    "湿罗音识别",
+    "镁合金的处理方法",
+    "引起湿罗音的疾病",
+    "氯吡格雷副作用",
+    "绑架罪 既遂",
+    "微信公众平台发展现状",
+    "来自美国家园合作的启示——基于美国几种家园合作计划的思考",
+    "(中药炮制和用法)",
+    "海的女儿解读",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "阿司匹林和氢氯吡格雷",
+    "((主题:(养成教育) and 题名:(习惯) and 题名或关键词:(小学习惯养成)) and Date:2016-*) (SingleSourceDB:(WF) Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:(养成教育) and 题名:(习惯) and 题名或关键词:(小学习惯养成)) and Date:2016-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "关键词:格纹 毛衫",
+    "空气检测系统的研究",
+    "题名:空气检测系统的研究",
+    "(基于MSP430单片机的环境监测仪设计)",
+    "关键词:residential design shanghai",
+    "纳米材料",
+    "CRO行业",
+    "生物柴油的研究现状及发展前景",
+    "B2C",
+    "生物．柴油的研究现状与展望",
+    "新药研发外包行业",
+    "生物柴油 的研 究现状及进展",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "儿童期人格",
+    "grinding head",
+    "关键词:新型精馏",
+    "labeller",
+    "勤俭品行养成 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "阿司匹林的合成综述",
+    "音乐播放器",
+    "(题名或关键词:(壳聚糖微球)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(壳聚糖微球)) (Type:(Periodical OR Thesis OR Conference) )",
+    "乙酰水杨酸（阿斯匹林）的制备",
+    "(JAVA) (Language:'eng' Type:'Thesis' )",
+    "(题名或关键词:(壳聚糖微球)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep) or 题名或关键词:(满意度) or 题名:(App)) (Type:(Periodical OR Thesis OR Conference) )",
+    "应变语",
+    "应变语",
+    "(Electric tracking car) (Type:'Periodical' )",
+    "作者:'He, Shuangchi'",
+    "磁性固体碱催化剂制备生物柴油",
+    "基于ARM的室内空气质量监测系统的设计",
+    "磁性固体碱催化剂制备生物柴油",
+    "初中语文作文 内容 不具体",
+    "Nifewsx-polynary-hollow-nanoboxes-a",
+    "(我国公益信托业务的发展及建议) (PublishYear:'2016' )",
+    "浅谈教师在课堂上的应变语",
+    "浅谈职业中学语文课堂教学的应变艺",
+    "真空压膜机",
+    "i 1",
+    "(computer web) (Language:'eng' )",
+    "(金融危机) (Type:'Thesis' PublishYear:'2020' )",
+    "室内空气检测",
+    "燃料电池",
+    "基于TiO2多壁碳纳米管复合",
+    "质子交换膜燃料电池",
+    "(主题:(小学数学概率与统计) and 题名或关键词:(数学建模)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "质子交换膜燃料电池制备",
+    "((主题:(勤俭品行养成) and 题名或关键词:(小学生)) and Date:2016-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "(考试焦虑的心理机制) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "应变语",
+    "注意力缺陷多动病",
+    "CVRP",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于触觉体验的儿童",
+    "语音信号处理",
+    "先天禀赋风湿关节炎发病机制",
+    "温控系统",
+    "刊名:'Hans Journal of Chemical Engineering and Technology'",
+    "(中医药) (Type:'Periodical' PublishYear:'2020' )",
+    "敷料综述",
+    "敷料",
+    "(路灯) (Language:'jpn' )",
+    "张艺谋美感",
+    "质子交换膜燃料电池膜电极综述",
+    "management system",
+    "(computer system) (Language:'eng' )",
+    "作者:'Grazyna Kochanska'",
+    "Teaching Strategies: “They Just Won't Listen to Me”: A Teacher's Guide to Positive Behavioral Interventions[J].Childhood Education",
+    "A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalization[J].Child Development",
+    "Teaching Strategies: “They Just Won't Listen to Me”: A Teacher's Guide to Positive Behavioral Interventions[J].Childhood Education",
+    "Appreciation education",
+    "A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalization[J].Child Development",
+    "(嘉兴 经济) Date:2019-2020",
+    "(嘉兴 经济) Date:2019-2020",
+    "Circuit design of amplifier nonlinear distortion research device",
+    "畲族凤凰冠",
+    "临床输血技术规范",
+    "微信公众平台在幼儿园管理中的运用与开发",
+    "临床输血指南",
+    "中药炮制和用法",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率) and 题名或关键词:(统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学基本思想) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学基本思想) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "异地投标",
+    "computer system web",
+    "computer system web",
+    "computer system",
+    "(web development) (Language:'eng' )",
+    "(web) (Language:'eng' )",
+    "国外 Facebook 在教育中的应用研究",
+    "作者:陈如清",
+    "Android开发",
+    "秋季健康饮食",
+    "颗粒包装机现状",
+    "包装机械现状",
+    "粉末包装机背景",
+    "颗粒包装机研究",
+    "Conductive Polymer Binder for High-Tap-Density Nanosilicon Material for Lithium-Ion Battery Negative Electrode Application",
+    "太阳能电池研究",
+    "(主题:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(小学数学分层教育)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "D公司服装产品营销策略研究",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "阿司匹林不良反应",
+    "服装消费情况",
+    "室内空气质量检测发展",
+    "powder packing machine",
+    "(雷雨伦理) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "共同家庭悲剧下迥异的伦理意识及救赎",
+    "路灯市场现状",
+    "钙镁铝 固体碱催化剂 的制备及表征",
+    "非对称信息供应链激励机制模型研究",
+    "氢氧化钠合成阿司匹林",
+    "基于游程检测法重构集合经验模态的养殖水质溶解氧预测",
+    "外交特权与豁免的主要内容",
+    "阿魏酸哌嗪片疗效",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "追求自我教育",
+    "自我生命价值",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "室内空气质量检测发展",
+    "室内空气质量检测系统",
+    "室内空气质量检测",
+    "室内空气质量检测发展",
+    "室内空气质量检测系统",
+    "解决魁北克问题",
+    "服装定制问卷",
+    "Comprehensive control of voltage loss enables 11.7% efficient solid-state dye-sensitized solar cells",
+    "尚书天",
+    "顾琳琳 2005",
+    "探析企业财务报表粉饰问题的成因及解决对策",
+    "(顾琳琳 2005) (ClassCodeForSearch:'0/F' )",
+    "勤俭品行养成",
+    "精馏在工业生产中的应用",
+    "(小学生勤俭) Date:2016-2020",
+    "(  Weeder) 关键词:Human factors",
+    "室内空气质量检测系统发展",
+    "控制柜",
+    "橡胶复合材料",
+    "学前美术",
+    "(丁苯橡胶复合材料) (Language:'chi' )",
+    "赏识教育幼儿园",
+    "赏识教育幼儿园",
+    "橡胶",
+    "(橡胶复合材料) (Language:'eng' )",
+    "生物实验技能",
+    "(橡胶) (Language:'eng' )",
+    "学前美术美育与德育",
+    "((注塑模具) Date:2010- and ) (Language:'eng' )",
+    "(学前美术中美育与德育) (Language:'chi' )",
+    "硅橡胶",
+    "(注塑模) Date:2010- and",
+    "((注塑模具) Date:2010- and ) (Language:'eng' )",
+    "外文翻译",
+    "((模具) Date:2010- and ) (Language:'eng' )",
+    "学前美术",
+    "橡胶",
+    "(模具) Date:2010- and",
+    "((注塑模具) Date:2010- and ) (Language:'eng' )",
+    "(注塑) Date:2010- and",
+    "(注塑) (Language:'eng' )",
+    "(橡胶) (Language:'eng' )",
+    "橡胶",
+    "(注塑) (Language:'eng' )",
+    "学前美术中美育与德育",
+    "(小学应变语) (Type:'Thesis' )",
+    "Comprehensive control of voltage loss enables 11.7% efficient solid-state dye-sensitized solar cells",
+    "染料敏化太阳能电池TiO2",
+    "(小学生勤俭) Date:2017-2020",
+    "(主题:('养成教育研究')) (Type:(Periodical OR Thesis OR Conference) )",
+    "新能源发电并网系统",
+    "Assembly type grinding head",
+    "儿童社会性认知",
+    "Assembly type grinding head",
+    "(street lamp) (Language:'eng' )",
+    "( street lamp) (Language:'eng' )",
+    "(street lamp) (Language:'eng' )",
+    "street lamp",
+    "小学数学学科校本教研工作浅谈",
+    "小学数学校本课程开发——以“数学活动”为主线",
+    "一门校本课程开发的研究报告——以小学数学游戏课程为例.",
+    "street lamp",
+    "游戏化教学激发小学数学学习兴趣 的研究",
+    "幼儿园家园共育的途径",
+    "微信公众平台在家园共育中的应用研究",
+    "小学应变语言",
+    "(小学课堂应变语) (Type:'Thesis' )",
+    "小学应变语",
+    "沟通环境对沟通效果的影响",
+    "文本解读策略",
+    "Amplifier nonlinear distortion circuit",
+    "(汇率不确定性) (PublishYear:'2020' )",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "二甲醚的研究进展",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "放大器非线性失真研究装置",
+    "教学设计语文",
+    "(外汇风险控制) (PublishYear:'2020' )",
+    "Comprehensive control of voltage loss enables 11.7% efficient solid-state dye-sensitized solar cells",
+    "(主题:(小学数学课程核心词)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学核心素养)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(义务教育数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "γ-Al2",
+    "(主题:(小学数学核心素养)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "γ-Al",
+    "(主题:(小学数学课程核心词)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学课程核心词) and 题名或关键词:(统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "郑小林.论小学数学核心素养的培养",
+    "(主题:(小学数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "雷雨伦理意识",
+    "小学低段教师语言与学生心理",
+    "小学低段教师语言",
+    "(小学语文教师语言) (Type:'Thesis' )",
+    "(小学教师应变语) (Type:'Thesis' )",
+    "基础性数学校本课程开发的探究",
+    "柔性传感器在纺织服装上的应用",
+    "阿司匹林和氯吡格雷",
+    "B2C",
+    "生物柴油的研究现状及发展前景",
+    "彭知辉",
+    "康龙化成",
+    "B2C",
+    "B2C",
+    "(主题:(小学数学分层教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "生物柴油 绿色能源",
+    "生物柴油的研究现状及发展前景",
+    "质子交换膜燃料电池膜电极  制备工艺的研究",
+    "(小学生勤俭) Date:2016-2020",
+    "(  Weeder) (Language:'eng' )",
+    "小学生勤俭",
+    "路灯",
+    "敷料综述",
+    "作者:'Grazyna Kochanska'",
+    "A Longitudinal Study of the Roots of Preschoolers' Conscience: Committed Compliance and Emerging Internalization[J].Child Development",
+    "质子交换膜燃料电池 膜电极材料及结构研究",
+    "(driving school management system) (Language:'eng' )",
+    "作者:'Lisa A. Rafferty'",
+    "赏识教育",
+    "赏识教育理论与实践反思",
+    "(主题:(养成教育发展过程) and 题名或关键词:(习惯养成) and 题名或关键词:(发展)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('养成教育研究')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(浆料的制备方法对染料敏化太阳能电池) (PublishYear:'2020' )",
+    "小学生勤俭",
+    "Photovoltaic performance and long-term stability of dye-sensitized meosocopic solar cells",
+    "表面增强拉曼脂肪",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "(SSM ) (Language:'eng' )",
+    "语音信号处理",
+    "语音信号处理",
+    "应用程序开发新思维",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号",
+    "语音信号处理",
+    "语音信号处理技术",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "小学课堂教学",
+    "课堂教学",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "报复观念",
+    "报应观念",
+    "室内空气质量检测发展",
+    "交通灯控制电路",
+    "反向刺破公司面纱的制度构建与适用",
+    "利用网络平台建立家园共育新途径探析",
+    "Facebook 在教育中的应用研究",
+    ".用陈鹤琴幼儿教育思想指导家园共育",
+    "绑架罪的既遂与未遂",
+    "量身定制",
+    "公司法人人格逆向否认制度的问题分析",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于yolo目标检测算法的实现",
+    "(室内环境空气质量监测技术规范研究)",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(基于yolo目标检测算法的实现) (Type:'Periodical' )",
+    "(程恩富主编《现代政治经济学案例》简评) (Type:'LocalChronicle' )",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:基于YOLO目标检测算法的实现 AND (题名或关键词:YOLO AND 题名或关键词:(目标检测 OR 'Object detection')))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:覃浩",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "电子商务物流",
+    "(题名或关键词:(小学研学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "绑架罪 既遂",
+    "基于STM32的电动循迹小车控制系统设计",
+    "基于yolo目标检测算法的实现",
+    "基于yolo目标检测算法的实现 *(年份:2020)",
+    "基于yolo目标检测算法的实现 *(年份:2020)",
+    "颗粒包装机背景",
+    "磁性催化剂的研究进展",
+    "包装机现状",
+    "中药炮制",
+    "新冠肺炎疫情",
+    "中药炮制和用法",
+    "新冠肺炎疫情电子商务",
+    "橡胶材料",
+    "中药炮制",
+    "(涤纶医用抗菌) (Type:'Periodical' )",
+    "(中药炮制和用法) (Type:'Conference' )",
+    "(中药炮制和用法) (Type:'Periodical' )",
+    "((饮食与健康)  关键词:饮酒",
+    "如何健康饮酒",
+    "嘉兴 经济",
+    "服装消费影响因素",
+    "嘉兴服装消费",
+    "packing machine",
+    "发展工程大数据标准化",
+    "工程造价大数据解决信息不对称问题",
+    "维吾尔族民居色彩",
+    "路灯市场现状",
+    "1G 到5G",
+    "1G 到5G",
+    "质子交换膜电解水制氢",
+    "三乙胺催化微波法合 成乙酰水杨酸实验研究",
+    "LED路灯智能控制",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "阿魏酸哌嗪片疗效",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "江南民居装饰",
+    "(labelling machine.) (Language:'eng' Type:'Periodical' )",
+    "医学",
+    "浅谈小学数学校本课程如何培养学生的学习兴趣.",
+    "小学数学活动课程校本化开发策略探析",
+    "(框架结构) (Language:'eng' )",
+    "框架结构",
+    "(concrete) (Language:'eng' )",
+    "(题名:(内部审计外部探究)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(powder packing machine) Date:2015-2020",
+    "(主题:(Office building) and 题名或关键词:(Office building) and 题名:(Office building)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(reinforced concrete structure) and 题名或关键词:(reinforced concrete structure) and 题名:(reinforced concrete structure)) (Type:(Periodical OR Thesis OR Conference) )",
+    "磁性固体碱催化剂 KF/Fe3O4 催化大豆油酯 交换制备生物柴油",
+    "中药 美容",
+    "艾滋病的机理",
+    "中药在保健美容食疗",
+    "中药",
+    "中药与保健",
+    "艾滋病的机理",
+    "(导电高分子材料的制备) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "新冠肺炎疫情下电子商务的机遇与挑战",
+    "B2C旅游电子商务",
+    "新冠肺炎疫情跨境电商",
+    "素媛悲剧",
+    "(computer system web) (Language:'eng' )",
+    "睡衣",
+    "computer system",
+    "( web) (Language:'eng' )",
+    "(computer system ) (Language:'eng' )",
+    "( web) (Language:'eng' )",
+    "web",
+    "(computer system web) (Language:'eng' )",
+    "web程序设计",
+    "小学生良好行为习惯养成教育问题研",
+    "位置式PID控制算法",
+    "房间温控",
+    "借助问题清单 学会有效提问——四上《蝴蝶的家》教学",
+    "借助问题清单 学会有效提问——四上《蝴蝶的家》教学",
+    "(榆树下的欲望伦理) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "服装定制",
+    "服装定制问卷",
+    "磁性纳米材料制备",
+    "幼儿体适能",
+    "(mold) (Language:'eng' )",
+    "注塑模具",
+    "((注塑模) Date:2010- and ) (Language:'eng' )",
+    "(橡胶) (Language:'eng' )",
+    "(丁基橡胶) (Language:'eng' )",
+    "(橡胶) (Language:'eng' )",
+    "((模具) Date:2010- and ) (Language:'eng' )",
+    "(注塑) (Language:'eng' )",
+    "(注塑) (Language:'eng' )",
+    "((模具) Date:2010- and ) (Language:'eng' )",
+    "(注塑模具) Date:2010- and",
+    "(幼儿园中大班STEAM纸艺课程构建实践研究——以嘉定J幼儿园为例) 关键词:'STEAM'",
+    "纸艺",
+    "橡胶",
+    "((模具) Date:2010- and ) (Language:'eng' Type:'Periodical' )",
+    "((注塑模具) Date:2010- and ) (Language:'eng' )",
+    "学前美术中美育与德育关系",
+    "模具综合",
+    "运动障碍幼儿体育",
+    "美术中美育与德育关系",
+    "健康饮食",
+    "中药炮制和用法",
+    "新冠肺炎疫情与全球卫生外交",
+    "关键词:萃取精馏",
+    "固体 碱 催 化 剂 CaO-人 造 沸 石催 化 制 备 生物 柴 油 的研 究",
+    "染料敏化太阳能电池",
+    "网络零售",
+    "Weeder",
+    "Weeder",
+    "应变语",
+    "小学课堂应变语",
+    "合成阿司匹林",
+    "催化剂合成阿司匹林",
+    "关键词:加盐精馏",
+    "二甲醚的研究进展",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "放大器非线性失真研究装置",
+    "汇率不确定性，金融危机",
+    "外汇风险智能防控体系",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "二甲醚作为抛射剂",
+    "放大器非线性失真研究装置",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "(二甲醚的研究进展) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "spps运用",
+    "(小学综合实践) (Type:'Thesis' )",
+    "压膜机",
+    "初中语文作文",
+    "CRO",
+    "生物柴油的研究现状与展望",
+    "纳米材料",
+    "康龙化成",
+    "CRO龙头",
+    "(主题:(小学数学分层教学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "自我意识发展",
+    "grinding head",
+    "自我意识",
+    "(主题:(小学生数据分析能力)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(street lamp) (Language:'eng' )",
+    "(题名:(An Overview of Renal Metabolomics)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Landscape lamp",
+    "street lamp",
+    "Appearance of street lamp",
+    "( street lamp) (Language:'ger' )",
+    "(景观灯) AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))",
+    "(street lamp) (Language:'eng' )",
+    "street lamp",
+    "(路灯) (Language:'jpn' )",
+    "street lamp",
+    "( street lamp) (Language:'eng' )",
+    "Appearance of street lamp",
+    "语文教师",
+    "(labelling machine.) (Language:'eng' Type:'Periodical' )",
+    "(labelling machine.) (Language:'eng' )",
+    "定制服装调查问卷",
+    "American Parents' Attitudes and Beliefs About Corporal Punishment: An Integrative Literature Review",
+    "American Parents' Attitudes and Beliefs About Corporal Punishment: An Integrative Literature Review",
+    "输血类型",
+    "深基坑",
+    "输血类型",
+    "质子交换膜燃料电池膜电极制备工艺的研究",
+    "勤俭品行养成 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "艾滋病对人体免疫系统的影响",
+    "人类缺陷型免疫病毒",
+    "勤俭品行养成 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "艾滋病",
+    "酶的生产方式",
+    "素媛",
+    "外部逆向法人人格否认制度探析",
+    "质子交换膜燃料电池膜电极综述",
+    "相邻或相向国家大陆架划界问题",
+    "微信公众平台 家园共育中",
+    "微信公众平台 家园共育中",
+    "微信公众平台 家园共育中",
+    "精准扶贫",
+    "(小学低段语文教师语言) (Type:'Thesis' )",
+    "小学教师应变语言",
+    "Dye-sensitized solar cells",
+    "(小学教师应变语言) (Type:'Thesis' )",
+    "小学语文教师语言",
+    "小学教师应变语",
+    "小学低段语文教师语言",
+    "(小学教师语言) (Type:'Thesis' )",
+    "基于MATLAB的人脸定位",
+    "固态染料敏化太阳能电池",
+    "公司法人人格外部逆向否认研究",
+    "Neural Network",
+    "(主题:(五年级学生统计思维水平的调查研究)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "美国 家园共育",
+    "探析影响猪肉市场价格波动",
+    "大陆架划界",
+    "Magnetic Catalyst KF/CaO-CoFe2O4 for the Preparation of Polycarbonate Diol (PCDL)",
+    "初中语文作文 内容单薄 不具体",
+    "我国公益信托业务的发展及建议",
+    "(注意力障碍) (ClassCodeForSearch:'0/H' )",
+    "甄嬛传修辞",
+    "股权激励措施",
+    "固体碱催化剂的制备、表征及其在餐饮废油制备生物柴油中的应用",
+    "(金融危机) (Type:'Thesis' )",
+    "computer system",
+    "法人人格逆向否认",
+    "尿蛋白程度",
+    "阿迪达斯",
+    "阿迪达斯跑步鞋",
+    "中国网民人数",
+    "肋骨损伤",
+    "肋骨骨折",
+    "(音乐播放器) (Type:'Thesis' )",
+    "基于matlab的PID温控",
+    "(题名或关键词:(壳聚糖微球)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Android平台",
+    "基于matlab的PID温控系统",
+    "阿司匹林的合成",
+    "(全部:(壳聚糖微球)) (Type:(Periodical OR Thesis OR Conference) )",
+    "室内空气质量检测与新风机控制系统 的设计 李雪莲",
+    "语音信号处理",
+    "室内空气检测",
+    "语音信号处理",
+    "交通灯控制电路发展",
+    "作者:Li Hong",
+    "语音信号处理",
+    "质子交换膜燃料电池",
+    "(主题:(数形结合) and 题名或关键词:(概率与统计)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(数形结合)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(数形结合)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(疫情 双循环  ) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/F' )",
+    "教师应变语综述",
+    "疫情 双循环  金融危机",
+    "记忆",
+    "((主题:(勤俭品行养成) and 题名或关键词:(小学生)) and Date:2016-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep) or 题名或关键词:(满意度) or 题名:(App)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep)) (Type:(Periodical OR Thesis) )",
+    "(主题:(keep)) (Type:(Periodical OR Thesis) )",
+    "碱合成阿司匹林",
+    "基于STM32的电动循迹小车控制系统设计",
+    "(Electric tracking car) (Type:'Periodical' Language:'eng' )",
+    "基于STM32单片机",
+    "超声辐射固体 氢氧化钠催化合成阿司匹林的研究",
+    "柠檬酸催化合成阿司匹林[J",
+    "Electric tracking car",
+    "设计审美的时代节律——以灯具的设计发展为例",
+    "生物柴油概述及前景",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:陈平",
+    "图像",
+    "图像",
+    "BP neural network clothing",
+    "初中语文作文 内容 不具体",
+    "关键词:residential design",
+    "关键词:residential design community health",
+    "空气质量检测发展",
+    "我国公益信托业务的发展及建议",
+    "i+1理论对外汉语",
+    "(甄嬛传修辞) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "皮试",
+    "镁合金的处理方法",
+    "微泵的使用",
+    "解决魁北克问题",
+    "微泵的使用",
+    "KF改性固体碱的制备",
+    "染料敏化太阳能电池的研究进展",
+    "Neural Network",
+    "B2C",
+    "は和が",
+    "computer",
+    "computer system",
+    "丁苯橡胶复合材料",
+    "美育与德育",
+    "赏识教育幼儿园",
+    "硅橡胶",
+    "丁苯橡胶复合材料",
+    "赏识教育幼儿园",
+    "学前美术中美育与德育关系",
+    "学前美术中美育与德育",
+    "学前美术中美育与德育",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "Amplifier nonlinear distortion circuit",
+    "尿蛋白的临床意义",
+    "尿蛋白的加号",
+    "新冠肺炎疫情电子商务",
+    "非典'后的我国电子商务问题研究",
+    "(阿迪达斯跑步鞋) (PublishYear:'2014' )",
+    "二甲醚-应用于气雾剂行业的新一代抛射剂",
+    "labelling machine",
+    "(labelling machine) (Language:'eng' )",
+    "(JAVA) (Language:'eng' )",
+    "ANDROID系统",
+    "阿司匹林的合成",
+    "浓硫酸催化阿司匹林",
+    "android",
+    "Android",
+    "交通灯控制电路发展",
+    "空气质量检测发展",
+    "小学教师课堂教学语言研究综述",
+    "(主题:(数形结合) and 题名或关键词:(概率与统计)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "质子交换膜燃料电池",
+    "(主题:(数形结合) and 题名或关键词:(概率与统计)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(概率与统计)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "TiO2/SnO2复合空心球在染料敏化太阳能电池中的应用",
+    "质子交换膜燃料电池",
+    "(主题:(浅谈小学生数学意识的培养)) (Type:(Periodical OR Thesis OR Conference) )",
+    "记忆心理",
+    "(疫情 双循环  ) (Type:'Periodical' PublishYear:'2020' )",
+    "((主题:(勤俭品行养成) and 题名或关键词:(小学生)) and Date:2016-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "多囊肾病因",
+    "中小学抑郁",
+    "(主题:(keep)) (Type:(Periodical OR Thesis) )",
+    "(主题:(keep)) (Type:(Periodical OR Thesis) )",
+    "(主题:(keep)) (Type:(Periodical OR Thesis) )",
+    "应变语",
+    "基于STM32的电动循迹小车控制系统设计",
+    "基于STM32的电动循迹小车控制系统设计",
+    "基于STM32的电动循迹小车控制系统设计",
+    "基于STM32的电动循迹小车控制系统设计",
+    "CVRP",
+    "法人人格逆向否认",
+    "(全部:(一种高分子薄膜传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "生物柴油的研究现状和发展趋势",
+    "(作者:('谢宝刚') and 作者单位:(南昌大学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(小学数学教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学教育思想)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学统计与概率)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(浅谈小学数学教学方法的选择)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学) and 题名或关键词:(分类与整理)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学数学教育)) (Language:'eng' Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "The Effects of Information Overload on Consumers",
+    "购物网站服务质量、顾客信任度及顾客满意度关系研究",
+    "关系和信息量双维度下的社会化媒体分类及营销策略",
+    "信息化技术在幼儿园家园共育中的应用",
+    "Nanostructured Conductive Polymer Gels as a General Framework Material To Improve Electrochemical Performance of Cathode Materials in Li-Ion Batteries",
+    "大学生看待网红经济",
+    "大学生如何看待网红经济",
+    "染料敏化太阳能电池的研究进展",
+    "((中药炮制和用法) ) (Type:'Periodical' )",
+    "(中药炮制和用法)",
+    "三种典型交通信号控制系统的对比分析",
+    "(外观设计) (Language:'eng' )",
+    "外观设计",
+    "(外观设计) (Language:'eng' )",
+    "外观设计",
+    "信息技术应用与生鲜电商供应链优化 ——基于县域生鲜电商配送案例研究",
+    "纸艺幼儿",
+    "air quality inspection",
+    "浓硫酸催化合成 乙酰水杨酸",
+    "作者:张彩华",
+    "合成 乙酰水杨酸",
+    "微波辐射催化合成 乙酰水杨酸",
+    "辐射供热供暖",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:(Periodical OR Thesis) )",
+    "(packing machine) AND ((IsOA:true))",
+    "(packing machine) AND ((IsOA:true))",
+    "(题名或关键词:('海的女儿')) (Type:'Periodical' )",
+    "((双循环经济) Date:2020-*) 关键词:'系统化经济学说'",
+    "基于MSP430单片机的环境监测仪设计",
+    "室内空气质量智能检测发展",
+    "(空气检测系统的研究) (PublishYear:'2016' )",
+    "Amplifier nonlinear distortion circuit",
+    "顾琳琳",
+    "Amplifier nonlinear distortion circuit",
+    "(双循环经济) Date:2020-*",
+    "labeller",
+    "( 关键词:新型精馏) (PublishYear:'2020' )",
+    "关键词:新型精馏",
+    "勤俭品行养成",
+    "(packing machine) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "丁基橡胶",
+    "mold",
+    "(注塑模具) Date:2010- and",
+    "((模具) Date:2010- and ) (Language:'eng' Type:'Periodical' )",
+    "injection mold",
+    "(橡胶) (Language:'eng' )",
+    "融合教育",
+    "((注塑) Date:2010- and ) (Language:'eng' )",
+    "(模具综合) Date:2010- and",
+    "旧物 服装",
+    "(powder packing machine) Date:2015-2020",
+    "输血的类型",
+    "输血成分",
+    "输血的类型",
+    "非遗背景下毛笔制作技艺的传承与发展——以江西文港毛笔为例",
+    "作者:陈如清",
+    "钙锌铝 固体碱催化剂 的制备及表征",
+    "辐射供热供暖",
+    "基于高长径比 TiO2 纳米线的染料敏化太阳能电池光阳极的制备",
+    "(labelling machine ) (Type:'Periodical' )",
+    "等距离中间线",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "阿魏酸哌嗪片",
+    "阿魏酸哌嗪片",
+    "质子交换膜燃料电池 膜电极",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "packing machine",
+    "阿司匹林联合氢氯吡格雷抗血小板聚集",
+    "拉曼检测胞外多糖",
+    "微信公众号在幼儿园家园共育中的应用",
+    "小学教师语言",
+    "日本饮食文化",
+    "SSM",
+    "语音信号处理",
+    "语音信号",
+    "语音信号",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号",
+    "语音信号处理",
+    "语音信号",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音",
+    "公司法人人格逆向否认制度问题探析",
+    "家庭教育 小学生",
+    "网络成瘾",
+    "冬季健康饮食",
+    "基于EVA的全面预算管理",
+    "幼儿体质",
+    "饮食与健康",
+    "中药炮制和用法",
+    "饮食",
+    "(中药炮制和用法) (Type:'Thesis' )",
+    "(饮食与健康) 关键词:饮食",
+    "((饮食与健康) 关键词:饮食 ) 关键词:饮酒",
+    "注意力不集中",
+    "1G 到5G",
+    "阴离子交换树脂碱催化剂",
+    "CaO catayst for biodiesel production",
+    "(题名:养成教育发展) (Type:'Conference' )",
+    "图像",
+    "压膜机",
+    "正压压膜机",
+    "初中语文作文内容",
+    "初中语文作文 内容 不具体",
+    "关键词:residential design community health",
+    "中药 食疗",
+    "艾滋病的机理",
+    "(B2C旅游电子商务) (Type:'Thesis' )",
+    "新冠肺炎疫情下电子商务的",
+    "小体积带来超高便携性Teufel Cinebar One",
+    "新冠肺炎疫情下",
+    "酶",
+    "Sulfur–Doped Graphene with Iron Pyrite (FeS2) as an Efficient and Stable  Electrocatalyst for the Iodine Reduction Reaction in Dye–sensitized Solar Cells",
+    "我国公益信托业务的发展及建议",
+    "注意力障碍",
+    "股权激励措施",
+    "i+1理论",
+    "皮试必要性",
+    "(皮试) (PublishYear:'2020' )",
+    "(Neural Network) (ClassCodeForSearch:'0/J' )",
+    "Neural Network",
+    "磁性催化剂的制备及其在生物柴油 制备中的应用研究",
+    "生 物 柴 油 研 究 现 状 和 发 展 趋 势",
+    "固体碱催化剂的制备、表征及其在餐饮废油制备生物柴油中的应用",
+    "((中药炮制和用法) ) (Type:'Thesis' )",
+    "支付宝的营销策略",
+    "质子交换膜燃料电池膜电极  制备工艺的研究",
+    "大陆架划界原则",
+    "computer",
+    "汇率不确定",
+    "尿蛋白的临床意义",
+    "蛋白尿",
+    "蛋白尿/诊断/药物疗法",
+    "尿蛋白的临床意义",
+    "大数据时代服装精准营销下的服务策略研究",
+    "柠檬酸催化合成阿司匹林",
+    "Aandroid开发",
+    "JAVA",
+    "android",
+    "(Android平台) (Type:'Thesis' )",
+    "Java",
+    "ASP.NET网站开发",
+    "语音信号处理",
+    "医学图像降噪",
+    "室内空气检测",
+    "(主题:(小学数学概率与统计) and 题名或关键词:(数学建模)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "生物燃料电池",
+    "高温裂解法制备生物柴油",
+    "记忆障碍",
+    "记忆力缺陷",
+    "多囊肾病因",
+    "(注意力缺陷多动病) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "多囊肾病因",
+    "金融危机",
+    "多囊肾病因",
+    "(疫情 双循环  金融危机) (PublishYear:'2020' )",
+    "疫情 双循环",
+    "多囊肾病因",
+    "(主题:(keep) or 题名或关键词:(满意度)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep) or 题名或关键词:(满意度)) (Type:(Periodical OR Thesis) )",
+    "应变语",
+    "应变语",
+    "基于STM32的电动循迹小车控制系统设计",
+    "浓硫酸催化合成阿司匹林[J",
+    "基于STM32的控制系统",
+    "基于STM32的电动循迹小车控制系统设计",
+    "Ce_Ca_Zn_Al_O固体碱催化剂的制备研究",
+    "CVRP ABC",
+    "固体碱催化剂的制备与催化转化率的表征",
+    "作文教学现状",
+    "作文教学",
+    "固体碱催化制备生物柴油的研究",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "粉末包装机",
+    "(主题:(小学数学核心素养)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(小学生数据分析)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(中华人民共和国教育部 全日制义务教育数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "对小学数学教育学课程构建的建议与思考",
+    "(labelling machine.) (Language:'eng' Type:'Periodical' )",
+    "(labelling machine.) (Language:'eng' Type:'Periodical' )",
+    "导电高分子 锂离子电极",
+    "基于yolo目标检测算法的实现",
+    "((主题:基于YOLO目标检测算法的实现 AND (题名或关键词:YOLO AND 题名或关键词:(目标检测 OR 'Object detection') AND 题名或关键词:卷积神经网络))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(小学数学课程标准)) (Type:(Periodical OR Thesis OR Conference) )",
+    "颗粒包装机发展",
+    "颗粒包装机发展",
+    "新冠肺炎疫情概况",
+    "中小学数学校本课程开发研究文献综述",
+    "(powder packing machine) Date:2015-2020",
+    "涤纶医用抗菌",
+    "涤纶医用",
+    "关键词:涤纶",
+    "艾滋病的机理",
+    "勤俭品行养成",
+    "艾滋病对人体免疫系统的影响",
+    "(street lamp) (Language:'eng' )",
+    "( street lamp) (Language:'eng' )",
+    "(street lamp) (Language:'eng' )",
+    "基于STEM教育理念的小学校本课程开发 的行动研究",
+    "小学数学课程校本化开发策略探析",
+    "国外路灯",
+    "(street lamp) (Language:'eng' )",
+    "国际经济与贸易专业",
+    "嘉兴旧衣物回收意识",
+    "(注塑) (Language:'eng' )",
+    "(模具类) Date:2010- and",
+    "幼儿融合教育",
+    "学前美术美育与德育",
+    "美育与德育",
+    "运动障碍幼儿体育",
+    "美术中美育与德育关系",
+    "幼儿园中大班STEAM纸艺课程构建实践研究——以嘉定J幼儿园为例",
+    "(橡胶) (Language:'eng' )",
+    "注塑",
+    "学前美术中美育与德育",
+    "美育与德育",
+    "橡胶",
+    "((注塑模) Date:2010- and ) (Language:'eng' )",
+    "学前美术美育与德育关系",
+    "((模具) Date:2010- and ) (Language:'eng' )",
+    "(powder packing machine) Date:2015-2020",
+    "维吾尔族民居",
+    "非遗背景下毛笔制作技艺的传承与发展——以江西文港毛笔为例",
+    "不同疾病输血",
+    "输血的类型",
+    "输血类型",
+    "勇气",
+    "人的自我寻求",
+    "论法人人格逆向否认制度在我国的适用",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "阿司匹林",
+    "(主题:(分层教学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "质子交换膜燃料电池 膜电极",
+    "(Neural Network) (ClassCodeForSearch:'0/J' )",
+    "Neural Network clothing",
+    "(题名或关键词:(复式条形统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "关于中药炮制和用法)",
+    "美国 家园合作",
+    "微信公众号家园共育中的应用",
+    "微信公众平台在家园共育中的应用研究",
+    "幼儿园家园共育的途径",
+    "微信公众号 家园共育中",
+    "高温裂解法制备生物柴油",
+    "(小学低段教师语言与学生心理) (Type:'Thesis' )",
+    "(小学低段语文教师语言) (Type:'Thesis' )",
+    "Application potassium ion impregnated titanium dioxide as nanocatalyst for  2 transesterification of linseed oil",
+    "文献综述",
+    "(i+1理论对外汉语) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "直接混合法制备生物柴油",
+    "(computer system) (Language:'eng' )",
+    "作者:娄飞鹏",
+    "computer web",
+    "(computer system) (Language:'eng' )",
+    "(computer ) (Language:'eng' )",
+    "尿蛋白加号",
+    "尿蛋白的临床意义",
+    "Java",
+    "(Android平台) (Type:'Thesis' )",
+    "三氟甲磺酸催化合成阿司匹林",
+    "ASP.NET网站开发",
+    "空气质量检测发展",
+    "空气质量监测与分析系统",
+    "室内空气检测",
+    "语文教师在课堂上要有“语言机智”",
+    "小学语文教师教学语言的使用原则和艺术 冉晓楠",
+    "浅谈阅读教学中教师的应变能力",
+    "质子交换膜燃料电池制备",
+    "(主题:(数形结合) and 题名或关键词:(概率与统计)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(概率与统计) and 题名或关键词:(数学建模)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(概率与统计) and 题名或关键词:(小学数学)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "质子交换膜燃料电池制备",
+    "考试焦虑的心理机制",
+    "疫情 双循环",
+    "(疫情 双循环  ) (Type:'Periodical' )",
+    "(记忆障碍) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "多囊肾病因",
+    "注意力缺陷多动病",
+    "(汇率不确定) (PublishYear:'2020' )",
+    "汇率不确定",
+    "(主题:(keep) or 题名或关键词:(满意度)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(keep) or 题名或关键词:(满意度) or 题名:(App)) (Type:(Periodical OR Thesis OR Conference) )",
+    "应变语",
+    "应变语",
+    "CVRP",
+    "用于生物柴油制备的KF/Al2O3固体碱催化剂的研究",
+    "CVRP",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(高分子) and 全部:(传感器)) (Type:(Periodical OR Thesis OR Conference) )",
+    "法人人格逆向否认",
+    "三种典型交通信号控制系统",
+    "报复 法律",
+    "报应观念推动下的中国刑罚变迁",
+    "报复 法律",
+    "学校信息系统",
+    "瀑布开发",
+    "报复观念",
+    "瀑布开发",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "Amplifier nonlinear distortion",
+    "疫情，汇率",
+    "Amplifier nonlinear distortion",
+    "Amplifier nonlinear distortion",
+    "放大器非线性失真研究装置",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "(二甲醚的研究进展) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "(放大器非线性失真研究装置) (Language:'chi' )",
+    "Amplifier nonlinear distortion device",
+    "Improvement of nonlinear effects and increasing the power gain in traveling wave tube by changing the helix pitch and injection process",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "放大器非线性失真研究装置",
+    "基于yolo目标检测算法的实现",
+    "( 作者:覃浩) (OrganizationNorm:'广西科技大学' )",
+    "(((主题:基于YOLO目标检测算法的实现 AND (题名或关键词:YOLO AND 题名或关键词:(目标检测 OR 'Object detection')))) AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) (Type:'Periodical' )",
+    "(主题:(阿霉素) and 题名或关键词:(HPLC)) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于yolo目标检测算法的实现",
+    "(主题:(reinforced concrete structure) and 题名或关键词:(reinforced concrete structure) and 题名:(reinforced concrete structure)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "压膜机",
+    "(主题:('小学语文') and 题名或关键词:('分角色朗读')) (Type:(Periodical OR Thesis OR Conference) )",
+    "桩基",
+    "国际经济与贸易是什么》",
+    "泰格药业",
+    "股权激励措施对经营绩效",
+    "生物柴油的研究现状和发展趋势",
+    "社会性认知",
+    "(主题:(中华人民共和国教育部 全日制义务教育数学课程标准)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "青年大学习",
+    "(主题:(小学数学核心素养)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "景观灯",
+    "Landscape lamp",
+    "(street lamp) (Language:'eng' )",
+    "庭院灯",
+    "street lamp",
+    "(street lamp) (Language:'eng' )",
+    "景观灯",
+    "Landscape lamp",
+    "视觉设计 健康",
+    "依托数学文化的STEAM课程研究与设计——以某小学校本课程“新新课堂”为例",
+    "结合校本课程开发开展小学数学有效教学",
+    "国外路灯",
+    "新冠肺炎疫情下电子商务机遇",
+    "输血适应症",
+    "输血的类型",
+    "输血的类型",
+    "输血类型",
+    "输血类型",
+    "相邻或相向国家大陆架划界问题",
+    "法人人格逆向否认",
+    "质子交换膜燃料电池 膜电极",
+    "质子交换膜燃料电池 膜电极",
+    "幼儿园家园共育的途径",
+    "(题名或关键词:(医学动物实验方法)) (Type:(Periodical OR Thesis OR Conference) )",
+    "微信公众平台 家园共育中",
+    "苏霍姆林斯基",
+    "作者:'Paul C. Burnett'",
+    "Application potassium ion impregnated titanium dioxide as nanocatalyst for  2 transesterification of linseed oil",
+    "小学教师应变语",
+    "concrete",
+    "公司法人格外部逆向否认研究",
+    "磁性催化剂的制备及其在生物柴油 制备中的应用研究",
+    "(主题:(框架结构)) (Language:'eng' Type:(Periodical OR Thesis OR Conference) )",
+    "加拿大魁北克问题的社会治理及其经验",
+    "preparation conductive polymers",
+    "导电高分子材料的制备",
+    "中药炮制",
+    "室性早搏的疾病",
+    "阿司匹林副作用",
+    "湿罗音疾病",
+    "微泵的使用",
+    "氨氯地平副作用",
+    "阿司匹林、氢氯吡格雷副作用",
+    "陈红梅.“分角色朗读”的七大策略——以统 编教材二年级上册为例",
+    "Weeder",
+    "Weeder",
+    "初中语文作文 内容 不具体",
+    "关键词:residential design",
+    "语文作文问题",
+    "塑料污染",
+    "表面增强拉曼食品蛋白质",
+    "基于SSM酒店管理系统",
+    "基于SSM酒店管理系统",
+    "SSM",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "语音信号处理",
+    "小学生性教育",
+    "语音信号处理",
+    "“反向刺破公司面纱”法律问题研究",
+    "外部人反向刺破公司面纱制研究",
+    "公司法人人格反向否认制度探析",
+    "我国公司人格否认反向使用的司法困局与思考",
+    "(家庭教育 小学生) (Type:'Thesis' )",
+    "认知教学法在对外汉语报刊阅读",
+    "学习情感淡漠",
+    "对外汉语认知法",
+    "Fe3O4/Nafion-H 磁性核壳纳米超强酸材料催化地沟油制备生物柴油研究",
+    "(中药炮制和用法) (Type:'Thesis' )",
+    "(注意力不集中) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "Ca",
+    "通信网络从1G 到5G 的技术革新",
+    "LED路灯智能控制",
+    "基于高长径比 TiO2 纳米线的染料敏化太阳能电池光阳极的制备",
+    "题名:养成教育发展",
+    "无线路灯远程监控系统",
+    "(主题:('内部审计外包')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(内部审计外包)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(powder packing machine) Date:2015-2020",
+    "勤俭品行养成",
+    "勤俭品行养成 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "勤俭品行养成 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "新冠肺炎疫情下的中国物流行业:挑战与机遇",
+    "(B2C旅游电子商务) (Type:'Thesis' )",
+    "悲剧",
+    "素媛",
+    "B2C旅游电子商务",
+    "悲剧",
+    "染料敏化太阳能电池固态电解质研究进展",
+    "(题名或关键词:(复式条形统计图)) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "Neural Network",
+    "磁性固体碱的制备、表征及其在生物柴油中 的应用",
+    "支付宝和微信的营销策略",
+    "((主题:(养成教育) and 题名:(习惯) and 题名或关键词:(小学习惯养成)) and Date:2011-2015) (SingleSourceDB:(WF) Type:(Periodical OR Thesis OR Conference) )",
+    "B2C"
+  ]
+}

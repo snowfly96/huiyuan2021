@@ -1,0 +1,6026 @@
+{
+  "下载": [
+    {
+      "id": "ycxyxb201903008",
+      "title": "复杂网络中社团个数的估计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcyyy201617030",
+      "title": "改进椒盐去噪方法在井下图像中的应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nygcxb201214023",
+      "title": "典型农业干旱遥感监测指数的比较及分类体系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgky201908027",
+      "title": "裂隙几何特征对岩石强度影响模拟实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dbdxxb201902007",
+      "title": "基于社团密合度的复杂网络社团发现算法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "mtjs201705069",
+      "title": "基于改进BP神经网络的矿井瓦斯浓度预测算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxsfdxxb200803033",
+      "title": "基于集成ISGNN的煤矿瓦斯涌出量估计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy200805071",
+      "title": "变风量空调系统的分布式预测控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdzzhyfzxb201803016",
+      "title": "花岗岩变形破坏过程中不同细观组分的分形特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkxyyb201809027",
+      "title": "天然灰岩颗粒接触破损试验研究及其分形特性",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xnjtdxxb200501004",
+      "title": "基于PID神经网络解耦控制的变风量空调系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjdxxb201904010",
+      "title": "一种去除椒盐噪声的自适应模糊中值滤波算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hebdxxb201401016",
+      "title": "基于视觉特性的井下图像去噪新方法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dzsj201418232",
+      "title": "基于模糊PID算法的中央空调温度控制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgmtjj201717002",
+      "title": "基于ARIMA与BP组合模型的煤矿瓦斯涌出量预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgfdxx201707009",
+      "title": "基于GIS和BIM技术相结合的购房选址决策研究——以广西南宁为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sygydxxb201704021",
+      "title": "岩土颗粒三维形状表征参数对比分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dqkx201911028",
+      "title": "岩石/结构面劣化导致巴东组软硬互层岩体强度劣化的作用机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb201613093",
+      "title": "高应力强卸荷作用下多组裂隙岩体宏细观力学行为",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnhg201907004",
+      "title": "WO3/TiO2降解亚甲基蓝的光催化性能研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "bfhj201610007",
+      "title": "基于高空间分辨率遥感影像的城市绿地提取方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnhg201907004",
+      "title": "WO3/TiO2降解亚甲基蓝的光催化性能研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy201420049",
+      "title": "基于分态的煤矿瓦斯浓度预测模型的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kyaqyhb201004013",
+      "title": "基于BP神经网络的煤矿瓦斯浓度预测模型构建及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xakyxyxb201203002",
+      "title": "高瓦斯矿井掘进通风瓦斯浓度预测模型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcysj200816046",
+      "title": "基于中值的自适应均值滤波算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcyyy201007051",
+      "title": "一种自适应图像去噪混合滤波方法",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hfgydxxb201806009",
+      "title": "基于奇异值分解和项目属性的推荐算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201904013",
+      "title": "不同加载速率下砂岩弯曲破坏的细观机理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyxxts201802003",
+      "title": "热红外遥感及其在农业旱情监测中的应用研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccydxyxb201303008",
+      "title": "图像去噪的混合滤波方法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgmtjj201814007",
+      "title": "综采工作面瓦斯浓度预测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caikjs201906024",
+      "title": "层理倾角对岩石抗剪强度参数影响的试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yslxygcxb2013z1007",
+      "title": "裂隙化岩体不连续面密度的分形研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yslxygcxb201210019",
+      "title": "基于三维形态空间分析和仿真试验的岩体结构面剪切强度参数研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkzdh201812012",
+      "title": "煤矿综采工作面瓦斯浓度预测模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201823013",
+      "title": "基于WNN算法改进的瓦斯短时预测与仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyyyrj201312025",
+      "title": "一种改进的均值滤波算法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gskj200609017",
+      "title": "基于混合中值滤波的图像去噪处理",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyyyrj201110073",
+      "title": "一种去除椒盐噪声的自适应开关中值滤波算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdjsyy201905009",
+      "title": "基于偏微分中值滤波的巡检图像去噪研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mxzydxxb201503028",
+      "title": "基于FPGA的交通灯控制器的设计与实现",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zdhyyqyb201408047",
+      "title": "一种实验用双色染料搅拌机的结构设计与控制实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcdzxb201804006",
+      "title": "《崩滑地质灾害稳定性评价方法研究》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201907103",
+      "title": "基于FPGA的交通控制灯设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzjxh200003007",
+      "title": "JZC - 350混凝土搅拌机结构设计探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj201423040",
+      "title": "我国注册会计师审计独立性缺失分析及优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgkjyjj200511024",
+      "title": "我国注册会计师审计独立性缺失的原因分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx201402001",
+      "title": "货币空转:中国银行业“钱荒”的起点及其防范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjr201312004",
+      "title": "解读“钱荒”背后的流动性管理问题",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgxbkj201204003",
+      "title": "合成类化学论文前言的审改原则及实例分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsy201722208",
+      "title": "The influencing factors on audit independence",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bkltdzzz201809574",
+      "title": "小电流接地系统故障选线法探讨",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "ytsfxyxb-zxsh201304007",
+      "title": "遮蔽与还原——明初宗藩作家朱有燉补论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxhg201901070",
+      "title": "化工实验室危险化学品的安全评价与管理探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qx200301002",
+      "title": "中国西北地区云时空分布特征的初步分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zghgmy201922219",
+      "title": "试论化工实验室危险化学品的安全评价与管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bkltdzzz201809574",
+      "title": "小电流接地系统故障选线法探讨",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "yhj201308007",
+      "title": "冷眼看“钱荒”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201433027",
+      "title": "2013年中央银行流动性管理的回顾与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lzdxxb201306010",
+      "title": "中国西北地区近20年云水路径时空分布特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "danddhj201812043",
+      "title": "浅议注册会计师的行业监管",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjlt200523061",
+      "title": "我国注册会计师独立性缺失的原因分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201821145",
+      "title": "关于注册会计师独立性缺失的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjckx201901004",
+      "title": "关联电子材料的自旋态限域调控与自旋电子器件应用研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gnsfxyxb201303031",
+      "title": "单相光伏逆变器的并网控制仿真",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjlt201702010",
+      "title": "国内外光伏产业政策绩效对比研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfjr200508011",
+      "title": "我国银行间债券回购利率影响因素的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzfxd-kxyzb201306043",
+      "title": "同业拆借利率影响因素问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddjj201110054",
+      "title": "基于博弈论视角的财务报表保险制度设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxzqykj201306092",
+      "title": "财务报表保险审计制度的潜在问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lycwykj200908002",
+      "title": "浅谈财务报表保险制度",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-x201312004",
+      "title": "浅谈推行财务报表保险制度的优势、风险以及解决措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzg201805004",
+      "title": "自旋电子学研究的现状与趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201920037",
+      "title": "哈药股份财务分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnkx-jsb201407198",
+      "title": "钱荒对我国商业银行流动性管理的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201618116",
+      "title": "钱荒的外部结构分析与相互影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jgyhw201503013",
+      "title": "锑化铟光电探测器的远距离激光干扰研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dzyjycl201409027",
+      "title": "自旋电子学器件研发动态",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hongw201908001",
+      "title": "锑化铟红外焦平面探测器发展现状",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkx201501048",
+      "title": "注册会计师审计的独立性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx201931024",
+      "title": "注册会计师独立性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahjzgyxyxb201805005",
+      "title": "基于景观感知的社区儿童活动空间优化研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jrxxck201403002",
+      "title": "回放:2013年两度“钱荒”",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xsj201807024",
+      "title": "Impact of Government Environmental Audit of the Environmental Performance",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yjyxs201909006",
+      "title": "基于LBP纹理特征的白带显微图像中上皮细胞检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201401018",
+      "title": "银行业“钱荒”的原因及经济影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201904077",
+      "title": "医药企业盈利能力波动分析 ——哈药股份为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cmyj200601013",
+      "title": "我国银行间同业拆借利率期限结构的影响因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shglkx200604010",
+      "title": "流动性与交易所市场回购利率",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccjrgdzkxxxb201805005",
+      "title": "我国银行间同业拆借利率的影响因素分析——基于VEC模型的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201616118",
+      "title": "注册会计师审计独立性影响因素及对策研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sysyjyts201804072",
+      "title": "高校实验室压力气瓶风险评估体系探究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-x201609103",
+      "title": "我国注册会计师审计独立性现状及对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfjr201507008",
+      "title": "票据价格的影响因素研究 ——基于票据的资金属性视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxxk201204024",
+      "title": "相位中心偏差对机载阵列天线下视3D-SAR 成像影响分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djxk201402006",
+      "title": "我国“钱荒”现象发生因素及其对银行业发展的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjj201414034",
+      "title": "钱荒对中国银行业的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hljsxyxb201705029",
+      "title": "京津冀地区一次大范围雾霾的判定及数据分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-wkxfc200711026",
+      "title": "A reliable auditing of postop complication in gastric cancer surgery",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkcdx-s201921004",
+      "title": "研学旅行需要转型升级",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201114005",
+      "title": "影响我国同业拆借利率的因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cqydxyxb-shkx200401015",
+      "title": "影响银行间市场回购利率的因素分析--兼论我国货币政策的传导机制",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201249028",
+      "title": "我国银行间同业拆借利率的动态研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201017092",
+      "title": "审计独立性及加强措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyxx-xxk201304134",
+      "title": "注册会计师审计独立性问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjm201909033",
+      "title": "哈佛框架下中医药行业财务分析 ——以D公司为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "syjsygl201611066",
+      "title": "高校涉气类实验室电气安全风险评估",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lycwykj201605011",
+      "title": "注册会计师审计独立性的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201508001",
+      "title": "航空通信网络信道接入的统计预测机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyy201909064",
+      "title": "基于双排键的儿童多元音乐感知与智能开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsmgy201833046",
+      "title": "我国实行财务报表保险制度的可行性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzjjykj201219048",
+      "title": "浅析财务报表保险制度",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mtdzykt201606025",
+      "title": "煤炭物探技术的主要进展及发展趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dlkjxx201912033",
+      "title": "海口市测绘基准升级改造",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dbch201904028",
+      "title": "MapGIS支持下辽宁省地质专题地图制作研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201912011",
+      "title": "基于显式迭代算法的可靠性灵敏度分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mkjx200206005",
+      "title": "一种大型带式输送机的可控启动曲线",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201927118",
+      "title": "关于'在中国证券市场共同基金能否战胜市场'的分析研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdglkx201807027",
+      "title": "共同基金业绩操纵问题研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjj201515021",
+      "title": "PayPal货币市场基金的研究及启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjrxyxb201805007",
+      "title": "美国共同基金波动性及其动态预测对中国的启示 ——以偏空策略基金为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyylc201920121",
+      "title": "柴胡加龙骨牡蛎汤治疗肝气郁结型耳鸣的效果分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdzx201004015",
+      "title": "哈姆雷特的命运观",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "glxdh200702011",
+      "title": "基于审计风险模型的审计风险要素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201943039",
+      "title": "新材料在新能源汽车中的应用分析",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "kxyxxh201935155",
+      "title": "新能源汽车的现状与发展趋势概述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jjs201902027",
+      "title": "新能源汽车市场需求分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "wtyht201904019",
+      "title": "逆时偏移在探地雷达数据处理中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dnm201834193",
+      "title": "浅析人工智能是否会取代人类",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jrllysj200202006",
+      "title": "中国资本市场的功能缺陷与修正",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ckxx201928128",
+      "title": "企业融资结构与资本市场发展分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kyaqyhb201905009",
+      "title": "煤矿掘进巷道地质雷达超前探测数值模拟及应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ysjswz201604041",
+      "title": "分析地质雷达在探测地下富含水区域中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtxb201903002",
+      "title": "保水采煤面临的科学问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdmnwkzz201911014",
+      "title": "维生素D辅助多西他赛化疗对前列腺癌患者疗效及安全性的Meta分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjcxypp201909009",
+      "title": "刘嘉麒:科学的本质就是创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxxgl201911005",
+      "title": "科学本质观:发挥科学教育育人价值的关键",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "kxjc200812074",
+      "title": "关于上市公司会计监管问题的研究——对科龙事件的再思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjs201521031",
+      "title": "我国注册会计师独立审计存在的问题及其对策探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201442125",
+      "title": "保持独立性,恪守职业谨慎是防范审计失败的关键——科龙电器审计失败案例研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ddyylc201909010",
+      "title": "维生素E联合左氧氟沙星治疗ⅢA型慢性前列腺炎的效果研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caix201806017",
+      "title": "金融脱媒对我国商业银行的影响及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201002010",
+      "title": "光伏并网发电模拟装置(2)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201002009",
+      "title": "光伏并网发电模拟装置(1)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbnjh201915007",
+      "title": "中国新能源汽车未来发展趋势分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nfjr201812001",
+      "title": "充分发挥资本市场动能作用奋力实现'四个走在全国前列'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gtyzrzyyj201705001",
+      "title": "湖南省人口城市化和 土地城市化的协调关系评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201917117",
+      "title": "逍遥丸合归脾汤加减治疗肝郁血虚证失眠疗效观察",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kyaqyhb201705024",
+      "title": "榆横南区煤层顶板富水性探查研究及治理评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "swxtb201812006",
+      "title": "科学本质观中“科学知识可能随着研究的深入而改变”对科学教学的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzyykj200503056",
+      "title": "补中益气汤加味结合心理疏导治疗肝气郁结型失眠31例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wtyht201903018",
+      "title": "大回线源瞬变电磁一维自适应反演方法及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wtyht201903029",
+      "title": "高密度电阻率法二维勘探数据的三维反演及其在岩溶探测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkx201908074",
+      "title": "新能源汽车发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jien201904071",
+      "title": "新能源汽车发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyzx201223017",
+      "title": "中英两国医疗模式比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhyx201931010",
+      "title": "第一版和第二版前列腺影像报告和数据系统鉴别外周带前列腺炎与前列腺癌的临床价值分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zglnxzz201919048",
+      "title": "盐酸坦索罗辛联合前列舒通与高效单体银前列腺炎抗菌凝胶治疗慢性前列腺炎的临床疗效",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "shyxjyzz201808004",
+      "title": "前列腺液锌水平检测在不同类型慢性前列腺炎患者鉴别诊断中的临床价值",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201604023",
+      "title": "基于IP/MPLS技术的LTE承载网研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxtxkj200103011",
+      "title": "MPLS-宽带网络新技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdyy201909037",
+      "title": "前列舒通胶囊治疗前列腺炎的效果观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjf201922173",
+      "title": "前列舒通胶囊治疗慢性前列腺炎的临床疗效",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghjjc201504025",
+      "title": "国内环境遥感监测指标验证方法研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xcj-l201011192",
+      "title": "注册会计师职业道德研究——基于'科龙'事件的分析",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-x201201012",
+      "title": "浅论独立审计的审计责任与法律责任的认定——以“科龙——德勤”审计失败案为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sjysjs201803181",
+      "title": "高密度电法在地下水流向调查中的应用探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sjzxyjhzz202002013",
+      "title": "郭军基于疮疡内消法治疗慢性前列腺炎经验",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cwykj200707025",
+      "title": "'德勤'审计责任案例剖析与启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckyk200110006",
+      "title": "中天勤,冤不冤?",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201943208",
+      "title": "基于MPLS的QoS机制研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jxdl200405004",
+      "title": "电力通信网中引进MPLS技术的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qhjrpl201806032",
+      "title": "中国资本市场发展历程、功能作用及其进一步发展措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qqh201901003",
+      "title": "改革开放以来我国资本市场发展回顾与展望",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dwjmck201912018",
+      "title": "共同基金业绩文献综述 ——业绩评价方法、业绩持续性和业绩影响因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjjbg201308011",
+      "title": "“余额宝”搅局银行业",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dwjs201411001",
+      "title": "具备应对过负荷能力的距离保护原理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsy201512011",
+      "title": "论《鲁滨逊漂流记》中的价值观与主体意识",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jslxxb201802003",
+      "title": "基于IGA-SIMP法的连续体结构应力约束拓扑优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xk201909012",
+      "title": "确保如期全面打赢脱贫攻坚战",
+      "download_times": 8,
+      "browse_times": 12
+    },
+    {
+      "id": "zhonggsm201820062",
+      "title": "振隆特产财务舞弊分析 ——基于审计目标与审计程序视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gxzljddb201906132",
+      "title": "审计过程中分析性程序应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxtxjs200103008",
+      "title": "MPLS技术及组网分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201735015",
+      "title": "中国资本市场的现状及发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhnkx200305021",
+      "title": "中医药治疗慢性前列腺炎机理研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkf201908084",
+      "title": "矿井巷道掘进作业智能监测及安全预警系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201924007",
+      "title": "浅谈新能源汽车驱动电机",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "szdxxb-rwsh200004026",
+      "title": "美国、加拿大货币市场共同基金组织及课税制度之研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dydq200919012",
+      "title": "基于UC384*系列芯片的反激稳压电源的设计和分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwssygl201901019",
+      "title": "SF-36简明生活质量量表应用于慢性前列腺炎病人的信度和效度分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "tskx201612251",
+      "title": "创新思维对科学研究能力作用的认识",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dqwlxjz201304046",
+      "title": "中国煤炭物探技术的现状与发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201503254",
+      "title": "论《鲁滨逊漂流记》中的个人主义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djxk200703020",
+      "title": "GIS的人口信息空间可视化技术在专题地图制作过程中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnszxb200902065",
+      "title": "科龙审计失败案的启示与加强审计质量控制的建议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjs201611032",
+      "title": "审计失败的思考——基于科龙电器的案例分析",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "xdgyjjhxxh201601010",
+      "title": "从PayPal看待余额宝的未来",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzxk201909017",
+      "title": "从中国哲学角度反思人工智能发展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "tzycy202001045",
+      "title": "舞弊风险识别策略探究 ——以科龙电器财务舞弊为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zjzxyjhzz200802052",
+      "title": "中医药治疗慢性非细菌性前列腺炎的实验研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdys201910038",
+      "title": "慢性前列腺炎中医有解方",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jsysc201903079",
+      "title": "煤田地质钻进中的硬质合金钻进探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yjjjygl201805014",
+      "title": "分析程序在审计中的应用 ——以宝钢股份为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cwykj200403020",
+      "title": "确定审计重要性水平需要考虑的因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yxyjsxb201811022",
+      "title": "慢性前列腺炎/慢性盆腔疼痛综合征伴发性功能障碍的研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ynsfdxxb200702008",
+      "title": "下一代组网技术——MPLS",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hhyy201905032",
+      "title": "坦索罗辛联合前列舒通胶囊治疗Ⅲ型前列腺炎的疗效观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201408267",
+      "title": "坎坷的前路--从Paypal货币市场业务的倒塌来看待余额宝",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc202002115",
+      "title": "基于商业画布模型的哔哩哔哩商业模式研究",
+      "download_times": 7,
+      "browse_times": 12
+    },
+    {
+      "id": "sxhg201604008",
+      "title": "改性煤气化灰渣吸附重金属离子的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk202006025",
+      "title": "大数据时代下智慧物流系统体系构建研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "bkltdzzz2019170795",
+      "title": "云会计在企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201804125",
+      "title": "浅议'云会计'在企业会计信息化中的应用及常见问题分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ckxx201905085",
+      "title": "中小企业云会计面临的问题及对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201623009",
+      "title": "基于云计算环境下企业会计信息化构建的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caix201715063",
+      "title": "'帮贷网'互联网金融平台策划书",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "kjdb200921020",
+      "title": "冷态缓释放条件下水成膜泡沫在方形浅油面上的蔓延模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdxx201405011",
+      "title": "基于物联网技术的悬挂式干粉灭火装置及智能灭火系统在中药制剂生产中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shszxb202003016",
+      "title": "中国影视剧中的人口老龄化问题书写",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkfllysj202002018",
+      "title": "人口老龄化背景下作业治疗在中国发展面临的机遇与挑战",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "cjj202004014",
+      "title": "人口老龄化对中国经济的影响研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "caix201903156",
+      "title": "购买力评价理论的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sclyj201301019",
+      "title": "关于PPP理论的探讨及其在中国适用性的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201913173",
+      "title": "浅谈煤炭企业新经济形势下如何提升劳动用工效率的探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201804003",
+      "title": "关于中老年人对智能手机的意见反馈与老人助手APP的推广",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xlxdt201912011",
+      "title": "老年人情绪注意积极效应的发生机制",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj-shang201809121",
+      "title": "独居老人规律生活的智能手环的设计策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz201923057",
+      "title": "农村老年人日常生活活动能力现状",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jjyjdk202004016",
+      "title": "城乡老年人主观幸福感影响因素的对比分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sxhlzz202003010",
+      "title": "城市居家养老老年人孤独感与社交焦虑的相关性",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "dzwy201902081",
+      "title": "老年人手环智能化设计研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hljdwjm201806028",
+      "title": "浅析上市公司关联交易信息披露",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy201606024",
+      "title": "组织间关系与企业群成本管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsbgc200409019",
+      "title": "机械式软启动安全联轴器",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjm201218064",
+      "title": "利率平价和购买力平价的实证分析——以1994-2011年人民币汇率为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjjsc200603054",
+      "title": "论国际收支在汇率决定中的作用——一个理论回顾和总结",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hljdwjm201907001",
+      "title": "贸易收支与汇率变动相关性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfjsycpxx201806016",
+      "title": "《干粉灭火装置》标准修订中技术创新点介绍",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gysj201807056",
+      "title": "现代老年公寓智能家居系统中智能手环的设计应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gysj201808060",
+      "title": "基于老年人认知特征的智能产品设计解读",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zsjjeqy201714048",
+      "title": "云会计在企业会计实务应用中的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxqykj201802127",
+      "title": "云会计在会计实务中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfjsycpxx201512028",
+      "title": "消防新技术新产品介绍——FZX-ACT2(4,6,8,10)/1.2-GT贮压型悬挂式干粉灭火装置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scjzkxyj200506033",
+      "title": "基坑工程技术现状分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyzl201952016",
+      "title": "我国劳动力结构变化以及老龄化问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj201911066",
+      "title": "我国上市公司关联交易控制问题研究 ——以乐视网关联交易为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hbhjjlw202002122",
+      "title": "透过财务报表浅析九阳股份经营的发展研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd201104022",
+      "title": "利率平价理论与人民币汇率关系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjr-x201511002",
+      "title": "利率平价理论对人民币汇率变动的实践检验——基于二次汇改后的数据研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy201921020",
+      "title": "会计会消失吗 ——论新技术对会计领域的冲击与未来",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx202001123",
+      "title": "企业会计信息化中云会计的应用策略探讨",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "caix201915037",
+      "title": "大智移云背景下财会人员的'危'与'机'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "danddhj201604004",
+      "title": "浅谈“云”对传统会计的冲击",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjmdxxb202001009",
+      "title": "中美高新技术产业竞争力比较与中国的战略选择",
+      "download_times": 50,
+      "browse_times": 146
+    },
+    {
+      "id": "zgqkyx202007026",
+      "title": "中国农村地区虐待老年人现状及影响因素研究进展",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "gwyx-swyxgc200402008",
+      "title": "'脑-机接口'的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jingjsj201008019",
+      "title": "人民币汇率与购买力平价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wzsfxyxb201106007",
+      "title": "人民币汇率影响因素的实证检验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fdxb-shkxb200306012",
+      "title": "从国际收支成长理论析人民币汇率调控",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyxx-zxk201512070",
+      "title": "基于双层博弈理论视角下人民币汇率决定的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201231077",
+      "title": "购买力平价与人民币汇率的实证研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sjjjyzzlt200502010",
+      "title": "从购买力平价理论看人民币汇率的决定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slfd201207016",
+      "title": "白莲河抽水蓄能电站F8断层开挖与支护施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201824010",
+      "title": "九好集团忽悠式财务造假对审计工作的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxzqykj201811140",
+      "title": "云会计在会计实务应用中存在的问题 及对策思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201935055",
+      "title": "云会计系统下企业会计信息系统优化研究",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "hbqy201807028",
+      "title": "云计算环境下会计信息系统的构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201721124",
+      "title": "基于大数据的企业云会计信息系统构建研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tdyyjs200601013",
+      "title": "IP网络的QOS技术探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz202001063",
+      "title": "老年人情绪复杂性与年龄的关系",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "cdmkfyj201906013",
+      "title": "全面建成小康社会背景下青海省老年人主观幸福感现状及影响因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz201618101",
+      "title": "老年人日常生活能力及其影响因素",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xtd201905011",
+      "title": "智能设备助力老人生活",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjyglyj201912010",
+      "title": "供应链视角下智慧物流模式发展策略选择",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "wlkj201008011",
+      "title": "大珠江三角洲航空物流现状分析及发展对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsq-jjllyj201623057",
+      "title": "大数据时代云会计信息系统的构建研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxcwg201908059",
+      "title": "企业财务造假问题研究 ——以九好集团为例",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "ckxx201924107",
+      "title": "浅谈大数据云计算背景下的会计如何技术改革",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzsfxyxb-shkxb201006021",
+      "title": "浅析云计算对会计的影响",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "danddhj201809005",
+      "title": "浅析云计算对财务会计工作的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggsm201703032",
+      "title": "云会计在企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rmcj201420019",
+      "title": "乌东德水电站坝肩边坡及深基坑开挖方案研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzktaq200304023",
+      "title": "深基坑拉锚联合支护结构设计及工程应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shang201624087",
+      "title": "'咖啡没有店'营销策划书",
+      "download_times": 8,
+      "browse_times": 10
+    },
+    {
+      "id": "sxhlzz202004023",
+      "title": "社区共病老年人智能家居应用研究进展",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "xdys202005026",
+      "title": "老年人心理健康有效干预模式刍议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj201921074",
+      "title": "人口老龄化背景下养老问题研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxjc201420115",
+      "title": "地裂缝对地铁隧道的影响分析及病害控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhysbj200312013",
+      "title": "由心息相依到大定真空",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgzz200010006",
+      "title": "心息相依大定真空",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzjskf201814046",
+      "title": "水库坝基开挖与边坡支护技术分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201714252",
+      "title": "试论水库坝基石方爆破施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201924044",
+      "title": "老年用户智能手机应用使用现状调查与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201833239",
+      "title": "MRP系统在现代企业中的发展与运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gysj201912062",
+      "title": "移动互联网下老年人可穿戴智能产品服务设计研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sz-sxk201912255",
+      "title": "互联网时代智能佩戴产品对'医养结合'养老模式的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shfl-llb201711002",
+      "title": "积极老龄化政策研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gysj202003029",
+      "title": "老年人智能产品设计研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxshkx201907016",
+      "title": "积极老龄化政策下智能养老产业发展研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "szhyh201847008",
+      "title": "一种基于老年人智能手环系统的设计",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "sztx200003009",
+      "title": "IP网络中的QoS技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy200921093",
+      "title": "审计报告与内部控制鉴证报告比较分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzckjs201502023",
+      "title": "内部控制审计意见、财务报表审计意见及内部控制自评结论——比较分析与数据检验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsq-jjllyj200710036",
+      "title": "人民币升值与中美贸易不平衡的相关性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201018008",
+      "title": "汇率决定理论在中国的实证分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201101015",
+      "title": "购买力平价理论对人民币汇率决定的实用性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzjjykj202003024",
+      "title": "人民币汇率研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zsjjeqy201322048",
+      "title": "汇率决定理论新发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgjx202001015",
+      "title": "智能衣物折叠收纳机",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gcjx201912021",
+      "title": "智能垃圾桶",
+      "download_times": 9,
+      "browse_times": 12
+    },
+    {
+      "id": "sq-zh201849229",
+      "title": "DIY综合体验店创业策划书",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "sdshkx201707016",
+      "title": "持不同养老态度的老年人主观幸福感研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlgxx201806005",
+      "title": "基于社会资本理论的老年人智能手机使用意愿研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "scyrkfx201802013",
+      "title": "失能老年人的居住意愿及其影响因素分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zglnxzz201912076",
+      "title": "中国'互联网+养老'发展现状及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz201704091",
+      "title": "社区老年人幸福感指数的影响因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz201924062",
+      "title": "社区老年人健康行为及影响因素",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201304077",
+      "title": "试析水工建筑的基坑开挖施工技术措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl202002096",
+      "title": "云会计在企业会计信息化中的应用研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "glkxwz201904005",
+      "title": "大数据时代下企业云会计系统的有效构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskx200512014",
+      "title": "3种『心息相依』的守静法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201526068",
+      "title": "浅析“云会计”对企业财务工作的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tysy201905019",
+      "title": "智能可穿戴设备在学校体育教学中应用前景分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjyyj202003027",
+      "title": "高职大学英语线上线下混合式教学设计探讨",
+      "download_times": 10,
+      "browse_times": 10
+    },
+    {
+      "id": "jzgc201022016",
+      "title": "基于利率平价理论视角研究人民币汇率问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201820053",
+      "title": "九好集团会计造假手段分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "gxshkx201911014",
+      "title": "新时代我国人口老龄化问题研究",
+      "download_times": 12,
+      "browse_times": 8
+    },
+    {
+      "id": "ncjjykj201916124",
+      "title": "我国人口老龄化发展趋势问题及对策研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgshdk201916011",
+      "title": "小蜜蜂变身脱贫攻坚“主力军”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhen201918016",
+      "title": "脱贫攻坚,挥洒青春向热土",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj201803124",
+      "title": "对水工建筑基坑开挖施工技术的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shidjm201011031",
+      "title": "人民币购买力平价实证检验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjjxx201111182",
+      "title": "浅论现行汇率决定理论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lzsxyxb200406002",
+      "title": "汇率决定理论分析与评述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx201503010",
+      "title": "基于劳动价值论和弱式有效市场假设的汇率决定理论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201922151",
+      "title": "人民币汇率变动的影响因素分析",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "xfkxyjs201511021",
+      "title": "悬挂式干粉灭火装置的特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201732256",
+      "title": "论非贮压悬挂式干粉灭火装置",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cjj201602199",
+      "title": "内部控制鉴证与内部控制审计的实践思路解析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzy201614025",
+      "title": "内部控制自我评价、财务重述与内部控制审计意见",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxglyjyyj201920059",
+      "title": "在线教育,治理须'在线'",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "xxjsjy202005047",
+      "title": "2020年,在线教育的机遇",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shjj201802005",
+      "title": "长江经济带区域物流业与经济协同发展评价研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201611031",
+      "title": "老年人数字通讯产品需求分析与设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtxb2018z1026",
+      "title": "大佛寺煤储层甲烷解吸的传质过程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201112018",
+      "title": "人民币汇率决定因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx200404020",
+      "title": "关于国际收支弹性理论的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjsy201211138",
+      "title": "人民币美元汇率影响因素及理论汇率水平计算研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzckjs201504017",
+      "title": "内部控制鉴证与内部控制审计:政策规定与实施现状",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jrhb-xby201304030",
+      "title": "人民币汇率的购买力平价假说实证检验--基于中美1994-2011年的月度数据",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whhgxyxb201311015",
+      "title": "巴拉萨-萨缪尔森效应下购买力平价模型在中美汇率应用中的评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnkx-jsb201309124",
+      "title": "购买力平价理论的实证分析——以人民币兑美元汇率为例",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "gsslsdjs201503017",
+      "title": "双溪水库坝基石方爆破施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf200923144",
+      "title": "我国深基坑工程支护技术现状分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201715053",
+      "title": "试论水工建筑基坑开挖施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whyjglgbxyxb201803004",
+      "title": "云会计在会计实务应用中存在的问题及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201710087",
+      "title": "浅议云计算的发展对会计行业带来的影响及应对措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dtsj201901167",
+      "title": "智能家居养老系统现状浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyjjy201603011",
+      "title": "中国智能养老产业发展模式创新与政策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjsj-xby201727014",
+      "title": "一种老年人智能手环设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gysj202002082",
+      "title": "老年人智能手环设计研究",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zgdhjy201911011",
+      "title": "个性化在线教育公共服务推进过程中的关键问题思考 ——对北京市中学教师开放型在线辅导计划的实践反思",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "hxlt202002011",
+      "title": "积极老龄化的生命伦理意蕴解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jiangssl200904021",
+      "title": "论长江三角洲物流的发展策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgzjt201917010",
+      "title": "煤气化灰渣资源化利用策略研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj201612279",
+      "title": "老年人数字通讯产品需求分析与设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjyglyj201612013",
+      "title": "法约尔管理思想及其在管理学史中的地位",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201228002",
+      "title": "实施财务报告内部控制审计的基本思路解析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xjr201004005",
+      "title": "购买力平价理论与中美汇率估值",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zggk201006013",
+      "title": "环珠江三角洲地区发展港口物流的对策研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx201311222",
+      "title": "珠江三角洲物流园区规划及发展对策分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shrdyk202003038",
+      "title": "在线教育要守好本位",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hfxyxb-zrkxb201605001",
+      "title": "竞合视角下的合肥城市竞争力分析 ——基于长三角城市群的比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmykjyjj202001064",
+      "title": "云会计在企业会计信息化中的实践探讨",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "sq-zh201714006",
+      "title": "基于互联网+教育理念下的会计学云端管理系统平台的思考与构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201934046",
+      "title": "试析大数据背景下云会计应用于企业会计信息化的分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "shang201448113",
+      "title": "大数据时代云会计的应用分析",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "ahzyjsxyxb202001013",
+      "title": "我国中小企业云会计健康发展对策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsq-jjllyj201720057",
+      "title": "大数据对会计核算原则的冲击影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsq-jjllyj201818051",
+      "title": "大数据对会计核算原则的冲击",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "danddhj201804005",
+      "title": "浅析“互联网+”对传统财务会计的冲击与挑战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201927085",
+      "title": "云计算环境下企业构建云会计相关问题研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dkj201944083",
+      "title": "探究万吉水库大坝开挖边坡支护施工的质控措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj2017010687",
+      "title": "水库坝基开挖与基坑边坡支护施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tdgcxb201103018",
+      "title": "西安地铁车站深基坑变形规律FLAC模拟研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jcjykc202007008",
+      "title": "线上教学应厘清的'四个认识'",
+      "download_times": 17,
+      "browse_times": 6
+    },
+    {
+      "id": "hccllhyyy201301007",
+      "title": "光气法生产聚碳酸酯的工艺流程",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "syhgsj202002016",
+      "title": "聚碳酸酯合成工艺路线及其发展现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzjjykj201406049",
+      "title": "审计质量与审计收费",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgmtjj201820044",
+      "title": "审计收费与审计质量",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dsjs201920027",
+      "title": "面向机场跑道的智能视频监控系统设计与实现",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jhxk201906006",
+      "title": "政治文明建设70年:基本历程与主要经验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xingzlt201906019",
+      "title": "新媒体时代公民网络参与的引导理路分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "tdwzkxgl201203009",
+      "title": "现代物流思想在施工企业物资管理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnjz202007030",
+      "title": "网络匿名表达权的本质及制度供给",
+      "download_times": 8,
+      "browse_times": 8
+    },
+    {
+      "id": "sjylc201810010",
+      "title": "存货的舞弊形式及其审计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy201028009",
+      "title": "存货审计问题的探讨——关于某制药股份有限公司的审计总结",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qbzz201906015",
+      "title": "网络政治参与动力因素:研究进展及中国议题",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ddr201806249",
+      "title": "会计事务所的地区竞争优势和审计质量的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlgcygl201901005",
+      "title": "珠海港经济腹地煤炭需求分布及区域内集疏运体系优化的调查与研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjyj200604004",
+      "title": "基于业务循环的审计风险评估专家系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwxx201910217",
+      "title": "浅析个人'爱家''管家'的重要性 ——论中国公民的政治参与",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "wlgcygl201709030",
+      "title": "香港利丰集团的供应链模式探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdjj201706030",
+      "title": "香港利丰集团供应链管理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdzsw201008270",
+      "title": "会计政策、会计估计变更对财务报表分析的影响与策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjlc201807009",
+      "title": "内部控制缺陷、外部审计意见与真实盈余管理——基于新三板公司的实证研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "hzjjykj202012065",
+      "title": "互联网时代公民政治参与探析",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "hzsfdxxb-rwsh201904003",
+      "title": "政治效能感、参与意愿对中国公民选举参与的影响机制——政治信任的调节作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtjswdxxb202002005",
+      "title": "网络政治参与行为的政治心理机制分析 ——基于项目反应理论的测量",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "qyggygl201922076",
+      "title": "行业环境、审计意见与债务成本分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cwykj201203033",
+      "title": "制造业存货审计相关思考",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njlgdxxb201703006",
+      "title": "基于置信区间的自适应加权均值滤波算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dqpj201304170",
+      "title": "现代物流思想在施工企业物资管理中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lldk201812007",
+      "title": "新媒体环境下公民政治参与的机遇、 挑战和发展态势",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jmsj201919290",
+      "title": "新时代我国公民政治参与问题探析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "xiandaijj201906130",
+      "title": "互联网时代我国公民政治参与发展研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "smsj201810201",
+      "title": "服装行业存货管理问题及对策分析 ——以李宁体育用品有限公司为例",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "xzsyzcycw201907044",
+      "title": "销售与收款循环重大错报风险探索——基于财务报表审计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjsfdxxb-zx202002016",
+      "title": "社会网络、社会地位、社会信任对居民心理健康的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zqsczk201909023",
+      "title": "以股代息兼合股利标或会私有化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjyddx201105001",
+      "title": "基于熵检测的图像噪声方差小波域估计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201712065",
+      "title": "审计收费与审计质量相关性分析——基于A股上市公司的经验数据",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cwykj201312024",
+      "title": "审计收费与审计质量",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201501036",
+      "title": "审计收费与审计质量相关性研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nanjjtgdzkxxxb200402009",
+      "title": "中国审计执业责任保险问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xwahz202004018",
+      "title": "浅析移动互联时代虚拟社群的群聚心理及群体效应",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "kjzy200930030",
+      "title": "存货管理的问题及对策",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "ddjj201301040",
+      "title": "对存货与仓储循环审计的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwjmck201906008",
+      "title": "大数据时代外贸企业商业模式与会计模式的创新 ——以香港利丰集团为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lxkjgdzkxxxb200905006",
+      "title": "审计失败上市公司之舞弊特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ggykf201314021",
+      "title": "生产与存货循环审计探析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "ggsj202002064",
+      "title": "新媒体时代高职学生意见表达的正向引导探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shrdyk201810002",
+      "title": "互联网时代的民意吸纳与表达",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xwyjdk201916075",
+      "title": "新媒体时代公民政治参与的研究回顾及趋势展望",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcb201811021",
+      "title": "互联网与公民政治参与关系的全新思考——评《互联网使用与政治参与》",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "ckxx202014081",
+      "title": "浅析公司全面预算管理优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy202011002",
+      "title": "基于战略导向的全面预算管理研究 ——以铁路运输企业G集团为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ckxx201912088",
+      "title": "浅谈我国存货项目审计中存在的问题及对策——以Z为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caix201815102",
+      "title": "浅谈存货审计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201918018",
+      "title": "存货舞弊问题与审计对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzy201120027",
+      "title": "试论财务报表重大错报风险评估三维框架的建立",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201951013",
+      "title": "审计非无保留意见的边界分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sygdzkxxxb201706019",
+      "title": "异常审计收费与审计质量——基于创业板公司的证据",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnsygdzkxxxb201603004",
+      "title": "审计收费与审计质量相关性研究--以中国上市公司经验数据为据",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx201713121",
+      "title": "上市公司审计质量与审计收费相关研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201445114",
+      "title": "钢铁企业生产与存货循环常见舞弊手段及审计方法——以A钢铁公司为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "syhj201818017",
+      "title": "农业上市公司重大错报风险评估研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "xdsmgy201617079",
+      "title": "互联网民意表达问题及其对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hhgxyxb-rwshkxb201511026",
+      "title": "基于创意、创新、创业的营销体系构建——以“养生客房”创业策划书为例",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jtyy-klys202001004",
+      "title": "空气污染或致脱发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm202007079",
+      "title": "浅谈国有企业会计职业道德建设",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gsshkx201204047",
+      "title": "利益与伦理制衡下的会计行为研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwqyj201307075",
+      "title": "论道德与利益对会计信息质量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzdxxb-zxshkxb201206008",
+      "title": "利益权衡与会计造假:功利论的分析视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zsjjeqy202010028",
+      "title": "会计职业道德缺失的困境表征及对策措施",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zgjz202013024",
+      "title": "湖南:举行2020年抗洪抢险应急演练",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcqjk202009017",
+      "title": "青少年应对脱发有方法",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "cjj201711074",
+      "title": "会计信息失真原因分析及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "danddhj201916022",
+      "title": "会计人员职业道德问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201526045",
+      "title": "会计舞弊与会计人员职业道德的关系分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmsj201610036",
+      "title": "解析企业伦理视角的会计职业道德建设困境与路径",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdzyjy-ll201708008",
+      "title": "HALO设计工作室——创业计划书",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "hzjjykj202009023",
+      "title": "元亨房地产企业投资价值分析",
+      "download_times": 9,
+      "browse_times": 5
+    },
+    {
+      "id": "sz-sxk201834202",
+      "title": "基于因子分析法的中国制浆造纸企业股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "shang201615144",
+      "title": "中国建设银行股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "sq-zh201636021",
+      "title": "股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqzyy202005027",
+      "title": "从肝论治脂溢性脱发",
+      "download_times": 7,
+      "browse_times": 16
+    },
+    {
+      "id": "czqkdx202005004",
+      "title": "无硅油洗发水,真的可以防脱发吗?",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "qywh-x201712185",
+      "title": "企业伦理视角的会计职业道德建设分析与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj202010073",
+      "title": "会计职业道德现状及对策",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "zgfxkh202006028",
+      "title": "防汛抗洪四十载栉风沐雨守平安",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfdk201901154",
+      "title": "会计诚信问题的理性思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sczyjsxyxb200301005",
+      "title": "沱牌曲酒股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl201615115",
+      "title": "东方财富股票价值投资分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sysd202010034",
+      "title": "新零售背景下零售企业市场投资价值分析",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "zhonggshic201932001",
+      "title": "ESG类股票投资价值分析 ——基于中国A股上市公司的实证研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shangyyj202004061",
+      "title": "电商平台拼多多的财务分析",
+      "download_times": 2,
+      "browse_times": 13
+    },
+    {
+      "id": "jxtxkj201801007",
+      "title": "播谷电商平台推广策划",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201913073",
+      "title": "电商平台创业策划之营销及盈利方案的构建分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "whcxbjyj201934088",
+      "title": "大学生创新创业大赛商业计划书设计关键技术研究",
+      "download_times": 8,
+      "browse_times": 18
+    },
+    {
+      "id": "xswzk202002169",
+      "title": "绿色农产品远程销售项目计划书",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "xdsmgy201808031",
+      "title": "云阁创业计划书商业模式",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb-shkxb202001001",
+      "title": "中国减贫理论新发展对马克思主义反贫困理论的原创性贡献及其历史世界意义",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh201021113",
+      "title": "上市银行的股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj202004011",
+      "title": "基于'人工智能+社区养老'视角的新型养老服务模式研究 ——以天津市社区养老服务模式创新为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgmykjyjj202001019",
+      "title": "电子商务旅游商业策划书分析 ——以O2O旅游一体化共享云平台为例",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "tjzy201912002",
+      "title": "从湿热体质论治脂溢性脱发",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "qcsy201926446",
+      "title": "智能自动叠衣机创业计划书",
+      "download_times": 9,
+      "browse_times": 11
+    },
+    {
+      "id": "kcjyyj201504242",
+      "title": "股票投资价值的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sd-zx201510306",
+      "title": "中国民生银行股票的投资价值与买卖点分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk202007136",
+      "title": "股票投资价值分析——以BDKJ为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202015017",
+      "title": "运用现金流折现模型评估中国工商银行投资价值",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xdsmgy202020053",
+      "title": "普利制药(300630)投资价值分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggshic201902021",
+      "title": "股票投资价值分析——以通化东宝为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xiandaiyx201908093",
+      "title": "电商股票投资价值案例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201523138",
+      "title": "对股票投资价值分析策略的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjjjsc201906036",
+      "title": "股票投资价值分析 ——以普洛药业公司为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhj202003012",
+      "title": "基于股票估值方法的上市公司投资价值分析 ——以康辰药业为例",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "zdzyjy-ll201610007",
+      "title": "桐君汇创业工作室创业策划书",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkjxx-kjcy2009z1034",
+      "title": "'校园干洗店'策划书",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjjxx201710093",
+      "title": "“同乐苑老幼服务中心”商业策划书",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sclyj201802027",
+      "title": "贵州茅台投资价值分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "xzsyzcycw201635017",
+      "title": "可交换债券的投资价值 ——基于与股票价格联动的实证分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaiyx201909021",
+      "title": "电商股票投资价值案例分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjr-x201506101",
+      "title": "上市公司股票的投资价值分析——以电子城公司为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbhjjlw201910114",
+      "title": "价值投资在我国股票市场的效用分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xdwy-jj201002002",
+      "title": "林业上市公司股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh202008027",
+      "title": "粉丝应援电商平台运营模式的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201722059",
+      "title": "浅析财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201840160",
+      "title": "试论财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx201618075",
+      "title": "浅析财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dnzsyjs-itrzyksb200803025",
+      "title": "基于VB技术的电脑销售管理系统设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddlv201809234",
+      "title": "VB的企业人事管理系统设计与实现分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cwykj202009028",
+      "title": "中注协全力推进疫情防控和行业发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsyr-dxpd201712003",
+      "title": "为什么提不出问题?——一位硕士研究生的思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jmsj201810080",
+      "title": "浅析财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201822064",
+      "title": "财务会计向管理会计转型的趋势探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlgcygl202007040",
+      "title": "基于5G技术的智能制造模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syhj201702035",
+      "title": "电子商务审计的挑战与对策分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdzsw201007016",
+      "title": "浅谈电子商务发展对审计的影响",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "syyj200420058",
+      "title": "电子商务审计探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201941083",
+      "title": "职工培训——杜绝煤矿'三违'第一关",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf202017026",
+      "title": "'互联网+'背景下物流管理发展与创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxjsxcpjx201222027",
+      "title": "煤矿员工信息管理系统的设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzckjs202005006",
+      "title": "全力推进疫情防控和行业发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsq-jjllyj201613026",
+      "title": "新常态下会计职业道德建设创新研究--基于道德资本投资视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zs202007014",
+      "title": "瑞幸造假启示与反思",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "kjzy202009002",
+      "title": "瑞幸事件与中美跨境证券监管合作:回顾与展望",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcytzygkj201927106",
+      "title": "电子商务对企业审计的影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr202012012",
+      "title": "基于'互联网+'的物流管理体系构建研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dfqywh201004124",
+      "title": "行政领导者个人素质与行政效率",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzjsyy202007006",
+      "title": "室内场景下的5G前传承载方案研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs202016150",
+      "title": "工程地质与水文地质勘察相关问题分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dqpj201316086",
+      "title": "基于VB和PHP开发在线人事工资管理系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjxx200708040",
+      "title": "基于VB的企业人事管理系统设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyykjlt201004089",
+      "title": "执行力与领导影响力",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201512149",
+      "title": "浅谈会计职业道德建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-kxjyj201205022",
+      "title": "浅议会计舞弊与会计职业道德建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgzyy201505021",
+      "title": "四妙散合血府逐瘀汤加减治疗慢性前列腺炎临床观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdmtkj202005075",
+      "title": "基于煤矿职工“三违”情况的调查分析及对策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddywm200101006",
+      "title": "企业求利行为的伦理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsj201821068",
+      "title": "试论财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyz202013019",
+      "title": "互联网时代电子商务与物流管理模式的优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddgz202010011",
+      "title": "无接触配送服务在贵阳兴起",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxqn202014018",
+      "title": "无接触配送应成为高校校园外卖配送的常态",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jxjyxyxb202001006",
+      "title": "疫情影响下即时物流行业的变局与发展方向",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "wlgcygl202004036",
+      "title": "新零售驱动下即时配送发展研究",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "tylgdxxb202003021",
+      "title": "基于感性工学的微型电动车前脸造型设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "txdyjs202008022",
+      "title": "无线充电共享电动车立体车库设计",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjzdclykz201801025",
+      "title": "校园电瓶车智能充电控制系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nmgmtjj201801036",
+      "title": "选煤厂生产指挥体系人员综合能力提升的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jrys201911014",
+      "title": "浅析物流包装中存在的问题与发展趋势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "neijkj202006068",
+      "title": "共享电动车发展与选址研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdc202002008",
+      "title": "电动车用售后维护电池的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwxtd-cz202005015",
+      "title": "电瓶车的后座",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcs201908007",
+      "title": "电瓶车的智能防盗跟踪系统",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs-zbb201506045",
+      "title": "B2C大件货物物流优化调度模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlgcygl202004035",
+      "title": "无接触式配送模式下智能快递柜发展优化对策",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ddzxc201610004",
+      "title": "电动车行业的黑马：小牛驾到",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jrys201912020",
+      "title": "'可循环+共享模式'推进电商物流包装新时代",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljsyyy202002022",
+      "title": "制造工厂搬迁项目的物流包装方案设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201910004",
+      "title": "国有企业产品销售物流的运作模式探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljsyyy201909016",
+      "title": "物流包装的绿色智能设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wlkj201707039",
+      "title": "电动车行业供应链融资效率及提升对策——以电动车企业为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzfxd-kxyzb201508097",
+      "title": "浅谈选煤厂设计的关键问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddzxc200906009",
+      "title": "台湾残障人士用电动车之概况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201935065",
+      "title": "浅析新能源汽车供应链管理 ——以特斯拉电动车为例",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "jrys202002018",
+      "title": "环保包装材料在电子商务物流包装上的创新应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic202021097",
+      "title": "物联网环境下物流包装回收利用模式的创新与研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghgmy201806219",
+      "title": "大件货物道路运输安全评价分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtjs200609055",
+      "title": "OPC技术在选煤厂自动化中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fmyjgy201201011",
+      "title": "烧结法制备磁性磨料的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bmjs202003037",
+      "title": "钛合金曲面超声辅助磁性磨料光整加工材料去除规律及去除函数",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgys202002002",
+      "title": "球形磁性磨料磁力研磨ZrO2材料机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cxcljqj201502013",
+      "title": "磁性磨粒磨料混合均匀度测试与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dbdxxb202009015",
+      "title": "TC4钛合金孔的磁粒研磨试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "clgc201506016",
+      "title": "新能源汽车驱动电机用高强度无取向硅钢片的研究与进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj202014038",
+      "title": "电机定子硅钢片磁致伸缩效应引起的振动",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yzhj201002011",
+      "title": "磁性磨料制备技术的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hkjmzzjs201006011",
+      "title": "烧结法制备磁性磨料的实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjwryfz202007005",
+      "title": "生物炭/铁酸镧磁性复合材料的制备及对亚甲基蓝的吸附性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zsjjeqy202013099",
+      "title": "微观经济学中数学工具性应用价值研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "lnszxb201101004",
+      "title": "浅析数学与微观经济学之间的奇妙关系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bqclkxygc201201026",
+      "title": "磁性磨料制备技术研究新进展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gdhg201103128",
+      "title": "N,N-二乙基对苯二胺(DPD)-硫酸亚铁铵滴定法测定水中二氧化氯问题的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201609204",
+      "title": "浅谈抛石挤淤强夯置换在路基软基加固中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tdbzsj201004028",
+      "title": "西安地铁2号线钟楼站隧道暗挖施工技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjm201509116",
+      "title": "关于马克思主义经济学与西方经济学的理性比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csdqyfh201612030",
+      "title": "爆炸挤淤置换法地基处理海堤结构结合滨海公路开发的特点及工程实例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201909078",
+      "title": "抛石挤淤在软土地基处理中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gsjs201905016",
+      "title": "二氧化氯DPD现场测定法的影响因素与控制措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjs202005029",
+      "title": "饮用水中二氧化氯和高锰酸钾联合除锰应用实例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cjlc202010002",
+      "title": "中间品进口与制造业全球价值链升级",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzxdb201929030",
+      "title": "抛石挤淤强夯法在海涂地区地基加固工程中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjtkj201003007",
+      "title": "抛石挤淤加强夯置换在青岛海湾大桥中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbhtgyxyxb201001007",
+      "title": "抛石挤淤强夯置换处理软基置换深度研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sgjs201516029",
+      "title": "短期填海造陆地质条件下夯填挤淤置换施工技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fmycx-xsb201908005",
+      "title": "防蚊神器——蚊帐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwsrc202009013",
+      "title": "疫情下的中国答卷",
+      "download_times": 7,
+      "browse_times": 23
+    },
+    {
+      "id": "fjsk202006006",
+      "title": "粉煤灰多孔陶瓷的制备及稀土改性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201806026",
+      "title": "双级雾化快凝磁性磨料制备工艺系统的研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201312038",
+      "title": "SiC磁性磨料陶瓷颗粒增强相分布研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scsfdxxb202006013",
+      "title": "双层转角石墨烯结构和弹性性质的第一性原理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqwg202007011",
+      "title": "疫情大考中国答卷的世界形象",
+      "download_times": 15,
+      "browse_times": 25
+    },
+    {
+      "id": "jxgys201503016",
+      "title": "粘结法制备磁性磨料及其对轴承钢外圆表面的光整加工研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbmt201705008",
+      "title": "选煤厂铁路运煤防冻系统的设计与应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201926006",
+      "title": "磁性磨料研磨技术专利分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdmtkj2007z1075",
+      "title": "煤矿运输岗位危险因素识别及安全对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201013023",
+      "title": "浅谈选煤厂装运车间班组安全管理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2014301411",
+      "title": "新桥选煤厂“三维立体”安全管理模式的构建与实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201739098",
+      "title": "浅析选煤厂精细化管理",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wjclxb201608006",
+      "title": "MgO/SrO/La2O3多元添加对(Zr0.8Sn0.2)TiO4微波陶瓷结构性能影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjclxb202010015",
+      "title": "铜基底预处理对CVD法生长石墨烯薄膜的影响",
+      "download_times": 4,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [
+    {
+      "id": "jyfzyj201911014",
+      "title": "生态语言学视域下学术英语写作教学研究——评《学术英语写作教程(修订版)》",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "0120181201323099",
+      "title": "参考文献",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gzgydxxb-shkxb200204014",
+      "title": "论跨语际专业论文定义的英文写作",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "kjzy201813020",
+      "title": "基于修正KMV模型的上市公司信用风险测度",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kjjjdk201635086",
+      "title": "学术论文文献综述写作研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "znlt200702013",
+      "title": "再谈科技英语论文写作中的定义与叙述",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "0120181106267296",
+      "title": "学术论文——基本性质",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ddlv201721059",
+      "title": "学术论文的性质及特点研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "fzysh200830010",
+      "title": "论我国的授权立法",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "jfjwgyxyxb201404004",
+      "title": "学术英语论文写作的过程、挑战与应对策略",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xxb-zsb201511080",
+      "title": "浅谈学术论文写作",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt201542047",
+      "title": "研究生学术英语写作教学与互动模式探索",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sdhg201919089",
+      "title": "研究生科技论文写作能力培养",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfx201901003",
+      "title": "《大清律例》条标的运用与启示",
+      "download_times": 0,
+      "browse_times": 22
+    },
+    {
+      "id": "xingzlt201802016",
+      "title": "全国人民代表大会授权立法的现状分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xxjlcl201910068",
+      "title": "电子信息技术在农业机械中的应用探究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "HANS201909230307",
+      "title": "文本可读性与学术论文写作教学",
+      "download_times": 0,
+      "browse_times": 8
+    },
+    {
+      "id": "zjsdxb-shkx200506008",
+      "title": "授权立法的效力初探",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xbszjy201923081",
+      "title": "硕士研究生论文指导策略",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgfx201901001",
+      "title": "合宪性、合法性、适当性审查的区别与联系",
+      "download_times": 0,
+      "browse_times": 141
+    },
+    {
+      "id": "zgylzwdxxb200804038",
+      "title": "浅谈学术论文的写作要求",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fazysh201307003",
+      "title": "授权立法是与非",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201932053",
+      "title": "基于GA-GARCH-KMV模型产能过剩行业的信用风险评价研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gbdsdxxb-zxsh201801009",
+      "title": "学术论文写作的三种意识",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "whcxbjyj201709030",
+      "title": "学术论文-基本性质",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201827120",
+      "title": "图书馆员与写作研究探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sxwlxyxb200403006",
+      "title": "论我国授权立法的现状及完善",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "xzyf201003028",
+      "title": "西方国家授权立法监督模式及其对我国的启示",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "CASS_4577082",
+      "title": "美国立法体制的特征",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fzysh200830010",
+      "title": "论我国的授权立法",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "jlsjyxyxb-xk201301012",
+      "title": "学位论文中概念论述的详略程度解析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "0120181103294305",
+      "title": "学术论文——基本性质",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hljsshzyxyxb201001015",
+      "title": "学报论文摘要的规范写作",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sxqn201813061",
+      "title": "关于国内康德自由观研究文献写作方法分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfx201901004",
+      "title": "新时代“德法合治”方略的哲理思考",
+      "download_times": 0,
+      "browse_times": 14
+    },
+    {
+      "id": "slsfzkxxxb200101010",
+      "title": "学术论文写作之基本规范",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kszk201545011",
+      "title": "大学英语教学改革的反思：由通识英语向学术英语转型中写作能力的培养",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "QK199901111509",
+      "title": "论西方国家的授权立法",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "hljda200706034",
+      "title": "浅谈学术论文的写作",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xmjyxyxb200203025",
+      "title": "浅谈教育学术论文之写作",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "HANS201909230368",
+      "title": "基于语料库研究学术词汇在研究生学术写作中的运用",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "sczk201101041",
+      "title": "论审计收费对审计独立性的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xjj201414034",
+      "title": "钱荒对中国银行业的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjjxx201902040",
+      "title": "浅谈企业财务管理中业财融合",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "syjlr201401018",
+      "title": "银行业“钱荒”的原因及经济影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_662222327",
+      "title": "浅谈基层央行贯彻实施《中国内部审计准则》的“独立性客观性”",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cktx201610028",
+      "title": "独立审计准则伦理基础探究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "fzyjj201712032",
+      "title": "论民法典物权编典权制度的价值定位与制度设计",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201920050",
+      "title": "基于业财融合的全面预算管理体系的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "llts202001004",
+      "title": "国家治理体系中的地方立法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jrxxck201403002",
+      "title": "回放:2013年两度“钱荒”",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syhj201419035",
+      "title": "透过“钱荒”浅析我国商业银行流动性风险管理",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lyzl201804001",
+      "title": "动物求偶也疯狂",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201924062",
+      "title": "业财融合在项目管理中的管控",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shqy201307020",
+      "title": "没有钱荒论缺乏金融常识",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwj201405022",
+      "title": "银行间市场回购利率特点及影响因素分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xsjl200607028",
+      "title": "财务报表保险制度面临的难题分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "xdsmgy201833046",
+      "title": "我国实行财务报表保险制度的可行性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ckyk-llb200904031",
+      "title": "建立财务报表保险制度的有关探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ckxx201934024",
+      "title": "企业业财融合问题及完善",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201934198",
+      "title": "浅谈业财融合助力企业价值创造刍议",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201909174",
+      "title": "业财融合在财务管理中的运用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201938001",
+      "title": "浅析业财融合在企业财务管理中的意义",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "sxwlxyxb200403006",
+      "title": "论我国授权立法的现状及完善",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "sq-zh201803003",
+      "title": "注册会计师审计独立性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201933107",
+      "title": "财务共享服务下,怎样做好业财融合",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzckjs201912030",
+      "title": "新政府会计制度下业财融合的初始条件分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201952023",
+      "title": "推进业财融合助力企业发展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "fxlt201901009",
+      "title": "民法典编纂中典权的困境与激活",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "tzyqc201904022",
+      "title": "页岩气与煤层气开发特征模拟实验研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl201702080",
+      "title": "关于审计准则审计独立性的思考",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "jjyjck199642001",
+      "title": "一、关于禁毒的背景情况",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hbjr201312004",
+      "title": "解读“钱荒”背后的流动性管理问题",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcsjr201307017",
+      "title": "“钱荒”的成因及对基金行业的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "scxdh201017092",
+      "title": "审计独立性及加强措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jjyjck201348015",
+      "title": "钱荒是银行自酿的苦酒",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ckxx201810224",
+      "title": "基金管理公司如何有效加强股权投资基金的内部控制研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jyz201919030",
+      "title": "关于加强房地产企业资产管理的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgywlyfzzz201704002",
+      "title": "《禁毒法》修订背景下强制隔离戒毒制度的完善(下) ——基于境外戒毒立法经验的考量与借鉴",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggsm201923032",
+      "title": "个人应如何进行投资理财规划",
+      "download_times": 10,
+      "browse_times": 20
+    },
+    {
+      "id": "zbsc201310022",
+      "title": "钱荒的中长期影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "scxdh201616118",
+      "title": "注册会计师审计独立性影响因素及对策研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_4648264",
+      "title": "我国注册会计师行业的现状与规范",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jrjxyyj201606007",
+      "title": "从亚洲六国看中小企业“贷款难”",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "sdjr-x201309125",
+      "title": "6月末“钱荒”对经济影响及政策建议",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200101510465",
+      "title": "我国《国家审计基本准则》与《独立审计基本准则》之比较",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "juanz201728122",
+      "title": "我国股权投资基金内部控制研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "tsxzxyxb200306011",
+      "title": "我国授权立法监督制度的现状及其完善",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "shkj200203021",
+      "title": "美国审计独立性准则基本框架的建立",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjjxx201933120",
+      "title": "浅析企业财务管理中的业财融合问题",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sxcwg201902030",
+      "title": "浅析构建业务与财务相融合的意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cjj201935076",
+      "title": "大数据时代企业的业财融合",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200702389336",
+      "title": "我国注册会计师独立性缺失的原因及对策分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK199901111509",
+      "title": "论西方国家的授权立法",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "0120181202040403",
+      "title": "中国将会成为下一个金融危机的发源地吗?——基于第三代货币危机理论的分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "whjr201911001",
+      "title": "金融自由化、金融发展与实体经济资本配置效率",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "shang201442125",
+      "title": "保持独立性,恪守职业谨慎是防范审计失败的关键——科龙电器审计失败案例研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjs201611032",
+      "title": "审计失败的思考——基于科龙电器的案例分析",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "QK199800369081",
+      "title": "美国共同基金对我国的启示",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xdqy200904033",
+      "title": "浅析审计风险的防范与控制",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK201004865825",
+      "title": "分析审计风险的要素及运用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QKV20132013092600020487",
+      "title": "搅局者'余额宝'",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yhj201309010",
+      "title": "余额宝“搅局”基金业托管银行“居中”应势图变",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jinrkj201701007",
+      "title": "加强开发性金融国际合作推动“一带一路”联动发展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_7002648651",
+      "title": "摘要的写作规范",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzg201307015",
+      "title": "'搅局者'余额宝:一个产品震撼一个行业",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "syck200205021",
+      "title": "审计独立性的缺失及其改进对策--银广夏业绩造假案的启示",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jrllysj200202006",
+      "title": "中国资本市场的功能缺陷与修正",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjjbg201308011",
+      "title": "“余额宝”搅局银行业",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xmgljs200904006",
+      "title": "核电领域集团式ERP项目的风险分析和应对策略",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201735015",
+      "title": "中国资本市场的现状及发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201934028",
+      "title": "基本建设内控程序中的风险分析和应对",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "qqh201901003",
+      "title": "改革开放以来我国资本市场发展回顾与展望",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "QK200101881345",
+      "title": "我国资本市场发展回顾与展望",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jnjyxyxb201503038",
+      "title": "基于结构的英文科技论文写作与编译",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "0120181201513841",
+      "title": "分析性程序在审计实务中的应用问题研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "ddcj201301015",
+      "title": "云计算的发展及其对会计、审计的挑战",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "syjlr201804125",
+      "title": "浅议'云会计'在企业会计信息化中的应用及常见问题分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdhjy201911011",
+      "title": "个性化在线教育公共服务推进过程中的关键问题思考 ——对北京市中学教师开放型在线辅导计划的实践反思",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "xnnydxxb-shkx200906006",
+      "title": "从利率平价理论角度探讨人民币的汇率",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QK199800797231",
+      "title": "从汇率决定理论看人民币近期走势",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzckjs201504017",
+      "title": "内部控制鉴证与内部控制审计:政策规定与实施现状",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "CASS_690748471200934086",
+      "title": "浅议企业内部控制自我评价与内部审计的关系",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "qnkx-jsb201309124",
+      "title": "购买力平价理论的实证分析——以人民币兑美元汇率为例",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "xsyj200103002",
+      "title": "利率平价理论对我国汇率决定的适用性探讨",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "kjjjsc200603054",
+      "title": "论国际收支在汇率决定中的作用——一个理论回顾和总结",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ysbj201906013",
+      "title": "基于品牌资产视角的虚拟品牌建设与传播研究——以抖音“一禅小和尚”为例",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "caix201903156",
+      "title": "购买力评价理论的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sysd201104022",
+      "title": "利率平价理论与人民币汇率关系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfjm201101038",
+      "title": "利率平价理论对人民币汇率的适用性研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "cjj201602199",
+      "title": "内部控制鉴证与内部控制审计的实践思路解析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ckyk-llb201009031",
+      "title": "论内部控制的自我评估与外部审计鉴证",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201710087",
+      "title": "浅议云计算的发展对会计行业带来的影响及应对措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201526068",
+      "title": "浅析“云会计”对企业财务工作的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "danddhj201809005",
+      "title": "浅析云计算对财务会计工作的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggsm201703032",
+      "title": "云会计在企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201228002",
+      "title": "实施财务报告内部控制审计的基本思路解析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy200921093",
+      "title": "审计报告与内部控制鉴证报告比较分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "whjr201503002",
+      "title": "汇率的利率平价决定理论:中国的现实检验",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shang201448113",
+      "title": "大数据时代云会计的应用分析",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "syjlr201927085",
+      "title": "云计算环境下企业构建云会计相关问题研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "0120181102627931",
+      "title": "云会计在企业会计信息化中的应用分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bkltdzzz2019170795",
+      "title": "云会计在企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzsfxyxb-shkxb201006021",
+      "title": "浅析云计算对会计的影响",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "xsyk200508006",
+      "title": "人民币均衡汇率决定的理论分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgmykjyjj202001064",
+      "title": "云会计在企业会计信息化中的实践探讨",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "cktx201004110",
+      "title": "会计政策、会计估计变更背景下的财务报表分析策略-基于经济后果学说视角",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cktx201719005",
+      "title": "异常审计收费与审计质量相关性研究——基于上市公司数据",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gdjj201706006",
+      "title": "安徽达诺乳业的内部审计问题的调研报告",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "DJl0+09loIMXdvDxuTGxZReaiMoEa8UEGU3nXYQ8z58=",
+      "title": "A Comparative Study on the Street Space Form in the Old City of Beijing: A Case Study of Shijia Hutong, the White Stupa Temple Area, and Dashilanr",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "caix201918018",
+      "title": "存货舞弊问题与审计对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ukQdtn6ybF423EscaYuJ/kIIFmWq58ydewchk5YBKSU=",
+      "title": "Museum architecture as spatial storytelling of historical time: Manifesting a primary example of Jewish space in Yad Vashem Holocaust History Museum",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "haSf9yoxBARcXZFzzuncmZCAF31UXF/fG4bm6s/iGzA=",
+      "title": "A Comparative Study on the Street Space Form in the Old City of Beijing： A Case Study of Shijia Hutong, the White Stupa Temple Area, and Dashilanr",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy201617079",
+      "title": "互联网民意表达问题及其对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200802937935",
+      "title": "存货舞弊与审计对策",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shrdyk201810002",
+      "title": "互联网时代的民意吸纳与表达",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xzsyzcycw201907044",
+      "title": "销售与收款循环重大错报风险探索——基于财务报表审计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sz-sxk201834202",
+      "title": "基于因子分析法的中国制浆造纸企业股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjxtyy202002029",
+      "title": "基于改进回声状态神经网络的个股股价预测",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201733080",
+      "title": "论会计职业道德",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shang201615144",
+      "title": "中国建设银行股票投资价值分析",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "cktx201223002",
+      "title": "建设银行股票投资价值分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200301697379",
+      "title": "刍议利益搏弈决定会计职业道德取向",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QFDBR/BA6b2pAub5b9gaiZ5Ey/7oT9b06roL4VpeXEI=",
+      "title": "“十三五”生态环境保护规划：把握新要求、布局新任务",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cktx201128084",
+      "title": "浅析诚信与会计舞弊",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdzsw201007016",
+      "title": "浅谈电子商务发展对审计的影响",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "jsyr-dxpd201712003",
+      "title": "为什么提不出问题?——一位硕士研究生的思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ckxx201618075",
+      "title": "浅析财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jmsj201810080",
+      "title": "浅析财务会计向管理会计转型的趋势",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200101706234",
+      "title": "电子商务对审计发展的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "vZRxL8lVzztbBYLcItQb7rRas//qrDONEP4ih+kKs4o=",
+      "title": "新西部",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sgjs201516029",
+      "title": "短期填海造陆地质条件下夯填挤淤置换施工技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201909078",
+      "title": "抛石挤淤在软土地基处理中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbhtgyxyxb201001007",
+      "title": "抛石挤淤强夯置换处理软基置换深度研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "QKBJB20202020102800003686",
+      "title": "浅谈复杂水域抛石挤淤施工工艺",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nyAaMEj/rK+m2mlEviAhwQmqeuQbgUXSeET2AZ2OAwI=",
+      "title": "Fiber Bragg Grating （FBG） Sensors Used in Coal Mines",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QKBJB20192019102400002433",
+      "title": "抛石挤淤在软土地基处理中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzxdb201929030",
+      "title": "抛石挤淤强夯法在海涂地区地基加固工程中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201609204",
+      "title": "浅谈抛石挤淤强夯置换在路基软基加固中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "什么是学术写作",
+    "poster papers",
+    "学术写作过程",
+    "四川大学",
+    "法理学",
+    "基于修正KMV模型",
+    "基于修正KMV模型的上市公司信用风险测度",
+    "什么是学术写作",
+    "学术写作文献综述",
+    "KMV",
+    "基于修正KMV模型",
+    "浅谈学术写作",
+    "学术写作过程",
+    "基于修正KMV模型的上市公司信用风险测度",
+    "美国的立法体制",
+    "美国的立法体制",
+    "学术写作的定义",
+    "信息技术改变生产生活",
+    "论西方国家的授权立法",
+    "美国的立法体制",
+    "美国的立法体制",
+    "美国立法体制研究",
+    "基于修正KMV模型",
+    "四川大学法学",
+    "四川大学法学",
+    "论西方国家的授权立法",
+    "论文写作的定义",
+    "论文写作的定义",
+    "论文写作的定义",
+    "什么是学术写作",
+    "美国立法体制研究",
+    "美国立法体制研究",
+    "学术写作",
+    "学术写作的定义",
+    "学术写作文献综述",
+    "授权立法的起源",
+    "什么是学术写作",
+    "法理学j四川大学",
+    "法理学",
+    "poster papers",
+    "学术写作过程",
+    "学术写作过程",
+    "浅谈学术写作",
+    "论文写作的定义",
+    "论文写作的定义",
+    "论文写作的定义",
+    "美国的立法",
+    "美国的立法",
+    "美国的立法",
+    "学术写作过程",
+    "论文写作的定义",
+    "业财融合意义",
+    "业财融合",
+    "旅游对教育的影响",
+    "王春光论西方国家的授权立法",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "钱荒对金融市场的影响",
+    "沈瑞",
+    "沈瑞",
+    "钱荒流动性风险管理",
+    "沈瑞",
+    "钱荒对金融市场的影响",
+    "钱荒的影响",
+    "钱荒对金融市场的影响",
+    "管理资产实现资产价值的稳定",
+    "加强个人的资产管理",
+    "商业票据与短期融资票据",
+    "邹斌",
+    "邹斌",
+    "民国时期民法法典化",
+    "民国时期民法法典化",
+    "中小企业审计需求的实证研究",
+    "王春光论西方国家的授权立法",
+    "论西方国家的授权立法",
+    "注册会计师独立性行业现状",
+    "注册会计师独立性行业现状",
+    "王成涛",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "西方国家吸毒",
+    "西方国家吸毒",
+    "民国民法法典化",
+    "民国时期民法法典化",
+    "业财融合",
+    "财务报表保险制度",
+    "注册会计师独立性行业现状",
+    "基于KMV模型的上市公司信用风险度量",
+    "旅游对教育的影响",
+    "哈药股份",
+    "哈药股份",
+    "哈药股份",
+    "哈药股份",
+    "动物求偶",
+    "注册会计师独立性",
+    "注册会计师独立性缺失分析",
+    "论西方国家的授权立法",
+    "王春光论西方国家的授权立法",
+    "论西方国家的授权立法",
+    "王成涛",
+    "注册会计师审计独立性研究",
+    "邹斌",
+    "邹斌",
+    "沈瑞",
+    "钱荒流动性风险管理",
+    "沈瑞",
+    "没有钱荒论缺乏金融常识",
+    "钱荒的影响",
+    "沈瑞",
+    "钱荒对金融市场的影响",
+    "个人投资风险管理",
+    "加强个人的资产管理",
+    "王春光",
+    "王春光",
+    "王成涛",
+    "中报审计需求的实证研究",
+    "中小企业审计需求的实证研究",
+    "业财融合意义",
+    "哈药股份",
+    "哈药股份",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "独立审计基本准则",
+    "审计独立性准则",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "裴洪英",
+    "钱荒流动性风险管理",
+    "钱荒对金融市场的影响",
+    "钱荒票据市场",
+    "钱荒对金融市场的影响",
+    "钱荒票据市场",
+    "钱荒对金融市场的影响",
+    "沈瑞",
+    "钱荒对金融市场的影响",
+    "注册会计师独立性",
+    "注册会计师独立性缺失分析",
+    "旅游对教育的影响",
+    "旅游对教育的影响",
+    "个人投资资金管理",
+    "个人投资",
+    "管理资产实现资产价值的稳定",
+    "个人投资风险管理",
+    "何堤",
+    "同业拆借利率影响因素",
+    "回购市场利率的影响因素",
+    "同业拆借利率影响因素",
+    "哈药股份",
+    "西方国家吸毒",
+    "西方国家吸毒",
+    "审计独立性准则",
+    "独立审计基本准则",
+    "注册会计师审计独立性研究",
+    "钱荒的影响",
+    "没有钱荒论缺乏金融常识",
+    "沈瑞",
+    "沈瑞",
+    "沈瑞",
+    "沈瑞",
+    "钱荒流动性风险管理",
+    "个人投资资金管理",
+    "管理资产实现资产价值的稳定",
+    "何堤",
+    "同业拆借利率影响因素",
+    "回购市场利率的影响因素",
+    "同业拆借利率影响因素",
+    "回购市场利率的影响因素",
+    "注册会计师独立性行业现状",
+    "旅游是教育的一部分",
+    "旅游是教育的一部分",
+    "旅游对教育的影响",
+    "旅游是教育的一部分",
+    "钱荒与票据业务",
+    "同业拆借利率影响因素",
+    "回购市场利率的影响因素",
+    "回购市场利率的影响因素",
+    "裴洪英",
+    "注册会计师审计独立性研究",
+    "独立审计基本准则",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "独立审计基本准则",
+    "注册会计师审计独立性研究",
+    "哈药核心竞争力",
+    "哈药股份",
+    "中小企业审计需求的实证研究",
+    "中报审计需求的实证研究",
+    "民国民法法典化",
+    "独立审计准则",
+    "独立审计基本准则",
+    "注册会计师审计独立性研究",
+    "独立审计准则",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "注册会计师审计独立性研究",
+    "商业票据与短期融资票据",
+    "钱荒票据市场",
+    "钱荒对金融市场的影响",
+    "沈瑞",
+    "沈瑞",
+    "钱荒流动性风险管理",
+    "沈瑞",
+    "钱荒事件票据市场",
+    "沈瑞",
+    "沈瑞",
+    "朱同明",
+    "朱同明",
+    "朱同明",
+    "财务报表保险制度",
+    "财务报表保险制度",
+    "个人投资",
+    "个人投资资金管理",
+    "加强个人的资产管理",
+    "加强个人的资产管理",
+    "何堤",
+    "注册会计师独立性行业现状",
+    "同业拆借利率影响因素",
+    "何堤",
+    "回购市场利率的影响因素",
+    "民国民法法典化",
+    "民国时期民法法典化",
+    "注册会计师独立性行业现状",
+    "哈药股份",
+    "哈药核心竞争力",
+    "马弘",
+    "韩慧博",
+    "审计风险的要素",
+    "审计风险的要素",
+    "授权立法",
+    "资本市场发展的瓶颈",
+    "资本市场发展",
+    "财务报表审计是合理保证",
+    "财务报表审计是合理保证",
+    "是否应担心人工智能",
+    "科龙审计案例",
+    "论文写作结构",
+    "论文写作结构",
+    "学术论文写作结构",
+    "资本市场的核心功能",
+    "资本市场核心功能",
+    "资本市场核心功能",
+    "审计分析程序",
+    "审计分析程序",
+    "审计分析程序",
+    "审计分析程序与重要性水平",
+    "资本市场发展",
+    "我国资本市场发展的瓶颈",
+    "我国资本市场发展的瓶颈",
+    "资本市场发展",
+    "论西方国家的授权立法",
+    "审计分析程序",
+    "审计分析程序与重要性水平",
+    "审计分析程序",
+    "审计独立、科龙",
+    "科龙审计",
+    "科龙审计",
+    "科龙审计",
+    "审计独立性、科龙",
+    "科龙审计",
+    "银广夏、审计",
+    "外高桥",
+    "银广夏、审计",
+    "外高桥审计",
+    "审计独立性、科龙",
+    "科龙审计案例",
+    "我国资本市场的作用",
+    "资本市场的核心功能",
+    "资本市场的核心作用",
+    "资本市场的核心功能",
+    "我国资本市场的作用",
+    "资本市场核心功能",
+    "马弘",
+    "马弘",
+    "授权立法制度",
+    "科龙审计",
+    "审计独立性、科龙",
+    "银广夏、审计",
+    "银广夏、审计独立性",
+    "外高桥审计",
+    "科龙审计",
+    "科龙审计案例",
+    "科龙审计案例",
+    "银广夏审计失败案例",
+    "银广夏、审计",
+    "明星电力审计案例",
+    "明星电力",
+    "外高桥审计",
+    "资本市场发展",
+    "资本市场发展",
+    "资本市场发展的瓶颈",
+    "授权立法",
+    "授权立法制度",
+    "审计分析程序与重要性水平",
+    "消免费医疗的好处",
+    "审计风险的要素",
+    "审计风险的要素",
+    "审计风险的要素",
+    "资本市场的核心功能",
+    "资本市场的核心作用",
+    "资本市场的核心作用",
+    "我国资本市场的作用",
+    "资本市场的核心功能",
+    "授权立法制度",
+    "韩慧博",
+    "资本市场发展",
+    "资本市场发展的瓶颈",
+    "资本市场发展",
+    "资本市场发展的瓶颈",
+    "资本市场发展",
+    "资本市场发展",
+    "资本市场发展",
+    "审计风险的要素",
+    "审计风险的要素",
+    "审计风险的要素",
+    "审计分析程序",
+    "科龙审计案例",
+    "明星电力",
+    "审计独立、科龙",
+    "科龙审计案例",
+    "科龙审计案例",
+    "审计独立、科龙",
+    "审计独立性、科龙",
+    "明星电力审计案例",
+    "外高桥审计",
+    "银广夏、审计独立性",
+    "银广夏、审计",
+    "银广夏、审计",
+    "科龙审计",
+    "审计提供合理保证",
+    "财务报表审计是合理保证",
+    "审计提供合理保证",
+    "财务报表审计是合理保证",
+    "审计提供合理保证",
+    "马弘",
+    "马弘",
+    "论西方国家的授权立法",
+    "我国货币共同基金的发展与特征",
+    "中国货币市场基金发展与利率市场化:基于美国的经验",
+    "银广夏、审计独立性",
+    "银广夏审计失败案例",
+    "银广夏、审计独立性",
+    "外高桥审计",
+    "明星电力",
+    "审计独立性、科龙",
+    "科龙审计",
+    "外高桥",
+    "银广夏审计失败案例",
+    "外高桥",
+    "审计独立性、科龙",
+    "科龙审计",
+    "审计独立、科龙",
+    "资本市场发展的瓶颈",
+    "审计分析程序",
+    "审计分析程序",
+    "资本市场的核心功能",
+    "我国资本市场的作用",
+    "我国资本市场的作用",
+    "设计分析程序",
+    "我国共同基金的发展",
+    "我国共同基金的发展",
+    "共同基金",
+    "PayPal货币市场",
+    "PayPal货币市场",
+    "共同基金",
+    "PayPal",
+    "共同基金",
+    "货币市场共同基金",
+    "免费医疗的好处",
+    "免费医疗的好处",
+    "学术论文写作结构",
+    "我国货币共同基金的发展与特征",
+    "货币市场共同基金的发展",
+    "共同基金的发展",
+    "货币市场共同基金的发展",
+    "我国货币共同基金的发展与特征",
+    "货币市场共同基金",
+    "货币市场共同基金",
+    "共同基金",
+    "货币市场共同基金案例",
+    "ap",
+    "资本市场的核心作用",
+    "资本市场的核心功能",
+    "是否应担心人工智能",
+    "是否应担心人工智能",
+    "审计提供合理保证",
+    "设计分析程序",
+    "科龙审计案例",
+    "货币市场共同基金的发展",
+    "共同基金的发展",
+    "货币市场共同基金的发展",
+    "共同基金的发展",
+    "共同基金的发展",
+    "我国共同基金的发展",
+    "我国共同基金的发展",
+    "货币市场共同基金",
+    "PayPal货币市场",
+    "PayPal",
+    "PayPal货币市场",
+    "共同基金",
+    "银广夏、审计独立性",
+    "科龙审计案例",
+    "银广夏、审计",
+    "银广夏、审计",
+    "银广夏、审计",
+    "科龙审计",
+    "银广夏、审计",
+    "明星电力",
+    "银广夏、审计",
+    "明星电力审计",
+    "银广夏审计失败案例",
+    "银广夏、审计",
+    "明星电力审计",
+    "熊官玉",
+    "分析程序",
+    "货币市场共同基金的发展",
+    "共同基金",
+    "PayPal",
+    "货币市场共同基金",
+    "货币市场共同基金",
+    "PayPal货币市场",
+    "共同基金",
+    "PayPal货币市场",
+    "共同基金",
+    "PayPal",
+    "ap",
+    "审计提供合理保证",
+    "审计提供合理保证",
+    "货币市场共同基金的发展",
+    "货币市场共同基金的发展",
+    "共同基金的发展",
+    "共同基金",
+    "构建云会计系统",
+    "中美汇率",
+    "中美汇率购买力平价",
+    "汇率决定理论",
+    "国际收支理论",
+    "汇率决定理论",
+    "资产市场理论",
+    "汇率理论的适用性研究",
+    "资产市场理论",
+    "国际收支理论",
+    "国际收支理论",
+    "汇率决定理论",
+    "九阳",
+    "利率平价理论人民币汇率",
+    "汇率理论的适用性研究",
+    "中美汇率ppp汇率理论",
+    "中美汇率ppp汇率理论",
+    "中美汇率",
+    "汇率决定理论",
+    "内部控制鉴证与审计报告",
+    "内部控制审计与鉴证与自评",
+    "内部控制审计与鉴证",
+    "内部控制审计与鉴证与自评",
+    "内部控制审计与自评",
+    "企业云会计",
+    "构建云会计系统考虑的因素",
+    "中美汇率ppp汇率理论",
+    "汇率决定理论",
+    "汇率理论的适用性研究",
+    "资产市场说",
+    "汇率理论的适用性研究",
+    "利率平价理论人民币汇率",
+    "中美汇率ppp汇率理论",
+    "中美汇率购买力平价",
+    "汇率理论的适用性研究",
+    "资产市场说",
+    "资产市场说",
+    "国际收支理论",
+    "资产市场说",
+    "汇率理论的适用性研究",
+    "资产市场理论",
+    "汇率理论的适用性研究",
+    "汇率决定理论",
+    "构建云会计系统考虑的因素",
+    "企业构建云会计系统考虑的因素",
+    "构建云会计系统",
+    "吴家靖",
+    "九阳财务分析",
+    "九阳财务分析",
+    "企业云会计",
+    "企业构建云会计系统考虑的因素",
+    "构建云会计系统",
+    "构建云会计系统",
+    "构建云会计系统考虑的因素",
+    "构建云会计系统",
+    "内部控制审计与鉴证",
+    "内部控制鉴证与内部控制审计报告",
+    "内部控制鉴证与内部控制审计报告",
+    "云会计在会计实务",
+    "云会计对会计的冲击",
+    "云会计对财务会计的冲击",
+    "中美汇率购买力平价",
+    "国际收支理论",
+    "利率平价理论人民币汇率",
+    "资产市场理论",
+    "资产市场说",
+    "汇率决定理论",
+    "内部控制自评报告和鉴证报告的区别",
+    "关联交易描述性分析",
+    "关联交易",
+    "关联交易",
+    "在线教育",
+    "九阳",
+    "中美汇率购买力平价",
+    "内部控制审计与鉴证与自评",
+    "内部控制审计与自评",
+    "内部控制审计与鉴证",
+    "内部控制鉴证与内部控制审计报告",
+    "云会计对财务会计的冲击",
+    "内部控制自评报告和鉴证报告的区别",
+    "中美汇率购买力平价",
+    "中美汇率购买力平价",
+    "关联交易",
+    "关联交易及资产负债表日后事项",
+    "关联交易",
+    "关联交易描述性分析",
+    "关联交易",
+    "在线教育对学校和大学教育的威胁",
+    "内部控制审计与自评",
+    "内部控制审计与鉴证",
+    "内部控制审计与鉴证与自评",
+    "浅谈“云”对传统会计的冲击",
+    "云会计对会计实务的冲击",
+    "云会计在会计实务中的应用",
+    "浅析云计算对财务会计工作的影响",
+    "浅谈“云”对传统会计的冲击",
+    "企业云会计",
+    "云会计在会计实务中的优势",
+    "云会计对会计的冲击",
+    "云会计对会计的冲击",
+    "内部控制自评报告",
+    "云会计在会计实务中的应用",
+    "云会计对会计的冲击",
+    "云会计对会计实务的冲击",
+    "内部控制自评报告",
+    "在线教育",
+    "九好集团造假",
+    "利率平价理论人民币汇率",
+    "关联交易",
+    "关联交易描述性分析",
+    "在线教育",
+    "内部控制鉴证与内部控制审计报告",
+    "内部控制审计与自评",
+    "内部控制鉴证与内部控制审计报告",
+    "内部控制审计与鉴证与自评",
+    "云会计对财务会计的冲击",
+    "云会计在会计实务",
+    "浅析云计算对财务会计工作的影响",
+    "云会计对会计的冲击",
+    "云会计对会计的冲击",
+    "云会计在会计实务中的优势",
+    "urban communities block",
+    "审计责任保险制度研究",
+    "注册会计师责任保险制度研究",
+    "生产与存货循环审计",
+    "生产与存货循环审计",
+    "生产与存货案例",
+    "会计政策和会计估计变更对财务报表分析的影响与策略",
+    "会计政策和会计估计对财务报表的影响",
+    "李桂清",
+    "民意表达",
+    "上市公司审计合谋",
+    "上市公司审计合谋",
+    "生产业务循环审计",
+    "审计措辞分析",
+    "酒业生产与存货",
+    "服装行业存货",
+    "制造业审计",
+    "酒业生产与存货循环审计",
+    "制造业审计舞弊",
+    "生产与存货",
+    "制造业审计舞弊",
+    "生产与存货",
+    "酒业生产与存货循环审计",
+    "制造业存货舞弊",
+    "成本费用存货审计",
+    "Factors Affecting Urban Renewal in High-Density City: Case Study of Hong Kong",
+    "生产与存货",
+    "生产与存货审计",
+    "李桂清",
+    "高级管理会计",
+    "审计责任保险制度研究",
+    "注册会计师执业责任保险制度研究",
+    "注册会计师执业责任保险制度研究",
+    "The Effects of Block Size and Form inNorth American and Australian City Centers",
+    "生产与费用的重大错报风险",
+    "评估重大错报风险",
+    "生产与费用循环审计",
+    "制造业重大错报风险",
+    "如何评估制造业生产与费用的重大错报风险",
+    "审计收费与审计质量",
+    "审计收费与审计质量",
+    "地区竞争优势与审计质量",
+    "全面预算管理",
+    "审计合谋相关性",
+    "审计责任保险制度研究",
+    "注册会计师责任保险制度研究",
+    "生产与费用循环",
+    "生产重大错报风险",
+    "生产与费用循环审计",
+    "评估制造业重大错报风险",
+    "制造业重大错报风险",
+    "生产与费用循环审计",
+    "Block City Centers",
+    "题名:An architectural counterpoint in Universal Everything: Fluid Bodies exhibition",
+    "全面预算管理",
+    "全面预算管理",
+    "评估制造业重大错报风险",
+    "评估重大错报风险",
+    "评估重大错报风险",
+    "生产与费用循环",
+    "urban communities block",
+    "审计意见分析",
+    "地区竞争优势与审计质量",
+    "审计合谋相关性",
+    "上市公司审计合谋",
+    "民意表达",
+    "民意表达",
+    "urban communities",
+    "注册会计师责任保险制度研究",
+    "上市公司审计合谋",
+    "审计合谋欣泰电气",
+    "审计收费与审计质量",
+    "上市公司审计合谋",
+    "审计合谋相关性",
+    "生产与存货案例",
+    "生产与存货循环审计案例",
+    "生产与存货循环审计案例",
+    "生产重大错报风险",
+    "评估重大错报风险",
+    "生产重大错报风险",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "业务循环审计重大错报风险",
+    "业务循环审计",
+    "生产业务循环审计",
+    "生产与费用循环",
+    "生产循环审计",
+    "生产业务循环审计",
+    "审计结论",
+    "服装行业存货",
+    "生产与存货舞弊",
+    "服装行业",
+    "服装行业存货",
+    "生产与存货舞弊",
+    "服装行业生产与存货",
+    "题名:A Comparative Study on the Street Space Form in the Old City of Beijing: A Case Study of Shijia Hutong, the White Stupa Temple Area, and Dashilanr",
+    "生产与费用循环审计",
+    "生产循环审计",
+    "业务循环审计重大错报风险",
+    "生产循环审计",
+    "生产循环审计重大错报风险",
+    "生产与费用循环审计",
+    "审计责任保险制度研究",
+    "制造业生产循环审计",
+    "制造业存货审计相关思考",
+    "制造业生产与存货审计",
+    "生产与存货",
+    "生产与存货审计",
+    "制造业存货审计相关思考",
+    "生产与存货案例",
+    "审计结论",
+    "审计结论分析",
+    "审计结论分析",
+    "民意表达",
+    "李桂清",
+    "会计政策和会计估计变更对财务报表分析的影响与策略",
+    "生产与存货",
+    "酒业",
+    "成本费用存货审计",
+    "成本费用存货审计",
+    "审计结论分析",
+    "审计结论分析",
+    "审计收费与审计质量",
+    "审计收费与审计质量",
+    "全面预算管理",
+    "生产循环审计",
+    "生产与费用循环审计",
+    "业务循环审计",
+    "生产业务循环审计",
+    "生产循环审计重大错报风险",
+    "制造业存货舞弊",
+    "制造业审计舞弊",
+    "制造业业务循环审计",
+    "制造业审计舞弊",
+    "酒业生产与存货",
+    "服装行业生产与存货",
+    "制造业审计",
+    "制造业审计舞弊",
+    "服装行业生产与存货",
+    "制造业审计舞弊",
+    "服装行业审计",
+    "审计结论分析",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "生产与存货循环审计",
+    "制造业生产与存货审计",
+    "审计收费与审计质量",
+    "审计收费与审计质量",
+    "李桂清",
+    "生产循环审计",
+    "生产循环审计",
+    "审计措辞分析",
+    "审计措辞评价",
+    "生产与存货",
+    "制造业审计",
+    "制造业业务循环审计",
+    "成本费用存货审计",
+    "服装行业审计",
+    "生产与存货舞弊",
+    "制造业审计舞弊",
+    "制造业审计舞弊",
+    "生产与存货",
+    "制造业审计舞弊",
+    "全面预算管理",
+    "题名:Museum architecture as spatial storytelling of historical time: Manifesting a primary example of Jewish space in Yad Vashem Holocaust History Museum",
+    "题名:Museum architecture as spatial storytelling of historical time: Manifesting a primary example of Jewish space in Yad Vashem Holocaust History Museum",
+    "生产与费用的重大错报风险",
+    "评估重大错报风险",
+    "生产与费用循环",
+    "审计结论分析",
+    "审计结论分析",
+    "审计结论分析",
+    "审计意见分析",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "EVA与平衡计分卡业绩评价体系的比较",
+    "股票投资价值分析",
+    "平衡会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "平衡会计道德利益",
+    "股票投资价值分析",
+    "投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "会计道德利益",
+    "邱素芳",
+    "邱素芳",
+    "平衡会计道德利益",
+    "股票投资价值分析",
+    "邱素芳",
+    "邱素芳",
+    "会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "股票投资价值分析",
+    "平衡会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "平衡会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "会计道德利益",
+    "股票投资价值分析",
+    "邱素芳",
+    "会计道德利益",
+    "邱素芳",
+    "张馨予",
+    "张馨予",
+    "张馨予",
+    "企业家眼中的管理会计",
+    "何为研究",
+    "何为学术研究",
+    "学术研究的意义",
+    "学术研究",
+    "张馨予",
+    "张馨予",
+    "学术研究",
+    "何为学术研究",
+    "硕士研究生提出问题",
+    "学术研究定义",
+    "学术研究定义",
+    "张馨予",
+    "张馨予",
+    "张馨予",
+    "张馨予",
+    "学术研究",
+    "何为学术研究",
+    "张馨予",
+    "瑞幸咖啡做空事件分析——基于审计视角",
+    "瑞幸审计",
+    "李唯滨",
+    "瑞幸审计",
+    "李唯滨",
+    "新冠疫情对注册会计师职业道德的要求",
+    "疫情审计职业道德",
+    "新冠疫情对注册会计师的影响",
+    "新冠疫情职业道德",
+    "张馨予",
+    "“十三五”生态环境保护规划：把握新要求、布局新任务",
+    "何为研究",
+    "何为研究",
+    "何为学术研究",
+    "学术研究的意义",
+    "学术研究",
+    "何为学术研究",
+    "何为学术研究",
+    "张馨予",
+    "学术研究定义",
+    "学术研究的意义",
+    "何为硕士研究",
+    "张馨予",
+    "张馨予",
+    "张馨予",
+    "企业求利行为的伦理分析",
+    "企业求利行为的伦理分析",
+    "财务会计向管理会计转型的趋势分析",
+    "李唯滨",
+    "李唯滨",
+    "瑞幸审计",
+    "财务会计向管理会计转型的趋势",
+    "“十三五”生态环境保护规划：把握新要求、布局新任务",
+    "企业家与管理会计",
+    "何为研究",
+    "硕士研究生提出问题",
+    "张馨予",
+    "张馨予",
+    "何为研究",
+    "学术研究定义",
+    "张馨予",
+    "硕士研究生提出问题",
+    "张馨予",
+    "学术研究的意义",
+    "硕士研究生提出问题",
+    "何为硕士研究",
+    "瑞幸咖啡审计",
+    "瑞幸审计",
+    "李唯滨",
+    "张馨予",
+    "张馨予",
+    "企业家与管理会计",
+    "瑞幸咖啡审计",
+    "李唯滨",
+    "瑞幸咖啡做空事件分析——基于审计视角",
+    "李唯滨",
+    "李唯滨",
+    "疫情审计职业道德",
+    "新冠疫情对注册会计师职业道德",
+    "新冠疫情对注册会计师职业道德的要求",
+    "何为研究",
+    "学术研究",
+    "张馨予",
+    "张馨予",
+    "张馨予",
+    "何为研究",
+    "张馨予",
+    "硕士研究生提出问题",
+    "学术研究定义",
+    "张馨予",
+    "张馨予",
+    "学术研究",
+    "学术研究的意义",
+    "何为学术研究",
+    "何为硕士研究",
+    "张馨予",
+    "舞弊与会计职业道德",
+    "企业求利行为的伦理分析",
+    "VB企业的人事管理",
+    "电子商务发展对审计的影响",
+    "电子商务发展对审计的影响",
+    "企业家眼中的管理会计",
+    "企业家与管理会计",
+    "会计舞弊与会计职业道德的关系",
+    "舞弊与会计职业道德",
+    "VB企业的人事管理",
+    "新冠疫情职业道德",
+    "新冠疫情对注册会计师职业道德的要求",
+    "新冠疫情对注册会计师职业道德",
+    "财务舞弊与会计职业道德的关系",
+    "会计舞弊与会计职业道德的关系",
+    "企业利益与社会利益",
+    "企业利益与社会利益",
+    "何为研究",
+    "硕士研究生提出问题",
+    "张馨予",
+    "学术研究定义",
+    "何为学术研究",
+    "张馨予",
+    "硕士研究生提出问题",
+    "学术研究的意义",
+    "何为硕士研究",
+    "硕士研究生提出问题",
+    "新冠疫情对注册会计师职业道德的要求",
+    "疫情审计职业道德",
+    "新冠疫情职业道德",
+    "新冠疫情职业道德",
+    "新冠疫情对注册会计师职业道德",
+    "电子商务发展对审计的影响",
+    "电子商务发展对审计的影响",
+    "企业利益与社会利益",
+    "财务会计向管理会计转型的趋势",
+    "财务会计向管理会计转型的趋势",
+    "会计舞弊与会计职业道德",
+    "会计舞弊与会计职业道德",
+    "疫情审计职业道德",
+    "新冠疫情对注册会计师的影响",
+    "新冠疫情对注册会计师职业道德",
+    "政府综合财务报告的修订与评价",
+    "Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting",
+    "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "Image Inpainting",
+    "学报",
+    "学报",
+    "Image Inpainting",
+    "新西部",
+    "政府综合财务报告的修订与评价",
+    "政府综合财务报告的修订与评价",
+    "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "Image Inpainting",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "针对疫情国家应急项目管理的对策",
+    "挤淤置换",
+    "挤淤置换",
+    "抛石挤淤",
+    "煤矿安全问题",
+    "(煤矿安全问题) (Type:'Periodical' )",
+    "(煤矿安全问题) (PublishYear:'2020' )",
+    "Fiber Bragg Grating (FBG) Sensors Used in Coal MinesM",
+    "高新技术企业风险资本利用效率提升",
+    "基于DEA模型的中国建筑业效率空间差异变化研究",
+    "(风险资本利用) (ClassCodeForSearch:'0/F' )",
+    "高新技术企业",
+    "高细技术企业风险资本",
+    "CN201921745146.3",
+    "我国煤炭行业现状",
+    "优化设计理论机械工程",
+    "优化设计理论未来",
+    "高新技术企业",
+    "高新技术企业",
+    "煤矿安全问题",
+    "风险资本",
+    "我国煤炭行业现状",
+    "(风险资本) 关键词:风险资本",
+    "(输电线路小部件) (PublishYear:'2020' Type:'Periodical' )",
+    "煤矿安全问题",
+    "挤淤置换",
+    "挤淤置换",
+    "挤淤置换",
+    "高新技术企业",
+    "高新技术企业风险资本利用效率提升",
+    "高新技术企业",
+    "中国碳排放-经济发展-环境保护耦合协调关系分析",
+    "煤矿安全问题",
+    "我国煤炭行业现状",
+    "CN201921745146.3",
+    "CN201921745146.3",
+    "我国煤炭行业开采现状",
+    "做梦",
+    "论校友资源在高校事业发展中的作用",
+    "以马克思主义技术化",
+    "抛石挤淤",
+    "抛石挤淤",
+    "挤淤置换",
+    "抛石挤淤",
+    "优化设计理论机械工程",
+    "优化设计理论未来",
+    "优化设计理论机械工程未来",
+    "CN201921745146.3",
+    "我国煤炭行业现状",
+    "挤淤置换",
+    "挤淤置换",
+    "优化设计理论机械",
+    "我国煤炭行业现状",
+    "做梦",
+    "我国煤炭资源开采环境",
+    "我国煤炭资源开采环境",
+    "高新技术企业利用风险资本的效率机理研究",
+    "优化设计理论机械工程未来",
+    "CN201921745146.3",
+    "挤淤置换",
+    "我国煤炭行业现状",
+    "我国煤炭行业开采现状",
+    "我国煤炭行业现状",
+    "我国煤炭行业现状",
+    "做梦",
+    "论校友资源在高校事业发展中的地位与作用",
+    "优化设计理论在机械工程领域的应用",
+    "深度学习 故障检测",
+    "输电线路 故障检测",
+    "(题名或关键词:(CEO权力并购)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "大数据应用",
+    "大数据地图疫情",
+    "中南财经政法大学",
+    "国产操作系统",
+    "操作系统",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/T' PublishYear:'2019' )",
+    "(题名或关键词:(保险公司腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "μC/OS-Ⅱ",
+    "(题名或关键词:(中国平安收购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "EtherCAT",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "μC/OS-Ⅱ",
+    "国产操作系统",
+    "操作系统",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(无人机电力巡检) (PublishYear:'2020' CorePeriodical:'EI' )",
+    "(输电线路巡检) (SingleSourceDB:'Hans' )",
+    "(输电线路巡检) (CorePeriodical:'EI' )",
+    "张海鸥",
+    "ZST系陶瓷ZnO",
+    "王昌锐",
+    "知识共享与创新行为",
+    "企业员工创新行为",
+    "高瓦斯或煤与瓦斯突出矿井上、下隅角组合气囊随移式快速封堵装",
+    "(μC/OS-Ⅱ) (Type:'Periodical' )",
+    "μC/OS-Ⅱ进程",
+    "(题名或关键词:(中国平安腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "操作系统",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/T' PublishYear:'2019' )",
+    "(国产操作系统) 关键词:'EtherCAT'",
+    "操作系统",
+    "μC/OS-Ⅱ",
+    "国产操作系统",
+    "(操作系统) 关键词:'虚拟现实操作系统'",
+    "μC/OS-Ⅱ",
+    "操作系统",
+    "大数据足球",
+    "大数据地图",
+    "后脑勺痛",
+    "输电线路巡检",
+    "(Zr0.8Sn0.2)TiO4",
+    "(题名或关键词:(CEO权力)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(CEO权力并购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "L4微内核操作系统I/O",
+    "(题名或关键词:(中国平安保险股东结构)) (Type:(Periodical OR Thesis OR Conference) )",
+    "L4微内核操作系统",
+    "(中南财经政法大学) (PublishYear:'2020' )",
+    "(中南财经政法大学) (ClassCodeForSearch:'0/F' )",
+    "中南财经政法大学 王昌锐",
+    "L4微内核操作系统",
+    "(题名或关键词:(寻租腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "μC/OS-Ⅱ",
+    "(题名或关键词:(中国平安股东)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "程、存储、文件、IO",
+    "μC/OS-Ⅱ",
+    "μC/OS-Ⅱ",
+    "μC/OS-Ⅱ",
+    "微内核操作系统",
+    "进程、存储、文件、IO",
+    "(题名或关键词:(中国平安收购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(中国平安腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "程、存储、文件、IO",
+    "EtherCAT的进程管理",
+    "(题名或关键词:(中国平安股东结构)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "L4 微内核操作系统",
+    "μC/OS-Ⅱ",
+    "国产操作系统",
+    "(μC/OS-Ⅱ) (Type:'Periodical' )",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/P' )",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/T' )",
+    "(题名或关键词:(企业领导腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "操作系统",
+    "商情",
+    "L4微内核操作系统",
+    "矿井主通风机振动在线监测与故障诊断系统",
+    "(输电线路巡检) (CorePeriodical:'EI' )",
+    "CFRP筋夹板式锚具极限抗拔力的神经网络预测",
+    "CFPR筋锚具锚固性能试验与失效分析",
+    "企业员工知识共享创新行为",
+    "知识共享",
+    "煤矿井下可控定向钻进技术",
+    "验证码识别",
+    "(主题:(平安保险CEO)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(平安保险)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(CEO薪酬)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(CEO权力并购)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(CEO权力并购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "面增材制造关键器件设计",
+    "面增材制造新方法",
+    "SSD 垫",
+    "三美论",
+    "燃煤电厂300Mw机组SCR烟气脱硝装置的结构优化",
+    "光伏太阳能",
+    "去模糊",
+    "(去模糊) (Type:'Thesis' )",
+    "(题名或关键词:(中国平安股东结构)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "μC/OS-Ⅱ",
+    "国产操作系统",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(主题:(中国平安腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "μC/OS-Ⅱ",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/U' )",
+    "(题名或关键词:(中国平安收购)) (Type:(Periodical OR Thesis OR Conference) )",
+    "操作系统的进程管理",
+    "操作系统",
+    "L4微内核操作系统",
+    "操作系统",
+    "(题名或关键词:(领导腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "操作系统",
+    "L4微内核操作系统的存储管理",
+    "(题名或关键词:(中国平安保险CEO)) (Type:(Periodical OR Thesis OR Conference) )",
+    "L4微内核操作系统I/O",
+    "汽车产业智慧供应链",
+    "王昌锐",
+    "夏成才",
+    "增材制造技术(3D打印)",
+    "后脑勺痛",
+    "ZST系陶瓷ZnO",
+    "ZST系陶瓷",
+    "验证码识别",
+    "L4内存管理",
+    "基于ABAQUS的表面内嵌CFRP筋粘结滑移性能数值模拟分析",
+    "(题名或关键词:(保险公司腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "EtherCAT的进程管理1",
+    "虚拟现实操作系统",
+    "(国产操作系统) 关键词:'EtherCAT'",
+    "μC/OS-Ⅱ存储",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "(题名或关键词:(中国平安收购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "操作系统",
+    "(题名或关键词:(寻租)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "(操作系统) 关键词:'虚拟现实操作系统'",
+    "(μC/OS-Ⅱ) (Type:'Periodical' )",
+    "μC/OS-Ⅱ",
+    "(主题:(保险腐败)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "(μC/OS-Ⅱ) (ClassCodeForSearch:'0/V' )",
+    "探析锂离子电池热失控",
+    "锂离子电池",
+    "锂离子电池",
+    "航空发动机叶片检测",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "L4微内核操作系统",
+    "(题名或关键词:(马明哲)) (Type:(Periodical OR Thesis OR Conference) )",
+    "L4操作系统的存储管理",
+    "(题名或关键词:(CEO权力并购)) (Type:(Periodical OR Thesis OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "机械可靠性理论在机械领域",
+    "(中南财经政法大学) (ClassCodeForSearch:'0/F' PublishYear:'2020' )",
+    "(卢秉恒) (Type:'Periodical' )",
+    "张海鸥",
+    "张海鸥",
+    "ssd",
+    "ZST系陶瓷ZnO",
+    "ZST系陶瓷ZnO",
+    "ZnNb2O6和MgNb2O6固溶体陶瓷",
+    "预应力碳纤维筋锚具的设计研究",
+    "(无人机电力巡检) (PublishYear:'2020' )",
+    "无人机电力巡检",
+    "输电线路巡检",
+    "巡检",
+    "面增材制造新方法与关键器件设计",
+    "SSD 小目标检测",
+    "锂离子动力电池",
+    "智能秤",
+    "企业面临的现实问题",
+    "ssd 目标检测",
+    "(电化学 ) (Type:'Periodical' CorePeriodical:'SCI' Language:'chi' )",
+    "大数据网络安全",
+    "企业员工综述",
+    "燃煤电厂300Mw机组SCR烟气脱硝装置的结构优化",
+    "某燃煤电厂300Mw机组SCR烟气脱硝装置的结构优化",
+    "(主题:(三美论)) (Type:(Periodical OR Thesis OR Conference) )",
+    "去模糊",
+    "创新行为",
+    "企业员工创新行为",
+    "L4微内核操作系统",
+    "(电化学 ) (Type:'Periodical' CorePeriodical:'SCI' )",
+    "光伏太阳能",
+    "三产品重介旋流器二段分选密度",
+    "重介旋流器二段分选密度",
+    "煤矿掘进工作面通风",
+    "人工智能在电力系统诊断应用",
+    "SSD 销",
+    "房地产企业融资模式",
+    "三美论",
+    "三美论",
+    "后脑勺",
+    "去模糊",
+    "锂离子电池热安全性",
+    "锂离子电池热失控",
+    "ZST系陶瓷",
+    "人工智能",
+    "无损检测",
+    "煤火",
+    "企业员工知识共享创新行为",
+    "综述文章",
+    "ZnNb2O6和MgNb2O6陶瓷",
+    "(Zn1-xMgx)Nb2O6",
+    "电厂300MW机组SCR烟气脱硝装置结构优化和应用研究",
+    "(电化学 ) (Type:'Periodical' CorePeriodical:'SCI' Language:'chi' )",
+    "人工智能在电力系统诊断",
+    "SSD 垫片",
+    "SSD 输电线路小目标",
+    "SSD 销钉",
+    "我国煤火灾害防治技术研究现状及展望",
+    "(主题:(三美论)) (Type:(Periodical OR Thesis OR Conference) )",
+    "有限元在机械",
+    "(中南财经政法大学) (PublishYear:'2020' OrganizationNorm:'中南财经政法大学' )",
+    "汤湘希",
+    "卢秉恒",
+    "增材制造技术(3D打印)",
+    "(张海鸥) (Creator:'张海鸥' )",
+    "增材制造工艺",
+    "张海鸥",
+    "张海鸥",
+    "锂离子电池受热失控",
+    "ZST系陶瓷ZnO",
+    "ZST",
+    "ZST系陶瓷ZnO",
+    "电厂300MW机组SCR烟气脱硝装置的结构优化和应用研究",
+    "(电化学 ) (Type:'Periodical' CorePeriodical:'SCI' )",
+    "航空发动机叶片检测",
+    "人工智能",
+    "航空无损检测",
+    "三产品重介旋流器二段分选密度",
+    "SSD 输电",
+    "最低点火温度",
+    "(去模糊) (Type:'Periodical' )",
+    "压力型CFRP筋锚杆粘结性能试验研究",
+    "锂离子电池热失控防范",
+    "锂离子动力电池的热效应",
+    "电动车用锂离子电池安全性研究",
+    "煤矿通风监测",
+    "智能秤 app",
+    "航空发动机叶片检测",
+    "航空发动机叶片检测",
+    "(输电线路巡检) (CorePeriodical:'EI' )",
+    "无人机电力巡检",
+    "(无人机巡检) (CorePeriodical:'EI' )",
+    "(煤火) (Type:'Periodical' )",
+    "液晶光固化3D打印机",
+    "ZnNb2O6参mg",
+    "操作系统",
+    "发电厂故障的自动化处理",
+    "运用技术处理发电厂电气设备故障",
+    "发电厂热工保护系统故障",
+    "(电化学 ) (Type:'Periodical' CorePeriodical:'SCI' Language:'chi' )"
+  ]
+}

@@ -1,0 +1,5650 @@
+{
+  "下载": [
+    {
+      "id": "hkdzjs201601002",
+      "title": "协同数据链的高精度时间同步设计",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xadzkjdx200502012",
+      "title": "自组织网络的互同步技术研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201401017",
+      "title": "人食管癌动物模型研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "ycyk201904001",
+      "title": "星间链路技术研究现状及关键技术分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "lcysyblxzz201709018",
+      "title": "胃淋巴上皮瘤样癌27例临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201603021",
+      "title": "食管鳞状细胞癌的分子生物学研究进展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sxtwttk201902007",
+      "title": "动态组网高精度双向时间同步技术研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qhdxxb200501001",
+      "title": "基于时分系统的无线自组织网络同步算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjzcjbdzzz201902002",
+      "title": "人工智能技术在结直肠癌中的应用与展望",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-fckx201903003",
+      "title": "Lynch综合征相关肿瘤概述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201805008",
+      "title": "筛状桑葚型甲状腺乳头状癌临床病理及分子生物学特征",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201804017",
+      "title": "2017版WHO甲状腺肿瘤分类解读",
+      "download_times": 8,
+      "browse_times": 11
+    },
+    {
+      "id": "sdydjcyxyxb201706001",
+      "title": "2017年新版WHO甲状腺交界性肿瘤解读",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzllc201906011",
+      "title": "免疫检查点抑制剂治疗结直肠癌生物标志物的研究进展",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "zhxhnjzz98201902016",
+      "title": "国内外结直肠癌早诊早治现状",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "yxzs201805009",
+      "title": "转移性结直肠癌分子靶向治疗的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yxzs201817010",
+      "title": "结直肠癌相关肿瘤标志物与疗效、预后解读的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxwz-zlxfc201901002",
+      "title": "结直肠癌全基因组关联分析研究进展及展望",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxwz-wkxfc201704003",
+      "title": "甲状腺癌诊疗流程",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyzdx201802037",
+      "title": "甲状腺疾病术中冰冻及石蜡病理诊断结果的对比与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201302002",
+      "title": "2012版WHO乳腺肿瘤分类解读",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201306018",
+      "title": "乳腺癌Ki-67阳性指数的检测和评估",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhyx201744013",
+      "title": "筛查与结直肠癌发病率关系的系统综述和荟萃分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhebyhk201809020",
+      "title": "2017年第四版世界卫生组织甲状腺肿瘤病理新分类解读",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zglnxzz201820086",
+      "title": "结肠癌干细胞相关信号通路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxzs201914005",
+      "title": "结直肠癌分子亚型共识简介及各亚型特征分析",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "azjz201903002",
+      "title": "早期结直肠癌血清自身抗体的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201605002",
+      "title": "2015年St.Gallen早期乳腺癌国际专家共识中病理相关问题的解读",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "lcysyblxzz201001009",
+      "title": "乳腺实性乳头状癌73例临床病理诊断",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz200804001",
+      "title": "乳腺乳头状病变的诊断与鉴别诊断",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201703016",
+      "title": "具有乳头样核特征的非浸润性甲状腺滤泡性肿瘤及其诊断标准",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "azjz201501012",
+      "title": "甲状腺乳头状癌各亚型临床病理特点的研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sxzlyx201902040",
+      "title": "血吸虫肠病相关性结直肠癌的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201906017",
+      "title": "预测直肠癌新辅助放化疗敏感性分子标记物的研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yxzs201813020",
+      "title": "错配修复/微卫星不稳定性在晚期结直肠癌中的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhwk200818012",
+      "title": "老年乳腺癌的临床病理特点和治疗",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201709018",
+      "title": "累及女性生殖系统的遗传性肿瘤综合征概述",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sxzlyx201910045",
+      "title": "CTC、ctDNA在结直肠癌诊断中的研究进展",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "yxyjtx201905007",
+      "title": "低氧诱导因子-1在结直肠癌中的研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200804006",
+      "title": "乳腺囊内乳头状癌的临床病理学分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgazzz201308010",
+      "title": "三阴性乳腺癌的临床病理特征及分子研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "sczlfz201911013",
+      "title": "结直肠癌筛查方法研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njtdyxyxb201904035",
+      "title": "甲状腺乳头状癌临床病理亚型的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201908010",
+      "title": "基于星间链路的卫星导航系统星地业务信息传输规划调度方法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "szyxsj201708014",
+      "title": "高轨海事卫星与低轨遥感卫星的星间链路业务展望",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "twxb201904005",
+      "title": "导航卫星精密定轨与时间同步技术进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhzl201903020",
+      "title": "结外滤泡树突细胞肉瘤的临床病理学特点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201906006",
+      "title": "肝炎性假瘤样滤泡树突状细胞肉瘤2例临床病理观察",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "hnzlxzz201703008",
+      "title": "结肠滤泡树突状细胞肉瘤伴多发转移临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzllc201612006",
+      "title": "494例食管腺鳞癌临床特征和治疗分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "lcysyblxzz201902022",
+      "title": "卵巢浆黏液性癌4例临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-wkxfc201705019",
+      "title": "弥漫硬化型甲状腺乳头状癌的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "sygdzkxxxb201801010",
+      "title": "弥漫硬化型甲状腺乳头状癌临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201611006",
+      "title": "卵巢浆黏液性癌临床病理学分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfmwk201904009",
+      "title": "儿童及青少年分化型甲状腺癌75例临床分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs201924012",
+      "title": "甲状腺许特尔细胞癌的临床诊疗及发病机制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201504004",
+      "title": "乳腺癌新辅助化疗后的病理诊断专家共识",
+      "download_times": 17,
+      "browse_times": 13
+    },
+    {
+      "id": "dgykz201909005",
+      "title": "基于SDN的多数据链网络集中控制方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz201506004",
+      "title": "原发性肝癌规范化病理诊断指南(2015年版)",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgfazz201803005",
+      "title": "上海市肺科医院磨玻璃结节早期肺腺癌的诊疗共识(第一版)",
+      "download_times": 13,
+      "browse_times": 17
+    },
+    {
+      "id": "lcgdbzz201501005",
+      "title": "胆管癌诊断与治疗--外科专家共识",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "fbwk201906020",
+      "title": "原发性肝脏神经内分泌肿瘤一例报告并文献复习",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "lcysyblxzz201212003",
+      "title": "乳头型颅咽管瘤19例临床病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200811006",
+      "title": "黏液素在肝内胆管癌中的表达",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdwkzz201503003",
+      "title": "胆管细胞性肝癌与肝内胆管癌的临床及病理特征研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201407007",
+      "title": "高分化肝细胞癌的病理形态学特征及其病理学诊断与鉴别诊断",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhyx201920003",
+      "title": "肿瘤细胞减灭术加腹腔热灌注化疗治疗腹膜假黏液瘤专家共识",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "zhgzbzz201808017",
+      "title": "临床肝胆疾病相关的胆管反应及其意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201909018",
+      "title": "解读WHO(2017)鼻咽部肿瘤分类",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zhsjwkzz98201706018",
+      "title": "颅咽管瘤恶变的临床病理学特征",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxzzz2019z1027",
+      "title": "原发性胆汁性肝硬化-自身免疫性肝炎重叠综合征的临床与病理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gz201902039",
+      "title": "原发性肝脏神经内分泌肿瘤1例",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zhcrbzz201911013",
+      "title": "原发性肝脏神经内分泌肿瘤一例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyxwz-lnyxfc201610009",
+      "title": "原发性胆汁性肝硬化44例临床和免疫学及病理学特征分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxhzz201911006",
+      "title": "原发性和消化道来源转移性肝脏神经内分泌肿瘤的临床病理特征和诊治分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zlzhzldzzz201902017",
+      "title": "卵巢癌诊疗规范(2018年版)",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zhsywk201906040",
+      "title": "EB病毒相关性胃癌的病理学特征及手术治疗对其临床预后的影响",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "yxzs201905016",
+      "title": "细胞减灭术联合腹腔热灌注化疗治疗腹膜假黏液瘤的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonghfbjbzz201701022",
+      "title": "肺肉瘤样癌的临床病理特征及分子特点研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz201711026",
+      "title": "自身免疫性肝炎-原发性胆汁性胆管炎重叠综合征的临床及病理学特征分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhgzbzz201704019",
+      "title": "药物相关性胆管消失综合征的临床病理特征",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgzwkssxdzzz201904022",
+      "title": "肝原发神经内分泌癌一例",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhptwk201811018",
+      "title": "脾脏炎性假瘤样滤泡树突状细胞肿瘤的临床特征分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201612019",
+      "title": "弥漫硬化型甲状腺乳头状癌2例临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-slblkxylcfc201505016",
+      "title": "2392例乳腺肿瘤临床病理特征分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzllc201902004",
+      "title": "伴有肠母细胞分化的胃癌临床病理特征",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "syyjzz201909056",
+      "title": "乳腺Paget病临床病理特征及鉴别诊断",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201501006",
+      "title": "食管腺样囊性癌临床病理学观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bxblbl201708008",
+      "title": "儿童肠道息肉样淋巴瘤15例临床病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201612001",
+      "title": "对 EB 病毒相关淋巴组织增殖性疾病的理解和认识对",
+      "download_times": 7,
+      "browse_times": 9
+    },
+    {
+      "id": "tlsjyyj201823044",
+      "title": "Orem护理模式对头颈部恶性肿瘤放疗患者预防放疗诱发性口腔黏膜炎与自我护理能力的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz200701009",
+      "title": "肝细胞性淋巴上皮瘤样癌3例及文献复习",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201612028",
+      "title": "原发性肝细胞性淋巴上皮瘤样癌1例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhzl201910004",
+      "title": "中国腹膜后肿瘤诊治专家共识( 2019版)",
+      "download_times": 19,
+      "browse_times": 14
+    },
+    {
+      "id": "zhblx201812021",
+      "title": "2017 WHO甲状旁腺肿瘤新分类介绍",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhebyhk201909018",
+      "title": "甲状腺癌腺外侵犯的意义及最新研究进展",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201705001",
+      "title": "慢性胃炎及上皮性肿瘤胃黏膜活检病理诊断共识",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201911001",
+      "title": "肾细胞癌规范化取材和病理诊断共识",
+      "download_times": 10,
+      "browse_times": 9
+    },
+    {
+      "id": "lcysyblxzz201409001",
+      "title": "胃癌相关标志物免疫组化指标选择专家共识（2014）",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhzl201511005",
+      "title": "肾细胞癌伴肉瘤样分化的临床病理特征及预后",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xxgwkzz-d201904139",
+      "title": "不同护理措施对控制食管癌患者放疗化疗后副反应的临床效果分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201707012",
+      "title": "甲状旁腺非典型腺瘤临床病理学观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201910009",
+      "title": "琥珀酸脱氢酶缺陷型肾细胞癌的临床病理分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201902010",
+      "title": "延胡索酸水合酶缺陷型肾细胞癌的临床病理学特征",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyxcyszz201903015",
+      "title": "宫颈癌的规范化诊治",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201809034",
+      "title": "蜂群无人机数据链自组网协议设计",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zhzl201912002",
+      "title": "Ⅲ期非小细胞肺癌多学科诊疗专家共识( 2019版)",
+      "download_times": 28,
+      "browse_times": 18
+    },
+    {
+      "id": "xhwk201605015",
+      "title": "自身免疫性肝炎的病理学特点及肝移植疗效",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxxxgwk201911003",
+      "title": "15例原发性肺肉瘤样癌临床病理观察",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201909004",
+      "title": "BRAF V600E与CTNNB1基因突变在颅咽管瘤病理分型中的意义",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xhyx201201015",
+      "title": "肝细胞异型增生结节的临床病理",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhcrbzz201607001",
+      "title": "原发性胆汁性肝硬化(又名原发性胆汁性胆管炎)诊断和治疗共识(2015)",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhzl201909018",
+      "title": "65例早期阑尾源性腹膜假性黏液瘤临床分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201401015",
+      "title": "肺肉瘤样癌的病理特征及诊断",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgzbzz201907006",
+      "title": "肝细胞癌癌前病变病理诊断特征的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgazzz201906002",
+      "title": "儿童青少年甲状腺癌诊治指南解读及其进展——核医学部分",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mnwkzz201902008",
+      "title": "美国临床肿瘤学会2019年泌尿生殖系统 癌症研讨会(ASCO-GU 2019)会议 尿路上皮癌专题纪要",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "azjz201904019",
+      "title": "青年乳腺癌患者的临床特征及分子分型分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nxyxzz201901003",
+      "title": "Pax8和CD10蛋白在肾透明细胞癌中的表达及其临床意义",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyszz201609001",
+      "title": "EB病毒与炎症性肠病",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "gwyx-slblkxylcfc201905035",
+      "title": "肝内胆管癌常见分型方法及诊治回顾",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201809015",
+      "title": "伴腺样囊性癌特征的子宫颈基底样鳞状细胞癌三例临床病理学分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "nfmwk201805020",
+      "title": "乳腺浸润性大汗腺癌的临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201507047",
+      "title": "卵巢浆液-黏液性癌：一种罕见的新分类的肿瘤报道",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-slblkxylcfc201808012",
+      "title": "10例单纯性乳腺大汗腺癌及其癌前病变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchsyyxzz201916022",
+      "title": "卵巢浆黏液性肿瘤的临床病理学分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gwyx-slblkxylcfc201908003",
+      "title": "102例脂肪肉瘤病理学特征及复发病例分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz200103002",
+      "title": "食管鳞癌特殊亚型的临床病理和免疫表型分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz200203016",
+      "title": "食管腺癌77例临床病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201904026",
+      "title": "伴皮脂腺分化的腺样囊性癌和鳞癌构成的食管碰撞瘤1例并文献复习",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "azjz201923035",
+      "title": "肠母细胞型胃腺癌3例并文献复习",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgazzz201708010",
+      "title": "乳房派杰氏病合并浸润性乳腺癌 患者的生存分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-slblkxylcfc201505008",
+      "title": "浸润性乳腺Paget病3例并文献复习",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201507006",
+      "title": "乳腺伴大汗腺分化的癌临床病理特征及预后分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwkxwx201803002",
+      "title": "中国结直肠癌诊疗规范(2017年版)",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zhshfbwkzz201906005",
+      "title": "腹膜后肿瘤外科治疗进展和争议",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "xdmnszzlzz201902006",
+      "title": "肉瘤样肾细胞癌临床、病理学特征及预后分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lcysyblxzz201504026",
+      "title": "肉瘤样肾细胞癌30例临床病理学分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201912006",
+      "title": "伴有色素分化的Xp11易位性肿瘤的临床病理学特征",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zhblx201904001",
+      "title": "宫颈癌及癌前病变病理诊断规范",
+      "download_times": 15,
+      "browse_times": 10
+    },
+    {
+      "id": "xbyx201907002",
+      "title": "《上尿路尿路上皮癌诊断与治疗中国专家共识》解读",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "zhxhzz201711001",
+      "title": "中国慢性胃炎共识意见(2017年,上海)",
+      "download_times": 11,
+      "browse_times": 6
+    },
+    {
+      "id": "zhebyhk201809020",
+      "title": "2017年第四版世界卫生组织甲状腺肿瘤病理新分类解读",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "sczlfz201906001",
+      "title": "甲状腺髓样癌诊治现状及热点问题思考*",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zgcsyxzz201905005",
+      "title": "儿童及青少年弥漫硬化型甲状腺乳头状癌的超声特征:与经典亚型的对照研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zdblxzz201803002",
+      "title": "乳腺大汗腺病变中的肌上皮细胞改变2例临床病理观察",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201301021",
+      "title": "胃肠道及网膜滤泡树突状细胞肉瘤临床病理分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201908024",
+      "title": "WHO(2018)皮肤肿瘤组织学分类",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "xdmnszzlzz201902006",
+      "title": "肉瘤样肾细胞癌临床、病理学特征及预后分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yxyjtx201709043",
+      "title": "复发性腹膜假黏液瘤病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdwkzz200102028",
+      "title": "原发性胆管细胞癌与肝转移癌的鉴别诊断",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201611025",
+      "title": "肺肉瘤样癌10例并临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zglcys201906018",
+      "title": "原发性肺肉瘤样癌临床病理特征及预后87例分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zdblxzz201803026",
+      "title": "WHO(2017)内分泌器官肿瘤分类",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201603026",
+      "title": "甲状旁腺腺瘤5例临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201707012",
+      "title": "甲状旁腺非典型腺瘤临床病理学观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhzl201711001",
+      "title": "产甲胎蛋白胃癌和胃肝样腺癌",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lczlxzz201908010",
+      "title": "乳腺癌发生过程中ER、PR、HER-2及WT1蛋白表达变化的研究?",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lczlxzz201807008",
+      "title": "伴神经内分泌分化胃癌的临床病理特征及预后分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hbyy201920013",
+      "title": "乳腺癌患者分子亚型、病理类型及免疫组化分析",
+      "download_times": 3,
+      "browse_times": 10
+    },
+    {
+      "id": "zhwk201512005",
+      "title": "乳腺导管内乳头状瘤诊治共识",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz201902023",
+      "title": "自身免疫性肝炎与原发性胆汁性胆管炎临床特征比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201907009",
+      "title": "腹膜假黏液瘤155例病理预后因素分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhgzbzz201511015",
+      "title": "高度异型增生结节与高分化小肝细胞癌的病理诊断",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201906023",
+      "title": "子宫颈癌肉瘤4例临床病理分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gdywkzz201904011",
+      "title": "原发性巨大肝血管肉瘤一例并文献复习",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz200204009",
+      "title": "先天性肝纤维化7例临床病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "wcbx201607008",
+      "title": "Caroli病Ⅰ、Ⅱ型的临床特征-78例分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201607013",
+      "title": "乳腺腺样囊性癌与浸润性筛状癌的鉴别诊断探讨",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201601021",
+      "title": "脾脏窦岸细胞血管瘤临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jkr201516056",
+      "title": "脾脏原发性血管肉瘤1例及文献复习",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200704006",
+      "title": "脾脏窦岸细胞血管瘤临床病理观察",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdhxb202002014",
+      "title": "基于优先级分类的工业无线网络确定性调度算法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx200304026",
+      "title": "原发性脾脏血管肉瘤一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhgdwk201802006",
+      "title": "脾脏血管肉瘤伴肝脏多发转移一例",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz200703026",
+      "title": "脾血管肉瘤1例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201109015",
+      "title": "肾脏神经内分泌癌1例并文献复习",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201405002",
+      "title": "乳腺肿瘤膨胀性侵袭的形态学改变及其在病理诊断中的意义",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "fzzdyzlzz201704008",
+      "title": "乳腺浸润性筛状癌与筛状结构导管原位癌的临床病理及免疫组化对比分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx200802016",
+      "title": "IgG4相关的硬化性疾病",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz200403007",
+      "title": "子宫内膜间质肿瘤临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201903012",
+      "title": "Erdheim?Chester病合并朗格汉斯细胞组织细胞增生症临床病理学及分子学特征",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zhblx201802007",
+      "title": "肝脏/脾脏炎性假瘤样滤泡树突细胞肉瘤七例临床病理特征及预后",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201907019",
+      "title": "乳腺伴有癌的腺肌上皮瘤合并腺样囊性癌一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyzdx201910031",
+      "title": "乳腺上皮-肌上皮病变的临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201409013",
+      "title": "IgG4相关疾病的临床病理学特征",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzllc201020018",
+      "title": "脾血管肉瘤伴肝转移1例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhlcyszz201219088",
+      "title": "脾窦岸细胞血管瘤临床病理分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201706030",
+      "title": "脾脏血管肉瘤误诊为窦岸细胞血管瘤1例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz201102010",
+      "title": "脾窦岸细胞血管瘤3例临床病理探讨",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhlcyszz201010075",
+      "title": "脾脏窦岸细胞血管瘤一例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx202003039",
+      "title": "异构无线网络中动态优先级接纳控制算法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201903012",
+      "title": "Erdheim?Chester病合并朗格汉斯细胞组织细胞增生症临床病理学及分子学特征",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zhblx201404016",
+      "title": "肾透明细胞癌合并神经内分泌肿瘤、肝转移一例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201706030",
+      "title": "脾脏血管肉瘤误诊为窦岸细胞血管瘤1例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz201102013",
+      "title": "肾原发性神经内分泌癌临床病理观察",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201703010",
+      "title": "甲状腺滤泡癌样肾细胞癌临床病理观察",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lcgdbzz201911028",
+      "title": "5例Caroli病临床病理学特征分析",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "lcysyblxzz201503017",
+      "title": "乳腺肌上皮细胞标记的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201611019",
+      "title": "脾窦岸细胞血管瘤2例临床病理观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz200103001",
+      "title": "Caroli病的临床病理学观察",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201810010",
+      "title": "导管原位癌样生长方式的转移性乳腺癌临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201109002",
+      "title": "乳腺腺样囊性癌与涎腺腺样囊性癌的临床病理分析及比较",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201912009",
+      "title": "Erdheim-Chester病的临床病理分析",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zdblxzz200305021",
+      "title": "关于组织细胞肿瘤分类的病理学新进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201812007",
+      "title": "朗格汉斯组织细胞增生症中CyclinD1、CDK4和MDM2的表达",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwk201212026",
+      "title": "脾脏巨大血管肉瘤伴肝转移一例",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz201704005",
+      "title": "子宫内膜未分化及去分化癌8例临床病理特点",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zhblx201510012",
+      "title": "IgG4在 Rosai－Dorfman 病组织中的表达及意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syazzz201403024",
+      "title": "子宫内膜间质肉瘤43例临床病理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzllc201020018",
+      "title": "脾血管肉瘤伴肝转移1例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb201904001",
+      "title": "基于空间信息网络的海洋目标监视分析与展望",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202001018",
+      "title": "基于GNSS邻域相似性的5G基站纳秒级时间同步技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yhxb202002013",
+      "title": "一种适用于地球空间传感器网络的TCP Vegas模型",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lincjyzz201906012",
+      "title": "全程营养管理对食管癌放疗患者营养状况影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qlhlzz201816020",
+      "title": "延续性护理在中晚期食管癌放化疗患者中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb202003014",
+      "title": "基于时延的LEO卫星网络SDN控制器动态放置方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcykx201912006",
+      "title": "基于强化学习的卫星网络资源调度机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "yyybj201906105",
+      "title": "个案管理的延伸护理服务在中晚期食管癌放化疗患者中的应用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "qlhlzz201803041",
+      "title": "食管癌放化疗患者营养支持及护理进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "txxb202004017",
+      "title": "融合MEC的星地协同网络:架构、关键技术与挑战",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb202004019",
+      "title": "低轨卫星星座动态波束关闭算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202001016",
+      "title": "基于人工智能技术的光通信网络应用研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "txxb202003014",
+      "title": "基于时延的LEO卫星网络SDN控制器动态放置方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb202001015",
+      "title": "软件定义多维光网络研究进展与展望",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "syhlzz201616001",
+      "title": "食管癌放化疗患者心理弹性和焦虑、抑郁对生命质量影响的路径分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ddhs201906051",
+      "title": "医护一体化护理对食管癌放化疗患者自我效能感 及不良情绪的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "txxb202003002",
+      "title": "面向拟态云服务的异构执行体调度算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hsjxzz201717021",
+      "title": "食管癌患者放疗期间营养状况调查及多学科联合干预的护理效果分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202005015",
+      "title": "基于改进的免疫克隆蛙跳算法的多约束QoS路由优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcykx201912006",
+      "title": "基于强化学习的卫星网络资源调度机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lcysyblxzz201502009",
+      "title": "Clusterin、CXCL13、Podoplanin(D2-40)、CD21与CD35对滤泡树突细胞肉瘤的诊断价值评价",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb202001012",
+      "title": "面向空间近距离操作的机械臂与服务卫星协同控制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhykzxb201801007",
+      "title": "基于功能链的作战体系复杂网络节点重要性评价方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhykzxb202001005",
+      "title": "数据链装备作战试验评估指标体系",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhykzxb202001003",
+      "title": "数据链2.0:智能化战争的制胜利器",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zhykzxb201904006",
+      "title": "面向语义互操作的数据链消息本体技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhykzxb202001007",
+      "title": "基于空间分布的数据链动态导航时隙分配算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb202002012",
+      "title": "战术数据链网络的介质访问控制层优化控制及性能分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200511007",
+      "title": "甲状腺呈胸腺样分化癌病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202005017",
+      "title": "基于多特征动态优先级的网络实时调度算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhykzxb201902010",
+      "title": "信息系统中作战资源虚拟化应用技术研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "dzkxjspl201904001",
+      "title": "数据链:破局而立者生",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhykzxb201802002",
+      "title": "美军太空指挥控制系统“标记”的建设情况及启示",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201902027",
+      "title": "面向任务的航空数据链动态组网策略",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx202001005",
+      "title": "经典型滤泡树突细胞肉瘤的特殊变异形态及潜在诊断陷阱",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "txxb202005007",
+      "title": "基于链路容量的多路径拥塞控制算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhykzxb202001001",
+      "title": "数据链技术创新与融合",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz200804022",
+      "title": "树突状细胞与几种纤维性肿瘤关系的研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201805025",
+      "title": "滤泡树突状细胞肉瘤10例临床病理分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmyxzz201920024",
+      "title": "嗜酸性肉芽肿性血管炎治疗新进展",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhykzxb201803010",
+      "title": "SDN架构在军事通信核心网中的应用研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200610009",
+      "title": "滤泡性树突状细胞肉瘤临床病理观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "htqgc201906009",
+      "title": "航天器遥测信息传递通用接口设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wxdgc202001001",
+      "title": "近地卫星天基测控现状研究",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zhzl201506016",
+      "title": "原发性肝脏神经内分泌癌的诊断和治疗",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zhptwk201806027",
+      "title": "肝脏原发性类癌的临床诊治",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cqyx201022070",
+      "title": "软腭、咽旁滤泡树突细胞肉瘤1例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gz201902039",
+      "title": "原发性肝脏神经内分泌肿瘤1例",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "lcgdbzz202001042",
+      "title": "肝脏原发高级别神经内分泌癌1例报告",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx201603012",
+      "title": "原发肠系膜结内Castleman病并发滤泡树突细胞肉瘤一例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyk201711033",
+      "title": "如何培养病理科住院医师与患者的沟通能力",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gadzzz201803007",
+      "title": "原发性肝脏神经内分泌肿瘤的研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bxblbl201706012",
+      "title": "Castleman病合并滤泡树突细胞肉瘤伴闭塞性细支气管炎一例并文献复习",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gwyx-slblkxylcfc201808035",
+      "title": "右颈部滤泡树突细胞肉瘤1例报道并文献复习",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxyx201709018",
+      "title": "恶性组织细胞病的再认识",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "syhlzz201001022",
+      "title": "1例Castleman病合并指突状树突细胞肉瘤患者的护理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201010017",
+      "title": "复发性腹腔滤泡树突状细胞肉瘤一例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201609020",
+      "title": "鼻咽部结外滤泡树突状细胞肉瘤一例",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zhxhzz201911006",
+      "title": "原发性和消化道来源转移性肝脏神经内分泌肿瘤的临床病理特征和诊治分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zdblxzz201703007",
+      "title": "原发性肝神经内分泌癌2例临床病理观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gz201902011",
+      "title": "肝脏神经内分泌癌的CT及MRI特征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhxhzz201508011",
+      "title": "原发性肝脏神经内分泌肿瘤17例临床分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gadzzz201603012",
+      "title": "肝原发神经内分泌肿瘤一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "fbwk201906020",
+      "title": "原发性肝脏神经内分泌肿瘤一例报告并文献复习",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "fsxsj201803021",
+      "title": "肝脏原发性混合性腺神经内分泌癌一例",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201807019",
+      "title": "原发腹膜后Castleman病并发滤泡树突细胞肉瘤一例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201701016",
+      "title": "肺原发性滤泡树突状细胞肉瘤1例报道",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzllc200916001",
+      "title": "滤泡性树突细胞肉瘤的临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201005013",
+      "title": "滤泡树突细胞肉瘤6例临床病理分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx200806007",
+      "title": "滤泡树突状细胞肉瘤的临床病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201008006",
+      "title": "滤泡树突细胞肉瘤的临床病理分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz200305021",
+      "title": "关于组织细胞肿瘤分类的病理学新进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdblxzz201907011",
+      "title": "炎性假瘤样滤泡树突细胞肉瘤的临床病理学特征",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "txxb202006005",
+      "title": "基于深度增强学习和多目标优化改进的卫星资源分配算法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkjkxjs202001008",
+      "title": "最小数据丢失量的地月中继卫星任务调度研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcllysj201209027",
+      "title": "天基预警调度方法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yhxb201005024",
+      "title": "天地测控资源一体化调度模型",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201610019",
+      "title": "对WHO前列腺癌伴神经内分泌分化诊断标准的解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xtgcydzjs201204015",
+      "title": "基于IP-ACO算法的航天器测控资源调度技术",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "fxqckxb201302015",
+      "title": "深空X频段测速数据误差分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201803001",
+      "title": "泌尿及男性生殖系统肿瘤病理诊断免疫组化标志物选择专家共识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs201806014",
+      "title": "卫星数据传输全流程调度及优化算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "txxb202005007",
+      "title": "基于链路容量的多路径拥塞控制算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjzxyy-e202015072",
+      "title": "研究并总结艾滋病相关卡波西肉瘤的临床表现、治疗方案以及临床疗效",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zdblxzz201702003",
+      "title": "足部经典型卡波西肉瘤2例临床病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx200204005",
+      "title": "Kaposi肉瘤中人疱疹病毒8的检测及其临床病理学意义",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200004039",
+      "title": "淋巴结病型卡波西肉瘤一例",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xjyx202006002",
+      "title": "艾滋病合并卡波西肉瘤18例临床分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmfpfbzz201507015",
+      "title": "卡波西肉瘤",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hlxzz202007015",
+      "title": "降温贴预防甲氨蝶呤化疗患儿口腔黏膜炎的效果",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhpf201810017",
+      "title": "泛发经典型卡波西肉瘤一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201906006",
+      "title": "肝炎性假瘤样滤泡树突状细胞肉瘤2例临床病理观察",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx200710003",
+      "title": "腹腔内淋巴结外滤泡树突细胞肉瘤的临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201701016",
+      "title": "肺原发性滤泡树突状细胞肉瘤1例报道",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhzl201903020",
+      "title": "结外滤泡树突细胞肉瘤的临床病理学特点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201503017",
+      "title": "乳腺肌上皮细胞标记的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201301021",
+      "title": "胃肠道及网膜滤泡树突状细胞肉瘤临床病理分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201909014",
+      "title": "本刊对来稿图片的要求",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxkxyxb202004011",
+      "title": "滤泡树突细胞肉瘤的临床病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201907011",
+      "title": "炎性假瘤样滤泡树突细胞肉瘤的临床病理学特征",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx202010024",
+      "title": "CD34在软组织肿瘤中的表达及病理意义",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx202005025",
+      "title": "鼻腔畸胎癌肉瘤一例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lcysyblxzz201407012",
+      "title": "炎性假瘤样滤泡树突细胞肉瘤6例临床病理特征及预后分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx201705020",
+      "title": "新近认识具有黏液样特征的少见肺部肿瘤的临床病理学特征",
+      "download_times": 8,
+      "browse_times": 9
+    },
+    {
+      "id": "zhblx202006018",
+      "title": "细支气管腺瘤病理诊断若干问题",
+      "download_times": 7,
+      "browse_times": 11
+    },
+    {
+      "id": "zhblx202010024",
+      "title": "CD34在软组织肿瘤中的表达及病理意义",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx200708008",
+      "title": "鼻腔鼻窦畸胎癌肉瘤的病理特征及其诊断",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz201409024",
+      "title": "骨外黏液样软骨肉瘤5例并文献复习",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgazzz201705003",
+      "title": "罕见的伴EWSR1易位的6例肺原发性黏液样肉瘤的临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx202010023",
+      "title": "伴IRF4重排的大B细胞淋巴瘤临床病理观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shht201905011",
+      "title": "基于深度学习的语义分割算法综述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx202008021",
+      "title": "胃肠道恶性神经外胚层肿瘤四例临床病理学分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201233030",
+      "title": "肝穿刺活检诊断滤泡树突细胞肉瘤1例报道并文献复习",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "lcysyblxzz200301006",
+      "title": "小肠系膜淋巴结外滤泡树突状细胞肉瘤",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx202005033",
+      "title": "第5版WHO乳腺肿瘤分类解读",
+      "download_times": 21,
+      "browse_times": 14
+    },
+    {
+      "id": "zhblx202007013",
+      "title": "儿童型滤泡性淋巴瘤37例临床病理学特征",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zdblxzz201912009",
+      "title": "Erdheim-Chester病的临床病理分析",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx201903012",
+      "title": "Erdheim?Chester病合并朗格汉斯细胞组织细胞增生症临床病理学及分子学特征",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zdblxzz201605001",
+      "title": "骨外黏液性软骨肉瘤28例临床病理分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201810017",
+      "title": "EWSR1-CREB1融合的肺原发性黏液样肉瘤一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx202010020",
+      "title": "子宫内膜间质肿瘤的新认识及研究进展",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx202010001",
+      "title": "膀胱乳头状尿路上皮肿瘤两步排除法的诊断经验",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zhblx202010016",
+      "title": "外阴肌上皮瘤样肿瘤临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "shht201901003",
+      "title": "面向多任务的预警卫星系统效能评估",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yhxb201104021",
+      "title": "基于PCRLB的低轨星座对自由段多目标的多传感器调度算法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yiyqy201410277",
+      "title": "腹腔内结外滤泡树突细胞肉瘤的病理学特征及与EB病毒感染的相关性分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx202005029",
+      "title": "乳腺叶状肿瘤生物标志物的研究进展",
+      "download_times": 1,
+      "browse_times": 7
+    },
+    {
+      "id": "zhblx201903012",
+      "title": "Erdheim?Chester病合并朗格汉斯细胞组织细胞增生症临床病理学及分子学特征",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zhblx201801003",
+      "title": "中国黑色素瘤规范化病理诊断专家共识(2017年版)",
+      "download_times": 18,
+      "browse_times": 10
+    },
+    {
+      "id": "txxb2017z1019",
+      "title": "LEO卫星网络海量遥感数据下行的负载均衡多径路由算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb201906013",
+      "title": "天地一体化网络无缝切换和跨域漫游场景下的安全认证增强方案",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202007006",
+      "title": "基于跳波束的新一代高通量卫星通信系统设计",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "txxb201810006",
+      "title": "利用张量分解的多天线长码直扩CDMA信号扩频码盲估计",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "qhdxxb200707021",
+      "title": "应用于GPS接收机的序贯检测器性能分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb201311012",
+      "title": "一种用于深空高动态微弱信号的频率估计算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201804002",
+      "title": "结直肠癌分子生物标志物检测专家共识",
+      "download_times": 11,
+      "browse_times": 7
+    },
+    {
+      "id": "lczlxzz202004012",
+      "title": "小胃肠间质瘤诊疗中国专家共识(2020年版)",
+      "download_times": 17,
+      "browse_times": 19
+    },
+    {
+      "id": "zhxhnjzz98201807004",
+      "title": "113例早期结直肠癌及癌前病变内镜黏膜下剥离术标本处理及病理学评估",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjdzjs202001009",
+      "title": "北斗全球报文通信系统接入能力分析与研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "dianxjs202006004",
+      "title": "大跨度天基数据链的TDD时隙调度分析与优化",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xdhl201620026",
+      "title": "品管圈活动在超低出生体质量儿电解质紊乱早期胃肠外营养护理中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgazzz202009001",
+      "title": "肉瘤样肝细胞癌中MET基因扩增与预后的相关性分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "yhxb201903009",
+      "title": "基于北斗Ka星间链路的地面用户导航方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx202006018",
+      "title": "细支气管腺瘤病理诊断若干问题",
+      "download_times": 7,
+      "browse_times": 11
+    },
+    {
+      "id": "bjyddx201004010",
+      "title": "航天器扩频测控应答机伪码跟踪环设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzixb200307025",
+      "title": "卫星通信中多普勒频移的快速捕获",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjkxjs202005013",
+      "title": "一种卫星信道的反馈优化接入机制",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxhnjzz98201609004",
+      "title": "80例早期胃癌及癌前病变内镜黏膜下剥离术标本的处理及病理学评估",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "dzkxxk201801030",
+      "title": "一种K-means改进算法的软扩频信号伪码序列盲估计",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhptwk201912013",
+      "title": "人表皮生长因子受体-2表达与结直肠癌临床病理特征及预后的关系",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "syazzz201802004",
+      "title": "HER-2在结直肠癌组织中的表达及其临床意义",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxjspl202010001",
+      "title": "美军“联合全域作战(JADO)”概念浅析",
+      "download_times": 3,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "txxb201904001",
+      "title": "基于空间信息网络的海洋目标监视分析与展望",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "tywhdk200605029",
+      "title": "《学生体质健康标准》出台背景及实施意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcykx201912006",
+      "title": "基于强化学习的卫星网络资源调度机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjcgglyyj201603023",
+      "title": "立足原有地调科研成果实现冀京津地区基础地质研究新突破--新一代《河北省北京市天津市区域地质志》成果",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb202002013",
+      "title": "一种适用于地球空间传感器网络的TCP Vegas模型",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bjsl201102013",
+      "title": "植物抑藻作用及抑藻物质研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "glkxwz201215121",
+      "title": "绿色贸易壁垒对东莞外贸影响探析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "syyfyx201911011",
+      "title": "广州市2011-2018年流感样病例暴发疫情特征分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "yyybj201906105",
+      "title": "个案管理的延伸护理服务在中晚期食管癌放化疗患者中的应用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "xckj202008014",
+      "title": "乡村振兴背景下四川省民族地区信息化建设现状及对策",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb202004017",
+      "title": "融合MEC的星地协同网络:架构、关键技术与挑战",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb202004019",
+      "title": "低轨卫星星座动态波束关闭算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202003014",
+      "title": "基于时延的LEO卫星网络SDN控制器动态放置方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tongjyj200506004",
+      "title": "中国贸易开放度的比较分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jslcyxzz201604055",
+      "title": "临床护理路径在食管癌患者术后放化疗护理中的应用分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcykx201912006",
+      "title": "基于强化学习的卫星网络资源调度机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzllc200916001",
+      "title": "滤泡性树突细胞肉瘤的临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdxjx201508004",
+      "title": "努力打造学生心目中的理想课堂",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201801130",
+      "title": "高中政治教育管理学生学习生活的优势",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyk200101015",
+      "title": "地塞米松体外抑制人眼小梁细胞生长及表皮生长因子mRNA的表达",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hainandxxb-rwsh200404019",
+      "title": "职场人际生态位初探",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cqyx201022070",
+      "title": "软腭、咽旁滤泡树突细胞肉瘤1例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx200806007",
+      "title": "滤泡树突状细胞肉瘤的临床病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjxywx200606028",
+      "title": "海外视点",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jxjc201721136",
+      "title": "路基施工技术质量控制分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ghbl-llyj201314006",
+      "title": "浅谈文体活动对企业文化建设的推动作用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201404030",
+      "title": "滤泡树突状细胞肉瘤7例临床病理分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jsnykx201916004",
+      "title": "秸秆还田效益的影响因素及其在喀斯特区的应用展望",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "assfgdzkxxxb200204006",
+      "title": "公文写作中的语气应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cjck201836008",
+      "title": "栀子花开",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsj201410021",
+      "title": "如何理解“贷款诈骗”行为的刑法定性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xbnlkjdxxb-sh201202019",
+      "title": "移民补偿安置的历史经验及其对水电工程移民工作的启示",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hhjs200805018",
+      "title": "航海GPS的主要功能及操作技巧",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jdxx201821058",
+      "title": "瓦斯发动机故障超前综合防控技术措施分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dxkj201505041",
+      "title": "基于GIS的沉陷区建筑物损害评价可视化分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhebyhk201611014",
+      "title": "以咽后壁炎症为主要表现的不完全川崎病一例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "smkxyj200904007",
+      "title": "湖南岳麓山植被演替趋势",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "sxyxzz200206028",
+      "title": "丝裂霉素C在先天性青光眼滤过术中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhzl201506016",
+      "title": "原发性肝脏神经内分泌癌的诊断和治疗",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgywjjx201912008",
+      "title": "胶塞中残留水分对艾司奥美拉唑钠冻干制剂质量的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gz201902011",
+      "title": "肝脏神经内分泌癌的CT及MRI特征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkjzh201813028",
+      "title": "高速公路收费站机电设备可视化管理及实时监控",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fbwk201906020",
+      "title": "原发性肝脏神经内分泌肿瘤一例报告并文献复习",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zhxhzz201508011",
+      "title": "原发性肝脏神经内分泌肿瘤17例临床分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jdxx201821060",
+      "title": "滑模摊铺机施工工艺与控制关键策略研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gtzytx201302014",
+      "title": "为建设美丽侨乡助力——浙江省青田县节约集约利用国土资源的经验",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gz201902039",
+      "title": "原发性肝脏神经内分泌肿瘤1例",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "sxdxxb201901001",
+      "title": "图像搜索环境下用户满意度预测方法研究",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "stnyyj201101002",
+      "title": "深淹对狗牙根根际土壤酶活性及肥力的影响",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hongw201511004",
+      "title": "基于硬件描述语言的图像边缘特征提取技术研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "qhdxxb200109019",
+      "title": "异步电机降阶磁链观测器的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncwssygl201107039",
+      "title": "超声产前诊断无心畸胎序列征1例报告并文献复习",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sddxxb201511011",
+      "title": "基于浅层语义分析的主题事件的时间识别",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zwjkwz201230414",
+      "title": "浅谈手术室物品的清点",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhkqyx200712003",
+      "title": "寡发酵链球菌分子标识鉴定方法的建立",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zwxxxb201101006",
+      "title": "基于群体智慧的Web访问日志会话主题识别研究",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "zjdxxb-gx200605007",
+      "title": "超声检测中曲面重构和路径规划方法研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjsjxhtx201507016",
+      "title": "第24届国际万维网大会精彩纷呈",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "slxb201001008",
+      "title": "基于反向分析计算水泥基体的湿扩散系数",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "rjxb200905021",
+      "title": "利用语义词典Web挖掘语言模型的无指导译文消歧",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "dlkxjz200601010",
+      "title": "20世纪90年代以来小城镇环境研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddyylc201501168",
+      "title": "小儿迁延性腹泻与锌缺乏的相关性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201815081",
+      "title": "一种基于数据中心的全景式运行监控系统的设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "tnbxsj200907001",
+      "title": "快乐的疼痛",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kxzx201914064",
+      "title": "高中化学教学中驱动性问题链设计的实例分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mysj201514082",
+      "title": "晚期肝癌低频超声空化治疗的超声血管造影表现",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwsjj201111005",
+      "title": "基于面板数据模型的政府卫生支出及影响因素研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jyxxjs200810004",
+      "title": "发挥信息技术优势提高高考备考绩效",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "aqjkhhj200809022",
+      "title": "油港作业现场的防烟火安全管理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "szhyh201735060",
+      "title": "探讨微电网并网运行时的电压稳定控制措施",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "swxjx200701014",
+      "title": "合作探究学习的实践与思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syhlzz201001022",
+      "title": "1例Castleman病合并指突状树突细胞肉瘤患者的护理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nfny201735009",
+      "title": "早红珠油桃引种与丰产栽培技术初探",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gwyx-slblkxylcfc201808035",
+      "title": "右颈部滤泡树突细胞肉瘤1例报道并文献复习",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lsyslgy200711014",
+      "title": "喹赛多对肉用齐卡兔生产性能的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kmyjgdzkxxxb200202001",
+      "title": "高效低耗通风系统建立方法研究与应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zbjsytg201106003",
+      "title": "用Excel建立Logistic模型方法探讨",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201008006",
+      "title": "滤泡树突细胞肉瘤的临床病理分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201010017",
+      "title": "复发性腹腔滤泡树突状细胞肉瘤一例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "rzxw200806013",
+      "title": "《人造纤维》欢迎您投稿",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dsjydxxb202008009",
+      "title": "糖皮质激素调控Keap1-Nrf2通路减轻哮喘小鼠肺氧化应激反应的作用研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "yxllysj200307028",
+      "title": "外伤性脾破裂保脾治疗30例体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201005013",
+      "title": "滤泡树突细胞肉瘤6例临床病理分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-wl201611006",
+      "title": "泊松比与体积应变和轴向应变的关系",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "jxjc201719035",
+      "title": "连续短桩接桩结构设计及施工方法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kmyjgdzkxxxb200201012",
+      "title": "关于文化素质教育若干问题的认识与思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nfny201836069",
+      "title": "基于CNKI数据库的循环农业文献计量分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yxbx201802010",
+      "title": "不同晶胶比液体早期复苏对中度重症急性胰腺炎预后影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "etdsj-x201804132",
+      "title": "面向教育现代化提高小学语文教学效率的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKV20152015120700839080",
+      "title": "大数据在交通领域的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdqywh202008033",
+      "title": "新时代如何做好基层党支部书记工作的探索",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ytgcxb2017z2058",
+      "title": "Von-Mises半无限空间结构安定理论研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "bjykdxxx200006013",
+      "title": "LHS cDNA的部分克隆及其表达对肝癌细胞行为的影响",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhptwk201806027",
+      "title": "肝脏原发性类癌的临床诊治",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyjyfz201706001",
+      "title": "搜索引擎用户满意度评估",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hagc200502013",
+      "title": "沿海地区混凝土结构的钢筋锈蚀与防护",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhshfbwkzz201802020",
+      "title": "腹腔镜经腹腹膜前疝修补术的围手术期干预",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jmsjyxyxb201306228",
+      "title": "小学生同伴关系负面影响的对策研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhxxxtyjs201905003",
+      "title": "面向特定标注数据稀缺领域的命名实体识别",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "zgzyzz201512017",
+      "title": "植物内生真菌Periconia sp.F-31中的一个新内酯类化合物",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hnwkxzz201804117",
+      "title": "腹腔镜腹股沟疝修补术的围术期护理体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hjjy201311052",
+      "title": "外婆家的水库",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "stxzz200902004",
+      "title": "岳麓山马尾松生态位分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "gadzzz201803007",
+      "title": "原发性肝脏神经内分泌肿瘤的研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201502085",
+      "title": "热电厂汽轮机异常振动故障分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyk200703011",
+      "title": "1054例化脓性角膜炎的回顾性分析",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgxdyyyy201003179",
+      "title": "浅析甘温扶阳法及应用初探",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdyyyy201005077",
+      "title": "无痛性胃镜检查84例临床体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zzgy201707006",
+      "title": "圣东尼单面无缝内衣机电气故障的诊断和排除",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hykx201908005",
+      "title": "来源于印度洋深海区的烟曲霉次生代谢产物的研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zjdxxb-rwsh201005006",
+      "title": "《菩萨本缘经》撰集者和译者之考辨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yxyjyyxyy201916115",
+      "title": "超声心动诊断老年性高血压心脏病临床诊断价值分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzqc201301031",
+      "title": "冬季选胎有窍门",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zjzyzz200502021",
+      "title": "慢性肾衰辨治五法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyk201711033",
+      "title": "如何培养病理科住院医师与患者的沟通能力",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyfjxzz201112045",
+      "title": "资木瓜多糖对小鼠佐剂性关节炎的作用及其机制",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddyylc201502252",
+      "title": "为慢性中重度宫颈糜烂患者联用LEEP刀与重组人干扰素α-2b进行治疗的效果观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xzw-xxy2015030003",
+      "title": "我讨厌妈妈",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201907011",
+      "title": "炎性假瘤样滤泡树突细胞肉瘤的临床病理学特征",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jjs201902010",
+      "title": "产业转移对环境污染影响的实证研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "beijny201512146",
+      "title": "气候变化对森林灾害的影响及对策探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jjs201902135",
+      "title": "中小型民营企业发展之路探寻与对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjglyj200809024",
+      "title": "科技进步与经济增长的互动性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syfknfm-e201616104",
+      "title": "全程陪伴对产程影响的临床观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fsxsj201803021",
+      "title": "肝脏原发性混合性腺神经内分泌癌一例",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjyjyfz200207007",
+      "title": "基于评价的英语句法结构消歧和自我评价的规则校正",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zwjl201726244",
+      "title": "新课改视野下的小学语文创新教学方法研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "csjsllyj2013249029",
+      "title": "堤防工程运行管理问题及相关建议",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxdyyyy201007079",
+      "title": "彩色多普勒超声对子宫肌瘤和子宫腺肌病的诊断价值",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shzdxxb-zsb201701004",
+      "title": "马克思恩格斯的家庭观及其在中国的发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwxxxb201104015",
+      "title": "多民族语言本体知识库构建技术",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhldwszyb200710021",
+      "title": "中小企业职业危害现况及对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ytgcxb2017z1034",
+      "title": "真空预压联合搅拌桩在有轨电车软基加固中的应用",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "nmgsfdxxb-jykx201309016",
+      "title": "以思想政治理论课为载体,提升大学生实现“中国梦”的信念",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jycltx200406017",
+      "title": "电力电缆绝缘击穿点定位的新方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "whzwxyj200903013",
+      "title": "秦岭金水河岸弃耕地草本植物种间关系",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "dxwl201908013",
+      "title": "大学物理教学改命——量子通信教学浅析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxhzz201911006",
+      "title": "原发性和消化道来源转移性肝脏神经内分泌肿瘤的临床病理特征和诊治分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgcjsysj2016281578",
+      "title": "长大型箱涵顶进有限元模拟分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgncwssygl201512020",
+      "title": "2004-2014年扬州市江都区传染病突发事件分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhgmc201805008",
+      "title": "江南丘陵地区沿江城市吉安市的特色营造",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lqjx201308018",
+      "title": "高等农业院校植物保护专业英语课程教学的几点思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgsfdxxb-jykx201309013",
+      "title": "行政管理专业本科生就业倾向探析——以内蒙古师范大学行政管理专业为例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "shzdxxb200603032",
+      "title": "一类连续minimax问题的区间极大熵算法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jxjc201721132",
+      "title": "明挖法隧道敞开段整体式侧墙钢模施工工艺研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "syjsygl201911043",
+      "title": "自由空间可见光通信教学实验平台建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jxjc201721133",
+      "title": "箱梁预制与安装工程施工技术要点",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fjqf201202009",
+      "title": "中职学校教师团队建设",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bjjs201512023",
+      "title": "点菜心得",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xkjy200104014",
+      "title": "一种有趣有效的语文活动",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "jxjc201717008",
+      "title": "浅谈非结构墙体加固修复设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy201817030",
+      "title": "新时代高校党建带团建研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsj201424031",
+      "title": "企业风险导向内部审计的路径",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjwh201114083",
+      "title": "翻译注释的原因及原则探析——以张谷若《无名的裘德》译本为例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gxmzxyxb2016z1024",
+      "title": "论如何更好地开展消防宣传工作",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jysjyyj201407009",
+      "title": "浅析幼儿分享行为",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "btgy201306049",
+      "title": "工会经纬",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lczlnbj201501005",
+      "title": "2013年和1995年河北省干部健康查体疾病谱对比",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zdhyy201711052",
+      "title": "基于集成智能方法的电力短期负荷预测探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfltd201812098",
+      "title": "刍议辅警执法权及制度完善",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gjstx98200112007",
+      "title": "基于WordNet和HowNet建设双语语义词典",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK199700044227",
+      "title": "用于扫描光纤干涉仪的可调谐光源的设计",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zdblxzz201703007",
+      "title": "原发性肝神经内分泌癌2例临床病理观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhkqyx201110007",
+      "title": "无托槽隐形矫治微型测力系统的建立",
+      "download_times": 1,
+      "browse_times": 6
+    },
+    {
+      "id": "zgxdyyyy201010114",
+      "title": "氨溴特罗口服液治疗小儿哮喘并发呼吸道感染临床疗效",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cqsygdzkxxxb201103004",
+      "title": "含粘土砂岩渗透率有效应力系数的下限值研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qbxb199904003",
+      "title": "汉英机器翻译中汉语离合词的处理策略",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "pjkj201910007",
+      "title": "“汾酒杯”2019全国大学生品酒技能大赛决赛落下帷幕",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyjggc200701015",
+      "title": "激光多脉冲探测的计算机模拟与实验研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "chtb201912013",
+      "title": "一种高光谱遥感图像快速谱聚类算法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjsjxhtx201806017",
+      "title": "The Web Conference 2018万维网技术的学术大聚会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz202001042",
+      "title": "肝脏原发高级别神经内分泌癌1例报告",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgzyaqwsgltxrz200703023",
+      "title": "危险化学品建设项目安全条件论证的探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qcyy201001005",
+      "title": "提高战场车辆装备快速抢修能力的几点思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjsjxhtx201611017",
+      "title": "第39届ACM信息检索大会",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgncwssygl201212015",
+      "title": "山西省农村中医药工作先进单位建设和评估",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyd200902013",
+      "title": "品类管理之'头等大事'",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gncl201712006",
+      "title": "碳纳米管功能化修饰及其应用性能研究综述",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gljtkj201601011",
+      "title": "斜拉-悬索协作桥结合部合理设计研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "syazzz200901042",
+      "title": "消息",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyaqwsgltxrz201910002",
+      "title": "关于完善《中华人民共和国基本医疗卫生与健康促进法(草案三次审议稿)》的思考与建议:基于劳动力健康视角",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xzqykj201116297",
+      "title": "信息动态",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201003007",
+      "title": "滤泡树突状细胞肉瘤5例临床病理分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jtys200923018",
+      "title": "五个妈妈五条退奶方",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hkxb200006014",
+      "title": "利用互相关函数进行环境激励下的模态分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sz-xxk2012z2121",
+      "title": "浅谈新课改下初中历史教与学",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sxyyzz200906031",
+      "title": "西藏和太原地区男性干燥脱屑型唇炎的流行病学研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "rwzz201410005",
+      "title": "中国劳动力市场的变革趋势与方向",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yszx201912039",
+      "title": "藿香正气散加味治肛门瘙痒症",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "znyx200402030",
+      "title": "安痛定注射液的不良反应",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dndxxb2010z2039",
+      "title": "超强韧性纤维混凝土的叠层修补试验研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jxygl201701023",
+      "title": "“史料教学”中史料选取的基本原则",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nfny201836071",
+      "title": "分子标记技术及其在果树种质资源上的应用分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ahyy200807017",
+      "title": "不同稀释浓度的奥美拉唑静脉滴注液稳定性研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ddyylc201813159",
+      "title": "对接受影像检查的患者进行优质护理的效果探究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx200618026",
+      "title": "油研10号在长江上·中·下游的高产稳产性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncwssygl201512013",
+      "title": "抗菌药物合理运用对控制院内感染效果的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdyyyy201010146",
+      "title": "中成药辅助治疗慢性盆腔炎的疗效观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gskj201104039",
+      "title": "关于征地拆迁对铁路建设项目投资影响的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dxs-jyjxyj201506105",
+      "title": "如何做好六年级下册科学实验教学",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "renj201514094",
+      "title": "“翻转课堂”教学改革的思考——以高校艺术类专业思政课教学为视角",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "nsbdyslkj201306017",
+      "title": "丹江口水库水质的遥感监测",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xaykdxxb200201018",
+      "title": "莫索尼定点眼对家兔葡萄膜巩膜途径房水流量的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zwxxxb200603011",
+      "title": "面向信息检索需要的网络数据清理研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgncwssygl201212009",
+      "title": "金华市源东乡农村居民健康状况调查与分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "7000623768",
+      "title": "三维视角下中国特色知识产权强国理论体系建构研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hnkx201502016",
+      "title": "桩基加固的三维边坡稳定性分析",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "bjyddx2006z2012",
+      "title": "生物医学文本中命名实体识别的智能化方法",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "jzglxdh200903002",
+      "title": "保障性住房价格成本信息披露的博弈分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jjzyjsxyxb200304008",
+      "title": "低碳钢拉伸试样断口形状分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyy201910058",
+      "title": "基于核心素养下的小学英语阅读教学分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "gxrdny200801016",
+      "title": "瓜实蝇的识别与综合防治",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qyjj200510004",
+      "title": "双稳健宏观调控政策与经济健康发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmzbl201602095",
+      "title": "简析都市共享空间的公共性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyyy200803088",
+      "title": "急性特重型颅脑损伤的护理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kmyjgdzkxxxb200201025",
+      "title": "浅谈对现代人文教育思想的认识",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gjyywsdb201919028",
+      "title": "超声引导下冷循环微波消融治疗子宫腺肌病的临床观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kxzgr200305004",
+      "title": "学术不良行为:类型与治理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx200803019",
+      "title": "胃滤泡树突状细胞肉瘤一例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyyzz200306078",
+      "title": "复方乳酸软膏治疗寻常型鱼鳞病和手足皲裂症的疗效和安全性观察(附52例分析)",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xnjy200906029",
+      "title": "眼药膏外涂治疗及预防皲裂30例疗效观察",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "styyj-jx201335032",
+      "title": "引导学生主动学习,切实提高课堂教学效益",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "lcpfkzz201106007",
+      "title": "一家系三代患斑点状掌跖角化病",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syjsygl201911038",
+      "title": "仿真分析在'物理光学'课程实验教学指导中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjsysj201011035",
+      "title": "信息动态",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sdhg201720070",
+      "title": "郑州黄河湿地公园生物多样性保护研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "swcx200710002",
+      "title": "小鼠SOCS1基因重组腺病毒载体的构建及其在树突状细胞中的表达",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201637027",
+      "title": "初中语文阅读试题的解答方法初探",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhsn-jx201106098",
+      "title": "地理教法之我见",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjfz200606046",
+      "title": "军事海洋环境视景仿真研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nytsqbxk200910026",
+      "title": "浅谈高校图书馆评估",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkjxx201835076",
+      "title": "水利工程机械设备应用与发展研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zxsj201320012",
+      "title": "助推后奥运时代中国航海运动事业腾飞--国家体育总局青岛航海运动学校辉煌60年",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzzgc200904003",
+      "title": "支持敏捷定制的工装管理系统研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddjysjyjxyj201712733",
+      "title": "高速铁路客运乘务专业实践教学体系构建与实施",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhsn-jx201106013",
+      "title": "小议在幼儿教育中应注重德育教育",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhsn-jx201106118",
+      "title": "小学语文阅读教学之我见",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzjsyy201909002",
+      "title": "6GHz频段V2X车联网系统与卫星固定业务兼容性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201610019",
+      "title": "对WHO前列腺癌伴神经内分泌分化诊断标准的解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lcwkzz201505029",
+      "title": "经皮椎体后凸成形术治疗胸腰段骨质疏松性椎体压缩性骨折",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK200904108468",
+      "title": "冲动、侥幸,酿成伤痕累累",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hjkxjs201106017",
+      "title": "山东蓬莱矿业选矿厂尾矿堆放及排水方式探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bjgydxxb-shkx200401009",
+      "title": "网络环境下财务信息系统建设研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxxzz2015z3502",
+      "title": "综合治疗胸椎相关性疾病31例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "mdjsfxyxb-zxshkxb201306029",
+      "title": "《说文》女部字所揭示的文化信息",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hnsysjjbzz202005013",
+      "title": "快速康复外科在重症肌无力外科治疗中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shandyy200612071",
+      "title": "子宫颈妊娠致大出血1例报告",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "tykxyj201803006",
+      "title": "体力活动与初中生心肺功能的关联性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "aydxxb201904029",
+      "title": "基于蓝墨云班课的翻转课堂模式在教学中的应用探究——以“信息安全概论”课程为例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zjfzyj201901005",
+      "title": "职业教育行动逻辑课程的时代意蕴和建构思路",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hlxzz201714016",
+      "title": "应用葡萄糖保护自体回输血液红细胞的研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dianzixb200201036",
+      "title": "多层前向神经网络的权值平衡算法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkx-fc202002002",
+      "title": "无人机安全控制系统技术:进展与展望",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jyj202003028",
+      "title": "着力培养流动儿童群体中语文学困生'双自'能力",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hhxyxb201412016",
+      "title": "重金属污染政府风险管理研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdljs200810011",
+      "title": "基于FPGA的有源电力滤波器高速数据采集系统设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201604094",
+      "title": "浅谈会计电算化的舞弊现象及对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jxyqysy200301019",
+      "title": "谈优质高中在实施新大纲教学中的实验室建设",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzxyjhyxxzz201006011",
+      "title": "原发性腹膜后节细胞神经瘤影像分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgshywzz201204043",
+      "title": "异甘草酸镁治疗肾综合征出血热肝损害的疗效",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201301008",
+      "title": "前列腺小细胞性神经内分泌癌3例临床病理学特征分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yjyxs201406040",
+      "title": "上海交通大学光电材料与器件中心",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsf201907012",
+      "title": "以政治建设为统领肩负起'一个统筹、四大职能'神圣使命",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qywy-xsb201302396",
+      "title": "电子胃镜检查实施综合护理效果的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jldxshkxxb200901023",
+      "title": "寻求人力资源提升与社会资本培育的统一",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcwkzz200611021",
+      "title": "肝动脉化疗栓塞术对原发性肝癌患者T淋巴细胞亚群的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jslcyxzz201216009",
+      "title": "100例化疗患者深静脉置管护理的临床观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "msdg201112017",
+      "title": "西南民族绘画创作研究——西南少数民族题材的绘画创作探索",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202006005",
+      "title": "基于深度增强学习和多目标优化改进的卫星资源分配算法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "txxb202005007",
+      "title": "基于链路容量的多路径拥塞控制算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wfyxyxb200806021",
+      "title": "153Sm-EDTMP治疗骨转移癌疗效观察及其骨显像的意义",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201712072",
+      "title": "循环风机稀油站控制系统改造与应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yszx201735031",
+      "title": "不轻言放弃,也是我们的职责",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fxqckxb201302015",
+      "title": "深空X频段测速数据误差分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdyxzz200816005",
+      "title": "神经干细胞分化过程中NgR表达的变化",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jintian201209208",
+      "title": "高校舞蹈专业毕业生就业能力的思考",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "dkj201936079",
+      "title": "10kV配电网设备的有效巡检与维护的探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shqy201905009",
+      "title": "党建引领品牌升级助力企业转型发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxjsjcx201304006",
+      "title": "耳鼻咽喉部腺样囊性癌影像分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkx-fc202003001",
+      "title": "群体智能协同通信:愿景、模型和关键技术",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syhgyy201611037",
+      "title": "信息动态",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjs200911029",
+      "title": "医院固定资产管理面临的问题及对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj201732041",
+      "title": "特高压直流输电线路架线施工技术的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgqcsc201018017",
+      "title": "看奥迪A5打动了谁",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-mzxyfsfc200903011",
+      "title": "CB2受体激动剂JWH015对大鼠神经病理性疼痛的治疗作用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwl-e201608069",
+      "title": "",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ysbj2008z2009",
+      "title": "孔望山摩崖造像艺术风格及文化精神分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zywsybs201905010",
+      "title": "2014-2018年北京市房山区梅毒流行病学特征分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "njlgdxxb201302022",
+      "title": "松萝凤梨微观特性研究与植物窗帘构建",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cdmzzyjsxyxb200703029",
+      "title": "浅谈多媒体在《大学综合英语》教学中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgbz200703013",
+      "title": "食品包装的色彩心理研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "csdlxyxb-shkxb201604011",
+      "title": "以网格化治理完善社区公共服务——以长沙市芙蓉区为例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bjykdxxx201406033",
+      "title": "体表低温技术用于心脏骤停患者脑复苏1例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kxsd201304181",
+      "title": "主动参与轻松写作",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs201602164",
+      "title": "浅谈水泥混凝土路面'白改黑'工程中防反射裂缝技术",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc200515011",
+      "title": "三种不同植物多酚提取物的抗真菌活性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xclcy201201018",
+      "title": "信息动态",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zghjglgbxyxb200502003",
+      "title": "试论执行力文化的构建与政府行政效率的提高",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hgjx201301010",
+      "title": "基于Qt和ANSYS的含未焊透缺陷压力管道安全评定系统开发",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ggyzl201704035",
+      "title": "基于“互联网+”的企业物流与营销体系协同发展研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syfckzz200505029",
+      "title": "21卷5期疑难病案",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "szgygy201905028",
+      "title": "黎药复方鹧鸪口服液中3种有效成分含量的高效液相色谱法同时测定",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyxdzzz201506077",
+      "title": "产前护理新模式对提高自然分娩和产妇满意度的作用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jtyx-xjk201110006",
+      "title": "走出营养误区让孩子茁壮成长",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkjxx201603191",
+      "title": "对乡镇农业水利工程建设和管理的探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jbjcykz200901042",
+      "title": "同型半胱氨酸与糖尿病血管病变的关系",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsjtx200814036",
+      "title": "江苏电信推出'我的e家·牡丹'联名信用卡",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xxxyxb-zkb200803014",
+      "title": "双酰肼化合物的相转移催化氧化研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xxjxyj201806009",
+      "title": "寻找适恰的课堂容量",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cjj201923022",
+      "title": "国有企业成本核算存在的常见问题及加强措施",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsyr-dxpd201706027",
+      "title": "微时代背景下U-S教师学习共同体的建构",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yxmxmr18201912121",
+      "title": "微创保胆取石术后服用排石汤防止胆道结石复发临床分析及护理体会",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "danddhj201909085",
+      "title": "政府会计制度下权责发生制与收付实现制的差异与调节",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gjjjhz200804016",
+      "title": "国际工程仲裁的法律适用问题",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyjk201102054",
+      "title": "无创正压通气康复治疗尘肺患者的观察及护理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyyjsjjygl200809005",
+      "title": "面向企业的我国医药电子政务业务模式研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lchxygy200604001",
+      "title": "β-1,4-葡聚糖硫酸酯的制备及其抗凝血活性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgtxtxxb-a201104030",
+      "title": "体素可视外壳并行优化建模方法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj201620063",
+      "title": "关于当前电力安全监察工作现状及其创新发展对策",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dqwlxjz200601024",
+      "title": "复杂地区速度场建立与变速构造成图方法研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gzslh-gs200807024",
+      "title": "全国Ⅰ卷(答案)",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjdgy200101028",
+      "title": "竞争使强弱分化初现--汽车行业上市公司2000年发展综述",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hzjjykj201106069",
+      "title": "高职《国际贸易理论》课程教学方法创新",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfybj200523020",
+      "title": "38例宫颈妊娠保守性治疗的临床分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "djjk-x201601369",
+      "title": "血浆D-二聚体与急性脑梗死的研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "szjs201702031",
+      "title": "BIM技术在优化深圳地铁机电安装工程中的应用探究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lnzyxyxb201712045",
+      "title": "超声刀与高频电刀对各中医分型分化型甲状腺癌的治疗作用及复发率比较研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyyxxzz200410035",
+      "title": "中西药结合治疗产后胎盘残留",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ysjxzz201102012",
+      "title": "前列腺小细胞神经内分泌癌临床特点分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jyyb202005186",
+      "title": "延续护理对心脏瓣膜置换术出院患者抗凝治疗依从性的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gsxmsy201610048",
+      "title": "肉鸭疫病在规模化养殖中的防治分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fshlfykfyx202007072",
+      "title": "康复护理在宫颈糜烂患者微波治疗中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yysxhlx200612012",
+      "title": "定常的磁流体力学方程的非线性Galerkin混合元法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgrpgy200603016",
+      "title": "培养温度和培养基对生鲜奶菌落总数快速测定的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qiaoy201007033",
+      "title": "绿色生活盘点之四:冰箱节能省钱九秘诀",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201411017",
+      "title": "食管多发皮脂腺异位1例",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zxj201806012",
+      "title": "RAW格式图像处理技巧例解78 关注细节 获取至臻画面(1)",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qqhryxyxb201214020",
+      "title": "胎盘早剥40例临床分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxj201902005",
+      "title": "演出百年《三滴血》",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xlxtx201701003",
+      "title": "表象编码方式影响错误记忆的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyszz200210004",
+      "title": "去白细胞红细胞制备的质量控制",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkjxx201328206",
+      "title": "监理工程师对顶管施工监理控制",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "190635",
+      "title": "面向服务的车辆网络切片协调智能体设计",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "glkxwz201434079",
+      "title": "基于医院岗位设置以及分级聘用的实践研究分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkjxx201130020",
+      "title": "光伏产业应适时向高端发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yiyqy201734115",
+      "title": "重复经颅磁刺激对失眠患者PSQI评分的影响",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zglyyx201601031",
+      "title": "曲妥珠单抗联合含紫杉类方案对HER-2阳性晚期乳腺癌的治疗效果观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jnwx-jdydx201106046",
+      "title": "一个完成自我救赎的中国硬汉形象——浅论《许三观卖血记》的自我救赎精神",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xhwz200413039",
+      "title": "科技点滴(五则)",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "byq201910016",
+      "title": "涌流抑制器在高阻抗变压器空载合闸中的应用效果分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-slblkxylcfc201909005",
+      "title": "10例肺多形性癌的临床及病理分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "lcfkzz202007037",
+      "title": "原发性肺巨细胞瘤1例",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx201711005",
+      "title": "肝脏恶性血管源性肿瘤中ERG、Fli-1、CD34、CD31、FⅧRAg的表达特征",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "sjzxyy-e202015072",
+      "title": "研究并总结艾滋病相关卡波西肉瘤的临床表现、治疗方案以及临床疗效",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "hlxzz202007015",
+      "title": "降温贴预防甲氨蝶呤化疗患儿口腔黏膜炎的效果",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201711005",
+      "title": "肝脏恶性血管源性肿瘤中ERG、Fli-1、CD34、CD31、FⅧRAg的表达特征",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zdblxzz201702003",
+      "title": "足部经典型卡波西肉瘤2例临床病理观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xjyx202006002",
+      "title": "艾滋病合并卡波西肉瘤18例临床分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhpf201810017",
+      "title": "泛发经典型卡波西肉瘤一例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "HANS201907230457",
+      "title": "护理质量敏感指标在预防儿童白血病大剂量甲氨蝶呤化疗后消化道黏膜炎的应用体会",
+      "download_times": 0,
+      "browse_times": 7
+    },
+    {
+      "id": "lcysyblxzz201503017",
+      "title": "乳腺肌上皮细胞标记的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdblxzz201907011",
+      "title": "炎性假瘤样滤泡树突细胞肉瘤的临床病理学特征",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx200710003",
+      "title": "腹腔内淋巴结外滤泡树突细胞肉瘤的临床病理学分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201301021",
+      "title": "胃肠道及网膜滤泡树突状细胞肉瘤临床病理分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjyx202008004",
+      "title": "肾吻合性血管瘤一例报告并文献复习",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx202005025",
+      "title": "鼻腔畸胎癌肉瘤一例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "shht201905011",
+      "title": "基于深度学习的语义分割算法综述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201705020",
+      "title": "新近认识具有黏液样特征的少见肺部肿瘤的临床病理学特征",
+      "download_times": 8,
+      "browse_times": 9
+    },
+    {
+      "id": "shht201901003",
+      "title": "面向多任务的预警卫星系统效能评估",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx202006018",
+      "title": "细支气管腺瘤病理诊断若干问题",
+      "download_times": 7,
+      "browse_times": 11
+    },
+    {
+      "id": "zhblx201502013",
+      "title": "吻合状血管瘤一例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb201104021",
+      "title": "基于PCRLB的低轨星座对自由段多目标的多传感器调度算法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx202010024",
+      "title": "CD34在软组织肿瘤中的表达及病理意义",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgazzz202009001",
+      "title": "肉瘤样肝细胞癌中MET基因扩增与预后的相关性分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxhnjzz98201807004",
+      "title": "113例早期结直肠癌及癌前病变内镜黏膜下剥离术标本处理及病理学评估",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bjyddx202003010",
+      "title": "卫星组网系统下的多普勒频移估计与补偿",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lczlxzz202004012",
+      "title": "小胃肠间质瘤诊疗中国专家共识(2020年版)",
+      "download_times": 17,
+      "browse_times": 19
+    },
+    {
+      "id": "zhblx201801003",
+      "title": "中国黑色素瘤规范化病理诊断专家共识(2017年版)",
+      "download_times": 18,
+      "browse_times": 10
+    },
+    {
+      "id": "qhdxxb200707021",
+      "title": "应用于GPS接收机的序贯检测器性能分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzixb200307025",
+      "title": "卫星通信中多普勒频移的快速捕获",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb201906013",
+      "title": "天地一体化网络无缝切换和跨域漫游场景下的安全认证增强方案",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhblx201801003",
+      "title": "中国黑色素瘤规范化病理诊断专家共识(2017年版)",
+      "download_times": 18,
+      "browse_times": 10
+    },
+    {
+      "id": "zhxhnjzz98201609004",
+      "title": "80例早期胃癌及癌前病变内镜黏膜下剥离术标本的处理及病理学评估",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zhblx201804002",
+      "title": "结直肠癌分子生物标志物检测专家共识",
+      "download_times": 11,
+      "browse_times": 7
+    },
+    {
+      "id": "zhblx202006018",
+      "title": "细支气管腺瘤病理诊断若干问题",
+      "download_times": 7,
+      "browse_times": 11
+    },
+    {
+      "id": "zhptwk201912013",
+      "title": "人表皮生长因子受体-2表达与结直肠癌临床病理特征及预后的关系",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lczlxzz202004012",
+      "title": "小胃肠间质瘤诊疗中国专家共识(2020年版)",
+      "download_times": 17,
+      "browse_times": 19
+    },
+    {
+      "id": "dzkxxk201801030",
+      "title": "一种K-means改进算法的软扩频信号伪码序列盲估计",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "txxb201810006",
+      "title": "利用张量分解的多天线长码直扩CDMA信号扩频码盲估计",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjkxjs202005013",
+      "title": "一种卫星信道的反馈优化接入机制",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kjdzjs202001009",
+      "title": "北斗全球报文通信系统接入能力分析与研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yhxb201903009",
+      "title": "基于北斗Ka星间链路的地面用户导航方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxjspl202010001",
+      "title": "美军“联合全域作战(JADO)”概念浅析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yhxb201311012",
+      "title": "一种用于深空高动态微弱信号的频率估计算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hkxb202003018",
+      "title": "基于QoS的卫星网络端-端通信可靠性分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb2017z1019",
+      "title": "LEO卫星网络海量遥感数据下行的负载均衡多径路由算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dianxjs202006004",
+      "title": "大跨度天基数据链的TDD时隙调度分析与优化",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "syazzz201802004",
+      "title": "HER-2在结直肠癌组织中的表达及其临床意义",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "txxb202007006",
+      "title": "基于跳波束的新一代高通量卫星通信系统设计",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "bjyddx201004010",
+      "title": "航天器扩频测控应答机伪码跟踪环设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdhl201620026",
+      "title": "品管圈活动在超低出生体质量儿电解质紊乱早期胃肠外营养护理中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    }
+  ],
+  "检索": [
+    "Epstein-Barr Virus and Gastric Carcinoma 2010",
+    "Epstein-Barr Virus and Gastric Carcinoma 2010",
+    "Epstein-Barr Virus and Gastric Carcinoma",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "淋巴样间质 胃癌 病理",
+    "星间链路",
+    "星间链路",
+    "EB 胃癌",
+    "数据链",
+    "特殊类型的胃癌",
+    "特殊类型 胃癌",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "淋巴样间质 胃癌 病理",
+    "pstein-Barr Virus and Gastric Carcinoma 2010",
+    "特殊类型 胃癌",
+    "特殊类型 胃癌",
+    "特殊类型 胃癌",
+    "毛囊闭锁三联征",
+    "EB 胃癌",
+    "EB 胃癌",
+    "EB 胃癌 病理",
+    "数据链",
+    "数据链",
+    "星间链路",
+    "自组织 时间同步",
+    "自组织 时间同步",
+    "题名:食管鳞状细胞癌的分子生物学研究进展",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "淋巴样间质 胃癌 病理",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "淋巴上皮瘤样癌 胃癌 病理",
+    "EB 胃癌 病理",
+    "毛囊闭锁三联征",
+    "EB 胃癌 病理",
+    "特殊类型 胃癌",
+    "特殊类型 胃癌",
+    "特殊类型的胃癌",
+    "特殊类型 胃癌",
+    "星间链路",
+    "毛囊闭锁三联征",
+    "EB 胃癌 病理",
+    "EB 胃癌 病理",
+    "数据链",
+    "数据链",
+    "激光通信",
+    "数据链",
+    "自组织 时间同步",
+    "多普勒 频移 估计 修正",
+    "多普勒 频移 估计 修正",
+    "自组织 时间同步",
+    "自组织 时间同步",
+    "EB 胃癌 病理",
+    "自组织 时间同步",
+    "自组织 时间同步",
+    "自组织 时间同步",
+    "基于时分系统的无线自组织网络同步算法",
+    "时分 时间同步",
+    "自组织 时间同步",
+    "自组织 时间同步",
+    "EB 胃癌 病理",
+    "EB 胃癌 病理",
+    "多普勒 频移 估计 修正",
+    "时分 时间同步",
+    "EB 胃癌 病理",
+    "EB 胃癌 病理",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "甲状腺 冰冻 刘志艳",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "甲状腺 冰冻诊断",
+    "乳腺 杨文涛",
+    "乳腺 杨文涛",
+    "(肠癌) Date:2014-2019 综述",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "甲状腺 冰冻诊断",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(肠癌) Date:2014-2019 综述",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "乳腺 杨文涛",
+    "乳腺 杨文涛",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "甲状腺 冰冻诊断",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "毛囊闭锁三联征",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "(甲状腺  乳头状癌 亚型 ) Date:2015-2019",
+    "甲状腺 冰冻诊断",
+    "毛囊闭锁三联征",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(甲状腺 冰冻诊断) Date:2014-2019",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "毛囊闭锁三联征",
+    "肠癌",
+    "乳腺导管内乳头状状增生",
+    "(肠癌) Date:2014-2019 综述",
+    "(肠癌) Date:2014-2019 综述",
+    "毛囊闭锁三联征",
+    "高分化脂肪肉瘤 病理",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "肠母细胞型 癌",
+    "弥漫硬化型甲状腺乳头状癌",
+    "乳腺 大汗腺 癌",
+    "弥漫硬化型甲状腺乳头状癌",
+    "分化差 肾细胞癌",
+    "毛囊闭锁三联征",
+    "尿路上皮癌 诊断",
+    "产AFP胃癌",
+    "甲状腺 预后 差",
+    "小叶癌 综述",
+    "产AFP胃癌",
+    "甲状腺 预后 差",
+    "乳腺癌 分子分型 组织学",
+    "食管鳞 腺样分化",
+    "EB  淋巴组织  肠 息肉",
+    "肾细胞癌 IV级",
+    "肾细胞癌 IV级",
+    "宫颈癌",
+    "EBV相关淋巴组织增殖性疾病",
+    "甲状旁腺腺瘤",
+    "腹膜假黏液瘤 复发",
+    "肺 肉瘤样癌 病理",
+    "肝神经内分泌癌",
+    "肝内胆管癌 转移癌 鉴别",
+    "肝内胆管癌 转移癌 鉴别",
+    "肝神经内分泌癌",
+    "颅咽管瘤 病理",
+    "尿路上皮癌 诊断",
+    "肺癌 诊断共识",
+    "脂肪肉瘤",
+    "脂肪肉瘤 病理",
+    "脂肪肉瘤",
+    "脂肪肉瘤 病理",
+    "宫颈癌 穹隆累及",
+    "宫颈癌 规范",
+    "分化差 肾细胞癌",
+    "肾细胞癌 分化",
+    "分化差 肾细胞癌",
+    "肾细胞癌 免疫组化",
+    "分化差 肾细胞癌",
+    "分化差 肾细胞癌",
+    "三阴性 乳腺癌 综述",
+    "甲状腺 预后",
+    "乳腺 WHO",
+    "甲状腺 嗜酸细胞",
+    "乳腺癌 分子分型 组织学",
+    "EBV 淋巴组织 增殖性疾病 肠 息肉",
+    "EBV 淋巴组织  肠 息肉",
+    "EB  淋巴组织增殖",
+    "EBV 淋巴组织 增殖性疾病",
+    "乳腺 病理诊断 共识",
+    "小叶癌 组织",
+    "胃癌 病理诊断 共识",
+    "乳腺 WHO",
+    "甲状腺 嗜酸细胞",
+    "乳腺癌 分子分型 组织学",
+    "肾 癌 共识",
+    "小叶癌 综述",
+    "腹膜后 软组织肿瘤",
+    "毛囊闭锁三联征",
+    "腹膜后 软组织肿瘤",
+    "乳头 浸润性癌 病理",
+    "乳头 Paget 病理 浸润性癌",
+    "原发性胆汁性肝硬化 病理",
+    "肝内胆管癌 转移癌 鉴别",
+    "原发性胆汁性肝硬化 病理",
+    "肝癌 诊断共识",
+    "尿路上皮癌 诊断",
+    "高分化脂肪肉瘤 病理",
+    "宫颈癌 规范",
+    "宫颈癌 规范",
+    "ROS-1",
+    "毛囊闭锁三联征",
+    "(毛囊闭锁三联征) 关键词:放疗护理 Date:2015-2019",
+    "毛囊闭锁三联征",
+    "毛囊闭锁三联征",
+    "放疗 食管癌 护理",
+    "胆管癌 病理",
+    "食管鳞  腺 癌 病理",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "弥漫硬化型甲状腺乳头状癌 青少年",
+    "弥漫硬化型甲状腺乳头状癌",
+    "弥漫硬化型甲状腺乳头状癌 青少年",
+    "乳头 Paget",
+    "肾细胞癌 分化差",
+    "肾细胞癌 分化差",
+    "肾细胞癌 免疫组化",
+    "卵巢癌 规范化",
+    "儿童 弥漫硬化型甲状腺乳头状癌 病理",
+    "宫颈癌 规范化",
+    "高分化脂肪肉瘤 病理",
+    "分化差 肾细胞癌",
+    "肾细胞癌 免疫组化",
+    "肾细胞癌 分化",
+    "肾细胞癌 免疫组化",
+    "甲状腺癌腺外侵犯的意义及最新研究进展",
+    "乳腺癌 分子分型 组织学",
+    "小叶癌 综述",
+    "三阴性 乳腺癌",
+    "乳腺癌 分子分型 组织学",
+    "毛囊闭锁三联征",
+    "毛囊闭锁三联征",
+    "肾细胞癌 分化差",
+    "肠 滤泡树突细胞",
+    "肾细胞癌 分化差",
+    "毛囊闭锁三联征",
+    "不典型甲状旁腺腺瘤",
+    "毛囊闭锁三联征",
+    "不典型甲状旁腺腺瘤",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "肾细胞癌 免疫组化",
+    "分化差 肾细胞癌",
+    "肾细胞癌 分化",
+    "肠 滤泡树突细胞",
+    "脂肪肉瘤 病理",
+    "胃癌 神经内分泌",
+    "WHO 乳腺",
+    "三阴性 乳腺癌 形态",
+    "甲状腺 预后 差",
+    "乳腺 WHO",
+    "肠癌 诊疗 规范",
+    "原发性胆汁性肝硬化 病理",
+    "间皮 囊 病理",
+    "宫颈癌 规范",
+    "肝 异型增生结节",
+    "原发性胆汁性肝硬化 病理",
+    "乳头 Paget 病理 浸润性癌",
+    "颅咽管瘤 病理",
+    "乳头 Paget 病理 浸润性癌",
+    "宫颈癌 病理",
+    "尿路上皮癌 诊断",
+    "肺癌 诊断共识",
+    "EB 胃癌 病理",
+    "宫颈癌 病理",
+    "腹膜假黏液瘤",
+    "毛囊闭锁三联征",
+    "宫颈癌 规范",
+    "宫颈癌 穹隆累及 病理形态",
+    "毛囊闭锁三联征",
+    "腹膜后 软组织肿瘤",
+    "乳腺 病理诊断 共识",
+    "甲状腺 预后",
+    "肝癌 诊断共识",
+    "乳腺 WHO",
+    "肝癌 诊断共识",
+    "胃癌 神经内分泌",
+    "腹膜后 软组织肿瘤",
+    "EB  淋巴组织增殖",
+    "EBV 淋巴组织 增殖性疾病",
+    "肠癌 诊疗 规范",
+    "弥漫硬化型甲状腺乳头状癌",
+    "甲状旁腺腺瘤 病理",
+    "甲状旁腺腺瘤",
+    "WHO 头颈部肿瘤",
+    "青少年 甲状腺癌 病理",
+    "胆管癌 病理",
+    "食管鳞癌 腺样",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "胆管细胞癌 病理",
+    "肠母细胞型 癌",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "弥漫硬化型甲状腺乳头状癌",
+    "乳头 Paget 病理 浸润性癌",
+    "弥漫硬化型甲状腺乳头状癌",
+    "卵巢癌 规范化",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "大汗腺分化 乳腺癌 病理",
+    "宫颈癌 规范化 病理",
+    "WHO 头颈部肿瘤",
+    "数据链",
+    "星间链路",
+    "青少年 甲状腺癌",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "胆管细胞癌 病理",
+    "食管鳞癌 腺样",
+    "胆管癌 病理",
+    "不典型甲状旁腺腺瘤",
+    "弥漫硬化型甲状腺乳头状癌",
+    "乳腺 大汗腺 癌",
+    "毛囊闭锁三联征",
+    "食管鳞癌 腺样分化",
+    "卵巢浆液性癌 黏液",
+    "放疗 食管癌 护理",
+    "毛囊闭锁三联征",
+    "食管鳞  腺 癌",
+    "胆管癌 病理",
+    "食管鳞  腺 癌",
+    "腹膜后 软组织肿瘤",
+    "乳腺 病理诊断 共识",
+    "三阴性 乳腺癌",
+    "胃癌 病理诊断 共识",
+    "胃癌 指南",
+    "甲状腺 预后 差",
+    "胃癌 病理诊断 共识",
+    "三阴性 乳腺癌 综述",
+    "腹膜后 软组织肿瘤",
+    "肾细胞癌 分化差",
+    "肾细胞癌 分化差",
+    "弥漫硬化型甲状腺乳头状癌",
+    "肾细胞癌 免疫组化",
+    "毛囊闭锁三联征",
+    "乳头 Paget 病理 浸润性癌",
+    "肝内胆管癌 转移癌 鉴别",
+    "宫颈癌 规范",
+    "肝神经内分泌癌",
+    "颅咽管瘤 病理",
+    "乳头 Paget 病理 浸润性癌",
+    "毛囊闭锁三联征",
+    "尿路上皮癌 诊断",
+    "肾 癌 共识",
+    "胃癌 指南",
+    "肾 癌 共识",
+    "宫颈癌 病理",
+    "间皮 囊",
+    "胰腺导管腺癌 腺泡腺癌",
+    "毛囊闭锁三联征",
+    "EBV相关淋巴组织增殖性疾病",
+    "大汗腺分化 乳腺癌 病理",
+    "肾细胞癌 分化",
+    "三阴性 乳腺癌",
+    "胃癌 神经内分泌",
+    "WHO 乳腺",
+    "乳腺癌 分子分型 组织学",
+    "甲状腺 嗜酸细胞",
+    "甲状腺 预后",
+    "乳腺癌 分子分型 组织学",
+    "淋巴上皮瘤样癌 肝细胞癌",
+    "淋巴样间质 肝细胞肝癌",
+    "淋巴样间质 肝细胞癌",
+    "星间链路",
+    "数据链",
+    "数据链",
+    "青少年 甲状腺癌 病理",
+    "食管鳞癌 腺样",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "胆管癌 病理",
+    "肠 滤泡树突细胞",
+    "肾细胞癌 分化差",
+    "食管鳞癌 腺样分化",
+    "食管鳞癌 腺样分化",
+    "卵巢浆黏液性癌",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "EBV 淋巴组织 增殖性疾病 肠 息肉",
+    "EB  淋巴组织增殖",
+    "腹膜假黏液瘤 复发",
+    "腹膜假黏液瘤",
+    "肺 肉瘤样癌",
+    "乳头 Paget",
+    "颅咽管瘤 病理",
+    "间皮 囊 病理",
+    "腹膜假黏液瘤",
+    "EB 胃癌 病理",
+    "肝 异型增生结节 病理",
+    "原发性胆汁性肝硬化 病理",
+    "尿路上皮癌 诊断",
+    "胆 指南",
+    "甲状腺 病理诊断 共识",
+    "重叠综合征 病理",
+    "间皮 囊肿 病理",
+    "乳腺 大汗腺 癌",
+    "甲状腺 嗜酸细胞",
+    "三阴性 乳腺癌 综述",
+    "小叶癌 组织",
+    "肝癌 诊断共识",
+    "甲状腺",
+    "甲状腺 亚型 临床",
+    "肺癌 诊断共识",
+    "腹膜后 软组织肿瘤",
+    "卵巢癌 病理报告",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "卵巢癌 病理报告",
+    "宫颈癌 规范化",
+    "卵巢癌 规范化",
+    "弥漫硬化型甲状腺乳头状癌 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌肉瘤",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌肉瘤 病理",
+    "朗格汉斯组织细胞增生",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症 病理",
+    "脾脏 窦岸细胞 血管肉瘤",
+    "子宫内膜 癌肉瘤 病理",
+    "脾血管肉瘤伴肝转移1例",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症",
+    "IgG4 硬化 病理",
+    "Erdheim-Chester病理",
+    "嗜酸性粒细胞浸润 病理",
+    "朗格汉斯组织细胞增生",
+    "肠 滤泡树突细胞",
+    "肠 炎性假瘤样 滤泡树突细胞",
+    "肾细胞癌 III级",
+    "毛囊闭锁三联征",
+    "脾窦岸细胞血管瘤 3 例临床病理探讨",
+    "子宫内膜 癌 肉瘤 病理",
+    "朗格汉斯组织细胞增生 IgG",
+    "卵巢浆液性癌 黏液分泌",
+    "脾 血管 中华 病理",
+    "脾窦岸细胞血管瘤临床病理分析.临床 与实验病理学杂志",
+    "脾 血管 中华 病理",
+    "脾脏 窦岸细胞",
+    "脾脏 窦岸细胞",
+    "脾脏 窦岸细胞",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "朗格汉斯组织细胞增生",
+    "子宫内膜 癌 肉瘤 病理",
+    "朗格汉斯组织细胞增生症",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "朗格汉斯组织细胞增生症 IgG4",
+    "毛囊闭锁三联征",
+    "食管鳞癌 腺样分化",
+    "脾 窦岸细胞 血管 中华 病理",
+    "脾脏窦岸细胞血管瘤一例",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌肉瘤",
+    "IgG4 硬化 病理",
+    "脾 血管 中华病理学",
+    "毛囊闭锁三联征",
+    "脾脏 窦岸细胞",
+    "脾血管肉瘤伴肝转移1例",
+    "肝 血管肉瘤 脾脏 转移",
+    "朗格汉斯组织细胞增生",
+    "子宫内膜 癌肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "子宫内膜 癌 肉瘤 病理",
+    "肝 血管肉瘤 脾脏 转移",
+    "肝 血管肉瘤 脾脏 转移",
+    "IgG4 Langerhans 病理",
+    "调度 算法 网络",
+    "肾细胞癌 III级",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症 病理",
+    "IgG4 硬化 病理",
+    "朗格汉斯组织细胞增生 IgG4 硬化 病理",
+    "嗜酸性粒细胞浸润 病理",
+    "星间",
+    "乳腺类似 导管原位癌 浸润 癌 病理",
+    "肺 混合性黏液-非黏液腺癌",
+    "乳腺 膨胀性 浸润 癌",
+    "乳腺 导管原位癌 浸润 癌",
+    "乳腺 膨胀性  浸润 癌 病理",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "转移 肾细胞癌 神经内分泌",
+    "肝 脾 血管肉瘤 病理",
+    "Caroli 病 病理",
+    "乳腺 肌上皮 标记",
+    "肝 血管肉瘤 病理",
+    "肾癌 神经内分泌 转移 病理",
+    "Caroli 病 病理",
+    "血管肉瘤 肝 病理",
+    "脾脏 窦岸细胞",
+    "脾脏 窦岸细胞",
+    "脾脏 窦岸细胞 血管",
+    "毛囊闭锁三联征",
+    "脾 窦岸细胞 血管 中华 病理",
+    "乳腺 导管原位癌 浸润 癌",
+    "肾细胞癌 神经内分泌标记 转移 病理",
+    "肾细胞癌 神经内分泌标记",
+    "甲状腺转移癌",
+    "肝 血管肉瘤 病理",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症 病理",
+    "通信学报",
+    "肝 血管肉瘤 脾脏 转移",
+    "IgG4 硬化 病理",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症",
+    "IgG4 硬化 病理",
+    "朗格汉斯组织细胞增生 朗格汉斯组织细胞增生症 病理",
+    "脾脏巨大血管肉瘤伴肝转移 一例",
+    "脾脏 窦岸细胞 血管肉瘤",
+    "脾 窦岸细胞 血管 中华 病理",
+    "脾 血管 中华病理学",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "毛囊闭锁三联征",
+    "乳腺 膨胀性 浸润 癌",
+    "乳腺 膨胀性 浸润 癌",
+    "肺 混合性黏液-非黏液腺癌",
+    "乳腺 肌上皮 标记",
+    "血管肉瘤 肝",
+    "甲状腺 神经内分泌 转移癌",
+    "甲状腺转移癌",
+    "甲状腺转移癌",
+    "肝 脾 血管肉瘤 病理",
+    "毛囊闭锁三联征",
+    "脾 血管 中华病理学",
+    "期刊名称/刊名:(通信学报)",
+    "毛囊闭锁三联征",
+    "脾 血管 中华病理学",
+    "肺 混合性黏液腺癌",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "肺 混合性黏液腺癌",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "肝 血管肉瘤 病理",
+    "Caroli 病 病理",
+    "乳腺 肌上皮 标记",
+    "甲状腺转移癌",
+    "血管肉瘤 肝 病理",
+    "血管肉瘤 肝",
+    "肾透明细胞癌 神经内分泌",
+    "肾透明细胞癌 神经内分泌",
+    "血管肉瘤 肝 病理",
+    "肝 血管肉瘤 病理",
+    "肾癌 神经内分泌 转移 病理",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "乳腺 导管原位癌 浸润 癌 病理",
+    "乳腺 膨胀性 浸润 癌",
+    "乳腺 肌上皮 标记",
+    "脾脏 窦岸细胞 血管",
+    "肝 血管肉瘤 病理",
+    "肾细胞癌 神经内分泌标记",
+    "肝 血管肉瘤 病理",
+    "血管肉瘤 肝 病理",
+    "肾细胞癌 神经内分泌标记",
+    "Caroli 病 病理",
+    "乳腺 肌上皮 标记",
+    "血管肉瘤 肝 病理",
+    "Caroli 病 病理",
+    "星间 光通信",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "通信学报",
+    "(题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*Date:2016-",
+    "((题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理)))*Date:2015-",
+    "((题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*$subject_classcode_level:∷/R*$type:perio_artical)*Date:2015-",
+    "((题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*$subject_classcode_level:∷/R)*Date:2015-",
+    "中国激光",
+    "接入",
+    "(主题:(食管癌放化疗患者)*作者:(营养)*作者单位:(自我管理))*Date:2016-",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "毛囊闭锁三联征",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "宇航学报",
+    "((题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*$subject_classcode_level:∷/R)*Date:2015-",
+    "中国激光",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$core_perio:PKU)*Date:2016-",
+    "(题名或关键词:(食管癌放疗)*关键词:(营养支持)*关键词:(自我管理))*Date:2016-",
+    "((主题:(食管癌放化疗)+作者:(自我管理)+作者单位:(营养支持))*$subject_classcode_level:∷/R73*$language:chi)*Date:2017-",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$core_perio:PKU*$common_year:2020)*Date:2016-",
+    "食管癌",
+    "毛囊闭锁三联征",
+    "关键词:食管癌放疗营养护理",
+    "(题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*Date:2015-",
+    "((题名或关键词:(食管癌放化疗)+关键词:(营养支持)*作者单位:(自我管理))*$subject_classcode_level:∷/R)*Date:2015-",
+    "关键词:食管癌放疗营养护理",
+    "(主题:(食管癌放化疗患者)*作者:(营养)*作者单位:(自我管理))*Date:2016-",
+    "食管癌and放疗and营养支持and自我管理",
+    "((主题:(食管癌放化疗)+作者:(自我管理)+作者单位:(营养支持)))*Date:2017-",
+    "(主题:(食管癌放化疗患者)*作者:(营养)*作者单位:(自我管理))*Date:2016-",
+    "(主题:(食管癌化疗患者)*关键词:(营养支持)*关键词:(自我管理))*Date:2015-",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "关键词:食管癌放疗营养护理",
+    "(题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*Date:2016-",
+    "关键词:食管癌放疗营养护理自我管理",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$common_year:2020*$core_perio:PKU)*Date:2016-",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$common_year:2020*$core_perio:PKU)*Date:2016-",
+    "(题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*Date:2016-",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$common_year:2020*$core_perio:PKU*$perio_title02:'护士进修杂志')*Date:2016-",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "(题名或关键词:('食管癌放化疗')+关键词:('营养支持')*作者单位:('自我管理'))*Date:2016-",
+    "(主题:(食管癌化疗患者)*作者:(营养支持)*作者单位:(自我管理))*Date:2015-",
+    "关键词:食管癌放疗营养护理",
+    "航空学报",
+    "航空学报",
+    "((主题:(食管癌放化疗)+作者:(自我管理)+作者单位:(营养支持))*$subject_classcode_level:∷/R73)*Date:2017-",
+    "((主题:(食管癌放化疗)+作者:(自我管理)+作者单位:(营养支持))*$subject_classcode_level:∷/R)*Date:2017-",
+    "(主题:(食管癌放化疗)+作者:(自我管理)+作者单位:(营养支持))*Date:2017-",
+    "(题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*Date:2016-",
+    "((题名或关键词:(食管癌放疗)+关键词:(营养支持)+关键词:(自我管理))*$common_year:2020)*Date:2016-",
+    "(题名或关键词:(食管癌放疗)*关键词:(营养支持)*关键词:(自我管理))*Date:2016-",
+    "复合性肝细胞癌神经内分泌肿瘤",
+    "混合 肝细胞 神经内分泌",
+    "肝细胞癌 混合 神经内分泌",
+    "滤泡树突细胞肉瘤 病理",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肿瘤 病理",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肉瘤",
+    "数据链",
+    "肝  神经内分泌",
+    "肝细胞癌 混合 神经内分泌",
+    "肝  神经内分泌",
+    "滤泡树突细胞肉瘤 病理",
+    "IgG4 疾病",
+    "作者:王兴龙",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肉瘤 病理",
+    "滤泡树突细胞肉瘤 病理",
+    "毛囊闭锁三联征",
+    "肝细胞癌 混合 神经内分泌",
+    "数据链",
+    "宇航学报",
+    "数据链",
+    "刊名:通信学报",
+    "数据链",
+    "滤泡树突细胞肿瘤 病理",
+    "复合性肝细胞癌神经内分泌癌",
+    "混合性肝细胞癌 神经内分泌肿瘤",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肉瘤 病理",
+    "作者:王兴龙",
+    "(肝细胞癌 混合 神经内分泌",
+    "肝细胞癌 混合 神经内分泌",
+    "肝 神经内分泌",
+    "作者:程竟爽",
+    "汪星星 中山医院",
+    "韩晶 中山医院",
+    "汪星星 中山医院",
+    "毛囊闭锁三联征",
+    "数据链 破局",
+    "数据链",
+    "肝  原发 神经内分泌",
+    "混合 肝细胞癌 神经内分泌",
+    "IgG4 疾病",
+    "滤泡树突状细胞的相关标志物",
+    "滤泡树突细胞肉瘤 病理",
+    "数据链",
+    "肝 神经内分泌",
+    "(肝 神经内分泌) Date:2014-2020",
+    "肝 神经内分泌",
+    "(肝 混合 神经内分泌) Date:2014-2020",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肿瘤 病理",
+    "IgG4 疾病",
+    "肝细胞癌 混合 神经内分泌",
+    "混合 肝细胞癌 神经内分泌肿瘤",
+    "肝  原发 神经内分泌",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤 病理",
+    "滤泡树突细胞肉瘤 病理",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肿瘤 病理",
+    "肉芽肿性疾病 自身免疫性疾病",
+    "毛囊闭锁三联征",
+    "毛囊闭锁三联征",
+    "毛囊闭锁三联征",
+    "IgG4 疾病",
+    "通信学报",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肿瘤 病理",
+    "滤泡树突细胞肿瘤 病理",
+    "肉芽肿性疾病 自身免疫性疾病",
+    "IgG4 疾病",
+    "IgG4 疾病",
+    "肉芽肿性疾病 自身免疫性疾病",
+    "肉芽肿性疾病 自身免疫性疾病",
+    "(肝细胞癌 混合 神经内分泌) Date:2014-2020",
+    "肝 神经内分泌",
+    "肝 神经内分泌",
+    "肉芽肿性疾病",
+    "汪星星",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肿瘤",
+    "测控",
+    "测控",
+    "测控",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "肝 癌 神经内分泌",
+    "肝细胞癌 神经内分泌",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "肝细胞癌 神经内分泌",
+    "肝细胞癌 神经内分泌",
+    "测控",
+    "测控",
+    "测控",
+    "肝 癌 神经内分泌",
+    "肝细胞癌 神经内分泌",
+    "肝细胞癌 神经内分泌",
+    "滤泡树突细胞肉瘤",
+    "毛囊闭锁三联征",
+    "测控",
+    "肝 癌 神经内分泌",
+    "肝 癌 神经内分泌",
+    "肝细胞癌 神经内分泌",
+    "肝 癌 神经内分泌",
+    "韩晶 中山医院",
+    "滤泡树突细胞肉瘤",
+    "肝 癌 神经内分泌",
+    "肝 癌 神经内分泌",
+    "肝 癌 神经内分泌",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "测控",
+    "胰腺十二指肠",
+    "资源调度算法",
+    "资源调度算法",
+    "资源调度算法",
+    "资源调度算法",
+    "通信学报",
+    "中国激光",
+    "X频段",
+    "X频段",
+    "毛囊闭锁三联征",
+    "前列腺 穿刺 病理 共识",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "胰腺十二指肠切除手术专家共识",
+    "中国激光",
+    "资源调度算法",
+    "中国科学",
+    "资源调度算法",
+    "奚美丽 中山医院",
+    "毛囊闭锁三联征",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 穿刺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌",
+    "胰腺十二指肠",
+    "前列腺 穿刺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "韩晶 中山医院",
+    "资源调度算法",
+    "奚美丽",
+    "毛囊闭锁三联征",
+    "奚美丽 中山医院",
+    "资源调度算法",
+    "资源调度算法",
+    "资源调度算法",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌 病理",
+    "前列腺 病理 共识",
+    "前列腺 穿刺 腺癌 神经内分泌",
+    "毛囊闭锁三联征",
+    "前列腺 穿刺 病理 共识",
+    "资源调度算法",
+    "中国科学",
+    "计算机学报",
+    "Fli-1",
+    "卡波西肉瘤 中华",
+    "中间 血管 肿瘤 病理",
+    "中间性 血管肿瘤",
+    "卡波西型血管内皮瘤 病理",
+    "卡波西肉瘤 病理",
+    "韩晶 复旦大学",
+    "于娟 复旦大学",
+    "毛囊闭锁三联征",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "中间 血管 肿瘤 病理",
+    "卡波西肉瘤 中华",
+    "卡波西肉瘤 病理",
+    "卡波 瘤 病理",
+    "卡波西 血管内皮瘤 病理",
+    "韩晶",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "鲁姗姗 复旦大学",
+    "卡波西肉瘤 中华",
+    "中间性 血管肿瘤",
+    "卡波西肉瘤",
+    "中间性 血管肿瘤",
+    "卡波西肉瘤 病理",
+    "卡波 瘤 病理",
+    "卡波西肉瘤 病理",
+    "混合性肝细胞肝癌和神经内分泌癌5例临床病理分析",
+    "Fli-1",
+    "Fli-1",
+    "Fli-1",
+    "假 肌血管内皮 瘤 病理",
+    "卡波 瘤 病理",
+    "卡波 瘤 病理",
+    "卡波 瘤 病理",
+    "卡波 瘤 病理",
+    "肺 多核巨细胞 病理",
+    "肺 恶性纤维组织细胞瘤 病理",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "张磊 复旦大学",
+    "WHO 皮肤 解读",
+    "皮肤 WHO 解读",
+    "WHO 皮肤 解读",
+    "张凌云 复旦大学",
+    "卡波西肉瘤 中华",
+    "卡波西型血管内皮瘤 病理",
+    "卡波西肉瘤 病理",
+    "中间性 血管肿瘤",
+    "卡波西肉瘤",
+    "卡波西 血管内皮瘤 病理",
+    "中间 血管 肿瘤 病理",
+    "卡波西肉瘤",
+    "卡波西肉瘤 病理",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$subject_classcode_level:∷/R*$type:perio_artical)*Date:2017-",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$type:perio_artical*$subject_classcode_level:∷/R*$core_perio:PKU)*Date:2017-",
+    "Fli-1",
+    "毛囊闭锁三联征",
+    "肺 多核巨细胞",
+    "WHO 皮肤",
+    "皮肤 WHO 解读",
+    "皮肤 WHO",
+    "皮肤 WHO 解读",
+    "卡波西肉瘤",
+    "卡波西肉瘤 病理",
+    "假 肌血管内皮 瘤 病理",
+    "卡波西",
+    "巴结病型卡波西肉瘤一例",
+    "卡波西肉瘤",
+    "肺 巨细胞 病理",
+    "肉瘤 肺",
+    "肺 巨细胞 病理",
+    "肺 恶性纤维组织细胞瘤 病理",
+    "肺 多核巨细胞 病理",
+    "肺 巨细胞",
+    "2020 WHO 皮肤 解读",
+    "WHO 皮肤",
+    "WHO 皮肤 解读",
+    "卡波西肉瘤",
+    "卡波西",
+    "假 肌血管内皮 瘤 病理",
+    "卡波西肉瘤",
+    "卡波西",
+    "卡波西肉瘤",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$first_publish:0*$subject_classcode_level:∷/R)*Date:2017-",
+    "毛囊闭锁三联征",
+    "Fli-1",
+    "Fli-1",
+    "2020 软组织",
+    "软组织 WHO",
+    "WHO 软组织 血管",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$type:perio_artical*$subject_classcode_level:∷/R*$core_perio:ISTIC)*Date:2017-",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$first_publish:0*$subject_classcode_level:∷/R*$type:perio_artical)*Date:2017-",
+    "毛囊闭锁三联征",
+    "Fli-1",
+    "肺 巨细胞 病理",
+    "肺 多核巨细胞 病理",
+    "肺 多核巨细胞",
+    "肺 巨细胞",
+    "肺 恶性纤维组织细胞瘤 病理",
+    "肺 巨细胞 病理",
+    "淋巴结病型卡波西肉瘤一例",
+    "软组织 WHO",
+    "WHO 软组织 血管",
+    "软组织 WHO",
+    "皮肤 WHO",
+    "WHO 皮肤 解读",
+    "皮肤 WHO",
+    "WHO 皮肤 解读",
+    "卡波西肉瘤 病理",
+    "卡波西",
+    "毛囊闭锁三联征",
+    "卡波西肉瘤",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$type:perio_artical*$subject_classcode_level:∷/R*$core_perio:ISTIC)*Date:2017-",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$subject_classcode_level:∷/R)*Date:2017-",
+    "Fli-1",
+    "Fli-1",
+    "卡波西",
+    "假 肌血管内皮 瘤 病理",
+    "((主题:(淋巴瘤)*关键词:(化疗)*关键词:(心理护理))*$core_perio:PKU)*Date:2017-",
+    "((主题:(淋巴瘤)*关键词:(化疗)*关键词:(心理护理))*$core_perio:PKU*$source_db_single:WF)*Date:2017-",
+    "卡波西",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$subject_classcode_level:∷/R)*Date:2017-",
+    "((题名或关键词:(白血病)*题名或关键词:(化疗)*题名或关键词:(护理))*$type:perio_artical*$subject_classcode_level:∷/R*$core_perio:ISTIC)*Date:2017-",
+    "皮肤 WHO",
+    "皮肤 WHO 解读",
+    "2020 WHO 皮肤 解读",
+    "卡波西肉瘤",
+    "卡波西肉瘤 病理",
+    "卡波西肉瘤",
+    "卡波西",
+    "卡波西肉瘤",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "作者:'吴文川' 作者单位:'复旦大学附属中山医院'",
+    "鲁珊珊 复旦大学",
+    "卡波西型血管内皮瘤 病理",
+    "卡波西型血管内皮瘤 病理",
+    "卡波西肉瘤",
+    "卡波西 血管内皮瘤 病理",
+    "卡波西肉瘤 病理",
+    "卡波西肉瘤 病理",
+    "中间性 血管肿瘤",
+    "卡波西型血管内皮瘤 病理",
+    "汪星星 复旦大学",
+    "Fli-1",
+    "Fli-1",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "认知 云网络",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "本刊对来稿图片的要求",
+    "滤泡树突细胞肉瘤 35",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤 35",
+    "本刊对来稿图片的要求",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "腹膜后 滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "毛囊闭锁三联征",
+    "本刊对来稿图片的要求",
+    "本刊对来稿图片的要求",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "毛囊闭锁三联征",
+    "毛囊闭锁三联征",
+    "Erdheim Chester",
+    "肾 吻合状血管瘤",
+    "肾 吻合状血管瘤 病理",
+    "肾 血管瘤 病理",
+    "中华病理学杂志",
+    "Erdheim Chester",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "毛囊闭锁三联征",
+    "中华病理学杂志",
+    "肾 吻合状血管瘤",
+    "组织细胞 增生 肿瘤",
+    "组织细胞增生",
+    "Yaping LuoEedheim Chester",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "Erdheim Chester",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "肾 血管瘤 病理",
+    "滤泡树突细胞肉瘤",
+    "中华病理学杂志",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "中华病理学杂志",
+    "肾 血管瘤 病理",
+    "基于深度学习的语义分割算法综述",
+    "Erdheim Chester病合并朗格汉斯细胞组织细胞增生症临床病理学及分子学特征",
+    "中华病理学杂志",
+    "滤泡树突细胞肉瘤",
+    "钟定荣 中华病理学杂志 2020",
+    "滤泡树突细胞肉瘤",
+    "肾 吻合状血管瘤 病理",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "Erdheim Chester",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "骨外黏液样软骨肉瘤",
+    "Erdheim Chester",
+    "Erdheim Chester",
+    "毛囊闭锁三联征",
+    "中华病理学杂志",
+    "滤泡树突细胞肉瘤",
+    "中华病理学杂志",
+    "毛囊闭锁三联征",
+    "滤泡树突细胞肉瘤",
+    "面向多任务的预警卫星系统效能评估",
+    "基于PCRLB的低轨星座对自由段多目标的多传感器调度算法",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "中华病理学杂志",
+    "滤泡树突细胞肉瘤",
+    "骨外黏液样软骨肉瘤",
+    "骨外黏液样软骨肉瘤",
+    "滤泡树突细胞肉瘤",
+    "滤泡树突细胞肉瘤",
+    "(星间链路) (CorePeriodical:'EI' )",
+    "卫星 接入",
+    "星间链路",
+    "结直肠癌分子生物标志物检测专家共识",
+    "结直肠癌患者HER-2表达与临床病理特征及预后的关系",
+    "肠癌Her-2 病理",
+    "肠癌Her-2 病理",
+    "113例早期结直肠癌及癌前病变内镜黏膜下",
+    "黑色素瘤",
+    "肠癌 Her-2",
+    "卫星 接入",
+    "(卫星 链路 调度) (CorePeriodical:'EI' )",
+    "(扩频) (Type:'Periodical' )",
+    "(扩频) (Type:'Periodical' CorePeriodical:'EI' ClassCodeForSearch:'0/V' )",
+    "(扩频) (Type:'Periodical' CorePeriodical:'EI' ClassCodeForSearch:'0/V' )",
+    "结直肠癌患者HER-2表达与临床病理特征及预后的关系",
+    "黑色素瘤",
+    "卫星 接入",
+    "(卫星 接入) (CorePeriodical:'EI' )",
+    "(卫星 接入) (CorePeriodical:'EI' )",
+    "(星间链路) (CorePeriodical:'EI' )",
+    "扩频",
+    "扩频",
+    "(扩频) (Type:'Periodical' )",
+    "(扩频) (Type:'Periodical' CorePeriodical:'EI' ClassCodeForSearch:'0/V' )",
+    "(扩频) (Type:'Periodical' )",
+    "(星间链路) (CorePeriodical:'EI' )",
+    "卫星 接入",
+    "卫星 接入",
+    "(星间链路) (CorePeriodical:'EI' )",
+    "卫星 链路 调度",
+    "(扩频) (Type:'Periodical' )",
+    "肠癌Her-2 病理",
+    "结直肠癌 分子标志物检测",
+    "(扩频) (Type:'Periodical' CorePeriodical:'EI' ClassCodeForSearch:'0/V' )",
+    "中国胃肠间质瘤",
+    "肾 血管瘤 病理",
+    "(扩频) (Type:'Periodical' )",
+    "毛囊闭锁三联征",
+    "80例早期胃癌及癌前病变内镜黏膜下",
+    "黑色素瘤",
+    "黑色素瘤",
+    "中国黑色素瘤规范化病理诊断共识",
+    "(卫星 链路 调度) (CorePeriodical:'EI' )",
+    "张欣 肝细胞 中国癌症",
+    "细支气管腺瘤",
+    "(扩频) (Type:'Periodical' CorePeriodical:'EI' ClassCodeForSearch:'0/V' )",
+    "(扩频) (Type:'Periodical' )",
+    "扩频"
+  ]
+}

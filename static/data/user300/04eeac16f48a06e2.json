@@ -1,0 +1,2088 @@
+{
+  "下载": [
+    {
+      "id": "qczh202005002",
+      "title": "四部委联合发布2020年新能源汽车补贴政策:30万元以上车型不补,续航门槛提高至300km",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sykj201904062",
+      "title": "4S店的评价及奖励政策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2018343486",
+      "title": "自动变速箱结构及控制探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "yyyqd201912009",
+      "title": "混合动力变速箱中比例电磁阀变频控制研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbnj201607033",
+      "title": "基于Geomagic Studio的汽车悬架控制臂点云数据处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qckj202001012",
+      "title": "乘用车双离合变速箱NVH和驾驶性评价方法的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk202011029",
+      "title": "'多元联动、五位一体'高职院校国际化汽修人才培养模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyjxlt201939061",
+      "title": "虚实结合技术在汽车变速箱拆装实践中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj202007019",
+      "title": "变速箱高速齿轮断齿失效探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qckj201702007",
+      "title": "基于逆向工程的汽车三维数据采集、处理方法及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdqc202004028",
+      "title": "变速箱总成的密封性要求及检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcjs201604012",
+      "title": "汽车平顺性试验数据处理系统的研究及实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201922053",
+      "title": "变速箱锥面齿轮在线综合检具设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yyqdymf201809011",
+      "title": "单向阀在变速箱离合器中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdqc202006039",
+      "title": "乌尼莫克U5000 UG100变速箱简介",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj202001046",
+      "title": "拖拉机金属带功率分流无级变速箱的经济性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcgc201708015",
+      "title": "多GPS架构下汽车测试数据处理方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qclbj201003014",
+      "title": "汽车燃油经济性试验数据处理系统的开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ckjs201803029",
+      "title": "汽车空气质量智能检测净化系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shzl201407019",
+      "title": "提升数据处理能力实现现场质量改进--上海三电贝洱汽车空调有限公司案例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzz201906007",
+      "title": "SC25M6变速箱六挡脱挡故障的分析与改进",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcgyyj202001001",
+      "title": "浅谈智能网联汽车发展现状及趋势",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "njhyj201910046",
+      "title": "联合收获机差逆变速箱整体式箱体设计与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj202007092",
+      "title": "关于汽车变速箱振动故障分析与诊断",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs201916079",
+      "title": "2017款东风本田XR-V CVT变速箱漏油故障诊断",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxglkf201902126",
+      "title": "变速箱同步器失效问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunnj202002046",
+      "title": "自动变速箱换挡电磁阀检测系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc202004055",
+      "title": "一种电动汽车变速时多速变速箱的拓扑变化模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdqc201911031",
+      "title": "全新设计理念的多双向离合器自动变速箱",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dtsj201511169",
+      "title": "汽车稳态回转试验数据处理及评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njsc202004026",
+      "title": "卓越品质的迪尔8R变速箱",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd202004004",
+      "title": "某重型商用车变速箱壳体轻量化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj202005016",
+      "title": "机械变速箱的齿轮失效作用分析及改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201826023",
+      "title": "储能系统中梯次利用动力电池容量优化配置研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy202004005",
+      "title": "基于机器视觉的变速箱滚针轴承漏针检测研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "hnysjs202002016",
+      "title": "废旧锂离子电池电解液处理技术现状与展望",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "dgjsxb201801002",
+      "title": "磷酸铁锂电池梯次利用健康特征参数提取方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxslfd202004016",
+      "title": "不同场景下基于AHP-TOPSIS退役电池梯次利用综合评价",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dianyjs201905016",
+      "title": "退役LiFePO4电池梯次利用分选方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgjsxb2019z1043",
+      "title": "基于库仑效率的退役锂离子动力电池储能梯次利用筛选",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cnkxyjs202002035",
+      "title": "磷酸铁锂动力电池备电工况寿命试验研究及分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dyxb201804011",
+      "title": "集装箱式储能系统用梯次利用锂电池组的一致性管理研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgglyl202004005",
+      "title": "锂电池在特种设备行业中梯次利用的前景展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201834102",
+      "title": "下限均衡锂电池梯次利用管理系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201903027",
+      "title": "电动车退役电池梯次利用之储能性能及预测",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201603011",
+      "title": "磷酸铁锂动力电池梯次利用可行性分析研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjdl202005007",
+      "title": "动力电池梯次利用的异构储能电站设计与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj202009080",
+      "title": "基于新能源汽车退役动力电池模组梯次利用的保护电路",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qcjs202004007",
+      "title": "《汽车技术》杂志征稿启事",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgmyxzz202007008",
+      "title": "基于数据挖掘研究单味与复方雷公藤制剂对类风湿关节炎贫血患者免疫、炎症、肝肾功能的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzcs202002049",
+      "title": "新能源电动汽车充电技术研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ahny201718050",
+      "title": "生物质资源梯次利用工厂化栽培杏鲍菇与草菇关键技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysjszsyly201902010",
+      "title": "锂电池回收利用政策利好梯次利用已形成示范效应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyzhly202005029",
+      "title": "国内动力电池梯次回收利用发展简述",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hnysjs201905012",
+      "title": "锂离子电池LiFePO4正极材料的掺杂改性研究进展",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "xclcy201709009",
+      "title": "废旧锂离子动力电池的拆解及梯次利用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsysc202003030",
+      "title": "动力电池在储能系统中的梯次利用对电能质量的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yndljs201906001",
+      "title": "基于SIMULINK的退役动力锂电池建模与仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nykjtx201708129",
+      "title": "基于生物质梯次利用的菌菇工厂化生产关键技术初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201807018",
+      "title": "主被动均衡技术及其在电池梯次利用中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cnkxyjs202002030",
+      "title": "关于动力电池梯次利用的一些思考",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "yndljs201906004",
+      "title": "基于新型功率架构的退役动力电池储能系统在配网中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd202001029",
+      "title": "基于改进LMD与BP神经网络的变速箱故障诊断",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzzyzdh201904043",
+      "title": "某6MT汽车变速箱啸叫噪声的控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc202009013",
+      "title": "基于数据挖掘的最佳旅游路线规划系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbqcgyxyxb201302010",
+      "title": "新能源汽车驱动电机阻力台架模拟的数据处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201911011",
+      "title": "报废汽车拆解线管理与监测诊断系统设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd202001029",
+      "title": "基于改进LMD与BP神经网络的变速箱故障诊断",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "hbnjh201918094",
+      "title": "一种变速箱选挡手感装置探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201909024",
+      "title": "履带车辆变速箱动力学建模及耦合特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsysyj201902047",
+      "title": "汽车变速箱过滤器流量阻力试验台设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj202005307",
+      "title": "液动自动变速箱吸油口位置设计及验证方法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sgxyxb201906007",
+      "title": "汽车变速箱可靠性试验设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201805021",
+      "title": "一种汽车平顺性试验数据处理系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201912013",
+      "title": "基于ANSYS的变速箱配流试验台轴系的振动特性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy202003009",
+      "title": "变速箱齿轮啮合测试机上下料机械手设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "nyjxxb201105001",
+      "title": "汽车稳定性控制系统性能试验与数据处理方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zsyzdkz201505022",
+      "title": "HEV动力切换过程车内振动与噪声试验分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201912024",
+      "title": "混合动力变速箱齿轮啸叫分析与优化验证",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "syqc201907029",
+      "title": "艾里逊变速箱:推出电动卡车和超低地板电动城市客车用集成化电驱动桥",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdxxkj202003055",
+      "title": "基于国产微控制器的变速箱换挡控制器TCU的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj202008131",
+      "title": "拖拉机变速箱常见故障与维修保养",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcsjs201802006",
+      "title": "商用车和挂车气压行车制动反应时间测试研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwnrj201902018",
+      "title": "双离合器变速箱的开发",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "tjdxxb2017z1001",
+      "title": "网联环境下的汽车道路试验测试数据处理方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lyjxymgsb202001011",
+      "title": "变速箱主轴断裂原因分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gyybyzdhzz201901007",
+      "title": "基于Android的电动汽车充电桩监控系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjs201410021",
+      "title": "基于CAN总线的汽车远程故障诊断系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201814138",
+      "title": "大数据视角下的汽车配件库存管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysyjyts201811004",
+      "title": "电动汽车动力总成能量流试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjhgbzz201902031",
+      "title": "二氢杨梅素的肝病药理机制研究进展",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hnysjs200605007",
+      "title": "大型预焙铝电解槽侧部破损原因分析及控制措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnysjs201905012",
+      "title": "锂离子电池LiFePO4正极材料的掺杂改性研究进展",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "sxnyyjn201902030",
+      "title": "基于动力电池回收问题的分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxxzz201712066",
+      "title": "前列地尔联合奥曲肽治疗肝硬化合并HRS的疗效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hebykdxxb200006032",
+      "title": "哈尔滨医科大学学报2000年第34卷(1～6期)主题词索引",
+      "download_times": 8,
+      "browse_times": 67
+    },
+    {
+      "id": "zglcyxzz200006035",
+      "title": "2000年第9卷总目录",
+      "download_times": 4,
+      "browse_times": 60
+    },
+    {
+      "id": "smsj202005307",
+      "title": "液动自动变速箱吸油口位置设计及验证方法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201410013",
+      "title": "淫羊藿苷、黄芪甲苷和生地梓醇的抗炎作用及药理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdqc202001028",
+      "title": "无级自动变速箱(CVT)带轮安装一种选垫桥架工装设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lhjy-wl201911012",
+      "title": "变速箱悬置支架开裂失效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs202001034",
+      "title": "一种变速箱油冷却系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs202009077",
+      "title": "技工院校汽修专业一体化教学的提升思路构架",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlycsjs200710020",
+      "title": "Excel在动态公路汽车衡检定数据处理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdqc202008049",
+      "title": "混动双离合变速箱气液两相流分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zlykt-bj201904003",
+      "title": "计算机和数据处理机房用单元式空气调节机等系列节能评价技术规范团体标准解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzzgc201910002",
+      "title": "2500型压裂车变速箱齿轮优化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sbglywx202003091",
+      "title": "浅谈基于变速箱装配线的设备润滑",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnj201010003",
+      "title": "电动汽车人机接口数据处理的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcsjs201004023",
+      "title": "汽车制动试验台检定数据处理研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zz201912009",
+      "title": "高强韧铝硅合金变速箱中间板压铸件热处理工艺研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcjsyyj200403003",
+      "title": "汽车碰撞试验数据处理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnj202003032",
+      "title": "汽车变速箱输入轴有限元仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxkxyjs201306007",
+      "title": "汽车方向盘转角试验数据去噪的小波基选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgr-ljg202004011",
+      "title": "高精度重载变速箱输出轴加工工艺",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201927077",
+      "title": "汽车发动机结构参数正向设计和变速箱匹配",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs201923003",
+      "title": "纯电动汽车城市循环工况构建方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs202008018",
+      "title": "一种新型车用变速箱主副箱互锁系统设计",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj202007069",
+      "title": "变速箱齿轮热处理变形控制方法分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxjs200304014",
+      "title": "Excel在汽车试验数据处理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201921028",
+      "title": "某变速箱齿轮的模态分析与动态分析研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdzzjsyzb202002006",
+      "title": "MT变速箱启动力矩测量驱动组件的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd202005023",
+      "title": "某变速箱齿轮断齿失效分析",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "jzjx201911021",
+      "title": "变速箱油对湿式摩擦片摩擦耐久性的影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjfz202004031",
+      "title": "基于区块链技术的电动汽车充电链",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "dianyjs201812017",
+      "title": "退役动力电池梯次利用筛选指标的实验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsyjs202010002",
+      "title": "废旧动力电池梯次利用之应急储能设备技术研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "xtgcllffyy202003017",
+      "title": "竞争环境下新能源汽车嵌入技术服务的定价策略",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "jzgcjsysj2018253279",
+      "title": "新能源汽车动力电池梯次利用展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqc201806004",
+      "title": "动力电池梯次利用场景与回收技术经济性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jhdxxb201906002",
+      "title": "动力锂电池梯次利用进展研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dgjsxb201918022",
+      "title": "基于自适应无迹卡尔曼滤波的动力电池健康状态检测及梯次利用研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbdljs201703006",
+      "title": "大容量梯次利用电池储能系统工程技术路线研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnysjs201805013",
+      "title": "石墨烯基电极材料应用于超级电容器的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bkltdzzz2019081007",
+      "title": "基于应用需求的退役电池梯次利用安全策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cnkxyjs201905002",
+      "title": "退役锂离子电池健康状态评估方法综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc202004087",
+      "title": "新能源汽车磷酸铁锂电池电极回收与梯次利用改进",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "ncny201706020",
+      "title": "梯次利用电池储能电站经济性评估方法研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gyybyzdhzz202001021",
+      "title": "电动汽车储能电池梯次利用测试系统开发",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202002225",
+      "title": "新时代高职院校加强思政课教师队伍建设的路径分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy202004018",
+      "title": "液力传动变速箱试验台测控系统研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dianyjs201912041",
+      "title": "动力电池梯次利用研究概况",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "lcjyzz-d202003174",
+      "title": "在贫血鉴别诊断中血液检验红细胞参数的检验价值研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lcjyzz-d202003413",
+      "title": "自身免疫性溶血性贫血患者输血治疗研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "syyxzz202008024",
+      "title": "基于基因拷贝数的缺失型α地中海贫血检测体系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zxyjhgbzz201601024",
+      "title": "中药在慢性乙型肝炎治疗中的定位思考与研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgywjj201601009",
+      "title": "肝硬化动物模型的研究进展与中药药效评价思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxzs201802031",
+      "title": "红景天苷干预疾病的实验研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjglyj201919022",
+      "title": "续航能力需求、创新能力与新能源汽车产业链协同创新",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzlxxcy201928108",
+      "title": "新能源汽车-国内主流电动汽车电池续航能力及充电桩充电能力研究分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "guizhouyy201404035",
+      "title": "肝硬化心肌病研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zggxq201916127",
+      "title": "废旧锂离子动力电池的拆解及梯次利用初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdqc201905025",
+      "title": "车用动力电池梯次利用的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201912010",
+      "title": "动力电池梯次利用可行性及其应用场景",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dcyyb202009009",
+      "title": "基于退役动力电池的家庭储能容量优化配置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzyzhly201907024",
+      "title": "新能源汽车动力蓄电池梯次利用行业发展情况分析",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj202010023",
+      "title": "基于VMD-DE的坦克行星变速箱故障诊断方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cnkxyjs201806014",
+      "title": "基于应用需求的退役电池梯次利用安全策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqgxyxb202002003",
+      "title": "退役锂电池快速评价及分选方法研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qqnyhlw201803010",
+      "title": "一种新型大规模梯次利用电池组建模仿真方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd202005023",
+      "title": "某变速箱齿轮断齿失效分析",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "dqcdzdh201802005",
+      "title": "电动汽车退役电池包整包梯次利用的关键技术-CAN通讯协议",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs202008018",
+      "title": "一种新型车用变速箱主副箱互锁系统设计",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "rkx201811016",
+      "title": "面向续航能力的新能源汽车技术创新博弈研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hnysjs202002016",
+      "title": "废旧锂离子电池电解液处理技术现状与展望",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "smsj202004295",
+      "title": "汽车自动变速箱过滤系统设计方法与试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcbl201901177",
+      "title": "汽车变速箱油底壳清洗装置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201904011",
+      "title": "电控机械式变速箱换档过程迭代学习控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbzyjssfxyxb201903062",
+      "title": "一种自动变速箱薄壁件的伺服压装工艺",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqgxyxb201503003",
+      "title": "离合器操纵舒适性客观评价方法与试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgr-rjg202005012",
+      "title": "典型乘用车变速箱零件热处理及减少变形措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy202004005",
+      "title": "基于机器视觉的变速箱滚针轴承漏针检测研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd202005010",
+      "title": "一种具有主副箱结构的混合动力系统及仿真分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jdjs200801004",
+      "title": "教学型汽车操纵稳定性试验数据处理软件",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxhlkj202002057",
+      "title": "基于大数据技术的共享汽车出行可视化平台研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qclbj201909005",
+      "title": "混合动力汽车起动发动机过程变速箱控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njwx202005061",
+      "title": "拖拉机变速箱的使用与常见故障排除",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201823063",
+      "title": "双离合器变速箱传递效率分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qcgyycl201901009",
+      "title": "变速箱差速器油封漏油分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201901073",
+      "title": "汽车变速箱在线故障诊断技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcpsj202005031",
+      "title": "某纯电动汽车高速切换低档风险分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qcsyjs202005044",
+      "title": "机械式变速箱传动效率实验研究分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjqc201512007",
+      "title": "汽车滑行阻力数据处理方法及软件实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201924078",
+      "title": "0AW自动变速箱维修案例分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyyy201911025",
+      "title": "自动变速箱液压主油路控制系统稳定性设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "njhyj202005040",
+      "title": "拖拉机动力换挡变速箱换挡特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdgyjjhxxh201909060",
+      "title": "变速箱齿轮的柔性动力学分析及优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dljs201904008",
+      "title": "未来城市共享电动汽车发展模式",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "mjzz200902007",
+      "title": "基于汽车车模覆盖件的点云数据处理和优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzgczxcl201905008",
+      "title": "变速箱铸造的典型问题及其解决措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgys201808011",
+      "title": "某SUV变速箱悬置支架优化设计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs200101001",
+      "title": "汽车性能试验数据处理软件包的开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yjyzx202003012",
+      "title": "CR-CR结构新能源汽车变速箱离合器设计和校核",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnysjs201201007",
+      "title": "海绵钛反应釜内部热场变化的计算机模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxtzb201905027",
+      "title": "工信部:新能源汽车动力蓄电池梯次利用步伐加快",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwqyj201608112",
+      "title": "新能源汽车动力电池梯次利用展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx202010082",
+      "title": "评估退役动力电池能否梯次利用简易装置的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qcypj201638009",
+      "title": "动力电池梯次利用现状及政策分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "kxycf201913279",
+      "title": "梯次利用电池包在储能电站管理系统设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hgzjt201806095",
+      "title": "废旧动力锂离子电池回收的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sddljs201712012",
+      "title": "电动汽车老化电池梯次利用储能系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qczh201909019",
+      "title": "解密国内首个退役电池整包梯次利用储能项目",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyjyly202001013",
+      "title": "退役三元动力电池储能项目探索与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnysjs201806013",
+      "title": "石墨烯基锂离子电池电极材料的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201921025",
+      "title": "铁锂电池在通信基站中的梯次利用实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201608012",
+      "title": "退役锂离子动力电池梯次利用可行性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nykjtx201711114",
+      "title": "基于生物质梯次利用的菌菇工厂化生产关键技术集成研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dc201806013",
+      "title": "梯次利用动力锂离子电池筛选方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201910148",
+      "title": "梯次利用锂离子电池健康状态估计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bkltdzzz2019230968",
+      "title": "动力锂电池梯次利用的关键技术研究",
+      "download_times": 3,
+      "browse_times": 13
+    },
+    {
+      "id": "bmgczx201803007",
+      "title": "新能源汽车动力蓄电池梯次利用研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dydq201713014",
+      "title": "梯次利用电池的中型储能系统工程方案设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shdqn201505063",
+      "title": "汽车实验教学中的数字量采集及数据处理实验探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjqc201807010",
+      "title": "基于优化筛选的汽车道路滑行阻力数据处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmzzyzdh201901006",
+      "title": "新能源变速箱三连齿的修形与仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qckj201903005",
+      "title": "DCT自动变速箱发展现状及趋势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxslfd202001012",
+      "title": "计及电动汽车渗透率的台区负荷预测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys200605040",
+      "title": "汽车蛇行试验及数据处理",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "smsj202005055",
+      "title": "浅谈自动变速箱油温度控制系统技术发展及趋势研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdhyy202003019",
+      "title": "油田泥浆泵组AMT变速箱换挡控制策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sbglywx202005023",
+      "title": "TE17型自动变速箱油温高处理措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slgy201707033",
+      "title": "新能源汽车全塑结构在防撞安全性提高中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccgxjmjxxyxb201906010",
+      "title": "应用聚合物齿轮对汽车变速箱性能的提升",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201912024",
+      "title": "汽车变速箱挡位选挡性能分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dpjyqrsxtyy201702009",
+      "title": "车载诊断系统OBDⅡ的汽车接口数据处理技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "kjf201836164",
+      "title": "汽车变速箱及其主要零件设计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxglkf201907113",
+      "title": "汽车变速箱装配测量技术的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgr-rjg201911019",
+      "title": "大客车变速箱三轴热处理变形控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shihjs201911028",
+      "title": "自动变速箱油失效分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sxjx202002017",
+      "title": "基于ADAMS的变速箱换档过程仿真",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "xxnrj201802010",
+      "title": "基于反求设计的车身曲面重构研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201807002",
+      "title": "基于无线通信的汽车后视镜控制系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201920006",
+      "title": "基于MATLAB的汽车变速箱壳体螺栓拧紧机构优化设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zwxx202003205",
+      "title": "基于SolidWorks的变速箱虚拟建模设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcsjs202001015",
+      "title": "基于GPS-RTK的车辆跑偏检测系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qckj202002004",
+      "title": "变速箱同步器换挡过程与失效案例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy201917033",
+      "title": "三段式变速箱换段液压系统阀体的设计与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs201917035",
+      "title": "自动变速箱操纵装置液压试验台设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxnrj201805014",
+      "title": "汽车变速箱振动信号测试及结构模态特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy202003009",
+      "title": "变速箱齿轮啮合测试机上下料机械手设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "nfnj202009101",
+      "title": "新能源汽车电池技术创新探讨",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "xtxx201802015",
+      "title": "2018年中国新能源车'弯道超车'前必经短兵相接",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyqc201811019",
+      "title": "基于对比分析法的纯电动冷藏车的经济性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201940232",
+      "title": "'互联网+'背景下,现代农产品销售模式探究——以增城区小楼镇为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcz201322009",
+      "title": "美丽乡村建设要处理好六个关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgprjyyy201315024",
+      "title": "Dijkstra算法在物流配送运输中的最短路径优化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzy202014023",
+      "title": "智能财务建设之业务流程设计",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "qicgc202004041",
+      "title": "充电桩迎来第二春",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "sxjx202003091",
+      "title": "关于充电桩的使用及前景",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zzyzdh202004008",
+      "title": "一种充电桩调试用电动汽车动力电池模拟装置",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "kjglyj202007031",
+      "title": "基于大数据的农产品现代冷链物流发展模式研究",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zgjjhxxh202004010",
+      "title": "充电桩新基建:迈向新能源汽车时代",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc202003035",
+      "title": "电站直流充电桩能效计量智能预测方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckyk202013004",
+      "title": "论现代财务的发展和基本特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlkj201911040",
+      "title": "贵州省生鲜农产品冷链物流现状分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "fjcy202002111",
+      "title": "“双高计划”背景下高水平专业群的建设路径研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn202003039",
+      "title": "双高计划引领下的高等职业教育区域性协同发展探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlgcygl201705025",
+      "title": "基于多智能体技术的物流运输调度系统分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201425028",
+      "title": "GIS/GPS技术在物流运输智能营运调度系统中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lngxyxb202003006",
+      "title": "基于Dijkstra算法的农产品物流节点选址研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjgydxxb201203020",
+      "title": "Dijkstra算法在多约束农产品配送最优路径中的研究应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm202005013",
+      "title": "大数据背景下产业扶贫的路径初探",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "lltt202003025",
+      "title": "大数据助力精准扶贫中的贫困户隐私保护问题研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wlkj201910003",
+      "title": "冷链物流还需环环相扣——农村冷链物流建设调查",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd202012027",
+      "title": "冷链物流对农产品流通业转型升级的影响及思路",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "gxsfdxxb202003003",
+      "title": "动力电池动态老化模型的研究与仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxq201901191",
+      "title": "大数据技术概述",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xnszxb201705005",
+      "title": "农产品供应链在微商环境下的运作模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201908029",
+      "title": "基于产教融合的应用型冷链物流人才 培养路径研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjlt201705027",
+      "title": "社会网络视角下的产业联盟技术创新——中国新能源汽车产业联盟的实证",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sbglywx201918005",
+      "title": "全球新能源汽车前沿及创新技术权威发布",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjjyglyj201710005",
+      "title": "新能源汽车技术效能指标体系构建与集成评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjzydk201802008",
+      "title": "2006-2015年新能源汽车电池技术专利数据分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjkj202002004",
+      "title": "基于专利信息的中国新能源汽车驱动电机技术发展态势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxwxjsjxt201901013",
+      "title": "大数据下的销售异常发现与定位模型研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ckxx202008155",
+      "title": "双高背景下高职院校绩效评价指标体系构建探讨",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zjlt202003011",
+      "title": "基于双高视阈的高素质技术技能人才培养思路研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dianyjs201912041",
+      "title": "动力电池梯次利用研究概况",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsyjs202010002",
+      "title": "废旧动力电池梯次利用之应急储能设备技术研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "sysd202001029",
+      "title": "'互联网+'背景下农产品全渠道零售模式探析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyyjs201908082",
+      "title": "贵州省农产品冷链物流服务质量提升对策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdhyyb202004015",
+      "title": "电动汽车充电桩数据采集终端设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xddsjs201809030",
+      "title": "大数据分析系统概述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdkdz-xx202003040",
+      "title": "双高计划汽车服务专业群校企合作实训基地建设改革创新思维",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjzydxxb202002001",
+      "title": "科学理解双高计划建设项目的实施要求",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd202010013",
+      "title": "区块链和大数据发展下的供应链管理研究",
+      "download_times": 8,
+      "browse_times": 7
+    },
+    {
+      "id": "hljjsfzxyxb202005046",
+      "title": "利用手机APP构建大学英语教学新模式研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "wljs-zbb201509035",
+      "title": "基于时变需求的生鲜农产品供销联合生产库存控制机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjykj201804201",
+      "title": "基于一般Dijkstra的改进算法在最短路径问题中的应用",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjcy202006032",
+      "title": "最短路径算法在茶叶运输过程中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj202009080",
+      "title": "基于新能源汽车退役动力电池模组梯次利用的保护电路",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dianyjs201903027",
+      "title": "电动车退役电池梯次利用之储能性能及预测",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201912041",
+      "title": "动力电池梯次利用研究概况",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "ckyk202013003",
+      "title": "财务数字基建赋能企业转型",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgjm201612059",
+      "title": "基于C-W节约启发式算法的物流配送路径设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjxx202011021",
+      "title": "一种物联网地锁联动型充电桩的研发",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xbpg202010011",
+      "title": "基于产品识别特征要素的汽车充电桩造型设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gykzjsj201606027",
+      "title": "大数据环境下冷数据存储技术概述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjyjszb201822021",
+      "title": "基于双高计划的专业文化建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjjykj202012036",
+      "title": "生鲜水果冷链物流过程可视化研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "wlkj202006035",
+      "title": "我国食品冷链物流现状及问题研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201914096",
+      "title": "大数据时代数据分析方法概述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd202001005",
+      "title": "'互联网+'时代流通组织重构探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sysd202001021",
+      "title": "'互联网+'背景下物流企业信息化阶段影响因素评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syhj202004010",
+      "title": "大数据背景下审计如何促进精准扶贫政策实施",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gyybyzdhzz202001021",
+      "title": "电动汽车储能电池梯次利用测试系统开发",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dljs201904008",
+      "title": "未来城市共享电动汽车发展模式",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "gdjssfxyxb201906005",
+      "title": "基于大数据和人工智能的新能源汽车运行监测云平台研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gyjjlt201901072",
+      "title": "新能源汽车车联网大数据平台 关键技术及应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsdjgc201906017",
+      "title": "基于随机森林的电动汽车充电行为聚类技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qicgc202004041",
+      "title": "充电桩迎来第二春",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jcfzdx202006018",
+      "title": "现阶段我国美丽乡村建设规划的主要策略与手段",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "dlxtzb202008033",
+      "title": "大功率直流充电桩多路输出模式分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs202006005",
+      "title": "纯电动车DC-DC电路故障诊断",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sbglywx201917005",
+      "title": "全球新能源汽车前沿及创新技术权威发布",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xtzyjsxyxb201903021",
+      "title": "新能源汽车零部件低碳设计研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx202011021",
+      "title": "一种物联网地锁联动型充电桩的研发",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sdqc201912029",
+      "title": "工业大数据在提高新能源汽车质量中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201913279",
+      "title": "梯次利用电池包在储能电站管理系统设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjjjsc201807056",
+      "title": "云计算与大数据专业群课程体系建设研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh202021148",
+      "title": "双高建设专业课程教学模式改革的探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs202005005",
+      "title": "构建我国冷链物流标准体系的思考",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "zhonggshic202015093",
+      "title": "基于'云物流'的城乡冷链物流配送体系研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "tusg201912008",
+      "title": "大数据时代信息扶贫中的风险防范研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxhlkj201915025",
+      "title": "我国纯电动汽车技术专利分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkx202001021",
+      "title": "我国新能源汽车技术创新态势研究 ——基于国内1988—2018年专利数据的分析",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "hgjz2017z1086",
+      "title": "基于中国专利的钛酸锂发展趋势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnkx202001002",
+      "title": "基于NKL和K-means聚类的协同过滤推荐算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zdhyyb202004015",
+      "title": "电动汽车充电桩数据采集终端设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "szzydxxb201901004",
+      "title": "基于大数据挖掘的新能源汽车主要指标及现状研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcz202009014",
+      "title": "抓好“三农”领域重点工作确保如期实现全面小康",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc201403007",
+      "title": "基于Dijkstra算法的快递车辆配送路径优化",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy201918011",
+      "title": "基于改进C-W算法的广西高校毕业生 行李运输研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxgxyxb202003011",
+      "title": "基于Dijkstra算法过必经点的最短路径设计",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gyjjlt202003011",
+      "title": "智能车需要智慧路 国内外智慧公路大盘点",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shcsgh201802008",
+      "title": "上海市新能源汽车分时租赁规划策略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zzyzdh202004008",
+      "title": "一种充电桩调试用电动汽车动力电池模拟装置",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "hbtc201904011",
+      "title": "汽车产业变革下职业院校人才培养模式探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl202003187",
+      "title": "关于推动智能网联汽车发展的若干思考 ——以武汉智能网联汽车发展为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs202010008",
+      "title": "基于PLC和LLC的充电桩电源模块设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdqc202006025",
+      "title": "新能源汽车轻量化的关键技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyj202004036",
+      "title": "食用菌冷链物流市场前景",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjjxx202010043",
+      "title": "大数据时代管理会计发展对策概述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xxjs202006015",
+      "title": "数据挖掘和区块链技术的电力营销信息平台",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dianzsw202005005",
+      "title": "基于供应链驱动因素浅析冷链物流",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbgcjszyxyxb202001004",
+      "title": "高校实验室管理APP平台的分析与构建",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jyyzy201402062",
+      "title": "“物流运输规划与智能调度”课程改革",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": []
+}

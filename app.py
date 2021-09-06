@@ -61,7 +61,7 @@ def getAnomalyAnalysis():
 def getListData():
     with open('./static/data/article_top_list.json','rb') as f:
         top_article_json = json.load(f)
-    with open('./static/data/user_top300_list.json','rb') as f:
+    with open('./static/data/abnormal_user_469_list.json','rb') as f:
         top_user_json = json.load(f)
 
     return jsonify({"topArticles":top_article_json,"topUsers":top_user_json})
@@ -73,7 +73,7 @@ def getArticleData():
     type = str(args["type"])
     with open('./static/data/article_top_list.json','rb') as f:
         article_top_list = json.load(f)
-    times = article_top_list[article][4]
+    times = article_top_list[article][5]
     map = {}
 
     for time in times:

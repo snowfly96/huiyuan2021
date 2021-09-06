@@ -1,0 +1,3106 @@
+{
+  "下载": [
+    {
+      "id": "dianzixb199902019",
+      "title": "软件复用与软件构件技术",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "nyjj201910048",
+      "title": "浅谈农村民间借贷的风险及规制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxjrzgdxxb201905007",
+      "title": "民间借贷中的法律风险与防范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrllyjx201902012",
+      "title": "我国农村民间借贷发展存在的问题及对策分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tzxyxb201905018",
+      "title": "农户借贷行为及其收入效应 ——基于CHFS的实证分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyyjykf201905025",
+      "title": "粮食安全视角下种粮大户借贷问题及对策研究——基于河南省27个种粮大户的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdsnyglgbxyxb201002013",
+      "title": "绩效分析:农村公共产品供给的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljslkj201603024",
+      "title": "营口地区降水量时空变化规律分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qddxxb201904010",
+      "title": "锂离子电池充放电过程中的热特性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lsdsj201911060",
+      "title": "外源褪黑素对番茄灰霉病抗性及抗氧化酶系统的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbnydxxb201901006",
+      "title": "外源褪黑素对高温胁迫下厚皮甜瓜幼苗光合及抗氧化特性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk201931044",
+      "title": "企业现金流量表与财务状况的关系探析",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "qyggygl201920099",
+      "title": "企业财务报表分析在财务管理中的作用",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zgrkzyyhj201911018",
+      "title": "社会资本、金融借贷与农户多维贫困——基于秦巴山区3省的微观调查数据",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjryj201910002",
+      "title": "中国农村金融体制变迁70年",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjryj201910005",
+      "title": "金融素养、家庭资产与农户借贷行为——基于CHFS2015年数据的实证",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncbst201910037",
+      "title": "马虎的借贷,高昂的代价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201935030",
+      "title": "基于BP神经网络模型的食品安全供给分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjykj201919043",
+      "title": "网络民间借贷风险 ——P2P借贷模式研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgltjj201902013",
+      "title": "P2P网贷借款人信用风险预警研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytgs201503013",
+      "title": "烟台地区苹果主要病虫害综合防控技术指导方案",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zglftc201704003",
+      "title": "GC/MS定量检测皂角种子不同部位脂肪酸组成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908017",
+      "title": "社会老龄化背景下的自然景观偏好比较及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908018",
+      "title": "山西太原市综合公园植物多样性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907003",
+      "title": "材料的重要性",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907011",
+      "title": "基于GIS技术的城市开敞空间适宜性布局",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907001",
+      "title": "设计思维",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907014",
+      "title": "基于环境效能的屋顶绿化研究性设计——以同济大学屋顶花园为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907005",
+      "title": "风景园林通过设计之研究(RtD)进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907002",
+      "title": "景观类型—面向当代风景园林学的一种分类法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501010",
+      "title": "社会及文化的度量：景观设计中无形效益的测衡",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501006",
+      "title": "景观绩效：过去、现状及未来",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201903020",
+      "title": "清初苏州园林涧上草堂钩沉",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905005",
+      "title": "大数据支持下的城市公共空间活力测度研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904011",
+      "title": "从断崖残石到山水画卷——第十二届中国(南宁)国际园林博览会园博园采石场花园设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904008",
+      "title": "成都'熊猫之都'总体规划",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904019",
+      "title": "白居易园林山石观念与造景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904007",
+      "title": "自然需要一半:全球自然保护地新愿景",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201904001",
+      "title": "国家公园与风景园林",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904020",
+      "title": "明清时期江南私家园林景点题名中的竹文化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502010",
+      "title": "C·亚历山大图式语言对风景园林学科的借鉴与启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502001",
+      "title": "刊首语",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504028",
+      "title": "生态研究文献关键词分析对风景园林学科的启示",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201504002",
+      "title": "资讯",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502004",
+      "title": "深圳宝安西部活力海岸带概念城市设计国际咨询",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504030",
+      "title": "我们期待怎样的风景园林设计课程",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201504027",
+      "title": "当代国际风景园林印象",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910016",
+      "title": "基于生态旅游与生物保护的日本山原国立公园环境教育",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910012",
+      "title": "生活中的绿色与环境教育课题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910010",
+      "title": "怀念导师孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910013",
+      "title": "恒毅力养成:针对城市学龄前儿童的一种自然教育",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201910002",
+      "title": "孙筱祥先生逝世周年追思会",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910026",
+      "title": "清末嘉兴宅园小灵鹫山馆图咏的'入境式'场所意象解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910008",
+      "title": "怀念北京植物园造园导师孙筱祥先生",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910003",
+      "title": "生如夏花,逝如秋叶——孙筱祥先生逝世周年追思会感言",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910017",
+      "title": "周庄绿乐园——献给孩子的礼物",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910020",
+      "title": "社区农园&可食用花园——2019年'百思德'杯新锐设计竞赛综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909001",
+      "title": "以柔克刚的弹性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910014",
+      "title": "基于景观感知的自然教育环境设计策略与要素研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909002",
+      "title": "三角洲适应性转型—基于景观的区域设计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909014",
+      "title": "文化景观作为区域景观研究概念—德国图林根州文化景观研究、教学与规划实践",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201909004",
+      "title": "基于基塘系统的珠江三角洲多尺度水敏设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908014",
+      "title": "基于可达性分析的城市公园绿地供给研究—以广西玉林市为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201908004",
+      "title": "增进城市地区生物多样性—以新加坡模式为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911012",
+      "title": "美国州立公园体系的发展、特征与评估",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "fjyl201911015",
+      "title": "基于中国地景文化的'山水形胜'营建手法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911011",
+      "title": "新型城市绿色空间系统设计竞赛——北京市海淀区西北旺科创生态小镇",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911001",
+      "title": "文化线路:文化交流的空间廊道",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912010",
+      "title": "差异中的表述——博乐金三角工业区带状公园(一期)",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201911013",
+      "title": "融于自然、展现风景——美国国家公园道路系统建设历程与经验启示",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201912002",
+      "title": "荷兰“绿心”——国家景观中基于适应气候变化的景观设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911020",
+      "title": "阿尔方与19世纪巴黎城市公园建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911008",
+      "title": "北京市将台路城市街区更新设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906018",
+      "title": "武陵源世界遗产地声景感知及影响感知的要素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906021",
+      "title": "宋代苏轼兴造苏堤与苏堤风景园林化考析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906009",
+      "title": "城市滨水空间生态系统服务供需匹配的空间智慧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905021",
+      "title": "文化遗产类历史园林植物景观保护与修复——以国际公约及国内外实践为切入点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905022",
+      "title": "据清宫廷绘画文献再议冷枚《避暑山庄图》创作年代",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905019",
+      "title": "基于社会生态记忆的景观更新策略——常德柳叶湖环湖风光带规划设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906010",
+      "title": "生态智慧引导下的太原市棕地修复逻辑与策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906011",
+      "title": "奥本罗历史城区中心——从远期总体规划到公共空间更新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201801002",
+      "title": "国外耕整地机械发展概况与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911003",
+      "title": "文化线路视野下的米仓道(巴中段)遗产认知框架分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911004",
+      "title": "风光览尽当可归—论江门华侨华人文化线路资源特征判读",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911016",
+      "title": "广州沙田地区景观变迁的历史渊源",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911006",
+      "title": "线性文化遗产的空间格局构建—以明长城大同段为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912011",
+      "title": "修复自然之美:青岛中德生态园德国企业中心",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912005",
+      "title": "流域视野下梯田聚落的人居环境空间特征——以元江流域为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912015",
+      "title": "管网雨水补给河道用水的人工湿地水质净化流程研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911018",
+      "title": "海绵城市规划政策及建设适宜措施研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912016",
+      "title": "基于公众参与地理信息系统的广州大学城环境安全感评价研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201912009",
+      "title": "科尔特德尔堡舞蹈展馆",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911010",
+      "title": "安塔利亚的孔亚阿鲁提海岸线城市修复项目",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcsdw201903004",
+      "title": "黑白花兔繁殖性状的相关及通径分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxmzz201912032",
+      "title": "'西班牙模式'对我国非洲猪瘟防控的启示",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201910024",
+      "title": "基于重要性—绩效表现分析的上海苏州河滨水空间文化性生态系统服务供需关系分析与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910023",
+      "title": "基于产汇流模拟分析的城市居住小区道路系统布局优化策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910004",
+      "title": "难忘的孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906012",
+      "title": "尊重斯德哥尔摩的历史中心——骑士岛的激活改造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906007",
+      "title": "从景观更新到社区营造——以福建省厦门市院前社为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201905017",
+      "title": "生态型城市公园声景体验的影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905015",
+      "title": "基于数值模拟仿真技术的水生态景观规划设计探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905012",
+      "title": "柏林行思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905004",
+      "title": "基于遥感技术的城市下垫面参数与热环境关系的研究——以北京市朝阳区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904014",
+      "title": "上海南京东路热舒适分析与评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201904003",
+      "title": "国家公园总体规划空间管控作用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904002",
+      "title": "构建中国国家公园体系路径中的挑战与机遇",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904005",
+      "title": "英国国家公园合作伙伴管理模式研究——以苏格兰凯恩戈姆斯国家公园为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201904010",
+      "title": "林泉之心:将设计轻轻放入山水自然之中——第十二届中国(南宁)国际园林博览会园博园规划设计思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502013",
+      "title": "以形表意文化图式融入城镇空间的方法及应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201502015",
+      "title": "澳大利亚垂直绿色公寓中心公园",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504011",
+      "title": "科学性、技术性、工程性是风景园林立身之本",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504021",
+      "title": "风景园林的未来",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504032",
+      "title": "回归土地：基于场地类型的风景园林案例研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504020",
+      "title": "风景园林学：未来的发展前景与责任",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504013",
+      "title": "全球视野、本土行动、特色发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504035",
+      "title": "解读大地景观史",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504007",
+      "title": "《风景园林》学刊10年出版回顾",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908016",
+      "title": "基于公众参与地理信息系统的城市近代公园文化服务评估研究—以上海复兴公园为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908015",
+      "title": "广州市公园对比评价研究—基于社交媒体数据的文本分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911005",
+      "title": "风景园林视角下的南粤古驿道规划设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201912008",
+      "title": "花园的诗意——2019第二届北林国际花园建造节综述",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912003",
+      "title": "宋元时期江南运河对嘉湖平原圩田体系的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911009",
+      "title": "上海Vivo City怡丰城屋顶花园",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911019",
+      "title": "灾后重建背景下城市公共空间设计路径探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201912017",
+      "title": "园林植物三维数字模型的构建与应用探索",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912012",
+      "title": "城市绿地空间形态对PM2.5的消减影响——以武汉市为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zuowxb201505011",
+      "title": "甘蔗转录激活因子ScCBF1基因的克隆与表达分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201501013",
+      "title": "澳大利亚墨尔本博士山花园多功能区域",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201501012",
+      "title": "英国花展中展示花园的主题与创意",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "fjyl201910005",
+      "title": "深切怀念恩师孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910007",
+      "title": "传承与创新的楷模——怀念敬爱的孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910022",
+      "title": "沿海地区应对气候变化和人口快速增长的韧性土地利用规划——以美国佛罗里达州马坦萨斯河流域为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910011",
+      "title": "纪念孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904015",
+      "title": "应对城市雨洪危机的郊野公园营建策略探析——以夹河郊野公园为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904009",
+      "title": "心象自然:协调人与自然的平衡-第十二届中国(南宁)国际园林博览会园博园总体规划设计创新性探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504005",
+      "title": "立足新起点助圆“中国梦”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502014",
+      "title": "苏州古典园林典型空间及其图式语言探讨以拙政园东南庭院为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502002",
+      "title": "事件热点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504037",
+      "title": "以职业的视角看学科",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504031",
+      "title": "风景的法治，法治的风景交叉学科研究感悟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201502008",
+      "title": "编者按:",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502006",
+      "title": "宝安活水城市",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504026",
+      "title": "中国风景园林未来的关键词",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504029",
+      "title": "城乡水危机和海绵城市建设对风景园林专业提出的挑战及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504038",
+      "title": "古代园林研究的感悟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504017",
+      "title": "推动转型升级创造社会价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502007",
+      "title": "西岸活力伶仃洋海岸公园",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502016",
+      "title": "始宁墅中的农业景观",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504018",
+      "title": "从个人角度谈风景园林学科未来十年的发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504009",
+      "title": "发挥专业优势共建美好家园",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504023",
+      "title": "大趋势和小趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907004",
+      "title": "城市景观复写——从空间分析到设计途径",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907010",
+      "title": "法兰克福绿带体系规划历程与更新策略",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907013",
+      "title": "公园绿地不同景观空间PM2.5分布特征及其影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907015",
+      "title": "《四部丛刊》检索分析视角下'曲水流觞'传统山水环境模式环境要素探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjyxxlt201805015",
+      "title": "基于深度学习的上证综指波动率预测效果比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njjzy201701056",
+      "title": "智能深松驱动耙的设计创新与应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcsdw201906005",
+      "title": "甘肃不同地区青贮玉米发酵品质与营养价值评定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201910009",
+      "title": "一代宗师",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910021",
+      "title": "全景绿视率自动识别和计算研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910001",
+      "title": "怀念孙筱祥先生",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910006",
+      "title": "诗人、画家、园艺家、生态学家和建筑师,一个园林巨匠终生的追求——记孙筱祥教授",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910019",
+      "title": "生物友好型设计——新加坡裕廊湖畔花园",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502011",
+      "title": "基于罗曼·布什场地设计语言思想的景观设计策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504014",
+      "title": "从量变走向质变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504003",
+      "title": "题词",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502018",
+      "title": "瑞士苏黎世动物园门厅改造和扩建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502017",
+      "title": "低碳园林相关理论研究的现状与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504019",
+      "title": "蜕变中的地景：21世纪的风景园林学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504008",
+      "title": "注重质量建设提升风景园林教育核心竞争力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504025",
+      "title": "全球“画”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504015",
+      "title": "回归理性以融合与创新迈向未来",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504001",
+      "title": "刊首语",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502003",
+      "title": "中勘协园林与景观设计分会",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504006",
+      "title": "回望《风景园林》10年历程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504024",
+      "title": "“人类世”的颠覆式创新：重新认识风景园林的形式主义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502012",
+      "title": "响应水资源特征的多尺度陕北地域景观图式语言",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502009",
+      "title": "基于风景园林设计发展历史的伊丽莎白?伯顿图式语言思想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504022",
+      "title": "未来十年风景园林的四个挑战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spyjykf201205029",
+      "title": "山药咀嚼片的研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201912001",
+      "title": "文化的自然",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911002",
+      "title": "驿路视角下的古代城湖分布探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201912014",
+      "title": "世界遗产视角下的国外自然圣境保护实践进展与代表性方法研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201912013",
+      "title": "基于计算流体力学数值模拟的城市绿地温湿效应及室外热舒适评价研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201912018",
+      "title": "中国传统私家园林景点题名中的松柏意象研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912006",
+      "title": "文化景观维护视野下德国历史性文化景观的两种方法论:清单盘点与空间区划",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909009",
+      "title": "韧性:三角洲地区规划转型的新理念",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201909005",
+      "title": "变迁中的岛屿—韧性城市形态",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908003",
+      "title": "城市野境:城市区域中野性自然的保护与营造",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909003",
+      "title": "宏图:珠江三角洲景观动态解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909011",
+      "title": "风景园林与绿色基础设施在城市流域水资源规划中的重要作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908010",
+      "title": "基于生物复合材料的双曲面分段式壳体展馆",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908020",
+      "title": "中国北方洼淀聚落景观空间结构研究:以白洋淀为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908021",
+      "title": "村落生态单元及其景观模式的营造智慧—以青藏高原秀日村为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907009",
+      "title": "'钟乳石'竹亭装置—— 第16届威尼斯国际建筑双年展,自由空间",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znlxyxb202001012",
+      "title": "半干旱黄土丘陵区不同土地利用类型植物物种多样性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904017",
+      "title": "灾害威胁下的山地世界遗产:以瓦斯卡兰为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905001",
+      "title": "新技术的回应",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904013",
+      "title": "基于腾讯出行大数据的北京市郊野公园游憩使用及影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905006",
+      "title": "基于机器学习的风景园林智能化分析应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905003",
+      "title": "面向行业实践的风景园林信息模型技术应用体系研究:企业LIM平台构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501007",
+      "title": "已建成项目的景观绩效：美国风景园林基金会公布的指标及方法对比",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501009",
+      "title": "住宅景观绩效评价：基于现场数据的视觉与生物气候学分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906002",
+      "title": "基于社区营造的城市公共空间微更新探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905002",
+      "title": "通往风景园林行业的BIM之路——数字化竖向设计教育",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906004",
+      "title": "居民自发更新视角下的北京胡同绿色空间微更新研究——大栅栏片区的探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906020",
+      "title": "牡丹观赏活动对大学生生理及心理的影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906015",
+      "title": "城市公园中慢行系统的选线与设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906014",
+      "title": "城市公园的环境–活动游憩机会谱模型研究——以广州珠江公园为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201906001",
+      "title": "公共空间更新与社区营造",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201905018",
+      "title": "上海佛甲草模块式屋顶绿化夏季昼夜节能效应研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906013",
+      "title": "景观传统的现代转译——以北京市中华文化智慧公园为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201905016",
+      "title": "城市绿地中的声景观对精神复愈的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905009",
+      "title": "面朝大海杜鹃花开——2019年中国杜鹃花主题花园设计大赛",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501005",
+      "title": "景观绩效多功能景观的度量和评估",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201501001",
+      "title": "刊首语",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201910015",
+      "title": "环境解说在景观规划设计中的作用与意义",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201910018",
+      "title": "情境化自然体验在儿童户外活动空间景观设计中的应用——以金山岭松塔主题乐园为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201502005",
+      "title": "湾区海城",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504034",
+      "title": "学习园林史，到底学什么？",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504012",
+      "title": "不是你淘汰历史，就是被历史所淘汰",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504010",
+      "title": "以中为体以西为用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504004",
+      "title": "风顺正好扬帆时勇立潮头领航程",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504016",
+      "title": "景观空间是生活的容器",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201504036",
+      "title": "守护我们共同的遗产兼论风景园林学的未来",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201504033",
+      "title": "致给奔跑中的我们",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnnykx201901006",
+      "title": "镉胁迫下硅对烤烟生长及生理特性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908002",
+      "title": "关于(荒野)殖民化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908006",
+      "title": "全国园林绿化数字化管理体系及平台建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909013",
+      "title": "公众健康和幸福感考量的城市蓝色空间—城市景观研究新领域",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201905013",
+      "title": "城市绿轴——巴塞罗那城市慢行网络建设的风景园林途径研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906008",
+      "title": "京杭大运河'运河之脊'南旺分水枢纽生态智慧探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906016",
+      "title": "国家公园的一半是暗夜:暗夜星空研究的美国经验及中国路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201906019",
+      "title": "意大利当代城市规划实践中的生态视角及其本土化应用探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906005",
+      "title": "空间形态与绿化因素对夏季胡同居民社会聚集的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906003",
+      "title": "高密度城市社区公共空间参与式营造——以社区花园为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201905010",
+      "title": "以健康理念出发:戴尔医学区景观设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911022",
+      "title": "苏州文人园林曲桥路径对视线引导的实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911014",
+      "title": "基于文献调研的中国自然保护地社区保护冲突类型及热点研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201911017",
+      "title": "乡村多尺度住居环境的景观空间图式解析—以闽东地区庄寨为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201911021",
+      "title": "西雅图社区花园的用地获取、功能分区和元素组成",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912004",
+      "title": "临汾—运城盆地以水为线索的传统地域景观特征和发展启示",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201912007",
+      "title": "基于唐诗文本挖掘的关中地区人文景观格局研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201911007",
+      "title": "海上丝路东海航线之濑户内海区域的景观振兴观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907016",
+      "title": "近代城市发展下的传统历史园林在边界空间中的延续与转型",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907008",
+      "title": "从公路到绿色漫步街区——重庆北大资源燕南大道改造设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjgydxxb201911013",
+      "title": "基于分子对接的反向虚拟筛选方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "rdzwxb201912007",
+      "title": "樱桃番茄核心种质资源构建策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501011",
+      "title": "德国鲁尔区工业城市更新过程中的景观转化以波鸿城西公园为例",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201501002",
+      "title": "资讯",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501008",
+      "title": "风景园林设计项目的经济绩效评估德克萨斯州案例研究的经验与教训",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501004",
+      "title": "美国景观绩效评价研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201501003",
+      "title": "凝聚风景园林力量共筑“中国梦”访中国工程院院士、风景园林规划与设计教育家孟兆祯教授",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shbzh201910010",
+      "title": "洗发液那点事",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201908012",
+      "title": "基于样带—地理探测器的陆桥通道沿线建制市建成区绿地率区域差异影响机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909006",
+      "title": "基于'策略—反馈'的琶洲中东区韧性城市设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908009",
+      "title": "Rakova Jel?a城镇公园",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjsk201906001",
+      "title": "认知行为治疗在精神科的应用",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "fjyl201905008",
+      "title": "20年的'KLEKs'——德国基于志愿参与的历史性文化景观要素数据库的建立",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906017",
+      "title": "公园作为学习场所——国家公园解说和环境教育发展探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201906006",
+      "title": "协作与包容——新加坡锦簇社区计划解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905014",
+      "title": "存量规划中大型公共空间更新的公众参与机制研究——以美国东海岸防灾项目为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "fjyl201905011",
+      "title": "有节制的丰盛——千里园",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905020",
+      "title": "基于农业体验的城市农业综合体设计探析——以'FICO Eataly World'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spkx201921044",
+      "title": "多糖受体与巨噬细胞吞噬作用关系研究进展",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "swxzz201906006",
+      "title": "敲除PLAC8蛋白对人胚肾细胞增殖的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908008",
+      "title": "基于地面调查与遥感调查协同的城市绿地规模和分布研究——以青岛市为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909010",
+      "title": "增强现实技术于洪水风险沟通中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908001",
+      "title": "城市中的荒野",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909007",
+      "title": "珠三角门户城市惠州和端州'山—湖—城—江'格局的形成机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908007",
+      "title": "基于文本挖掘的城市园林绿化信息化管理的需求分析方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201908013",
+      "title": "半湿润地区外源径流型海绵绿地设计方法研究—以迁安市滨湖东路绿地为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201908005",
+      "title": "当代中国城市对荒野审美的呼唤",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908011",
+      "title": "近20年国外系统保护规划研究进展及启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201909008",
+      "title": "基于海平面影响湿地模型的海平面上升影响海岸湿地景观研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201909012",
+      "title": "日本地域景观的独特性及其可持续管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201908019",
+      "title": "从自然科学技术原理向风景园林设计语言转译—河段尺度下的生态设计手法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907006",
+      "title": "基于设计的研究作为知识生产的新模式——以'基于设计的博士项目'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201907012",
+      "title": "基于灾害链理论的山地城市雨洪适灾空间建构——以巫山县早阳新区城市设计为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201907007",
+      "title": "大尺度景观规划设计的思想与实践——荷兰风景园林师瑞克·德·菲索专访",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904018",
+      "title": "岭南大学校园规划溯源(1904-1938)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201903019",
+      "title": "基于无人机遥感的“莫兰蒂”台风前后植被变化分析——以鼓浪屿为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjyl201904016",
+      "title": "社会转型下的单位社区适老性景观更新策略研究:以重棉厂社区为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201904004",
+      "title": "大学与国家公园的合作伙伴关系:课堂、户外实验室与世界之窗",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201904006",
+      "title": "自然保护与景观保护:英国国家公园保护的'二元方法'及机制",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl201904012",
+      "title": "闲置鱼塘演变为雨水花园的景观再造——第十二届中国(南宁)国际园林博览会'芦草叠塘'景区设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjyl201905007",
+      "title": "无人机航测在风景园林中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shijny201608029",
+      "title": "美国、加拿大农业经济管理学科发展现状及趋势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njkj-xxk201609326",
+      "title": "保德海红的开发利用价值及栽培管理技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njkjtg201203040",
+      "title": "FSJ-8．0树枝粉碎机的研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201911023",
+      "title": "小型升降式采摘机器人设计与试验",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "scsfdxxb-shkxb200804011",
+      "title": "翻译语境中的意识形态研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb201305041",
+      "title": "翻译的意识形态与意识形态的翻译——翻译研究中的“意识形态”考察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "beijny201314011",
+      "title": "如何欣赏龙鱼之美",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shdlxyxb202001011",
+      "title": "水滑石在水处理中的应用进展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lzdxxb-shkxb201106024",
+      "title": "翻译中的意识形态因素——以《鹿鼎记》英译本与原作中的部分措辞差异为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201512017",
+      "title": "基于 ADAMS 的机械柔性疏花机执行机构仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201713032",
+      "title": "大学生投资理财的现状与问题——基于问卷调查数据的分新",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "csjsllyj2012251041",
+      "title": "农村建设用地整理",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shidwx200907088",
+      "title": "翻译中的误读与意识形态的互动关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wyywyjx200812011",
+      "title": "从互文性看翻译过程中的意识形态",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shkjfy201302017",
+      "title": "翻译研究中的词语误判与误评——以翻译与意识形态的研究为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djxk201801010",
+      "title": "建国十七年朝鲜文学翻译中的意识形态改写现象研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnjtdxxb200504029",
+      "title": "邻氯代环己酮肟及其类似物的合成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjlt-rwshkxb201209022",
+      "title": "意识形态操纵下的翻译顺应与改写——中美领导人演讲译文对比研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dypj201415041",
+      "title": "翻译理论范式中的翻译选材与意识形态——严复译著《天演论》为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncmqjjh201805008",
+      "title": "单行大白菜收获机的研究与初步设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjz201407018",
+      "title": "应用于环己酮氨肟化反应的TS-1研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xsj201807013",
+      "title": "《文心雕龙》英译:一个意识形态的考察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dylc200907036",
+      "title": "意识形态对词汇意义的影响及其中西翻译",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxgcs200607017",
+      "title": "丁酮肟的应用及合成进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmsj201818098",
+      "title": "当代大学生投资理财现状的数据分析和建议",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jdnsfzkxxxb201805015",
+      "title": "2-吡啶酮肟的合成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "huaxsj200001025",
+      "title": "苯丙酮肟合成工艺的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgywhxzz200104011",
+      "title": "安宫黄体酮肟合成方法的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxtjjygfzcl201102014",
+      "title": "TS-1催化丙酮氨氧化合成丙酮肟工艺研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjsfdxxb-zx201101018",
+      "title": "翻译互文中的意识形态操控——基于网络间谍事件新闻转述话语语料",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dbnydxxb201708011",
+      "title": "果树剪枝机械化及自动化研究进展",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "sysyjyts201109006",
+      "title": "α-萘乙酮肟的合成研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gncl200707024",
+      "title": "反应球磨法制备镁/碳纳米复合储氢材料",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mhxb200505004",
+      "title": "控释氮肥对棉花产量的影响及光合特性的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnxtb201218003",
+      "title": "棉花氮素营养特性研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyzz200807058",
+      "title": "浅谈利用σC蛋白诊断禽类呼肠孤病毒感染及研制新型疫苗",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowxb201110023",
+      "title": "控释氮肥对棉花纤维品质、产量及氮肥利用效率的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stnyyj200703012",
+      "title": "控释氮肥对棉花的增产效应研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201911105",
+      "title": "高性能新型陶瓷材料的介绍与研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzyy202004015",
+      "title": "中医综合护理治疗新型冠状病毒肺炎的临床观察",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "tjygl201701033",
+      "title": "贫困线的变迁和测量:从绝对贫困到相对贫困",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "nmzfzy201901075",
+      "title": "安徽省加快蚕桑信息化平台建设的意义及对策措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjczb201805039",
+      "title": "新型金属陶瓷复合材料的试制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmglykj200302010",
+      "title": "国内外花椒的研究现状及其发展趋势",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "trxb201704017",
+      "title": "控释钾肥对大蒜-棉花套作体系产量和土壤钾素供应的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddgz201951055",
+      "title": "科学划设相对贫困线",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lynxyxb201203007",
+      "title": "氮磷钾肥配合施用对棉花产量和主要品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shzdxxb200503038",
+      "title": "小麦品质性状的QTL定位研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fstc201903001",
+      "title": "高性能新型陶瓷材料的介绍与研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfny201802023",
+      "title": "花椒良种选育及丰产栽培技术思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lincjyzz201812045",
+      "title": "CRISPR/Cas技术在微生物领域研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xbzwxb201308011",
+      "title": "小麦籽粒品质性状的QTL分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hhdxxb-zxsh201906001",
+      "title": "相对贫困治理理论与中国地方实践经验",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzxyjhjjzz202002019",
+      "title": "延安市4例新型冠状病毒肺炎患者中西医结合治疗分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "lzyxyxb201803003",
+      "title": "GC-MS/MS测定山药中乐果等三种农药残留的一测多评研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gsnykj201706027",
+      "title": "甘肃花椒地方品种整理结果简述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ynnykj201802003",
+      "title": "南方地区栽培的花椒种质资源评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjczb201909029",
+      "title": "新型金属陶瓷复合材料的试制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzxyjhjjzz202002025",
+      "title": "山东省首例确诊新型冠状病毒肺炎临床诊治分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sz-sxk201731214",
+      "title": "大学生财务管理现状研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjnykx201211020",
+      "title": "钾肥用量对棉花蕾铃脱落及产量品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy202018002",
+      "title": "人工智能与智能会计应用研究",
+      "download_times": 9,
+      "browse_times": 14
+    },
+    {
+      "id": "jsnykx202010044",
+      "title": "加拿大杨树皮总类脂提取工艺的筛选与优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdnydxxb201906003",
+      "title": "气相色谱串联质谱法测定二白杨受害树皮挥发性物质",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyjxxb202005042",
+      "title": "滚筒式茶叶热风复干机设计与试验",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "syjlr201707039",
+      "title": "义乌小商品出口贸易的现状分析与发展对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201713048",
+      "title": "论义乌小商品出口现状与对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shglkx201103004",
+      "title": "上海市对外贸易结构与产业结构的实证研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xmdxxb-zxshkxb200101017",
+      "title": "村民委员选举中影响村民对候选人选择的因素",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjtjj202002006",
+      "title": "长三角地区制造业产业空心化问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202013011",
+      "title": "义乌小商品市场发展现状及对策研究",
+      "download_times": 8,
+      "browse_times": 13
+    },
+    {
+      "id": "zgjmdk201919026",
+      "title": "优化提升营商环境全力推进制造业高质量发展 ——上海浦东新区打造实体经济发展高地",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjcyyk201304014",
+      "title": "技术性贸易壁垒对义乌外贸出口的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tsxzxyxb201305021",
+      "title": "社会资本视角下的乡村选举--以涟源市K村换届选举为个案",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yhj202005004",
+      "title": "数字人民币加速助力金融重构",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jrxxck202017013",
+      "title": "人民币国际化的数字维度",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjnykx202008055",
+      "title": "瑞安市农民专业合作社农产品农居对接营销模式初探",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "kjxx200932349",
+      "title": "上海市出口商品结构及竞争力研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc202013011",
+      "title": "义乌小商品市场发展现状及对策研究",
+      "download_times": 8,
+      "browse_times": 13
+    },
+    {
+      "id": "xinyx201903042",
+      "title": "浙江义乌小商品出口存在的问题浅析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaiyx202004069",
+      "title": "义乌小商品市场的现状及发展策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfjr202005002",
+      "title": "数字化背景下的国际货币竞争及其对人民币国际化的启示",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "jtbj202015044",
+      "title": "如何防治前列腺炎",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "qnwxj202029056",
+      "title": "海明威短篇小说艺术风格研究",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic202020014",
+      "title": "农村土地承包经营纠纷仲裁相关问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jkbd001202017363",
+      "title": "怎么会得前列腺炎?前列腺炎该怎么办?",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lygs202003025",
+      "title": "山地山楂优质高产稳产修剪管理技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxgs201101013",
+      "title": "适宜鲁、苏北地区栽培的山楂优良品种",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqjz202006004",
+      "title": "长江江心岛'广阳岛'生态修复环境景观设计思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjtt202010009",
+      "title": "数字普惠金融发展能否缓解企业融资约束",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyzz200605005",
+      "title": "Ⅰ型鸭肝炎病毒变异株的鉴定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cczyxyxb202006010",
+      "title": "黄永生教授论治冠心病",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwyyyflxb202010006",
+      "title": "玉米不同层位叶片生理生化指标与SPAD值的关系",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bfyany200801084",
+      "title": "紫苏的组织培养及快繁技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjxx201008051",
+      "title": "儿童母语习得研究对英语语音教学的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs202030050",
+      "title": "国土空间规划体系下的绿地系统规划创新趋势",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gznykx202002001",
+      "title": "优质早熟紫苏新品种贵苏1号的选育",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zwyyyflxb202001001",
+      "title": "东北黑土nirS型反硝化细菌群落和网络结构对长期施用化肥的响应",
+      "download_times": 5,
+      "browse_times": 17
+    },
+    {
+      "id": "trxb202001022",
+      "title": "不同林龄马尾松人工林土壤微生物群落结构和功能多样性演变",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyl202002004",
+      "title": "国土空间规划体系下的绿地系统规划创新趋势",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "msgc202011033",
+      "title": "恋地情结:日本濑户内地区美术馆群的空间生产与地方话语",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnxzxyxb202006013",
+      "title": "绿色金融与普惠金融的逻辑关系分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwyyyflxb202008007",
+      "title": "不同土地利用方式下我国北方土壤有机、无机碳库的变化趋势及原因分析",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "zgyl202010008",
+      "title": "从21世纪第二场瘟疫反思中国人居环境",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "trxb201901017",
+      "title": "施用生物炭和秸秆对石灰性褐土氮肥去向的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xzqykj202025049",
+      "title": "互联网金融背景下传统商业银行业务发展瓶颈及转型策略研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yxyjtx201601006",
+      "title": "细胞外液低钾对小鼠心室肌细胞跨膜电位影响的定量分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxzxxgyxzz202008035",
+      "title": "我国心脏运动康复的发展及研究进展",
+      "download_times": 10,
+      "browse_times": 25
+    },
+    {
+      "id": "xxgbfzzz-x201912009",
+      "title": "增强型体外反搏对心绞痛患者血压的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "trxb202001020",
+      "title": "不同耕作方式下黑土微生物群落对干湿交替的响应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwyyyflxb202001003",
+      "title": "有机无机肥配合生化抑制剂抑制土壤有机碳的转化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "trxb202001002",
+      "title": "南方红壤丘陵区林下水土流失防治研究进展",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zwyyyflxb202001002",
+      "title": "东北棕壤长期不同施肥处理轮作大豆氮素吸收和土壤硝态氮特征",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zjkyxyxb200601017",
+      "title": "冠状动脉三支病变心电图特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwyyyflxb202006014",
+      "title": "煤矿复垦区不同有机物料的分解特征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zghlgl202010030",
+      "title": "终末床单位及护理高频接触表面清洁工作质量监测的调查分析",
+      "download_times": 2,
+      "browse_times": 23
+    },
+    {
+      "id": "zgjtjj202027046",
+      "title": "互联网金融新形势下银行理财业务的发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdfx201304008",
+      "title": "论个人信息权的法律保护——以个人信息权与隐私权的界分为中心",
+      "download_times": 8,
+      "browse_times": 10
+    },
+    {
+      "id": "zgsxjs202006005",
+      "title": "广阳岛:长江风景眼重庆生态岛",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnykx202022057",
+      "title": "政府推动、市场竞争与普惠金融发展——来自我国农村金融的实证分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgbjyy-kp201905087",
+      "title": "体外反搏治疗心衰患者疗效观察",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jssyxdxzz201602001",
+      "title": "自助心电监测高血压患者体外反搏康复治疗效果",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjz201904023",
+      "title": "恋地情结乡村建筑实践一例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201809033",
+      "title": "基于互联网金融背景下的商业银行理财业务发展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh202019053",
+      "title": "互联网金融业的发展与商业银行业务的关系影响研究——以蚂蚁花呗为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dljx202010002",
+      "title": "人地关系的经典论著 ——《恋地情结》评介",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jiangxyy202017052",
+      "title": "盆栽紫苏无土栽培技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangxyy201508003",
+      "title": "观赏用紫苏的组织培养研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh202019049",
+      "title": "'技术围剿'情势下中国高新技术产业国际化发展的策略",
+      "download_times": 13,
+      "browse_times": 22
+    },
+    {
+      "id": "zgjm201709098",
+      "title": "商业银行互联网金融业务发展分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzckjs202007036",
+      "title": "区块链技术在商业银行内部控制优化中的应用研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "spaqzljcjs202020001",
+      "title": "紫苏籽油化学组成与检测技术研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trxb202001005",
+      "title": "基于环境变量的中国土壤有机碳空间分布特征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lnxxgbzz201903002",
+      "title": "改良疗程增强型体外反搏对冠心病患者血管功能及心肺功能的疗效研究△",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zwyyyflxb202009005",
+      "title": "氮素与抑制剂双控释尿素的制备及其对土壤供氮能力和小麦产量的影响",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "spgykj202021055",
+      "title": "紫苏籽蛋白对免疫力低下小鼠免疫调节功能的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spyjykf202020012",
+      "title": "酶解对紫苏蛋白乳化特性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201122041",
+      "title": "紫苏子叶组织培养植株再生的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnyxyj201901005",
+      "title": "增强型体外反搏治疗对老年高血压合并阻塞型睡眠呼吸暂停低通气综合征患者的疗效",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [
+    {
+      "id": "csghhk201901006",
+      "title": "文化创意产业空间集聚特征与园区布局规划导引策略——基于上海中心城区的企业选址解析",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "dqwlxb201901003",
+      "title": "北极涛动主模态下北极冷空气的优势路径和影响地区的研究",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "hhxk201008016",
+      "title": "亦隐非隐的陶渊明与梭罗",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bjdxxb-zxsh200202008",
+      "title": "梭罗的自然思想及其生态伦理意蕴",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gdwywmdxxb201904006",
+      "title": "认知隐喻视阈下'达菲体'诗歌语言之辩",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jyz201919095",
+      "title": "企业财务报表分析在财务管理中的作用",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "sq-zh201949030",
+      "title": "企业财务报表分析的局限性及解决措施",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "yjxk201105024",
+      "title": "六十年回眸：梭罗在中国大陆的接受",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "szdxxb-rwsh200305009",
+      "title": "特立独行:在中国现代语境中接受梭罗",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "670173096",
+      "title": "从人类中心主义到地球中心主义——生态批评视域下的《瓦尔登湖》及其当代意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lsyslgy201901001",
+      "title": "超声波协同双酶复合酶解米渣蛋白制备A CE抑制肽工艺研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hunannydx-shkx201101015",
+      "title": "外国文学翻译体例的时代演变——基于《瓦尔登湖》不同译本的比较",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shandnykx200905033",
+      "title": "快速蛋白液相色谱分离小麦高分子量谷蛋白亚基方法的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "shsfdxxb-zxsh201801005",
+      "title": "人工智能、人的解放与理想社会的实现",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "qyggygl201920099",
+      "title": "企业财务报表分析在财务管理中的作用",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "qcsy201929465",
+      "title": "浅谈情绪智力",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xdwy201705014",
+      "title": "《积极心理学视角下的外语学习与教学》评介",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ZRaJbtkbbh/xZaNb3LkSEcYH5JYvyycH7k1LyEWdB4E=",
+      "title": "野生动物多样性监测图像数据管理系统CameraData介绍",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shglkx201103004",
+      "title": "上海市对外贸易结构与产业结构的实证研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shxyj200602004",
+      "title": "社会资本与中国农村居民的地域性自主参与--影响村民在村级选举中参与的各因素分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "tsxzxyxb201305021",
+      "title": "社会资本视角下的乡村选举--以涟源市K村换届选举为个案",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ahny202016154",
+      "title": "国土综合整治与生态保护修复机制研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zwyyyflxb202009005",
+      "title": "氮素与抑制剂双控释尿素的制备及其对土壤供氮能力和小麦产量的影响",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "msgc202011033",
+      "title": "恋地情结:日本濑户内地区美术馆群的空间生产与地方话语",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjz201904023",
+      "title": "恋地情结乡村建筑实践一例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyzs202030050",
+      "title": "国土空间规划体系下的绿地系统规划创新趋势",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zwyyyflxb202010006",
+      "title": "玉米不同层位叶片生理生化指标与SPAD值的关系",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "QKBJB20202020080700000061",
+      "title": "国土空间规划中综合整治与生态修复机制浅析",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "zgjm201709098",
+      "title": "商业银行互联网金融业务发展分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xnjtdxxb-sh201605007",
+      "title": "审美·家国·想象:由沪上咖啡馆到知识分子的“恋地情结”",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zwyyyflxb202009005",
+      "title": "氮素与抑制剂双控释尿素的制备及其对土壤供氮能力和小麦产量的影响",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "zgxzqbyxdsl201605003",
+      "title": "低血钾与室性心律失常发生",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zwyyyflxb202008007",
+      "title": "不同土地利用方式下我国北方土壤有机、无机碳库的变化趋势及原因分析",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "dljx202010002",
+      "title": "人地关系的经典论著 ——《恋地情结》评介",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "rwdl201703006",
+      "title": "段义孚《恋地情结》理念论思想探析",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgyl202002004",
+      "title": "国土空间规划体系下的绿地系统规划创新趋势",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "bjdxjypl201704004",
+      "title": "自由选择与制度选拔:大众高等教育时代的精英培养——基于北京大学的个案研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "yxyjtx201601006",
+      "title": "细胞外液低钾对小鼠心室肌细胞跨膜电位影响的定量分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzckjs202007036",
+      "title": "区块链技术在商业银行内部控制优化中的应用研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "scxdh202019053",
+      "title": "互联网金融业的发展与商业银行业务的关系影响研究——以蚂蚁花呗为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201809033",
+      "title": "基于互联网金融背景下的商业银行理财业务发展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xzqykj202025049",
+      "title": "互联网金融背景下传统商业银行业务发展瓶颈及转型策略研究",
+      "download_times": 3,
+      "browse_times": 3
+    }
+  ],
+  "检索": [
+    "瓦尔登湖 时代",
+    "瓦尔登湖 时代",
+    "瓦尔登湖",
+    "瓦尔登湖 时代",
+    "普通小麦醇溶蛋白突变体",
+    "瓦尔登湖 时代",
+    "瓦尔登湖",
+    "瓦尔登湖 时代",
+    "普通小麦醇溶蛋白突变体",
+    "普通小麦醇溶蛋白突变体",
+    "普通小麦醇溶蛋白突变体",
+    "普通小麦醇溶",
+    "亚细胞定位",
+    "瓦尔登湖",
+    "瓦尔登湖 时代",
+    "瓦尔登湖 时代",
+    "景观设计学",
+    "企业财务报表分析",
+    "亚细胞定位",
+    "亚细胞定位",
+    "企业财务报表分析",
+    "蛋白液相色谱小麦",
+    "普通小麦醇溶蛋白突变体",
+    "普通小麦醇溶蛋白突变体",
+    "普通小麦醇溶",
+    "达菲诗歌",
+    "达菲诗歌",
+    "企业财务报表分析",
+    "企业财务报表分析",
+    "企业财务报表分析",
+    "蛋白液相色谱小麦",
+    "积极心理学二语习得",
+    "情绪智力",
+    "情绪智力",
+    "积极心理学二语习得",
+    "谷蛋白大聚合体",
+    "普通小麦醇溶蛋白突变体筛选",
+    "普通小麦醇溶",
+    "基准地价表",
+    "不动产评估报告基准地价表",
+    "山东省金乡县基准地价表",
+    "山东省金乡县基准地价表",
+    "基准地价表",
+    "不动产评估报告",
+    "山东省金乡县基准地价表",
+    "不动产评估报告基准地价表",
+    "山东省金乡县基准地价表",
+    "山东省金乡县基准地价表",
+    "山东省金乡县基准地价表",
+    "不动产评估报告",
+    "不动产评估报告",
+    "山东省金乡县基准地价表",
+    "野生动物多样性监测图像数据管理系统",
+    "上海商品外贸",
+    "上海商品外贸",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/Q' )",
+    "(检测表观遗传修饰分子) (PublishYear:'2020' )",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/R' PublishYear:'2019' )",
+    "(土地承包经营继承) (Type:'Periodical' )",
+    "A prediction-correction-based primal-dual hybrid gradient",
+    "A prediction-correction-based primal-dual hybrid gradient",
+    "四氧化三铁纳米酶",
+    "(土地承包经营继承) (PublishYear:'2019' )",
+    "植物保护技术",
+    "植物保护技术",
+    "土地承包",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/Q' PublishYear:'2018' )",
+    "蛋白纳米孔",
+    "A prediction-correction-based primal-dual hybrid gradient",
+    "Numerical algorithms",
+    "刊名:'Numerical algorithms'",
+    "(土地承包经营继承) (Type:'Periodical' )",
+    "土地承包经营继承",
+    "四氧化三铁纳米酶",
+    "食品期刊",
+    "拟南芥CLV3蛋白的CLE基序功能的分子遗传分析",
+    "Numerical algorithms",
+    "( Numerical algorithms) (ClassCodeForSearch:'0/O' )",
+    "Numerical algorithms",
+    "四氧化三铁纳米酶",
+    "拟南芥下胚轴伸长与向光性的分子调控机理",
+    "(检测表观遗传修饰分子) (PublishYear:'2020' ClassCodeForSearch:'0/R' )",
+    "蛋白纳米孔",
+    "(检测表观遗传修饰分子) (PublishYear:'2018' )",
+    "(作者:('爱因斯坦') and 题名或关键词:('我的世界观')) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "四氧化三铁纳米酶",
+    "四氧化三铁纳米酶",
+    "四氧化三铁纳米酶",
+    "四氧化三铁纳米酶应用",
+    "四氧化三铁纳米酶",
+    "A prediction-correction",
+    "四氧化三铁纳米酶",
+    "土地承包经营继承",
+    "蛋白纳米孔",
+    "(检测表观遗传修饰分子) (PublishYear:'2019' ClassCodeForSearch:'0/Q' )",
+    "蛋白纳米孔",
+    "土地承包",
+    "土地承包继承",
+    "(检测表观遗传修饰分子) (PublishYear:'2018' )",
+    "(检测表观遗传修饰分子) (PublishYear:'2018' )",
+    "(土地承包继承) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/R' )",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/R' )",
+    "蛋白纳米孔",
+    "(检测表观遗传修饰分子) (ClassCodeForSearch:'0/R' PublishYear:'2020' )",
+    "纳米孔",
+    "(检测表观遗传修饰分子) (PublishYear:'2019' )",
+    "(检测表观遗传修饰分子) (PublishYear:'2018' )",
+    "土地承包经营继承",
+    "(土地承包经营继承) (PublishYear:'2018' )",
+    "(土地承包经营继承) (PublishYear:'2018' )",
+    "(作者:('爱因斯坦') and 题名或关键词:('我的世界观')) (Type:(Periodical OR Thesis) )",
+    "2020美国大选",
+    "Effects of different rearing systems on growth performance, carcass traits, meat quality and serum biochemical parameters of Chaohu ducks",
+    "((主题:(细胞壁 OR 'Cell walls') AND (主题:'伸展蛋白' OR 主题:'扩展蛋白' OR 主题:'扩张蛋白'))) (Type:'Periodical' )",
+    "检测表观遗传修饰分子",
+    "(主题:(细胞壁) and 主题:(扩展蛋白 or 扩张蛋白 or 伸展蛋白)) (Type:'Periodical' )",
+    "(土地承包经营继承) (PublishYear:'2020' )",
+    "土地承包经营继承",
+    "(作者:('爱因斯坦') and 题名或关键词:('我的世界观')) (Type:(Periodical OR Thesis OR Conference) )",
+    "A prediction-correction-based primal-dual",
+    "Numerical algorithms",
+    "'Numerical algorithms'",
+    "Numerical algorithms",
+    "Regulation of intestinal epithelial permeability by tight junctions",
+    "红外光谱",
+    "内生菌 提取 培养",
+    "内生菌 提取 培养",
+    "劳动者平等就业文献综述",
+    "高通量筛选技术在农药生物测定的应用",
+    "摘要:植物病害 粮食安全",
+    "庄子",
+    "庄子",
+    "Regulation of Arabidopsis early anther development by the mitogen-activated protein kinases, MPK3 and MPK6, and the ERECTA and related receptor-like kinases.",
+    "AP2花器官发育",
+    "(主题:('烟草') and 主题:(黑胫病 or 土传病害) and 主题:(生物预防 or 生物防治 or 生物防护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(烟草黑胫病 or 烟草土传病害) and 题名或关键词:(生物防治 or 生物预防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(烟草黑胫病 or 烟草土传病害) and 全部:(生物防治 or 生物预防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(烟草) and 主题:(黑胫病 or 土传病害) and 主题:(生物预防 or 生物防治 or 生物防护)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(烟草黑胫病 or 烟草土传病害) and 题名或关键词:(生物防治 or 生物预防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "四氯化钛水解法制备二氧化钛及其性能的研究",
+    "论国际私法中法律规避的效力",
+    "论国际私法中法律规避的效力",
+    "British Kingship",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' )",
+    "岛崎藤村",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2016' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2014' )",
+    "信息化英语教学",
+    "(新闻英语特点) (SingleSourceDB:'ISTIC' )",
+    "热重分析方法",
+    "AP2 对花发育的功能",
+    "(题名或关键词:(烟草黑胫病 or 烟草土传病害) and 全部:(生物防治 or 生物预防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('烟草黑胫病') and 主题:(生物防治)) (Type:(Periodical OR Thesis OR Conference) )",
+    "低血钾  心肌细胞",
+    "低血钾  心肌细胞",
+    "内生菌的提取与培养",
+    "西方戏剧",
+    "西方戏剧的中国化",
+    "摘要:植物病害 粮食安全",
+    "大数据农业",
+    "大数据应用",
+    "查重",
+    "核磁共振波谱鉴定",
+    "紫外光谱",
+    "AP2 功能",
+    "西方戏剧的中国化",
+    "新闻英语特点",
+    "内生菌 茶树 根系",
+    "(岛崎藤村) (PublishYear:'2018' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2015' )",
+    "(植物转录因子与发育调控) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "转录因子与 植物发育",
+    "高通量筛选技术在农药生物测定的应用",
+    "银行互联网金融业务发展",
+    "国土空间综合整治与生态修复",
+    "集体合同文献综述",
+    "计算机科学与技术专业 现状",
+    "转录因子与发育",
+    "文献综述",
+    "劳动者的平等就业权",
+    "内生提取",
+    "内生菌活性",
+    "(主题:('水利') and 主题:('工程') and 主题:('伦理')) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "摘要:植物病害 粮食安全",
+    "摘要:植物病害 粮食安全",
+    "摘要:植物病害 粮食安全",
+    "庄子",
+    "新闻英语特点及翻译",
+    "(主题:(烟草黑胫病) and 主题:(生物防治)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(烟草黑胫病 or 烟草土传病害) and 主题:(生物防治 or 生物预防)) (Type:(Periodical OR Thesis OR Conference) )",
+    "紫外光谱曲线",
+    "British Kingship",
+    "我国农产品跨境电商出口困境与对策研究",
+    "内生菌",
+    "内生菌分离",
+    "内生菌的提取与培养",
+    "内生菌提取",
+    "国土空间综合整治与生态修复",
+    "城市绿地系统规划与国土空间规划",
+    "低血钾",
+    "庄子",
+    "DSC分析方法",
+    "劳动者的平等就业权",
+    "Phosphorylation of SPOROCYTELESS/NOZZLE by the MPK3/6 Kinase Is Required for Anther Development.",
+    "(主题:('水利') and 主题:('工程') and 主题:('伦理')) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "恋地情结",
+    "恋地情结",
+    "CRISPR禽",
+    "内生菌 茶树",
+    "植物转录因子与发育调控",
+    "CRISPR禽",
+    "CRISPR疫苗",
+    "CRISPR禽",
+    "核磁共振波普测",
+    "核磁共振波谱法测定片剂中盐酸巴马汀含量",
+    "计算机科学与技术专业 现状",
+    "摘要:植物病害 粮食安全",
+    "银行互联网金融业务发展",
+    "银行互联网金融业务发展",
+    "直播",
+    "国土空间综合整治与生态修复",
+    "计算机科学与技术专业现状",
+    "计算机科学与技术",
+    "计算机科学与技术",
+    "高通量筛选技术在农药生物测定的应用",
+    "高通量筛选技术在农药生物测定的应用",
+    "银行互联网金融业务发展",
+    "银行互联网金融业务发展",
+    "银行互联网金融业务发展",
+    "集体合同",
+    "集体合同作用",
+    "集体合同劳动合同",
+    "直播",
+    "直播",
+    "国土空间综合整治与生态修复",
+    "(新闻英语特点) (SingleSourceDB:'ISTIC' Language:'eng' )",
+    "新闻英语特点",
+    "国土空间综合整治与生态修复",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2015' )",
+    "岛崎藤村",
+    "(岛崎藤村) (PublishYear:'2018' ClassCodeForSearch:'0/I' )",
+    "(岛崎藤村) (PublishYear:'2020' )",
+    "岛崎藤村",
+    "(岛崎藤村) (PublishYear:'2018' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2014' )",
+    "芦丁在防治烟粉虱中的应用",
+    "重庆大学",
+    "CRISPR禽流感",
+    "超松弛迭代",
+    "基于改进卷积神经网络的农业病害分类",
+    "计算机科学与技术",
+    "银行互联网金融业务发展",
+    "银行互联网金融业务发展",
+    "APETALA3/DEFICIENS和PISTILLATA/GLOBOSA基因与植物花...",
+    "集体合同",
+    "直播卖货",
+    "国土空间综合整治与生态修复",
+    "论国际私法中法律规避的效力",
+    "广阳岛",
+    "城市绿地系统规划与国土空间规划",
+    "(核磁共振波谱鉴定) (PublishYear:'2020' )",
+    "计算机科学与技术专业 现状",
+    "计算机科学与技术专业现状",
+    "计算机科学与技术",
+    "高通量筛选技术在农药生物测定的应用",
+    "银行互联网金融业务发展",
+    "集体合同作用文献综述",
+    "四氯化钛水解法制备二氧化钛及其性能的研究",
+    "核磁共振波谱鉴定",
+    "连作障碍对苹果根系微生物的影响",
+    "大学生心理问题",
+    "大学生心理问题",
+    "核磁共振",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2017' )",
+    "萩原朔太郎",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2017' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2017' )",
+    "(岛崎藤村) (ClassCodeForSearch:'0/I' PublishYear:'2014' )",
+    "恋地情结",
+    "城市绿地系统规划与国土空间规划"
+  ]
+}

@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/static/data/data_circle_d3_zh.json" charset="GBK" />
     <file url="file://$PROJECT_DIR$/static/data/data_circle_echarts_zh.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/data/newtree.json" charset="GBK" />
   </component>
 </project>

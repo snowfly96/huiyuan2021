@@ -1,0 +1,4325 @@
+{
+  "下载": [
+    {
+      "id": "xfdk201845236",
+      "title": "简述液压泵分类及参数选择",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb200901042",
+      "title": "爆炸作用下坑道被覆结构局部破坏效应数值分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxsxzz-czb201406010",
+      "title": "例析数学模型的建构与演绎",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl201912035",
+      "title": "医学类专业实验室资源优化与协同育人模式研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xdxxkj201921058",
+      "title": "高校信息安全保密管理中需要注意的问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjhh201704008",
+      "title": "保障冬季船舶航行安全的措施",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyy2017z1009",
+      "title": "基于安卓平台的多云存储系统",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgnn201601014",
+      "title": "一种具有仿形功能的草地破土切根机",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "nygcxb201922013",
+      "title": "基于探地雷达早期信号振幅包络值的黏性土壤含水率探测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjcxy202001014",
+      "title": "基于Android平台的教学楼智能门锁系统设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qhdxjyyj201401010",
+      "title": "在线教育的“后MOOC时代”——SPOC解析",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "wjfz201004062",
+      "title": "基于.NET的学生信息管理系统的设计与实现",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj202002227",
+      "title": "高校学生信息管理系统的设计与实现",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "xxydn201622010",
+      "title": "余承东:智能手机将变成智慧手机大数据处理能力将远超人类",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "msj-xia201912466",
+      "title": "Android平台的移动APP开发方法探讨",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "jtbshcbyskxyjsxb201504006",
+      "title": "柴油机状态监测与分析系统软件设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jcyyy200607069",
+      "title": "采用模糊控制技术的排爆机械手",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzzyzdh201906047",
+      "title": "储能电站电源管理系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjtdxxb200403014",
+      "title": "基于关键链技术的项目进度管理系统设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ntsfxyxb-zxshkxb201906016",
+      "title": "协同育人理念下高校'课程思政' 改革的理性审视",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsxjy-cz201904008",
+      "title": "自编情境游戏 引导教学实践——以课题学习'最短路径问题'的教学为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tyjjglgbxyxb201610040",
+      "title": "大学生数学建模认知与创新能力培养的几点思考--以2015年全国大学生数学建模A题为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfkxyjs201906024",
+      "title": "直射—旋流预混细水雾喷头设计及灭油火实验研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zxxxxjsjy201304004",
+      "title": "微课及其应用与影响",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "jxjy201501028",
+      "title": "对任职培训开展混合式教学的思考——基于MOOC和翻转课堂的视阈",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shanddz202001024",
+      "title": "智能安全保密管理平台的构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccydxyxb201106013",
+      "title": "基于Ajax,Struts,Hibernate和Spring的J2EE架构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjjyxzxyxb202002011",
+      "title": "移动互联时代大学生手机学习效果影响因素研究",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "dxjs201906017",
+      "title": "基于智能手机终端的家庭宽带资源清查系统",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scgyxyxb201504017",
+      "title": "一种七喷嘴细水雾喷头的设计与仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy200810026",
+      "title": "直射-旋流雾化细水雾喷头设计与仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cszz201612022",
+      "title": "大跨度离壁式隧道拱部被覆移动模架施工技术",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "spyzl201901144",
+      "title": "新时期土木工程的发展研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hwjs200701006",
+      "title": "人工水雾的光学/红外伪装性能研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdhjy201503004",
+      "title": "SPOC：基于MOOC的教学流程创新",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "wlyxx200410047",
+      "title": "有自毁能力的保险箱--用ADSL Modem保护你的特殊秘密",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfgydxxb201705018",
+      "title": "新型低压细水雾喷头设计与优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlxxsj201906023",
+      "title": "GIS本科毕业设计选题特征分析—以武汉大学为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rjxb199911006",
+      "title": "一个基于Web的工作流管理系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wlygc201401003",
+      "title": "SPOC:结合高校教学的融合创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjhk200309015",
+      "title": "'长虹'高空高速无人机系统",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201801060",
+      "title": "高压细水雾喷头流量系数与雾场特性的关系",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qnmzsfxyxb201203030",
+      "title": "CUMCM-2011B题的问题建模与求解",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyjyfz200102010",
+      "title": "Web信息检索研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "dzsj202001035",
+      "title": "基于物联网技术的学生管理系统应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jckxjs201904026",
+      "title": "新型舰载刚性充气艇艇型设计研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "syjsygl201909032",
+      "title": "基于Android的智慧教学APP设计",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "shht201906021",
+      "title": "模块化核动力航天器设计及其关键技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "csgh201810013",
+      "title": "明代以来沿海地方筑城及其城墙形态特征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201930206",
+      "title": "小议士官教育本质意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjdxxb-sk201606005",
+      "title": "刑罚目的二律背反问题新论--以盗窃罪、敲诈勒索罪为分析视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzwyjc200501037",
+      "title": "有自毁能力的保险箱--用ADSL Modem保护你的特殊秘密",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jx200906020",
+      "title": "一种车载式排爆机械手的机构设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj201918058",
+      "title": "三种信息化教学平台试用效果浅析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xzsfdxxb-zrkx201903019",
+      "title": "大学生网络安全教育'MOOC+SPOC'混合教学模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201718030",
+      "title": "基于Android平台的移动APP开发方法与应用研究",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "hbqy202002053",
+      "title": "大数据背景下企业人力资源管理的改进研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "dnbcjqywh201409008",
+      "title": "基于Android平台的APP设计与实现",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jcyyy201912023",
+      "title": "基于计算机视觉的排爆机器人三维坐标计算",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyyy201709009",
+      "title": "排爆机器人机械手结构设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xddzjs202002018",
+      "title": "电子图书馆碎片化阅读快速检索系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dcyyb201804016",
+      "title": "基于安卓平台的电力仪表远程读取系统",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hwjs200911007",
+      "title": "水雾的热红外伪装性能分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jmzyjsxyxb200506028",
+      "title": "2004全国大学生数学建模赛C题解法与评述",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "sxjmjyqyy201301011",
+      "title": "2012年CUMCM A题解答评析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzc2019z1058",
+      "title": "国外深海无人潜航器装备及技术发展研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh200602026",
+      "title": "军用舰船细水雾灭火系统研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wjxyxb201003004",
+      "title": "奥巴马政府《核态势评估》报告剖析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shzc201701008",
+      "title": "基于仿真的室内装焊工场分段建造方案评估与优化",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "xdwy-kj201005026",
+      "title": "消防部队开展水难救援训练和施救初探",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hebgcdxxb201912010",
+      "title": "多层介质复合防护结构侵彻性能的数值分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ddxb200802003",
+      "title": "侵彻弹斜侵彻多层介质的三维数值仿真",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201802017",
+      "title": "攻角对弹体斜侵彻多层混凝土靶弹道偏转影响的数值模拟及试验验证",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjjjdk201634113",
+      "title": "士官职业教育转型背景下的教材建设探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjcf201210194",
+      "title": "钨珠对凯夫拉防弹板的毁伤分析及实验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjsj-xby201901009",
+      "title": "基于数值模拟的双层防爆墙抗爆效果研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs201711026",
+      "title": "一种新型手摇高低同步开窗装置设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "djdqjs201912011",
+      "title": "电控冰箱软件模块化设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gf201912002",
+      "title": "学习贯彻习近平新时代军队院校教育重要论述",
+      "download_times": 7,
+      "browse_times": 5
+    },
+    {
+      "id": "jzgc201935075",
+      "title": "基于Python和Arduino的智能花盆系统",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonggsm201530031",
+      "title": "我国家庭理财存在的问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfjm201911038",
+      "title": "龙江银行个人理财业务存在的问题及对策分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjr-x201511099",
+      "title": "股票对个人理财的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wlaqjsyyy201605009",
+      "title": "浅谈后斯诺登时代的网络攻击技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzzgc201908022",
+      "title": "表面硬度间接获取齿轮材料屈服强度方法研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "bgzdh201611023",
+      "title": "蜗轮蜗杆传动装置支承结构优化设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdgyjjhxxh201623030",
+      "title": "一种手摇蜗轮蜗杆变速箱",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "gwtk201103002",
+      "title": "北约反简易爆炸装置行动",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjtxyxb201809004",
+      "title": "高原铁路无人值守车站临时开办军事运输研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gf201912002",
+      "title": "学习贯彻习近平新时代军队院校教育重要论述",
+      "download_times": 7,
+      "browse_times": 5
+    },
+    {
+      "id": "njzzxyxb201005028",
+      "title": "推进军队院校教育科学发展的指南——学习胡锦涛关于军队院校教育的重要论述",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xxjlcl201912042",
+      "title": "基于Python的数据可视化",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "jsjtxyxb201306024",
+      "title": "近期美军运输技术装备发展特点分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjr-x201611152",
+      "title": "个人投资理财策略选择分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201713032",
+      "title": "大学生投资理财的现状与问题——基于问卷调查数据的分新",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xfdk201801154",
+      "title": "个人理财问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201512238",
+      "title": "浅析新理财环境下个人理财问题",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lnxxgbzz201803027",
+      "title": "成人和青少年法洛四联症矫治术后并发症的观察及护理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jfjjk201905004",
+      "title": "新战友常见训练伤防护策略",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xngxyxb201702010",
+      "title": "腐蚀损伤对Q345钢材力学性能的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jfjtyxyxb201202025",
+      "title": "美国陆军水上生存训练特点及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwtk200911003",
+      "title": "简易爆炸装置及其反制措施",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "gxgaglgbxyxb201505005",
+      "title": "基层民警应对简易爆炸装置的处置实训",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "hgp201205008",
+      "title": "公共汽车内简易爆炸装置爆炸冲击波传播规律研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nyyjjk201904007",
+      "title": "印度教派民族主义析论",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "juanz201918254",
+      "title": "起重机钢丝绳摆幅及有效干涉策略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201835141",
+      "title": "农用水泵及其配套动力的正确选择",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjdkdz-sx201811005",
+      "title": "用习近平新时代中国特色社会主义思想武装头脑是历史发展的必然选择",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcb201413068",
+      "title": "家用震动报警器设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zhxxxgwk201909004",
+      "title": "完全性房室间隔缺损合并法洛四联症或右心室双出口的双心室矫治",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "wlaqjsyyy201909007",
+      "title": "Windows系统安全机制与安全技术分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gcbp201905001",
+      "title": "快速拼装式防爆墙抗侵彻爆炸试验",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "dzxk200704004",
+      "title": "汽车炸弹爆炸下装配式防爆墙弹塑性动力计算与数值分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhongguotl202003018",
+      "title": "计算机联锁工程软件安全生产优化方案",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxdgy201117029",
+      "title": "越军南海守岛装备与菲海军家底",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnm201415008",
+      "title": "如何构建网络环境下的计算机信息安全体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201820047",
+      "title": "信息化战争视角下的军事理论创新",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "ysjswz201806075",
+      "title": "体外预应力桥梁锚固块力学性能分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdtmyjz201910012",
+      "title": "BIM技术在桥梁加固中的力学分析应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjdn201908034",
+      "title": "软件需求分析关键因素及对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ghlc201903005",
+      "title": "习近平新时代人学重要论述探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sicjc201802084",
+      "title": "基于有限元分析的桥梁承台力学性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xazzxyxb201502004",
+      "title": "习近平关于军队干部队伍和人才建设重要论述研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201932404",
+      "title": "深刻把握习近平关于军队院校建设重要思想论述",
+      "download_times": 8,
+      "browse_times": 8
+    },
+    {
+      "id": "sq-zh201652026",
+      "title": "浅议个人投资理财需要注意的问题",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hb-hbdl2015z1014",
+      "title": "浅谈如何构建企业信息安全体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsgkj201216081",
+      "title": "如何构建企业信息安全体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yxmxmr-zx201404679",
+      "title": "训练伤的防治",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nkjwzzzz201205006",
+      "title": "心脏瓣膜置换术后低心排血量综合征的临床研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnxxgbzz201805019",
+      "title": "孕妇吸氧对肺动脉狭窄胎儿的肺动脉及大脑中动脉血流的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sjjjyzzlt201704004",
+      "title": "中国南沙岛礁建设的战略战术博弈",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "slzyjcfh201904007",
+      "title": "钢结构复合防爆墙结构设计与抗爆性分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbshkx200501044",
+      "title": "浅析网络时代的国家安全",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hebgcdxxb200903011",
+      "title": "分置式浮桥的动力学建模与鲁棒容错控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zghs202003013",
+      "title": "致知力行继往开来 推进我国水上搜救能力高质量发展",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "jsjzdclykz201812043",
+      "title": "基于模型驱动的海量数据判读系统研究与实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dpjyqrsxtyy201705020",
+      "title": "STM32和μC/GUI的网络式汽车防盗系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhfck201910005",
+      "title": "63例法洛四联症胎儿的产前诊断及妊娠结局分析",
+      "download_times": 8,
+      "browse_times": 12
+    },
+    {
+      "id": "szhyh201740006",
+      "title": "网络环境下的办公电脑信息安全",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qyzl201903151",
+      "title": "基于网络环境下的办公电脑信息安全分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjywl200708044",
+      "title": "网络环境下办公电脑的信息安全",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcy201207069",
+      "title": "军事工程与军事设施保护对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdgc201906020",
+      "title": "车载照明灯摄像一体化云台的设计",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "bgxb201602026",
+      "title": "基于概率模型的弹道导弹防御系统拦截方案优化与评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzc200601003",
+      "title": "铝合金舟桥结构设计与甲板力学性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "blgfhcl200204017",
+      "title": "复合材料在军用舟桥装备中的应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dkj201608143",
+      "title": "简议岩土工程勘察的必要性及其作业要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyyxzz201003023",
+      "title": "高原非战争情况下大规模军事行动急性高原病的防治探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xzkj200712016",
+      "title": "红景天胶囊的研制及其在高原军事医学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201510014",
+      "title": "基于Android平台的便携式工作记忆训练系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yyqdymf201912016",
+      "title": "液压控制回路的改进",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgnk201908035",
+      "title": "走进上甘岭",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dqpj201318043",
+      "title": "试论手机软件界面设计的原则及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201820160",
+      "title": "手机游戏人机交互界面设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201922016",
+      "title": "蜗轮蜗杆自动升降火锅的设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gcslyy200706013",
+      "title": "玻璃钢/钢复合结构舟桥模型力学性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zghs201912035",
+      "title": "2019年 搜长江干线水上联合救演习成功举行",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zncs201808031",
+      "title": "现阶段岩土勘测技术在施工作业中存在的问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201932404",
+      "title": "深刻把握习近平关于军队院校建设重要思想论述",
+      "download_times": 8,
+      "browse_times": 8
+    },
+    {
+      "id": "junssl200608011",
+      "title": "简易爆炸装置愁坏驻伊美军",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jfjjk200402009",
+      "title": "肌肉训练伤的防治",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201927062",
+      "title": "浅谈游戏开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xwyjdk201609024",
+      "title": "电子竞技中游戏文化的符号输出--以《英雄联盟》英雄角色为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fmygx201908036",
+      "title": "老虎皮毛为何是橘黄色",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "clgc201601015",
+      "title": "菱形加载路径下35CrMoA钢的微动疲劳行为",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "clgc201602001",
+      "title": "吹砂、抛光及其电解腐蚀后处理对单晶高温合金表面组织和再结晶行为的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjsygl201912037",
+      "title": "仿真技术用于实验教学改革的思考与实践",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "dnbcjqywh202001007",
+      "title": "基于Python的专业英语翻译器实现",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201923032",
+      "title": "个人应如何进行投资理财规划",
+      "download_times": 10,
+      "browse_times": 20
+    },
+    {
+      "id": "heihxyxb201811034",
+      "title": "浅谈大学生投资理财现状及改进措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xfdk201918228",
+      "title": "我国居民个人投资理财规划的策略探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201921084",
+      "title": "安徽省利辛县农村居民投资理财现状及对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyyhj201703019",
+      "title": "关于GB/T17116.1-1997与GB150-1998碳素钢许用应力的对比",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201701049",
+      "title": "计算机网络如何构建安全防护体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sykjxx201504052",
+      "title": "对开展海上物体漂移轨迹模拟研究的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz2016070711",
+      "title": "如何构建网络环境下计算机的信息安全体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syjlr201924070",
+      "title": "关于居民家庭理财状况分析 ——以东阿县为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njcm201811065",
+      "title": "教你学会这些独门理财秘籍",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhj201617040",
+      "title": "新信息技术条件下经管类仿真模拟实验室建设创新与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjsysj200807032",
+      "title": "浅埋装配式防护工事荷载计算方法的研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sj-kjzh201012020",
+      "title": "浅谈挡土墙施工作业",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwtk201709009",
+      "title": "2017年印度军事力量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhdd200604010",
+      "title": "钻地武器对地下工事的毁伤与主动防护措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcy201305042",
+      "title": "高原寒区非战争军事行动野营保障刍议",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xtgcydzjs202003020",
+      "title": "地空导弹装备高原训练安全风险评估",
+      "download_times": 10,
+      "browse_times": 5
+    },
+    {
+      "id": "sxkj201901012",
+      "title": "关于起重机钢丝绳摆幅与干涉的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yyyqd201910023",
+      "title": "基于PLC控制的气压式家用电梯设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syeklczz200719032",
+      "title": "婴幼儿先天性心脏病术后处理及监护",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hgzy201410118",
+      "title": "74例低体重婴幼儿先天性心脏病手术后PICU监护疗效分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201736002",
+      "title": "网络环境下的办公电脑信息安全研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201703041",
+      "title": "基于网络环境下的办公电脑信息安全",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzx200812093",
+      "title": "网络环境下办公电脑的信息安全",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwtk200911006",
+      "title": "我们将战胜简易爆炸装置——采访美军托马斯·麦茨中将摘译",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sz-sxk201936239",
+      "title": "蜗轮蜗杆传动的常见失效形式及解决方法",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "cstdxyxb201809014",
+      "title": "整体式桥梁力学性能的关键参数分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqjtxyxb202001001",
+      "title": "基于场景驱动的交通信号控制一体化仿真平台设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj201822261",
+      "title": "江河堤防隐蔽工程的施工技术探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bp201703028",
+      "title": "快速拼装式防爆墙消波性能数值模拟研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ahjzgyxyxb201906001",
+      "title": "刚性防爆墙对4种典型街道内爆炸波的防护作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201915034",
+      "title": "快速拼装式防爆墙消波性能试验研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zgxxh201910024",
+      "title": "浅谈企业网络信息安全体系的构建",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjzdclykz201208030",
+      "title": "基于变传动比的线控转向前轮转角控制",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wszyjy201913011",
+      "title": "武警部队卫生士官教育教学转型的问题与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz200504001",
+      "title": "未来指挥所发展展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsy201908024",
+      "title": "一种适合军民融合发展的动力舟桥",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia201910008",
+      "title": "手机APP界面设计分析",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "znglgc202001017",
+      "title": "全FRP车行桥梁结构设计与分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfjz201903006",
+      "title": "受移动荷载作用的高墩桥跨结构模型优化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shej201306136",
+      "title": "生命吸管",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzlxxcy201936203",
+      "title": "舟桥部队训练伤发生原因分析及防护",
+      "download_times": 11,
+      "browse_times": 7
+    },
+    {
+      "id": "jmlyjsycp201620232",
+      "title": "浅析创新驱动士官教育转型升级发展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xjj201317052",
+      "title": "创新驱动士官教育转型升级发展研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "kxyxxh201833015",
+      "title": "信息化战争装备保障动员的对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhjsxy200501009",
+      "title": "加快装备保障信息化建设的几点思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yyqdymf201907008",
+      "title": "电动液压缸智能动力控制系统设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jfjjk201904010",
+      "title": "柔韧性肌肉训练 对训练伤的防治",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yinsbj201934107",
+      "title": "训练伤的预防措施",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "lcyydzzz201972170",
+      "title": "基层部队训练伤防治方法分析与解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wnyxyxb200601012",
+      "title": "法洛四联症根治术12例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfxgbzz201904020",
+      "title": "法洛四联症根治术中左肺动脉狭窄的处理",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsysc201809036",
+      "title": "拉哇金沙江下游索桥桥跨结构施工",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwtk201212006",
+      "title": "SMSS将承担反简易爆炸装置任务",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dzlp201701009",
+      "title": "现代战争特点及军事地质调查",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "qcgc202001018",
+      "title": "汽汽车后视镜气动噪声优化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jxgys201605025",
+      "title": "ZK蜗杆传动系统的参数优化设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hlyzhkz200102003",
+      "title": "空中突击兵力使用方案的优化方法",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hdcbgyxy200406018",
+      "title": "舟桥结构用铝合金力学性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsysc202002058",
+      "title": "60 Si2 MnA弹簧钢材料零件加工",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgqkyx201526021",
+      "title": "主动脉标化的儿童室间隔缺损与肺动脉宽度的相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxywh201601003",
+      "title": "微观决策的政治——爱德华·斯诺登、网络中立性和互联网的体系结构",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjsxy200401008",
+      "title": "信息化战争对装备保障的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gcjxywx201710039",
+      "title": "手动液压钳改进为电动液压钳的方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjcyj201605013",
+      "title": "钢板/凯夫拉层合结构爆炸响应数值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzyqjyxxjs201911035",
+      "title": "基于APP及距离传感器的手机自防盗系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jscxgy201909020",
+      "title": "某型舟桥装备驾驶室采暖除霜改进",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc202006079",
+      "title": "桥梁设计中钢结构的完整性设计方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gf200601012",
+      "title": "利用民船架设简易浮桥的实践与思考",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qcgc201409011",
+      "title": "多行星排机电复合传动特性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201930358",
+      "title": "浅谈如何防治训练伤",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jkjyyjkcj202001027",
+      "title": "法洛四联症患儿术后照顾者健康教育需求分析",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "hqsgkj201925003",
+      "title": "下承式系杆拱桥合理吊杆力初步确定的方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjzl201904019",
+      "title": "18.4毫米气动高能量可控防暴发射器:集非致命处置与致命打击于一体",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gkjxwyyy200304046",
+      "title": "轻质复合材料防弹板",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "slgc201906009",
+      "title": "基于模糊自适应PID控制的气动伺服系统位置控制",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fhclxb201905024",
+      "title": "多层异质复合结构的动力学响应及抗侵彻性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs200803014",
+      "title": "复合材料壳体弹道侵彻数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cyykjlt201809139",
+      "title": "新信息技术条件下经管类仿真模拟实验室建设创新与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dswz201720119",
+      "title": "信息化战争装备保障的三个思维转变",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sgqygl202003002",
+      "title": "十天十夜火神山",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jcjzzx201923108",
+      "title": "浅谈装配式建筑的优缺点",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs202011069",
+      "title": "中国装配式建筑的现状以及在住宅建筑中的运用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "scsn202002283",
+      "title": "装配式建筑的发展及优势",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "rjdk-jyjs201911011",
+      "title": "高校混合学习绩效的提升路径探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scsn202001116",
+      "title": "隧道二次衬砌影响因素分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jzjs201911007",
+      "title": "CRD法初支完成后二衬施工步序选择",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdjyyjxb201904018",
+      "title": "陆军军事职业教育现状分析与对策研究——以'光通信'系列在线课程为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "junssl201310003",
+      "title": "上甘岭战役中的炮兵",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "gcjsysj201922042",
+      "title": "隧道二次衬砌厚度不足及脱空原因分析与整治措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scsn202001267",
+      "title": "浅析公路隧道二次衬砌开裂原因及机理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "junssl201104002",
+      "title": "抗美援朝战争中坑道工事的作用",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "snsn201934029",
+      "title": "美国人为什么会拿不下上甘岭",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yycyzx202010050",
+      "title": "基于信息化环境的同步实践教学模式下内科护理学临床见习教学效果分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt201952099",
+      "title": "虚实结合教学模式在雷达装备实践教学中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scjzkxyj202001001",
+      "title": "压型钢板混凝土加固混凝土板承载力计算分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xjysjs201203038",
+      "title": "玻璃钢冷却塔风机的维护与检修",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsysc200908016",
+      "title": "浅谈玻璃钢游艇的维护",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "qgsj201409080",
+      "title": "玻璃钢船艇的防蚀与维护研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjs201910023",
+      "title": "隧道二次衬砌质量控制新技术",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjy-j201601170",
+      "title": "装备保障类课程实作教学模式的改革与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsk201401014",
+      "title": "高职高专课程教学模式的设计与创新——《煤化工装备操作与维护》课程教学模式的设计与创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qyzl201902227",
+      "title": "浅析装配式建筑的发展方向",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slfzyj201809001",
+      "title": "深刻认识当前我国水安全呈现出新老问题相互交织的严峻形势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzlxxcy201936203",
+      "title": "舟桥部队训练伤发生原因分析及防护",
+      "download_times": 11,
+      "browse_times": 7
+    },
+    {
+      "id": "xxtcl200702008",
+      "title": "微孔结构与表面改性对活性炭吸附储氢能力的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjzm201808013",
+      "title": "江麓集团履带式自行舟桥喜获第十二届北京发明创新大赛金奖",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gfjtgcyjs201903001",
+      "title": "某舟桥作业车的设计开发",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "qgsj201622052",
+      "title": "一种新型垃圾收集提升填装装置的研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmzfzy202011112",
+      "title": "浅析发展农机合作社与推广农机技术措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgsjtx201912128",
+      "title": "玻璃钢制品在环保领域的应用及发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjx200807005",
+      "title": "漕渡门桥介绍",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxjc201911018",
+      "title": "隧道二次衬砌质量问题及防治措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zzfzgxyxb201906005",
+      "title": "碳纤维增强钢板弹簧力学特性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx200622136",
+      "title": "土方量计算方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "txjs201904035",
+      "title": "地面指挥所电磁安全问题与防护建议",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "scsn201911320",
+      "title": "公路隧道二次衬砌脱空原因分析及防治措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyj201706004",
+      "title": "坚持高标准和守底线相统一",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gfjtgcyjs200702010",
+      "title": "基于GSM的浮桥远程监测系统设计初探",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "glyqy201502042",
+      "title": "钢筋砼简支梁斜截面抗剪承载力计算方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsbgc201913059",
+      "title": "卡特C系列柴油机打气泵打气慢的原因分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzz201811022",
+      "title": "气泵电机橡胶减振垫减振性能的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qnsd201933042",
+      "title": "底线思维的思维特征及实践要义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scgyxyxb201905004",
+      "title": "地锚式斜拉-悬索协作体系桥竖弯振动基频计算公式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ckjs201809015",
+      "title": "某雷达维修训练模拟器的设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "txsj202004113",
+      "title": "虚实结合教学模式下的实践教学质量评价体系研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jskj201619018",
+      "title": "国外发展装配式建筑的实践与经验借鉴",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdjyzb201909034",
+      "title": "推进军队院校教学科研条件建设的几点思考",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "beijny201229017",
+      "title": "美国人为什么会打不下上甘岭",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lxysj201904009",
+      "title": "等截面金属弯钩极限承载力计算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cldb201920014",
+      "title": "加筋木-混凝土组合梁承载力计算及尺寸设计方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "htfhyyg201606001",
+      "title": "视觉信息辅助无人机侦察目标定位技术研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zggxyyygxwz201805012",
+      "title": "无人机侦察多目标实时定位技术研究",
+      "download_times": 9,
+      "browse_times": 7
+    },
+    {
+      "id": "csjsllyj2016155903",
+      "title": "膜分离法污水处理技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shtl200808007",
+      "title": "喷涂聚脲涂料在混凝土结构表面保护领域的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202005071",
+      "title": "浅析高速铁路隧道二次衬砌用注浆剂的研究现状及趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjsysj200807032",
+      "title": "浅埋装配式防护工事荷载计算方法的研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc202001083",
+      "title": "基于BIM的装配式建筑技术在汉瑶民族建筑修建中调查研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "scsn202001259",
+      "title": "装配式建筑发展现状与前景",
+      "download_times": 5,
+      "browse_times": 11
+    },
+    {
+      "id": "jzgc202005088",
+      "title": "装配式建筑的应用优势研究——以武汉军运会为例",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "yyyqd201407001",
+      "title": "海上救助抛绳装备研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcsjs201610010",
+      "title": "HRB500钢筋混凝土梁静动态受弯承载力试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tianjdxxb200001012",
+      "title": "椰壳炭制备高表面活性炭活化方法比较",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "nmzfzy202011118",
+      "title": "新形势下农机新技术推广工作研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scslfd201806004",
+      "title": "隧道二次衬砌混凝土顶拱带模回填注浆施工技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyyhj201904045",
+      "title": "核动力破冰船的发展前景展望",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "cqjtxyxb202003009",
+      "title": "基于静力学理论的地下水浮力研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxyts201910018",
+      "title": "制造业出口竞争力的国际比较——基于'性价比'视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjsy201914020",
+      "title": "千岛湖库区玻璃钢快艇的维护与安全管理",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jmlyjsycp201822082",
+      "title": "浅谈玻璃钢船艇的维护与保养",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxdjyzb201821003",
+      "title": "海军士官新装备教学保障条件建设研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsls201701005",
+      "title": "抗美援朝战争战役指导的基本经验",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "wcyk201905166",
+      "title": "无人机侦察图像情报处理关键技术研究",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "spkx200012063",
+      "title": "膜分离技术在食品工业中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zjnykx202001054",
+      "title": "超滤/反渗透双膜法在印染废水深度处理中的应用",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "hbhg200505016",
+      "title": "膜分离技术在重金属废水处理中的应用",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hxgyygc201004014",
+      "title": "反渗透膜技术研究和应用进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "bp201503032",
+      "title": "新型拼装式防爆墙研究的若干进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "slgy201911027",
+      "title": "硬度法测量环氧玻璃钢固化程度的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201625094",
+      "title": "基于虚拟仿真实验室的电气工程专业教学改革研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "kxjsygc202007055",
+      "title": "一种虚实结合舰船辅锅炉维修模拟训练考核平台的研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjtxyxb202001010",
+      "title": "基于节线法的地锚式悬索桥缆形计算分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gcjsysj201917062",
+      "title": "铁路隧道二次衬砌脱空施工方案研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201206028",
+      "title": "带式浮桥变形全自动监测报警系统设计与实现",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mkaq202001052",
+      "title": "矿井水库煤柱坝体力学性能分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjgydxxb201906005",
+      "title": "汽车球铰的力学性能分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shjn201910004",
+      "title": "国外装配式建筑研究综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjdzyc201903005",
+      "title": "《2008年汶川地震:灾难剖析》 第一章:汶川地震",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "jzjsjsj202003005",
+      "title": "装配式传染病应急医院设计与建造的关注点——武汉火神山医院设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwtk201709011",
+      "title": "印军炮兵现代化建设",
+      "download_times": 8,
+      "browse_times": 5
+    },
+    {
+      "id": "yjck201802050",
+      "title": "隧道二衬带模注浆施工技术应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zjjtzyjsxyxb201701008",
+      "title": "玻璃钢游艇胶衣的DIY维护保养研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jxjy201503025",
+      "title": "浅谈空军军事职业教育管理存在的问题及对策",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjldxyxb201604017",
+      "title": "美军运用大数据促进军事职业教育的做法及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz201908198",
+      "title": "论教育信息化新阶段对我国军事职业教育的影响及对策",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shanxjz202009013",
+      "title": "装配式建筑的特点与设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "rhymf201703020",
+      "title": "活塞式气泵新型耐磨材料研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnxzxyxb201602001",
+      "title": "把握全面从严治党的“两条线”",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kx24xs202002006",
+      "title": "核动力汽车:科幻还是现实",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dgzk201220260",
+      "title": "导致训练伤的原因及对策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "spyzl201609007",
+      "title": "电梯油压缓冲器性能优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjzzx201712057",
+      "title": "浅析影响沥青路面平整度的因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxfzdx-x201810003",
+      "title": "混凝土装配式建筑抗震性能的比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tdjz201611018",
+      "title": "石林隧道二衬背后脱空注浆处治技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy201923029",
+      "title": "底线思维下高校文化育人探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zw201911041",
+      "title": "绿色发展既是底线也是高线",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsy201908024",
+      "title": "一种适合军民融合发展的动力舟桥",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "tdzs200403021",
+      "title": "着眼实战与时俱进--舟桥处注重战备正规化建设",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202006118",
+      "title": "新型农业生产技术和农机具应用探讨",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yyyqd201104004",
+      "title": "一种新型液压驱动式提升装置的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjzh200907089",
+      "title": "一种新型发电机定子提升装置",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201919058",
+      "title": "大瑞铁路隧道二衬拱顶防脱空施工技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201620032",
+      "title": "肩部和腰部等效作用参数对武器射击稳定性影响作用的仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl2017z1044",
+      "title": "军校装备综合训练实验室建设实践与探索",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "tdjz201706006",
+      "title": "钢板加固简支梁桥静载试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncdxxb-gk200803017",
+      "title": "锈蚀钢筋混凝土简支梁受剪承载力计算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt202010030",
+      "title": "生态建设:眼望'生态高地'守住'生态底线'",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfdxx201915022",
+      "title": "国外装配式建筑发展对我国的启示",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwxd201711042",
+      "title": "无人机侦测技术方法研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "kjf201932009",
+      "title": "无人机自主巡航与信息目标侦测打击",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xbtkgc202002056",
+      "title": "公路隧道二衬混凝土防脱空施工技术研究",
+      "download_times": 11,
+      "browse_times": 6
+    },
+    {
+      "id": "wsjh201209006",
+      "title": "《上甘岭笔记》惊现石家庄",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxdgy202004020",
+      "title": "10天完工火神山医院背后的秘密",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "txt201806016",
+      "title": "聚脲涂料在多领域的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zggckx201806002",
+      "title": "工程科技颠覆性技术战略研究项目综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fmycx-xsb201905015",
+      "title": "电动打气筒",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jckxjs201904026",
+      "title": "新型舰载刚性充气艇艇型设计研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "qcwx201901024",
+      "title": "纯电动客车打气泵的故障诊断与保养",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdnj200901008",
+      "title": "多用途便携充气泵设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qzysjx200911017",
+      "title": "吊钩4×90°旋转定位的改进设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx201709083",
+      "title": "浅谈玻璃钢管道的维护施工工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201802040",
+      "title": "玻璃钢船艇的防蚀与维护研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "scljs200901002",
+      "title": "芳香聚酰胺类反渗透膜的研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcj202004026",
+      "title": "锚地转级",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hhslzyjsxyxb201903013",
+      "title": "高职院校实训教学条件建设标准研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qyzl201849108",
+      "title": "装配式建筑发展研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghgy201911009",
+      "title": "俄核动力破冰船剑指北极",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "qbq201304002",
+      "title": "印军步兵武器装备与发展全揭示",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jfjjk201701004",
+      "title": "四肢常见训练损伤防治",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syhgyy201912022",
+      "title": "反渗透膜基膜的制备及研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "qywm202002007",
+      "title": "火神山的10天10夜",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gysj201804080",
+      "title": "超轻充气式口袋漂流船",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jckxjs201812035",
+      "title": "国外舰载刚性充气艇技术现状及发展趋势",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hjyxzz201804003",
+      "title": "两种快速上浮脱险充气装置的分析比较",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjtxyxb201702017",
+      "title": "我军军事终身教育体系构建研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxfzdx-x202001165",
+      "title": "装配式建筑发展前景与造价研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdxx201935028",
+      "title": "浅谈预制装配式建筑",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs202004043",
+      "title": "装配式建筑中保温材料的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl202005189",
+      "title": "国内外装配式建筑发展研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201726103",
+      "title": "浅谈玻璃钢船艇的养护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgxb202002004",
+      "title": "抗污染芳香聚酰胺反渗透膜研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jdjs201805030",
+      "title": "基于ANSYS的电梯层门门扇强度检测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sljsygl201707006",
+      "title": "基于SolidWorks和ANSYS Workbench的平面钢闸门三维有限元分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyxlt202009011",
+      "title": "法洛四联症根治术后患儿重症监护室滞留相关危险因素分析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "gfjtgcyjs200401006",
+      "title": "军用运输车辆变形迷彩伪装存在问题及对策研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gdhg201412058",
+      "title": "高寒地区冬季中深孔台阶爆破施工技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yxmxmr18202006128",
+      "title": "经右腋下小切口先天性法洛四联症的手术护理配合",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hljkx201801010",
+      "title": "旋翼无人机在水上救援中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huangj200905008",
+      "title": "高寒地区露天矿山冬季生产问题的探讨",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "bp200204028",
+      "title": "新疆高寒砾岩地区复杂环境下爆破震动研究与测试",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dwytq201904039",
+      "title": "一种高压气瓶自动抽真空与充装的方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ldbh202003027",
+      "title": "气瓶常见安全隐患",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jckxjs201503019",
+      "title": "船用水下钻孔与抽油一体化设备",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201418035",
+      "title": "水体防爆墙和混凝土防爆墙对爆炸冲击波的消减效应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zxyjhxxgbdzzz202004048",
+      "title": "法洛氏四联症一期根治术后早期急性肺损伤相关危险因素探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zzyzdh201516024",
+      "title": "一种基于可摆动吸盘的多用途高效真空吸取器设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnkj201707044",
+      "title": "水上自动救援智能机器人",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfxkh2017z1015",
+      "title": "防汛抢险水上救援常用装备及使用",
+      "download_times": 4,
+      "browse_times": 9
+    },
+    {
+      "id": "xdsmgy201002152",
+      "title": "信息化战争中无人机的作战用途及发展趋势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjsyyj201703002",
+      "title": "联合国术语库建设及其对中国术语库建设的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx201701146",
+      "title": "ANSYS在阀门研发中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fhgc201906006",
+      "title": "侵爆战斗部对多层间隔防护门侵彻能力分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201706023",
+      "title": "直坑道内防护门上的爆炸冲击波荷载",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjjyx2018z1396",
+      "title": "分析小儿法洛四联症临床及应用基础",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj201923212",
+      "title": "乙炔气瓶与氧气瓶的隐患分析与安全使用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjsysj201721061",
+      "title": "爆破振动监测在高寒地区水电站边坡开挖中的应用",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201701016",
+      "title": "辅助气囊对自行门桥水动力性能影响的数值计算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjs201701051",
+      "title": "BDS-RTK在军用道路测量中运用的可行性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mkjx200912003",
+      "title": "2种圆柱齿轮接触强度计算的比较与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsj200811016",
+      "title": "标准直齿圆柱齿轮传动接触强度计算的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj202009002",
+      "title": "爆炸冲击波超压加载伪随机网壳的分布规律研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201923333",
+      "title": "洗气瓶的设计改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjsyyj201805005",
+      "title": "面向翻译的船海核相关专业汉英俄术语库建设研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bp201703028",
+      "title": "快速拼装式防爆墙消波性能数值模拟研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sz-sxk201929210",
+      "title": "中国军用无人机的发展历程与未来展望",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hunnj202002020",
+      "title": "浅谈无人机侦察监视的手段与方法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsj200010018",
+      "title": "标准圆柱齿轮设计中齿数的一种确定方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh201104046",
+      "title": "直齿圆柱齿轮参数化设计及有限元分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz202002019",
+      "title": "ANSYS Workbench的人字闸门底枢接触应力有限元分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ysjswz201902030",
+      "title": "基于中深孔爆破法的金矿开采研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202011121",
+      "title": "关于破冰船技术及集中破冰方法的研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "dzzl201903005",
+      "title": "基于抛掷爆破的爆破作业能力计算与分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "mtgc201809041",
+      "title": "新型带式输送机调偏装置的结构设计与分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zggxjsqy-z201511038",
+      "title": "标准直齿圆柱齿轮强度可靠度计算实例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy202003086",
+      "title": "基于虚拟现实技术的武器装备远程维修保障系统研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhx202002029",
+      "title": "特殊灾害环境生存保障装备体系构建方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201915034",
+      "title": "快速拼装式防爆墙消波性能试验研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "bjlgdxxb201910008",
+      "title": "基于空中爆炸冲击波的动态爆心定位方法研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xbtkgc200703056",
+      "title": "高原高寒地区隧道光面爆破施工技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zggtfhzb200203019",
+      "title": "救生衣浮力材料概述",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgglyl201805003",
+      "title": "气瓶充装方式思考与创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202012082",
+      "title": "美军弹药信息化保障给我军的启示",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgmhfxxyxb202003013",
+      "title": "民航术语翻译实践的语料库途径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdnj200310002",
+      "title": "圆柱齿轮参数计算及接触疲劳强度校核程序设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs201911019",
+      "title": "圆柱齿轮传动设计方法研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xmdxxb202002013",
+      "title": "中文词语内部层次结构标注语料库的建立",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs202004022",
+      "title": "装备维修器材军民融合供应保障模式探索",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "hqsc201708065",
+      "title": "一种铁路隧道防护门",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dianxjs201906021",
+      "title": "多无人机协同侦察任务规划方法研究综述",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "kyyjykf200503005",
+      "title": "高寒地区采矿实践",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xfkxyjs201407007",
+      "title": "消防呼吸气瓶快速充气方式动力学特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yyqdymf201712009",
+      "title": "一种充气装置设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc202004059",
+      "title": "基于计算流体力学的空中回收锥套气动特性分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lxysj202001008",
+      "title": "竖向载荷作用下框架结构力学模型的简化与计算",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cdqxxy201903011",
+      "title": "基于区块链的药品溯源追踪方案研究设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jqrcy202002004",
+      "title": "疫情防控: AI价值及应用场景分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "dwytq201606017",
+      "title": "气瓶阀门拆卸装置和系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ccgxjmjxxyxb201904004",
+      "title": "双凸轮和不完全齿轮传动机构设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hlyzhkz202003025",
+      "title": "基于云模型的航空装备维修保障能力评估",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "gcjsysj201919039",
+      "title": "隧道防护门的力学分析与布置工艺研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201703015",
+      "title": "提高强冲击荷载作用下平板式防护门门框墙抗力的方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201923015",
+      "title": "基于ANSYS的MQ2533门座式起重机门架结构有限元分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scbgxb201803012",
+      "title": "分布式多无人机协同侦察目标分配研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc202012082",
+      "title": "美军弹药信息化保障给我军的启示",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "shihjs202004056",
+      "title": "煤矿机械传动齿轮失效形式分析及改进措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201906011",
+      "title": "动基地多无人机协同侦察问题研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh202002011",
+      "title": "基于WSR方法论的装备保障能力评估需求",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ckjs202003001",
+      "title": "智能装备新型测试保障模式——无人化测试",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxjsxb201903010",
+      "title": "多无人机多目标协同侦察航迹规划算法",
+      "download_times": 9,
+      "browse_times": 5
+    },
+    {
+      "id": "xdky201603011",
+      "title": "用深孔爆破法拆除井筒保护岩柱",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ckjs201508037",
+      "title": "无人机地空信道迭代接收机策略设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dianxjs202001006",
+      "title": "无人机地空信道模型仿真与特性分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hljjy-llysj202008035",
+      "title": "研究生翻转课堂英语学习兴趣及教学模式改进",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "qxxb201501008",
+      "title": "青藏高原地表气压拖曳的估算及其特征分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdld202003004",
+      "title": "基于改进ADC模型的反导预警雷达作战效能评估",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "lngxyxb-shkx202003034",
+      "title": "'互联网+'背景下的 研究生英语混合式教学模式",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyy-z202006032",
+      "title": "高校硕士研究生英语学习观的调查及教学启示研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shanxnj202003035",
+      "title": "运用TRIZ创新理论解决旋耕机刀轴发热问题的实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201929337",
+      "title": "基于无人机的无线图像传输系统构建",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hunannydx202002018",
+      "title": "基于知识工程的旋耕机刀辊的快速设计系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgxmkx201608030",
+      "title": "内蒙古阿里河地区近30年冻土变化特征分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scqx201601005",
+      "title": "2000～2014年西藏高原积雪覆盖时空变化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gtzyyg201604030",
+      "title": "2013-2014年西藏阿里西部地区雪被覆盖遥感动态监测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjldxyxb202001016",
+      "title": "运用产出导向法的军事英语课程教学模式",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "nfny201709061",
+      "title": "阿里地区近30年气温与降水变化特征分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahny200803143",
+      "title": "阿里河地区36年气温变化特征及分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjxk201922035",
+      "title": "'混合对分'模式下的高效军事英语听说课程设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjyyj202003027",
+      "title": "高职大学英语线上线下混合式教学设计探讨",
+      "download_times": 10,
+      "browse_times": 10
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb201912044",
+      "title": "基于专业方向定制的军事学研究生英语教学探究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scwyxyxb202001019",
+      "title": "情绪智力与口译研究——以几个特殊领域的口译为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jyjxlt202024073",
+      "title": "非英语专业硕士研究生课程全英语教学模式改进初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shzdxxb201806020",
+      "title": "《石河子大学学报(自然科学版)》征稿简则",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxjc202005054",
+      "title": "装配式建筑在应急工程项目中的发展前景 ——以火神山、雷神山医院为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jcfzdx202005137",
+      "title": "装配式建筑的现状与发展——火神山的背后",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hb-hbdl201805008",
+      "title": "变电站装配式钢结构建筑防火措施选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201801010",
+      "title": "无人机下行通信数据传输信号同步设计研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxyxxh202001027",
+      "title": "无人机测控通信系统中智能天线技术分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyzs202013124",
+      "title": "基于无人机+远程信息传输技术项目管理应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjzl202009085",
+      "title": "ESP视域下的军事英语教学现状分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fxcsxb202003024",
+      "title": "翻译理论下化工英语特点与翻译策略——评《化学化工英语》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lngzxb202004008",
+      "title": "混合式教学在职业教育教学中的应用",
+      "download_times": 9,
+      "browse_times": 9
+    },
+    {
+      "id": "zgsjtx201909177",
+      "title": "MOOC对研究生军事英语教学转型的促进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahyx202004037",
+      "title": "混合式教学模式在口腔本科教学中的应用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh202001002",
+      "title": "基于RIMER的特种破袭战斗装备作战效能评估方法",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "sdhg202008059",
+      "title": "基于火神山医院的装配式建筑和BIM技术浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl202011037",
+      "title": "养殖业专业英语翻译策略分析——评《畜牧英语》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytgcj201809009",
+      "title": "喀喇昆仑天文点地区辉长岩锆石U-Pb年代学、地球化学特征及其构造意义",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jmsjyxyxb202003055",
+      "title": "基于翻转课堂模式下的军事英语教学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianxjs200810027",
+      "title": "多无人机测控与信息传输系统的技术与发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201933024",
+      "title": "无人机测控与信息传输技术发展综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmlyjsycp201716038",
+      "title": "无人机测控与信息传输技术发展的分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmzfzy202011126",
+      "title": "旋耕机正确作业方法与使用调整技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmzfzy202017103",
+      "title": "小型农用机械旋耕机的使用方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjglyj202009038",
+      "title": "基于核心素养的科技英语研究生教育培养探索——评《科技英语综合教程》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hljjy-llysj202007038",
+      "title": "研究生英语跨文化教学引发的思考与对策",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "whzc201805033",
+      "title": "一种液压插销升降装置电控系统设计及应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj202008011",
+      "title": "某多功能旋耕机传动系统与液压系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201912037",
+      "title": "基于FMECA方法的旋耕机可靠性分析",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjx202001029",
+      "title": "拖拉机如何选配旋耕机",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hykfygl201803013",
+      "title": "装配式钢结构被动房在岛礁工程独立房屋中的应用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjs202006020",
+      "title": "混合式智慧课堂教学模式初探",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkjzh201906055",
+      "title": "装配式建筑成本分析及降低措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gjxk201921030",
+      "title": "翻转课堂模式下的军事英语教学探究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201832045",
+      "title": "无人机系统信息传输技术分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxdgc201403005",
+      "title": "无人机测控与通信系统信道传输特性研究",
+      "download_times": 3,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [
+    {
+      "id": "xdxxkj201922028",
+      "title": "未来战争形态下我军工程装备发展方向研究",
+      "download_times": 8,
+      "browse_times": 14
+    },
+    {
+      "id": "QKBJB20192020011000003032",
+      "title": "装配式施工未来发展趋势",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200101686845",
+      "title": "国外防护工程简介(二)-美国北美防空司令部夏延山地下指挥中心",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "binggkj200712021",
+      "title": "奢华'地堡'——台湾构筑世界最庞大地下防御工事",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj200905013",
+      "title": "制式装配式野战工事的'三化'探讨",
+      "download_times": 0,
+      "browse_times": 8
+    },
+    {
+      "id": "gbzbyj200602001",
+      "title": "79式特种舟桥与民船架设混合浮桥设计方案",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201106017",
+      "title": "装配式工事在边防阵地工程建设中的应用探讨",
+      "download_times": 0,
+      "browse_times": 9
+    },
+    {
+      "id": "jzgcjsysj2016190567",
+      "title": "重型机械化桥架设前的桥头软土地基处理技术",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "csjsllyj201409742t",
+      "title": "六七式铁路舟桥活动栈桥拼组架设技术小结",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh-bgsbygc201622017",
+      "title": "研究生学员管理信息系统",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj200403004",
+      "title": "重型机械化桥桥脚的计算与试验研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zght200510011",
+      "title": "美国四大司令部的『神经中枢』--夏延山地下指挥中心",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "QKBJB20192019122600003114",
+      "title": "装配式建筑设计研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dzgcygczd200502013",
+      "title": "无伸缩缝桥梁的动力特性计算与试验研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jrng201501051",
+      "title": "各国“地下堡垒”揭秘",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gjtk200012003",
+      "title": "访美国航天司令部夏延山地下监控中心",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hkgcywx201910010",
+      "title": "美军装备维修保障模式分析",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "jzgc201930098",
+      "title": "军工产品研制'三化'理念在装配式 建筑优化中的应用",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "jxglkf201808079",
+      "title": "基于VR技术的某型舟桥训练模拟器研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "gbzbyj201103002",
+      "title": "混合门桥或浮桥段的内力和变形计算",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xxjzcl200105021",
+      "title": "信息与文摘",
+      "download_times": 13,
+      "browse_times": 47
+    },
+    {
+      "id": "xbgydxxb201905021",
+      "title": "无人船航向闭环成形滤波L2增益鲁棒控制",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj201101007",
+      "title": "论舟桥的混合架设技术",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201718030",
+      "title": "基于Android平台的移动APP开发方法与应用研究",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "gbzbyj201902002",
+      "title": "对自主武器系统建设发展的思考",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "gbzbyj201902001",
+      "title": "两栖冲击桥军事需求分析及装备发展设想",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gbzbyj201701011",
+      "title": "冻土表面红外加热温升模拟分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dxjs201906017",
+      "title": "基于智能手机终端的家庭宽带资源清查系统",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjxx-xsb200830215",
+      "title": "美军阵地工程防护研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "QK200502385471",
+      "title": "转型中的美国陆军工程兵建设与发展概述",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QKC20172017042100183755",
+      "title": "美军工程兵机场跑道修复过程",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "csjsllyj201226688",
+      "title": "工程兵遂行抢险救灾行动指挥体系构建分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gbzbyj201802005",
+      "title": "一种参数化振动控制挖掘作业系统试验研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dnbcjqywh201409008",
+      "title": "基于Android平台的APP设计与实现",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fhgc201901001",
+      "title": "装甲陶瓷复合靶体抗侵彻性能试验研究",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "gbzbyj201802002",
+      "title": "基于刚度的制式路面分类及保障性能特点浅析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj201802003",
+      "title": "冲锋舟舟体及人员防护技术途径探讨",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gbzbyj201804013",
+      "title": "美国陆军的野战支援旅",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxjxyzb201703021",
+      "title": "Android平台恶意APP的检验方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx201917070",
+      "title": "基于Android的植保服务平台的研究与实现",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xxydn201622010",
+      "title": "余承东:智能手机将变成智慧手机大数据处理能力将远超人类",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhiy202002040",
+      "title": "基于MUI的跨平台移动App开发研究 ——以'网页设计App'为例",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "ahjz201910084",
+      "title": "弹性波CT技术在桥梁混凝土结构无损检测中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201806011",
+      "title": "弹性波CT技术在防护工程混凝土质量检测中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201930098",
+      "title": "军工产品研制'三化'理念在装配式 建筑优化中的应用",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "QKC20172017112900018438",
+      "title": "工程兵的角色担当",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hnjc202001011",
+      "title": "装配式建筑施工技术探讨",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "QKC20162016120800000105",
+      "title": "Android平台在APP设计与实现中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj201805003",
+      "title": "工程兵转型建设应高度重视小数据的建设积累",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xxydn201909035",
+      "title": "Android平台的移动APP开发方法探讨",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "qdjzgcxyxb201903006",
+      "title": "装配式楼板连接构造研究综述",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "spyzl201901144",
+      "title": "新时期土木工程的发展研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaijj201811115",
+      "title": "习近平人才思想的基本特点探析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "fhgc201106017",
+      "title": "装配式工事在边防阵地工程建设中的应用探讨",
+      "download_times": 0,
+      "browse_times": 9
+    },
+    {
+      "id": "xdxxkj201922028",
+      "title": "未来战争形态下我军工程装备发展方向研究",
+      "download_times": 8,
+      "browse_times": 14
+    },
+    {
+      "id": "cyykjlt201713042",
+      "title": "基于Android平台的移动APP开发模式探索",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xdxxkj201922028",
+      "title": "未来战争形态下我军工程装备发展方向研究",
+      "download_times": 8,
+      "browse_times": 14
+    },
+    {
+      "id": "zgjskx201701014",
+      "title": "陆军工程兵转型建设的若干思考",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "fjjz201807019",
+      "title": "装配式建筑梁板快速连接",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia201912466",
+      "title": "Android平台的移动APP开发方法探讨",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "pre_acf363bb-a202-4249-a813-efd67331b4bd",
+      "title": "基于Android的微震适时监测系统设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201106017",
+      "title": "装配式工事在边防阵地工程建设中的应用探讨",
+      "download_times": 0,
+      "browse_times": 9
+    },
+    {
+      "id": "lnsc201904022",
+      "title": "水上救生衣新型结构、材料的设计研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjdn201611068",
+      "title": "基于Android的医疗数据监测系统设计与实现",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gjjyxzxyxb202002011",
+      "title": "移动互联时代大学生手机学习效果影响因素研究",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "rjgcs201710006",
+      "title": "一种跨平台移动APP开发方法的研究及实现",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201902008",
+      "title": "典型钢筋混凝土工事毁伤判据研究探讨",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gbzbyj200702001",
+      "title": "一种大跨度装配式野战工事",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj200905013",
+      "title": "制式装配式野战工事的'三化'探讨",
+      "download_times": 0,
+      "browse_times": 8
+    },
+    {
+      "id": "gbzbyj200901015",
+      "title": "美军非战争军事行动与工程兵",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gwtk201010013",
+      "title": "美军工程兵作战行动的理论与实践",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "xbpg201923059",
+      "title": "情感体验在海上作业人员救生衣设计中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "gcjsysj200807032",
+      "title": "浅埋装配式防护工事荷载计算方法的研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj201805002",
+      "title": "基于目标中心战思想精确工程兵作战行动",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gbzbyj200704014",
+      "title": "台军抗登陆地雷障碍物的发展与研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "xddzjs201510014",
+      "title": "基于Android平台的便携式工作记忆训练系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcgc202001018",
+      "title": "汽汽车后视镜气动噪声优化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "xbgfyxzz201302027",
+      "title": "我国高原军事体力作业能力评价及劳动强度分级的研究进展",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "kjgcdxxb-zhb200502025",
+      "title": "加强空军装备保障信息化建设的几点思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjdsh201620104",
+      "title": "把握信息化战场特点 加快信息化装备保障建设",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fmygx201908036",
+      "title": "老虎皮毛为何是橘黄色",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hebgcdxxb201912010",
+      "title": "多层介质复合防护结构侵彻性能的数值分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201802017",
+      "title": "攻角对弹体斜侵彻多层混凝土靶弹道偏转影响的数值模拟及试验验证",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201106017",
+      "title": "装配式工事在边防阵地工程建设中的应用探讨",
+      "download_times": 0,
+      "browse_times": 9
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201718030",
+      "title": "基于Android平台的移动APP开发方法与应用研究",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "zhjsxy200401008",
+      "title": "信息化战争对装备保障的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhjsxy200501009",
+      "title": "加快装备保障信息化建设的几点思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xwyjdk201901158",
+      "title": "新媒体文化对传统通讯文化的冲击 ——以微信、QQ对短信的冲击为例",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hqsc201815303",
+      "title": "即时通讯对移动通讯传统的影响",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jtbshcbyskxyjsxb201504006",
+      "title": "柴油机状态监测与分析系统软件设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "cbgj201921010",
+      "title": "互联网时代网络知识产权的保护路径",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "kxyxxh201833015",
+      "title": "信息化战争装备保障动员的对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ddxb200802003",
+      "title": "侵彻弹斜侵彻多层介质的三维数值仿真",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "clgc201601015",
+      "title": "菱形加载路径下35CrMoA钢的微动疲劳行为",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "clgc201601006",
+      "title": "SiCp/A356复合材料微弧氧化陶瓷膜的生长规律与性能",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "msj-xia201912466",
+      "title": "Android平台的移动APP开发方法探讨",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "dswz201720119",
+      "title": "信息化战争装备保障的三个思维转变",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scqhgxyxb201503005",
+      "title": "Android平台的移动APP开发方法与应用研究",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "gkjxwyyy200304040",
+      "title": "一种先进复合材料防弹板",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "gkjxwyyy200304046",
+      "title": "轻质复合材料防弹板",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhdd200604010",
+      "title": "钻地武器对地下工事的毁伤与主动防护措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhgc201902008",
+      "title": "典型钢筋混凝土工事毁伤判据研究探讨",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "fhclxb201905024",
+      "title": "多层异质复合结构的动力学响应及抗侵彻性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs200803014",
+      "title": "复合材料壳体弹道侵彻数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "clgc201601008",
+      "title": "短期老化对橡胶粉改性沥青流变性能的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "clgc201602001",
+      "title": "吹砂、抛光及其电解腐蚀后处理对单晶高温合金表面组织和再结晶行为的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wlaqjsyyy201909007",
+      "title": "Windows系统安全机制与安全技术分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xddzjs202002009",
+      "title": "基于Android的便携式水质电化学检测系统的研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QK199700909486",
+      "title": "军事体力劳动强度评价和分级标准的研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cqjzdxxb201203013",
+      "title": "土方作业设备管理虚拟施工模型及仿真分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gyyxzz201003023",
+      "title": "高原非战争情况下大规模军事行动急性高原病的防治探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gwtk201709009",
+      "title": "2017年印度军事力量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shej201306136",
+      "title": "生命吸管",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "dzlp201701009",
+      "title": "现代战争特点及军事地质调查",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "gclx202003014",
+      "title": "部分预制装配型钢混凝土柱火灾后偏压试验研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj201822261",
+      "title": "江河堤防隐蔽工程的施工技术探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcy201305042",
+      "title": "高原寒区非战争军事行动野营保障刍议",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjtxyxb201809004",
+      "title": "高原铁路无人值守车站临时开办军事运输研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201718030",
+      "title": "基于Android平台的移动APP开发方法与应用研究",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201718030",
+      "title": "基于Android平台的移动APP开发方法与应用研究",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "zjnykx202001054",
+      "title": "超滤/反渗透双膜法在印染废水深度处理中的应用",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "gyscl200202001",
+      "title": "膜分离法污水处理技术",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scljs200901002",
+      "title": "芳香聚酰胺类反渗透膜的研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbhg200505016",
+      "title": "膜分离技术在重金属废水处理中的应用",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "csjsllyj2016155903",
+      "title": "膜分离法污水处理技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hgxb202002004",
+      "title": "抗污染芳香聚酰胺反渗透膜研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "spkx200012063",
+      "title": "膜分离技术在食品工业中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "syhgyy201912022",
+      "title": "反渗透膜基膜的制备及研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "tianjdxxb200001012",
+      "title": "椰壳炭制备高表面活性炭活化方法比较",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xxtcl200702008",
+      "title": "微孔结构与表面改性对活性炭吸附储氢能力的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hxgyygc201004014",
+      "title": "反渗透膜技术研究和应用进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zggtfhzb200203019",
+      "title": "救生衣浮力材料概述",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lngxyxb-shkx202003034",
+      "title": "'互联网+'背景下的 研究生英语混合式教学模式",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjglyj202009038",
+      "title": "基于核心素养的科技英语研究生教育培养探索——评《科技英语综合教程》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyy-z202006032",
+      "title": "高校硕士研究生英语学习观的调查及教学启示研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hljjy-llysj202007038",
+      "title": "研究生英语跨文化教学引发的思考与对策",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjs202006020",
+      "title": "混合式智慧课堂教学模式初探",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hljjy-llysj202008035",
+      "title": "研究生翻转课堂英语学习兴趣及教学模式改进",
+      "download_times": 2,
+      "browse_times": 5
+    }
+  ],
+  "检索": [
+    "无人船",
+    "无人船",
+    "重型机械化桥",
+    "重型机械化桥",
+    "无人船",
+    "无人船",
+    "舟桥混合搭接",
+    "舟桥混合",
+    "舟桥",
+    "舟桥混合",
+    "工程装备",
+    "工程装备",
+    "装配式建筑",
+    "军用装配式建筑",
+    "夏延山",
+    "无人船",
+    "机械化桥",
+    "重型机械化桥",
+    "舟桥",
+    "工程装备",
+    "无人船",
+    "军用工程装备",
+    "军用工程装备",
+    "重型机械化桥",
+    "舟桥混合搭接",
+    "舟桥混合搭接",
+    "舟桥",
+    "重型机械化桥",
+    "医疗单位图书馆",
+    "重型机械化桥",
+    "无人船",
+    "美军",
+    "装配式工事",
+    "军用装配式建筑",
+    "舟桥",
+    "机械化桥",
+    "无人船",
+    "无人船",
+    "无人船",
+    "重型机械化桥",
+    "机械化桥",
+    "夏延山",
+    "装配式",
+    "夏延山",
+    "夏延山",
+    "汽艇",
+    "装配式建筑",
+    "军用工程装备",
+    "军用装配式建筑",
+    "亲合色谱法",
+    "舟桥",
+    "舟桥",
+    "舟桥",
+    "重型机械化桥",
+    "重型机械化桥",
+    "舟桥混合",
+    "汽艇",
+    "军用装配式建筑",
+    "装配式建筑",
+    "工程装备",
+    "装配式工事",
+    "民用装配式建筑",
+    "装配式工事",
+    "俄军工程保障",
+    "夏延山",
+    "民用装配式建筑",
+    "夏延山",
+    "装配式",
+    "夏延山",
+    "民用装配式建筑",
+    "民用装配式建筑",
+    "俄军工程保障",
+    "装配式工事",
+    "美军工程",
+    "装配式工事",
+    "工程兵",
+    "乔士防爆墙",
+    "维和营地",
+    "装配式",
+    "防护工程",
+    "装配式工事",
+    "Androidapp",
+    "防护工程",
+    "装配式建筑",
+    "工程保障",
+    "工程兵",
+    "国防工程",
+    "装配式工事",
+    "装配式",
+    "乔士防爆墙",
+    "乔式",
+    "维和营地",
+    "工程兵",
+    "工程兵",
+    "Androidapp",
+    "防护工程",
+    "防护工程",
+    "装配式工事",
+    "装配式工事",
+    "维和营地",
+    "防爆墙",
+    "维和营地",
+    "防爆墙",
+    "乔式防爆墙",
+    "Android平台",
+    "Android",
+    "防护",
+    "防护工程",
+    "装配式建筑",
+    "装配式工事",
+    "人的思想的特点",
+    "人的思想的特点",
+    "手机",
+    "防护工程",
+    "防爆墙",
+    "防爆墙",
+    "艾斯科防爆墙",
+    "维和营地",
+    "防爆墙",
+    "艾斯科防爆墙",
+    "防护工程",
+    "美军工程",
+    "工程兵",
+    "火神山",
+    "装配式工事",
+    "装配式工事",
+    "装配式",
+    "乔式防爆墙",
+    "人的思想的特点",
+    "Android",
+    "Android平台",
+    "装配式工事",
+    "装配式",
+    "装配式工事",
+    "美军工程",
+    "美军工程",
+    "装配式工事",
+    "手机终端",
+    "发展迅速的信息时代",
+    "发展迅速的信息时代",
+    "救生衣",
+    "快速装配式建筑",
+    "工程兵",
+    "国防工程",
+    "工程兵",
+    "工程兵",
+    "防护工程",
+    "工程保障",
+    "app开发",
+    "手机数据处理",
+    "智能设备",
+    "app开发",
+    "快速装配式建筑",
+    "工程兵",
+    "工程兵",
+    "工程兵",
+    "美军工程",
+    "救生衣",
+    "装配式",
+    "手机终端",
+    "手机数据处理",
+    "手机终端",
+    "装配式工事",
+    "国防工程",
+    "美军工程",
+    "人的思想的特点",
+    "人的思想的特点",
+    "人的思想的特点",
+    "防护工程",
+    "装配式工事",
+    "火神山",
+    "装配式工事",
+    "安卓便携性",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(子弹侵彻)*主题:(角度)*主题:(材料)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "现代化战争保障",
+    "windows系统介绍",
+    "windows系统",
+    "windows系统优缺点",
+    "windows系统",
+    "抗登陆障碍物",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "战争保障",
+    "现代化战争",
+    "现代化战争保障",
+    "Android便携性",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "windows系统优缺点",
+    "战争保障",
+    "windows系统安全",
+    "windows系统",
+    "windows系统",
+    "windows系统",
+    "网络安全",
+    "人眼橙色",
+    "水面醒目",
+    "橙色",
+    "主题:(军事)*主题:(工事)",
+    "印度军事",
+    "主题:(子弹侵彻)*主题:(角度)*主题:(材料)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "网络安全",
+    "互联网时代",
+    "人眼橙色",
+    "救生衣",
+    "主题:(军事)*主题:(工事)+主题:(印度)",
+    "主题:(军事)*主题:(工事)*主题:(印度)",
+    "互联网时代",
+    "水面标志物",
+    "橘黄色",
+    "颜色",
+    "主题:(军事)*主题:(工事)",
+    "主题:(军事)*主题:(高原)+主题:(工事)+主题:(土工作业)",
+    "windows系统安全",
+    "海面伪装",
+    "水上隐蔽",
+    "水面醒目颜色",
+    "橘黄色",
+    "颜色",
+    "主题:(军事)*主题:(工事)+主题:(印度)",
+    "主题:(军事)*主题:(装配式工事)",
+    "windows",
+    "windows系统介绍",
+    "互联网时代",
+    "网络安全",
+    "生命吸管",
+    "Android便携性",
+    "水上隐蔽",
+    "海面伪装水上隐蔽",
+    "水上伪装",
+    "橙色",
+    "救生衣",
+    "水面标志物",
+    "主题:(军事)*主题:(工事)+主题:(印度)",
+    "主题:(军事)*主题:(工事)",
+    "主题:(军事)*主题:(工事)+主题:(印度)",
+    "椰壳活性炭",
+    "椰壳活性炭",
+    "反渗透膜",
+    "反渗透膜",
+    "反渗透膜",
+    "反渗透膜",
+    "芳香聚酰胺反渗透膜",
+    "反渗透膜",
+    "反渗透膜",
+    "芳香聚酰胺反渗透膜",
+    "救生衣发展史",
+    "救生衣材料",
+    "救生衣历史",
+    "救生衣发展史",
+    "救生衣技术发展专利综述",
+    "救生衣历史",
+    "研究生英语",
+    "研究生英语",
+    "研究生英语"
+  ]
+}

@@ -1,0 +1,3936 @@
+{
+  "下载": [
+    {
+      "id": "njydxyxb201502002",
+      "title": "互联网金融及其风险研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjjygl201207001",
+      "title": "基于第三方电子交易平台的供应链金融服务创新——云仓及其运作模式初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shxzxyxb201502011",
+      "title": "互联网金融对传统商业银行的短期冲击与深远影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glkxxb201111003",
+      "title": "物流金融中季节性存货质押融资质押率决策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcllysj201109008",
+      "title": "考虑信用额度的仓单质押融资模式下供应链金融最优策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfjr201501011",
+      "title": "中国股权众筹法律制度问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjykj201613050",
+      "title": "校园贷的发展与影响探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgltjj201501009",
+      "title": "供应链金融服务创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xajtdxxb-shkxb201504002",
+      "title": "互联网视角下的供应链金融模式发展与国内实践研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scjjglxyxb201301010",
+      "title": "我国P2P小额信贷模式存在的风险及对策建议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfjj201412003",
+      "title": "互联网金融创新与商业银行经济发展的关系研究--基于省级面板数据的因果关系检验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjyglyj201309012",
+      "title": "中国融资租赁行业现状与问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx201409001",
+      "title": "对当前我国互联网金融若干问题的辨析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzxk201408011",
+      "title": "互联网金融破解中小企业融资困境研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "cjkx201506001",
+      "title": "互联网金融与普惠金融的理论及现实悖论",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jryjj201311014",
+      "title": "国外互联网金融的监管经验及对我国的启示",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jjygl201502010",
+      "title": "我国互联网金融发展及其风险监管研究——以P2P平台、余额宝、第三方支付为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "nfjr201311021",
+      "title": "互联网金融对传统金融业的影响",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jrllysj201312013",
+      "title": "互联网金融发展对中国商业银行的影响及对策分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xjr201202009",
+      "title": "P2P网络借贷的发展、风险与行为矫正",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncjr201224005",
+      "title": "互动与融合：互联网金融时代的竞争新格局",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjkx201505004",
+      "title": "互联网金融对我国商业银行的影响路径——基于“互联网+”对零售业的影响视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xjr201307009",
+      "title": "国有商业银行如何应对互联网金融模式带来的挑战",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgkjlt201011001",
+      "title": "关于科技金融理论、实践与政策的思考",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "xjr201309011",
+      "title": "余额宝对商业银行的影响和启示",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hnjrglgbxyxb201401009",
+      "title": "关于当前互联网金融征信发展的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jljryj201308010",
+      "title": "互联网金融对商业银行的冲击和挑战分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "nfjr201104009",
+      "title": "论加强P2P网络借贷平台的监管",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "cjkx201406003",
+      "title": "互联网金融:范畴、革新与展望",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jrllysj201202014",
+      "title": "“草根”金融P2P信贷模式探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjrxyxb201306009",
+      "title": "众筹融资模式的发展探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjkx201302002",
+      "title": "中国式影子银行的发展及其对中小企业融资的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201402024",
+      "title": "论互联网金融创新--基于第三方支付支付宝视角",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xjr201305011",
+      "title": "P2P信贷平台:新型金融模式对商业银行的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx201302001",
+      "title": "金融支持我国城镇化建设的重点在哪里",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjr201309007",
+      "title": "互联网金融下的操作风险管理探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jnjr201203006",
+      "title": "阿里小贷模式的内涵、优势及存在问题探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjjbydc201118002",
+      "title": "我国科技金融创新体系的构建及实证研究——以武汉市为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xjr201212006",
+      "title": "“大数据”趋势下商业银行应对策略研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syyj201105007",
+      "title": "中小企业融资理论综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjsfdxxb-zx201302011",
+      "title": "供应链金融中信用风险的评价体系构建研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrllysj201201015",
+      "title": "基于供应镀金融的小微企业融资模式——以第三方头物流企业为平台",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shcjdxxb200301007",
+      "title": "论金融中心形成的微观基础——金融机构的空间聚集",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzjsjjgl201912011",
+      "title": "绿色金融、 融资约束与污染企业投资",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jjyjdk201933041",
+      "title": "基于开放理念的金融供给侧结构性改革研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hebdxxb-zxsh201906008",
+      "title": "圈层发展模式下雄安国际金融中心构建",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic201346042",
+      "title": "互联网金融模式与传统金融模式的对比分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjrxyxb201304009",
+      "title": "互联网基金对商业银行的挑战及其应对策略——以余额宝为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnjrdn201307043",
+      "title": "我国互联网金融的特殊风险及防范研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjjyglyj201912015",
+      "title": "金融影响高新技术产业发展实证研究 ——以长三角区域为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnsfdxxb-shkx201906011",
+      "title": "货币政策对异质性企业'脱实向虚'的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjrglgbxyxb201402009",
+      "title": "互联网金融、小微企业融资与征信体系深化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgltjj201912005",
+      "title": "现代ICT赋能的智慧供应链金融创新与发展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "cjllysj201501002",
+      "title": "互联网金融对商业银行盈利影响测度研究基于测度指标体系的构建与分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "glxdh201402018",
+      "title": "众筹的发展及其商业模式研究",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "xnjr201312001",
+      "title": "互联网金融对商业银行传统业务的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdb200509011",
+      "title": "融通仓与物流金融服务创新",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201936064",
+      "title": "金融科技推动商业银行数字化转型",
+      "download_times": 10,
+      "browse_times": 2
+    },
+    {
+      "id": "ggyzl201112020",
+      "title": "多层次资本市场中的“新三板”对高新科技园区经济发展作用分析与实证研究——以中关村科技园区为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfjr201404001",
+      "title": "互联网金融的概念、基础与模式之辨——基于中国的实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jryjj201502012",
+      "title": "股权众筹监管的国际经验借鉴与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkx201509002",
+      "title": "我国互联网金融监管现状及体系构建",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xjr201311011",
+      "title": "互联网金融时代商业银行变革方向",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfjr201303012",
+      "title": "家庭农场融资问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjrglgbxyxb201506018",
+      "title": "互联网金融背景下消费金融发展新趋势分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hbjmdxxb201502013",
+      "title": "P2P网络借贷监管的国际经验及对我国的借鉴",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201331059",
+      "title": "互联网金融对传统银行业的影响分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jjxj200101012",
+      "title": "互动:技术创新与制度创新关系的理论比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201313023",
+      "title": "当今步入互联网金融时代的进一步思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjbydc201407015",
+      "title": "面向小微企业的互联网金融模式创新与决策优化",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xtgc200404002",
+      "title": "金融市场的相关性分析--Copula-GARCH模型及其应用",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "shkx201912006",
+      "title": "我国小额信贷的“双线”融合与政策优化——基于可持续性金融扶贫视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjwtyj201501004",
+      "title": "我国金融发展与产业结构升级研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjwtyj201106008",
+      "title": "金融发展影响产业结构优化的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrkx201402006",
+      "title": "中国金融发展速度与经济增长可持续性——基于区域差异的视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjkx201404001",
+      "title": "互联网时代金融业的发展格局",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrllysj201204005",
+      "title": "商业银行金融创新与科技型小微企业融资困境突破——以交通银行苏州科技支行为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic201345053",
+      "title": "基于互联网金融模式的中小企业融资问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjjyj200803006",
+      "title": "低碳经济与环境金融创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjbhkx201701009",
+      "title": "论城市规划与环境规划的隔阂与合力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrys202002016",
+      "title": "业态融合助力实体书店转型脱困",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgr201802017",
+      "title": "减少雾霾:应从建筑节能和扬尘治理抓起",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxfzdx-x201801006",
+      "title": "长春市高层建筑布局对减弱雾霾的影响探索研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scsn201609281",
+      "title": "建筑工程对雾霾天气的影响及消减对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "21sjjzcl201802067",
+      "title": "建筑本身对雾霾的净化方式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201922006",
+      "title": "5G商业化应用背景下'互联网+物流'的发展趋势研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "caix201904110",
+      "title": "贵州茅台资产负债表分析",
+      "download_times": 15,
+      "browse_times": 3
+    },
+    {
+      "id": "whzh201503016",
+      "title": "中国高速城市化背景下的垃圾治理困境",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hhxk201905070",
+      "title": "试论社区书店生存现状及发展之道",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sz-sxk201935027",
+      "title": "历史风貌区古籍书店建筑设计——以镇江大西路为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xjj201531008",
+      "title": "企业环境绩效评价指标体系的构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201913070",
+      "title": "企业环境的绩效评价文献综述与研究展望",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjc201306007",
+      "title": "环境绩效研究:文献综述与研究展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmghjbh200703004",
+      "title": "浅论循环经济视野下的拾荒者与城市生活垃圾处理问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kfsd201802014",
+      "title": "在大都会发现“地方”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj201504611",
+      "title": "雾霾对我国实施绿色建筑的思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csjsllyj201614872",
+      "title": "浅谈建筑业与雾霾的关系及应对措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201523021",
+      "title": "便携式电子产品设计原则的探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rmlt201934045",
+      "title": "中国实体书店与国民阅读的发展蜕变",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "jxfzdx-x201709003",
+      "title": "从控制建筑扬尘角度治理雾霾",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "21sjjzcl201904023",
+      "title": "关于高层建筑形态对城市雾霾影响的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj2018081914",
+      "title": "实施绿色施工技术以促进建筑工程抵抗雾霾问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy201915022",
+      "title": "大气环境绩效审计评价指标体系构建研究——基于PSR模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic201830039",
+      "title": "战略视角下的贵州茅台财务报表 ——基于2012—2017年财务分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcb201923017",
+      "title": "我国网络书店现状及前景 *",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kfsd201602006",
+      "title": "从“生物公民”到“环保公益”:一个基于案例的环保运动轨迹分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckyk201909005",
+      "title": "企业选择零杠杆政策的动机 ——以贵州茅台为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjjxx201420207",
+      "title": "贵州茅台财务报表分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgcjsysj2015362369",
+      "title": "浅论建筑扬尘治理与雾霾防治之间的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandwy201401015",
+      "title": "如何控制建筑施工扬尘“防雾霾”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt201923053",
+      "title": "独立书店的价值定位与营造策略",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "cbgj201923019",
+      "title": "新时代我国社办书店创新路径探究——以岳麓书社麓之风书店为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lc-jl201909018",
+      "title": "贵州茅台财务分析",
+      "download_times": 9,
+      "browse_times": 5
+    },
+    {
+      "id": "xdsmgy201417104",
+      "title": "建筑对雾霾的影响及预防措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sicjc201406054",
+      "title": "建筑对雾霾的影响及应对措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjck201903005",
+      "title": "“互联网+”背景下特色农产品上行的政策支撑与平台效应研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjscmglgbxyxb201906004",
+      "title": "'电商+互联网'金融扶贫研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxyys201102151",
+      "title": "装置艺术和现代大众生活的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wcyk201715145",
+      "title": "从资本主义生产方式的异化看人类社会发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl202003108",
+      "title": "上市公司投资价值分析及投资策略研究 ——以服装行业为例",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "wlgcygl201912042",
+      "title": "农产品销售O2O模式分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sysd201918037",
+      "title": "不同销售模式下农产品流通效率比较",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201935026",
+      "title": "基于熵权理论的特色小镇PPP模式投资决策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "spyzl201847025",
+      "title": "基于项目管理理论的基础设施项目投资决策概述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjtjj201918044",
+      "title": "投资机会价值和投资决策理论与方法的研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxkj201803002",
+      "title": "基于挣值理论的企业投资决策方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx201935141",
+      "title": "医疗机构面临的主要风险及其控制策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chuanm201904017",
+      "title": "网络直播的四大商业模式选择",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "gwjckj200203036",
+      "title": "室内设计与自然",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddsjs201708028",
+      "title": "如诗如画彩熠灯,可圈可点知音情",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangxyy201602103",
+      "title": "地域文化在城市公园中的应用——以武汉青山公园为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csgc201706011",
+      "title": "基于场所精神的居住区更新改造规划研究——以武汉青山区红房子片区为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cxjs201902015",
+      "title": "城市亮点区块建设思路初探—以武汉青山区和平大道'和平之心'项目为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ctfz201804025",
+      "title": "武汉的青山绿水由我们来守护!",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbmsxyxb201502017",
+      "title": "城市解码武汉市地铁四号线王家湾艺术站创作解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "llj201105044",
+      "title": "从女书论空间、时间中的乡村女性主体意识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjj201801019",
+      "title": "美丽乡村建设背景下传统村落资源开发与保护研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbshkx201203049",
+      "title": "现象学视野下的毕业设计研究——以环境艺术设计专业为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "znmzdxxb-rwshkxb201703031",
+      "title": "试析社会网络视角下多元主体参与美丽乡村建设的结构平衡——基于湖北X村的实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbshkx201412009",
+      "title": "城市化背景下中部地区城市边缘区聚落阶层权力转变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdycjyyj202002003",
+      "title": "STEM教育的困境及出路",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "kjyj201507003",
+      "title": "中国上市公司财务造假预测模型",
+      "download_times": 3,
+      "browse_times": 9
+    },
+    {
+      "id": "zgfxkh201802014",
+      "title": "武汉市青山区海绵城市建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjlt201806004",
+      "title": "武汉青山老工业棚户区改造的沧桑巨变及改革经验探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szsfgdzkxxxb201602001",
+      "title": "武汉青山苏式建筑的文化魅力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzxb200811017",
+      "title": "汉派新民居——武汉市江夏区自然村改造建设规划设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znmzdxxb-rwshkxb201603026",
+      "title": "城市化背景下中部城市边缘区聚落经济景观演变研究——以湖北省黄石市F村为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qyjskf200902027",
+      "title": "水患变水利——江汉平原湖泊湿地型村镇聚落模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mzdjt201806022",
+      "title": "湖北五峰:生态文化旅游让游客醉在土家茶香里",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whgyxyxb201805012",
+      "title": "大型文化演绎项目游客体验满意度影响因素研究——以武汉“知音号”观光游轮为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz200801052",
+      "title": "汉口里分研究之一:汉润里",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whrslyj201706007",
+      "title": "文化创意旅游的“知音”模式",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gyaqyfc201411018",
+      "title": "“绿色”滨江商务区建设思路初探以武汉市青山区滨江商务区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyxx-xxk201008051",
+      "title": "武汉市青山区建设宜居城区的战略思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csghhk2009z1033",
+      "title": "建国初期工业住区的保护与更新(二)——武汉市青山'红房子'片历史地段的动态保护途径探索",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdc201104027",
+      "title": "积极探索棚户区改造的新模式——武汉市青山老工业棚户区改造工作成效明显",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhj201808008",
+      "title": "做空中概股的探因及启示——以辉山乳业为切入点",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdzsw201108194",
+      "title": "浅析中国概念股的发展现状及原因",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdglkx201903025",
+      "title": "从瑞幸咖啡与星巴克大战看网络'新零售'时代下的商业模式",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "hzjz201103032",
+      "title": "工业区住宅环境改造设计初探——以武汉市青山'红钢城'第八、九街坊为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggczx201312010",
+      "title": "武汉市青山工业区循环化改造实例概述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hubgbdsdxxb201308039",
+      "title": "武汉市青山区“红房子”社区居民保护与利用意向调查",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjlt201305008",
+      "title": "武汉市青山区转型发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csjz201618020",
+      "title": "珍存史迹，焕活新生--武汉青山红房子艺术创意产业园建筑策划",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hzjz201601028",
+      "title": "基于时间维度的历史街区更新策略研究——以武汉市青山区'红房子'改造为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201911064",
+      "title": "城市绿色生态系统游憩服务支付意愿及价值评估——以武汉市青山区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czjs201912218",
+      "title": "关于将观赏草引入公园——基于武汉市青山公园考虑",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "renj201621021",
+      "title": "浅谈武汉市青山区红钢城的改造",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "csgh201807017",
+      "title": "湖北武汉谢家院子古村落国家历史文化名城研究中心历史街区调研",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znmzdxxb-rwshkxb200904009",
+      "title": "鄂东南传统民居聚落生态文化探析——以湖北省通山县闯王镇芭蕉湾为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "msdg201509035",
+      "title": "论轨道交通公共空间技术与艺术的融合——以武汉市王家湾地铁站为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddjyzy202002014",
+      "title": "乡村振兴背景下女书文化产业人才培养研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201401043",
+      "title": "城市边缘村落街巷空间形态演变研究——以鄂州市花湖工贸新城L村为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf202006048",
+      "title": "城市廊道中输电塔造型概念设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbshkx201609012",
+      "title": "'美丽乡村建设'项目'异化'的表现、缘由与修正路径 ——以湖北M村为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ldszxb201701012",
+      "title": "文化复兴中的村寨特色文化保护与发展——基于湖南江永浦尾女书村的调查",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ntsfxyxb-zxshkxb201804015",
+      "title": "'知音'的语义流变及文化内涵",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201811032",
+      "title": "沉浸式展演空间体验模式与空间组织设计探究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "dllgdxxb-shkxb202002004",
+      "title": "我国服务业企业融资约束与融资模式研究 ——基于服务业上市企业面板数据的实证分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyywz201411055",
+      "title": "传承生态人文内涵 重塑公园现代特色--武汉市青山公园提升改造设想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnzxwl-jyqy201304005",
+      "title": "特色生态工业城区的色彩规划--以武汉市青山区为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201314300",
+      "title": "武汉市青山区红钢城改建刍议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjda201505033",
+      "title": "滨江空间的生态城市规划设计——以湖北省武汉市青山区滨江区域概念规划为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shej201406023",
+      "title": "老工业居住区的“人·情·味”——以武汉市青山区“红房子”片区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjz201211023",
+      "title": "建国初期工业住区规划建设及价值分析——以武汉青山区红钢城工业住区为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj2018081058",
+      "title": "武汉青山区武东公园的设计思考与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fdcdk201702011",
+      "title": "城市老城区更新过程中交通改善规划探讨 ——以武汉市青山区交通改善规划为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201902010",
+      "title": "既有社区的居家养老设施优化研究——以武汉市青山区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whzyjsxyxb201805025",
+      "title": "论博物馆模式与武汉工业遗产的保护和利用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyjz200307007",
+      "title": "老厂房·孵化器·科技创业者乐园--武汉光谷创业街规划设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddsjs201708027",
+      "title": "飘移式多维体验剧《知音号》音频系统设计解析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qydb201324014",
+      "title": "武汉工业遗址主流保护模式优势及劣势研究1",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yysbykj201911008",
+      "title": "'知音号'演艺船智能化灯光系统的特点",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcgjllysj201704019",
+      "title": "“雅”——文震亨《长物志》造物思想",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qydb201105082",
+      "title": "设计产业发展的SWOT分析及对策——以武汉市青山区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzsw202004028",
+      "title": "基于AARRR模型的瑞幸咖啡营销策略分析",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "sq-zh202012060",
+      "title": "证券市场中小投资者权益保护问题研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcb202005018",
+      "title": "新媒体广告的全面讲解",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "swxjx201811016",
+      "title": "基于奥苏伯尔同化论的'动作电位的产生、传导与传递'复习课教学设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tywhdk201307005",
+      "title": "冬季奥运会举办城市的特征及其启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjyj202001003",
+      "title": "新中国七十年企业会计改革发展的演进逻辑与理论诠释",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "xzqykj201130201",
+      "title": "以信用消费来扩大内需",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qhjrpl201807035",
+      "title": "分配差距扩大、信用扩张和金融危机——关于美国次贷危机的理论思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dffx202004014",
+      "title": "民法典婚姻家庭编的价值阐释与制度修为",
+      "download_times": 4,
+      "browse_times": 9
+    },
+    {
+      "id": "xslt201802005",
+      "title": "中国商法四十年(1978-2018)回顾与思考——中国特色市场经济主体与行为制度的形成与发展历程",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmykjyjj202002030",
+      "title": "木业产业链上市公司产业竞争分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hebdxxb-zxsh201904013",
+      "title": "中国大型体育赛事融资模式及其创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdcsyj202006017",
+      "title": "江浙沪航空服务行业外语人才的社会需求分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyj202001014",
+      "title": "“原罪”嫌疑、制度环境与民营企业慈善捐赠",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "wxjy-z201705013",
+      "title": "苏轼词中'雨'意象探析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "tykx201810003",
+      "title": "世界竞技体育强国备战奥运政策及对我国备战东京奥运会的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ccsfxyxb201506051",
+      "title": "国际大型运动赛事对主办国股市的影响——奥运会和世界杯足球赛的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjyj200001005",
+      "title": "激励机制与企业绩效——一项基于上市公司的实证研究",
+      "download_times": 10,
+      "browse_times": 14
+    },
+    {
+      "id": "tusg202008014",
+      "title": "二战后美国图书馆史研究:成就、不足和启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tsglt202009005",
+      "title": "'读者留言东莞图书馆'故事彰显公共图书馆的场域价值",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "fzysh201103123",
+      "title": "审判委员会制度存在的必要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ctfz201836033",
+      "title": "浅议审判委员会制度的问题与完善",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xuehai201806020",
+      "title": "家庭承包制下的劳动过剩和耕地过剩——基于柯布—道格拉斯函数的分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tywhdk201202026",
+      "title": "北京奥运会对城市旅游业发展的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201832205",
+      "title": "大型体育赛事风险管理方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cwykj201915008",
+      "title": "关于上市公司中小投资者保护制度建立情况调研",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "spsj202009058",
+      "title": "后真相时代网络舆论反转现象研究",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "qyjj202006017",
+      "title": "地方人才政策创新扩散的动因分析——基于中国城市“人才新政”的实证研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtykj202007005",
+      "title": "第32届夏季奥运会延期对日本的影响及其相应对策分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "xdzyjy201911136",
+      "title": "新时期大型体育赛事志愿者的组织与管理研究 ——以第十三届全国学生运动会志愿服务为例",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hbtykj201907001",
+      "title": "大型赛事与城市品牌联合路径探索——以武汉世界军人运动会为例",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xwyjdk202011032",
+      "title": "后真相时代的新闻反转现象",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "kjyj202003014",
+      "title": "智能财务的基本框架与建设思路研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xtgcydzjs202008001",
+      "title": "固体等离子体频率可重构天线的实现方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tsglt202008002",
+      "title": "公共图书馆促进社会包容性发展义不容辞",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnczswgdzkxxxb202002012",
+      "title": "基于AD-AS模型的大型赛事对郑州市经济的影响及对策研究——以第十一届全国少数民族传统体育运动会为例",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hzdxxb201103014",
+      "title": "大型综合性体育赛事对举办城市竞技体育发展的影响研究——以广东省第十三届运动会为例",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "cmlt202019036",
+      "title": "融媒体时代的新闻宣传策划路径探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jjyk202001002",
+      "title": "2020年经济工作怎么干?",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cnkxyjs202003010",
+      "title": "潮汐式地热能储能供热调峰系统效益分析",
+      "download_times": 17,
+      "browse_times": 31
+    },
+    {
+      "id": "kjyj202003001",
+      "title": "关于会计目标定位的思考",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "tywhdk201905005",
+      "title": "大型体育赛事对城市品牌的促进分析 ——以奥运会为例",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sctsgxb202004021",
+      "title": "芬兰国家图书馆对地方图书馆建设的战略支持",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "xbpg201902016",
+      "title": "第一印象的艺术 ——奇普·基德书籍封面设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyjsxb201403018",
+      "title": "大型国际赛事运动场馆的医疗保障实践与探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdsmgy202002011",
+      "title": "第七届世界军运会对武汉城市发展影响分析",
+      "download_times": 10,
+      "browse_times": 9
+    },
+    {
+      "id": "gztyxyxb201206013",
+      "title": "大型体育赛事对中西部地区城市发展的研究——以南昌市承办第七届全国城市运动会为例",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "fzbl201912097",
+      "title": "审判委员会的反思与改革路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb201708015",
+      "title": "中国特色的审判委员会?——对审判委员会制度改革的前提性思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dkj202015054",
+      "title": "论热电厂中热能与动力工程的改进方向",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dzjsjjgl202004007",
+      "title": "产业生态系统构建与中国经济高质量发展——基于高新技术产业与传统产业群落互动演化视角",
+      "download_times": 108,
+      "browse_times": 213
+    },
+    {
+      "id": "sctsgxb202004011",
+      "title": "网络环境下高校图书馆多媒体资源建设刍议——以北京大学图书馆为例",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gysj202006009",
+      "title": "令人着迷的便携式冰箱",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xacjxyxb201303020",
+      "title": "降低法定婚龄的可行性分析——基于法经济学的视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddtykj201512117",
+      "title": "论人才对体育场馆赛后利用的重要性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyykx201005012",
+      "title": "北京奥运会场馆赛后利用分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shhggdzkxyxb201502006",
+      "title": "深入开展海关国际合作全力推动丝绸之路经济带建设战略稳步发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cjwtyj201610003",
+      "title": "货币的本质再反思",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcjj202001001",
+      "title": "社交媒体情绪对信息行为的影响: 基于两类灾害事件的比较研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zwxxxb202007001",
+      "title": "神经机器翻译前沿综述",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjyyyrj202009015",
+      "title": "基于参数迁移的蒙汉神经机器翻译模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjy-j200903246",
+      "title": "《时代教育》教育教学论文征稿",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxmxmr-z200412048",
+      "title": "时势造英雄,英雄造时势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qhshkx201105015",
+      "title": "中国特色社会主义法律体系中的商法立法分析——兼论商法的存在价值",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "flysh201914026",
+      "title": "司法现代化与审判委员会制度改革",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjzh201301016",
+      "title": "中国3D打印产业的现状及发展思路",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "jjwtts200808038",
+      "title": "基本公共服务均等化与公共财政的构建——哈维·罗森《财政学》研究对象给我们的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ktnw-gzb201904007",
+      "title": "第一印象效应",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jsps200905027",
+      "title": "浅议北京2008年奥运会基础设施规划建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyky202003006",
+      "title": "2020东京奥运周期日本体育政策解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xwahz202006028",
+      "title": "新媒体环境下广告传播人才培养路径研究——评《新媒体广告传播》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zuow201311004",
+      "title": "谈时势造英雄",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shtyxyxb202004004",
+      "title": "失败即胜利?奥运会申办的杠杆作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sytyxyxb201204011",
+      "title": "举办大型体育赛事机会成本的效益率模型分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zsjjeqy202014014",
+      "title": "浅析经济数学在金融经济分析中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fmycx-xsb201903037",
+      "title": "理性看待『第一印象』",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201420052",
+      "title": "对机械唯物主义自然观局限性的评析",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "xwyjdk202011131",
+      "title": "北京2022年冬奥会对跨文化传播的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl202004030",
+      "title": "上市公司退市及中小投资者权益保护问题研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "mm201904020",
+      "title": "第一印象UP大作战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhkht200402027",
+      "title": "灰色系统理论的产生与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzy202015022",
+      "title": "智能财务建设之智能财务会计共享平台设计",
+      "download_times": 2,
+      "browse_times": 8
+    },
+    {
+      "id": "zwxxxb202007001",
+      "title": "神经机器翻译前沿综述",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "dzjj201623015",
+      "title": "ROG：持之以恒投入电竞",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahdxxb-zxsh202003003",
+      "title": "绿色发展、人才集聚与城市创新力提升 ——基于长三角城市群的研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb202009033",
+      "title": "智慧图书馆模式研究述评",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zhonggsm201624028",
+      "title": "对财务比率比较分析法的应用与评价——以江苏康缘药业与恒瑞医药为例",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zqsczk201907012",
+      "title": "净现比才是A股的“照妖镜”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsc201921091",
+      "title": "关于恒瑞医药股份有限公司财务报表分析 ——2016-2017年度财务报表分析",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "sqzyjsxyxb200601012",
+      "title": "市场规制法与宏观调控法之共性分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzy202013022",
+      "title": "基于知识图谱分析的会计人工智能研究综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjjxx202022084",
+      "title": "人工智能时代财务会计的转型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyz202017122",
+      "title": "浅议人工智能时代财务会计向管理会计的转型",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jiangssl202008009",
+      "title": "人工智能发展对会计行业的影响及应对措施",
+      "download_times": 7,
+      "browse_times": 13
+    },
+    {
+      "id": "zgjtjj202023028",
+      "title": "论人工智能时代财务会计向管理会计的转型策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgqnyj202008004",
+      "title": "结婚买房:个体化视角下的城市青年婚姻与住房消费",
+      "download_times": 12,
+      "browse_times": 6
+    },
+    {
+      "id": "xwyjdk202013026",
+      "title": "自媒体语境下公共事件的传播分析——以'红黄蓝幼儿园虐童事件'为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic202018098",
+      "title": "浅谈大学生的择业观",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "zgdxsjy202006014",
+      "title": "女大学生心理资本对择业观念的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xacjxyxb202001004",
+      "title": "论人工智能技术对人类社会发展的影响",
+      "download_times": 15,
+      "browse_times": 20
+    },
+    {
+      "id": "shicyj202007015",
+      "title": "商业银行的数字化转型",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jxyyj201808008",
+      "title": "后奇点时代:人工智能会超越并取代人类吗?",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qcqjk201915036",
+      "title": "VS 社会更需要专才 社会更需要通才",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "cmlt202018063",
+      "title": "高校图书馆阅读推广策略探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201430111",
+      "title": "恒瑞医药财务状况分析",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "zgyxwz-zlxfc202004022",
+      "title": "人工智能在鼻咽癌影像中的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx202006110",
+      "title": "人工智能对会计行业的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xidcb202005009",
+      "title": "大数据与人工智能时代的学术著作评价体系建设",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl202016056",
+      "title": "人工智能环境下财务会计发展的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx202025006",
+      "title": "人工智能背景下企业财务会计发展思路分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjdsh201422049",
+      "title": "宏观调控法与市场规制法联系性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201851124",
+      "title": "计算机大数据对我们生活的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjf201932080",
+      "title": "浅议大数据对现代社会日常生活的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "twyjjk201702003",
+      "title": "试析台湾青年的'天然独'心理",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dbsdxb-zxsh202004015",
+      "title": "需要加速与生产加速:社会加速循环的深层逻辑",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddgr202015012",
+      "title": "退休劳模社会参与价值需要制度创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201705254",
+      "title": "人工智能对人类社会的影响",
+      "download_times": 2,
+      "browse_times": 8
+    },
+    {
+      "id": "shkx202007018",
+      "title": "新媒体语境下新闻反转、舆论生成机制和治理路径探究——基于2014-2020年典型反转新闻事件的定性比较分析(QCA)研究",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "xwahz202006002",
+      "title": "个性化新闻推荐发展动力及趋势研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xwyjdk202013037",
+      "title": "浅析新媒体环境下反转新闻的成因及应对措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gtzykjgl202004008",
+      "title": "企业生命周期、股权集中度与非效率投资",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt202023028",
+      "title": "央行数字货币面临的风险挑战及应对策略",
+      "download_times": 4,
+      "browse_times": 9
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb201903021",
+      "title": "基于社会情绪'扩音'机制的网络舆情传播分析——以'红黄蓝幼儿园虐童事件'为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsy201823133",
+      "title": "新媒体时代'沉默的螺旋'效应研究——以红黄蓝幼儿园事件为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cmlt202018071",
+      "title": "高校图书馆阅读推广及阅读推广人培育研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "sysyjyts202001009",
+      "title": "修正型PNGV构架的锂电池SOC预测及内阻识别",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dxtsqbxk202004006",
+      "title": "高职院校图书馆阅读推广策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyggygl202012072",
+      "title": "人工智能时代财务会计向管理会计转型存在的问题及建议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx202022050",
+      "title": "浅议人工智能时代财务会计向管理会计的转型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnjj202007037",
+      "title": "人工智能时代会计职业前景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc202018014",
+      "title": "基于云计算和人工智能技术的图书信息检索系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyd202009001",
+      "title": "人工智能算法在电能质量领域的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xwyjdk202011031",
+      "title": "未成年人性侵案深度报道的失范研究 ——以鲍毓明涉嫌性侵案为例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "syjlr201912069",
+      "title": "上市公司财务报表案例研究 ——基于恒瑞医药5年年报分析",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "st202008105",
+      "title": "后真相现象的成因探索与治理:基于新媒体平台的五大反转新闻分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "znmzdxxb-rwshkxb201804027",
+      "title": "台湾和大陆人权教育价值观比较分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjkjdxxb-shkxb201902014",
+      "title": "人类为什么不会被人工智能取代? ——人工智能的技术本质研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsjgc202017009",
+      "title": "基于人工智能的语义分析研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xsy202005017",
+      "title": "经济学方法论的历史演进与人工智能时代发展趋向",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "cyykjlt202016119",
+      "title": "人工智能时代财务会计向管理会计转型的探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxjykx202005013",
+      "title": "人工智能背景下学习空间构建的问题与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dpjyqrsxtyy202008025",
+      "title": "从弱人工智能、强人工智能到超人工智能",
+      "download_times": 15,
+      "browse_times": 47
+    },
+    {
+      "id": "zgyxllx202007006",
+      "title": "人工智能诊疗的伦理挑战",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb202009005",
+      "title": "中国创新危机的破解与创新文化培育",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "jjyjdk202019063",
+      "title": "'认识你自己'是大学生正确择业的基础",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xxjs202009021",
+      "title": "基于数据挖掘的学生档案照片像素细分算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xfdk201925148",
+      "title": "恒瑞医药财务分析",
+      "download_times": 5,
+      "browse_times": 10
+    },
+    {
+      "id": "zgzlxxcy201908066",
+      "title": "关于计算机大数据技术对生活的影响研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qsnyj201702002",
+      "title": "'台湾主体意识'对台湾青年政治价值观的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxsj202029019",
+      "title": "不简单的拼多多",
+      "download_times": 6,
+      "browse_times": 10
+    },
+    {
+      "id": "cwykj202006029",
+      "title": "人工智能深入会计领域的应对与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzy202018002",
+      "title": "人工智能与智能会计应用研究",
+      "download_times": 9,
+      "browse_times": 14
+    },
+    {
+      "id": "xiandaiyx201907115",
+      "title": "杜邦分析法在财务分析中的应用 ——以江苏恒瑞医药为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdsmgy201927047",
+      "title": "基于战略视角的财务报表研究 ——以恒瑞医药为例",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zxqykj202007071",
+      "title": "医药企业税收筹划研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qyggygl202002061",
+      "title": "大数据融入商业经济管理中的问题与作用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njjzy202005037",
+      "title": "大数据革命对中国农业经济发展的促进作用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xmysy200711015",
+      "title": "南京市消费者生鲜猪肉安全认知度与消费信心调查与分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201714026",
+      "title": "基于消费者视角的连云港海鲜冷链物流发展决策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sczl201002043",
+      "title": "让德育走出网络污染的阴影",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huaiysfxyxb-zxsf200903025",
+      "title": "网络社会角色心理现象与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rclw202008032",
+      "title": "论经济危机背景下企业员工福利的成本控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaijj201904035",
+      "title": "经济危机问题研究——以2008年经济危机为案例经济危机问题研究——以2008年经济危机为案例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czsfzkxxxb-zhb201802014",
+      "title": "一曲传统艺术的悲歌 ——论电影《百鸟朝凤》的艺术价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf202017109",
+      "title": "大数据视域下大学生消费现状及对策研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt202043042",
+      "title": "大学生恋爱中存在的心理问题及对策研究",
+      "download_times": 13,
+      "browse_times": 17
+    },
+    {
+      "id": "shszxb202008006",
+      "title": "关于重大决策倒查机制构建的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzysh201329029",
+      "title": "论法官错案责任追究制度",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xnzfdxxb200205024",
+      "title": "法律·情感·良心之治--驳'法律无情'论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hndxxb-shkxb201701001",
+      "title": "论法律价值与制度修辞",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shidjm200801099",
+      "title": "联合利华和宝洁的多品牌营销战略",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gyjsjj201507005",
+      "title": "基于服务创新四维度模型的外资日化企业品牌建设策略分析--以宝洁、联合利华和欧莱雅为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfnj201911221",
+      "title": "商业性健身房运营瓶颈及对策分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whdxxb-shkx201906016",
+      "title": "中国社会保障的制度变迁——以1997、2008年经济危机为关键节点的考察",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bkzs202021011",
+      "title": "心理健康教育在当代大学生恋爱观形成中的作用",
+      "download_times": 8,
+      "browse_times": 11
+    },
+    {
+      "id": "ddqnyj200404009",
+      "title": "网络游戏对现实社会道德规范的冲击",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fzysh202003051",
+      "title": "量刑规范化视角下法官自由裁量权的异化及规制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dywx201907005",
+      "title": "浅析粉丝效应在电影表达中的影响力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jtyyjs201910046",
+      "title": "整体表现不尽人意2019年9月电影票房排行榜",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slsy201835129",
+      "title": "当下我国离婚率攀高原因分析及建议",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "dywx201921034",
+      "title": "青春、抗争与成长 ——电影《伯德小姐》的艺术价值探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjkxyj202007010",
+      "title": "病毒在无生命物体表面存活时间及其影响因素分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kfsd202001007",
+      "title": "追寻正义:中国法律社会学的危机与出路",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "lssfxyxb201912020",
+      "title": "公益性与商业性博弈:我国大型体育场馆的赛后运营之困",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaiyx201905130",
+      "title": "并购重组助力企业提质增效 ——基于海尔集团的案例研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl202013034",
+      "title": "我国上市公司并购的财务风险探析 ——以海尔并购通用电器家电业务为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jhdxxb-rwkxb202005007",
+      "title": "新中国成立70年来法官责任制改革的历程与展望",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm202008110",
+      "title": "公允价值在我国的应用过程与风险探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qyggygl202017021",
+      "title": "海尔智家对外扩张战略撬动效应分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyj202001001",
+      "title": "只争朝夕不负韶华推动新时代会计理论发展繁荣——《会计研究》新年献辞",
+      "download_times": 10,
+      "browse_times": 29
+    },
+    {
+      "id": "xalhdxxb201305008",
+      "title": "游戏暴力的宣泄作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xcj-l201311104",
+      "title": "企业品牌关键价值分析--以宝洁和联合利华为例",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "yyfhfxxb201804011",
+      "title": "基于模糊层次分析法的农产品供应链金融风险评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ybdxxb-shkxb201902008",
+      "title": "论少数民族医疗权利保障的法理价值及意义 ——以秩序和正义价值为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "danddhj202013033",
+      "title": "新形势下供应链金融的财务风险及防范",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "chuanm201922027",
+      "title": "国产科幻电影《流浪地球》的成功之道",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "ckyk202020002",
+      "title": "综合收益会计规则的逻辑及理论辨析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "fzbl201701136",
+      "title": "从追责程序的角度完善法官责任制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qnjz201817051",
+      "title": "小成本电影对剧本创作的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxzb201901041",
+      "title": "健康医疗大数据研究进展",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgwsxxglzz201906002",
+      "title": "健康医疗大数据研究热点与前沿的可视化分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "hjkxyj202007006",
+      "title": "影响病毒在物体表面和空气中生存的因素分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yhj202008034",
+      "title": "乡村振兴背景下的农业供应链金融",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xjzj202011066",
+      "title": "'真实的虚幻':简析日本当代半架空式动漫剧商业性运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dszmtjydh201912014",
+      "title": "喜剧电影《我不是潘金莲》的讽刺艺术及叙事价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk202012072",
+      "title": "大数据背景下财经类大学生文献阅读能力培养机制研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dyxz201705019",
+      "title": "主角“中国”——论电影《战狼2》的“爱国主义”创新表达",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "elsxk202001002",
+      "title": "白俄罗斯旅游业发展现状与中白旅游合作前景",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc202007217",
+      "title": "新时代下电影传媒艺术中的价值观分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dywx201720009",
+      "title": "西方商业电影的价值观及艺术表现力",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "syyj201805003",
+      "title": "社交影响下替代性产品的动态定价研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljsxyxb200705033",
+      "title": "完全信息动态下对相似商品反倾销税率的确定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnszxb-shkxb201906035",
+      "title": "谈大学生的恋爱心理发展及其自我调适",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsp202015045",
+      "title": "海鲜上下游企业受重创行业恢复元气尚需时日",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfzgc201908003",
+      "title": "如何在新时代推进西部大开发加快形成新格局",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xxb201908004",
+      "title": "新时代推进西部大开发形成新格局需重点处理好四个关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnjz201830011",
+      "title": "内容评价的影响力经济视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201911089",
+      "title": "近十年我国商业电影中植入式广告的策略研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xwyjdk201914117",
+      "title": "从《唐人街探案2》看电影中的植入广告",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl202008056",
+      "title": "基于供应链类金融模式下财务风险研究 ——以A企业为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "rmlt202026011",
+      "title": "探寻新时代西部大开发2.0的新方位",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic202025003",
+      "title": "农业供应链金融创新模式设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gxzfglgbxyxb202004013",
+      "title": "法官责任追究制度及其豁免机制研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzwy201918115",
+      "title": "浅析电影《战狼2》的文化艺术价值",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsy201720450",
+      "title": "精神麻醉：网络暴力游戏对青少年的负面影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jmsjyxyxb202003132",
+      "title": "罗尔斯《正义论》中的正义意涵及当代启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic202026090",
+      "title": "供应链金融的财务风险及管理防范",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ddtykj202019089",
+      "title": "商业性和群众性赛事中的政府职能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxdjysxjy202011013",
+      "title": "大数据时代大学生道德选择的价值原则",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsjtx202017074",
+      "title": "大数据背景下大学生网络谣言治理研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wljs202008001",
+      "title": "文物物流文献综述",
+      "download_times": 5,
+      "browse_times": 15
+    },
+    {
+      "id": "glxdh202003012",
+      "title": "商业模式创新的绩效评价体系演化研究 ——以海尔集团为例",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "zgdxsjy202004003",
+      "title": "海尔集团",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsp201923007",
+      "title": "爱尔兰食品发力拓展中国市场,携手京东打响2020营销计划",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mysd-s201701024",
+      "title": "基于消费者问卷调查的自助式餐饮空间设计研究——以多伦多海鲜自助餐厅为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjszfglgbxyxb201905010",
+      "title": "我国刑事司法制度中的卸责机制 ——以法院和法官为中心",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjyjc200703013",
+      "title": "向下替代易逝性高科技产品的定价策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdfzjj201502011",
+      "title": "替代品的威胁和消费者的“移情别恋”对企业定价的考验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lc-jl202005042",
+      "title": "互联网供应链金融模式下的财务风险管理探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnjz201904023",
+      "title": "数据流量造假成产业,撕下画皮刻不容缓",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy202008012",
+      "title": "基于层次分析法的大数据模式下供应商信用评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201937034",
+      "title": "女大学生的恋爱消费心理分析及如何理智消费",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdddxb202002015",
+      "title": "大学生恋爱心理的现状调查与对策研究",
+      "download_times": 8,
+      "browse_times": 16
+    },
+    {
+      "id": "sxlljy-x200706005",
+      "title": "构筑虚拟社会中的道德防线",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjyj202011001",
+      "title": "在线教育会拉大不同家庭条件学生的差距吗?",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cjj202011127",
+      "title": "企业供应链金融的财务管理与风险",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "sjyjjyj201504004",
+      "title": "女性高管、信任环境与企业社会责任信息披露——基于自愿披露社会责任报告A股上市公司的经验证据",
+      "download_times": 10,
+      "browse_times": 12
+    },
+    {
+      "id": "ncjryj202009009",
+      "title": "供应链金融模式下中小企业融资问题分析",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "zsjj-zgzx202005017",
+      "title": "淘宝特价PK拼多多",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "caix201719036",
+      "title": "浅谈西方经济学与会计学之'成本'",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyshzyxyxb201901010",
+      "title": "民营经济发展与企业家精神",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhes201921008",
+      "title": "拼多多的“朋友圈”",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ncjjykj202004157",
+      "title": "獐子岛内部控制优化研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyjj202005017",
+      "title": "中国数字经济发展现状及问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cmlt202018083",
+      "title": "亲民化纪录片《辉煌中国》创作探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqy202010042",
+      "title": "上市公司内部控制问题思考——基于獐子岛事件为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdgs201408024",
+      "title": "多管齐下破解出租车拒载难题",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201924005",
+      "title": "经济学与会计学收益观念研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjj202011026",
+      "title": "农民工父子代际关系的研究:一个文献综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx202003066",
+      "title": "拼多多低价分享拼团模式的问题及建议",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "sq-zh202007019",
+      "title": "探析企业的财务内部控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sykxtb202003013",
+      "title": "2019年度中国石油科学十佳论文",
+      "download_times": 8,
+      "browse_times": 16
+    },
+    {
+      "id": "whtyxyxb200805008",
+      "title": "城市营销中体育赛事与城市品牌联合战略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjyddxxb-shkxb202002003",
+      "title": "浅析拼多多的泛游戏化设计",
+      "download_times": 4,
+      "browse_times": 18
+    },
+    {
+      "id": "dnzsyjs-itrzyksb202021099",
+      "title": "三四线城市用户拼多多网络拼单意愿影响因素分析",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "scxdh202013053",
+      "title": "獐子岛公司的内部控制制度分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh200602023",
+      "title": "网络团购模式研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nkglpl200603004",
+      "title": "消费者企业认同感对产品评价及行为意向的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ldbzsj202019031",
+      "title": "失业保险范围扩大啦!一图看懂",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc202031104",
+      "title": "教育人力资本对代际收入流动影响的文献综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyb201811022",
+      "title": "社交裂变的精髓是什么?",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggshic202005065",
+      "title": "拼多多营销策略创新",
+      "download_times": 10,
+      "browse_times": 29
+    },
+    {
+      "id": "syjlr202021017",
+      "title": "拼多多的拉新策略研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjykx-gjyj201806006",
+      "title": "我国高职教育发展战略的思考 ——基于华为公司的经验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj201807422",
+      "title": "华为案例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzjjykj201821071",
+      "title": "经济学成本与会计学成本比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjygl202003007",
+      "title": "基于SCP范式的互联网金融市场分析 ——以P2P网贷行业为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "rkxk202001002",
+      "title": "中国大城市不同人群生育意愿的 变迁趋势及比较研究 ——以上海市为例",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "cjyj202002001",
+      "title": "中国对外反倾销与企业创新 — —来自企业专利数据的经验研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "shanxiyj202002063",
+      "title": "太钢生产短期计划的功能设计与运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njsdxbz202004015",
+      "title": "江苏省新型城镇化与产业结构协调发展分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkjlwzx201909035",
+      "title": "大数据信息时代大学生心理健康教育研究 ——评《大数据时代:生活、工作与思维的大变革》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfnj202011106",
+      "title": "大数据思维下新时代高校德育的涅槃",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr201827006",
+      "title": "中国智能手机行业的市场分析与研究——基于SCP范式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsr202006015",
+      "title": "邮费都不够拼多多为什么要这么干",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "shcsgh202005008",
+      "title": "共享单车与公共交通的关系:文献综述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cmlt202010112",
+      "title": "裂变传播中的分享动机研究及应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yysh202005017",
+      "title": "通往幸福与成功的教育——音乐教育中的启蒙宣言",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgqnyj202008013",
+      "title": "高校青年辅导员主观职业成功与幸福感的关系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ldbzsj202027026",
+      "title": "新冠肺炎疫情下失业保险作用机制、国际比较与政策借鉴",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjyj202012002",
+      "title": "服务业发展'抢夺'了制造业技能吗?-来自中国微观层面的经验证据",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjyj202001004",
+      "title": "'答非所问'与IPO市场表现——来自网上路演期间的经验证据",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xjj202008007",
+      "title": "后发制人——拼多多如何实现弯道超车",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "nmgkjyjj201403022",
+      "title": "基于DEA的国产手机企业投入产出效率分析——以华为、中兴为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "scxdh201901003",
+      "title": "信息化背景下智能手机产业结构发展问题研究 ——以华为智能手机为例",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "sysd202023047",
+      "title": "产业结构变化对城乡服务消费发展的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxjlcl201905130",
+      "title": "浅谈美妆APP的现状及发展问题",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm202008104",
+      "title": "獐子岛内部控制失效案例研究",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "fjzlgl202013060",
+      "title": "獐子岛内部控制体系分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "st201906083",
+      "title": "'互联网+'语境下支付宝'锦鲤'转发活动的裂变式传播机制浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd202022020",
+      "title": "社交电子商务用户购后分享动机研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "gjrz202008024",
+      "title": "拼多多:极简规则,创造无穷价值",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "syjlr202032009",
+      "title": "分享经济下对分享网络平台的规制探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nkglpl201203004",
+      "title": "中国情景下消费者的伦理购买意向研究——基于TPB视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dianzsw202004021",
+      "title": "电商环境下消费者购买意向的实证研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjj200502014",
+      "title": "促销类型对消费者感知及行为意向影响的研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc201529004",
+      "title": "基于SCP范式的中国智能手机产业分析研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "hqsc202024082",
+      "title": "房地产开发企业收入确认时点的探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201919093",
+      "title": "会计学成本与经济学成本比较分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "rlyhg202005012",
+      "title": "太钢焦化厂WSA系统生产实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scspyfx202005026",
+      "title": "面向工程教育认证的食品专业毕业论文教学改革探索",
+      "download_times": 4,
+      "browse_times": 7
+    }
+  ],
+  "浏览": [
+    {
+      "id": "hbjjxyxb-rwshkxb201807041",
+      "title": "基于文化创意产业的创新创业项目化育人途径研究与实践",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zwjz201907011",
+      "title": "《知音号》演艺空间体验设计研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xddsjs201708027",
+      "title": "飘移式多维体验剧《知音号》音频系统设计解析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdycjyyj202002003",
+      "title": "STEM教育的困境及出路",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xdjyjs202003006",
+      "title": "混合式教学有效性的实证研究——以山东理工大学的68门多学科课程为例",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc202022046",
+      "title": "论热电厂中热能与动力工程的改进方向",
+      "download_times": 3,
+      "browse_times": 10
+    },
+    {
+      "id": "dkj202015054",
+      "title": "论热电厂中热能与动力工程的改进方向",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc202026035",
+      "title": "扶贫产业向乡村产业转型的路径选择",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mtzh202003013",
+      "title": "我国地热能产业竞争力提升对策研究",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "QKBJB20202020091600000598",
+      "title": "热能与动力工程在电厂中的合理运用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gysj202006009",
+      "title": "令人着迷的便携式冰箱",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jjzh201301016",
+      "title": "中国3D打印产业的现状及发展思路",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "gysj202006013",
+      "title": "文化创意产品设计 ——音箱",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "cwykj201915008",
+      "title": "关于上市公司中小投资者保护制度建立情况调研",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hbykdxxb202009017",
+      "title": "儿童轻度过敏性结膜炎中干眼的研究及治疗",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "xiandaijj202016037",
+      "title": "英语专业硕士学位论文摘要的语篇特征分析",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "xdzyjy201731318",
+      "title": "图书馆微信公众平台的建设与分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hainanyx202016020",
+      "title": "氧化损伤对过敏性结膜炎发病的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dxtsqbxk201706016",
+      "title": "江苏省高校图书馆微信公众平台内容建设问题与策略分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jjs202007018",
+      "title": "基于层次分析法的拼多多电商扶贫模式SWOT分析",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "dwjmck201603021",
+      "title": "互联网时代下网络会计的挑战及应对",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "wljs202009022",
+      "title": "中国农产品供应链金融发展的SWOT分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "cjyj202001001",
+      "title": "政府精准致力农村互联网金融普惠的路径分析——基于上海财经大学2017年'千村调查'",
+      "download_times": 4,
+      "browse_times": 20
+    },
+    {
+      "id": "elsxk202001002",
+      "title": "白俄罗斯旅游业发展现状与中白旅游合作前景",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjj202011127",
+      "title": "企业供应链金融的财务管理与风险",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cjck201803134",
+      "title": "我国现阶段农村离婚率上升的原因及对策分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QKBJBD20202020091400000584",
+      "title": "安徽省城乡离婚率的现阶段原因分析及相应策略",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "ncjryj202009009",
+      "title": "供应链金融模式下中小企业融资问题分析",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "kjcyyk201909027",
+      "title": "校企合作提升会计专业学生实践能力 ——X集团财务共享调研",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ncsykjxx202010007",
+      "title": "农产品供应链金融的风险防范",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "kjrcsc201606017",
+      "title": "女性高管特征对高科技企业绩效的影响实证研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "danddhj202013033",
+      "title": "新形势下供应链金融的财务风险及防范",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "tjyjc201205058",
+      "title": "基于供应链的科技型中小企业融资模式分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "cjwtyj201205013",
+      "title": "企业供应链融资能力研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QKC20172017121300042761",
+      "title": "供应链金融的财务内控",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyj202001001",
+      "title": "只争朝夕不负韶华推动新时代会计理论发展繁荣——《会计研究》新年献辞",
+      "download_times": 10,
+      "browse_times": 29
+    },
+    {
+      "id": "cjyj202011001",
+      "title": "在线教育会拉大不同家庭条件学生的差距吗?",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonggshic202025003",
+      "title": "农业供应链金融创新模式设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb202008013",
+      "title": "供应链金融信用风险文献综述",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggshic202026090",
+      "title": "供应链金融的财务风险及管理防范",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjyjjyj201504004",
+      "title": "女性高管、信任环境与企业社会责任信息披露——基于自愿披露社会责任报告A股上市公司的经验证据",
+      "download_times": 10,
+      "browse_times": 12
+    },
+    {
+      "id": "glxdh201102021",
+      "title": "法国国有企业高管激励的经验及其启示",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cwykj-lcb201112014",
+      "title": "VIE结构、金融安全和契约精神——支付宝股权变更引发的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lc-jl202005042",
+      "title": "互联网供应链金融模式下的财务风险管理探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gjrz202008024",
+      "title": "拼多多:极简规则,创造无穷价值",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "bjyddxxb-shkxb202002003",
+      "title": "浅析拼多多的泛游戏化设计",
+      "download_times": 4,
+      "browse_times": 18
+    },
+    {
+      "id": "glsj200901014",
+      "title": "中国消费者购买意向模型——对Fishbein合理行为模型的修正",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsr202006015",
+      "title": "邮费都不够拼多多为什么要这么干",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "ncjjykj202004157",
+      "title": "獐子岛内部控制优化研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl202013060",
+      "title": "獐子岛内部控制体系分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xdqy202010042",
+      "title": "上市公司内部控制问题思考——基于獐子岛事件为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjyj202001002",
+      "title": "传统金融基础、知识门槛与数字金融下乡",
+      "download_times": 0,
+      "browse_times": 11
+    },
+    {
+      "id": "gjrz202008024",
+      "title": "拼多多:极简规则,创造无穷价值",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "fjcy202001036",
+      "title": "企业家精神与经济发展研究综述",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggsm202008104",
+      "title": "獐子岛内部控制失效案例研究",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "sq-zh202007019",
+      "title": "探析企业的财务内部控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cjyj202012002",
+      "title": "服务业发展'抢夺'了制造业技能吗?-来自中国微观层面的经验证据",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syjlr202021017",
+      "title": "拼多多的拉新策略研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xiandaiyx202003066",
+      "title": "拼多多低价分享拼团模式的问题及建议",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "bjyddxxb-shkxb202002003",
+      "title": "浅析拼多多的泛游戏化设计",
+      "download_times": 4,
+      "browse_times": 18
+    },
+    {
+      "id": "scxdh202013053",
+      "title": "獐子岛公司的内部控制制度分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cjyj202012001",
+      "title": "推动构建开放型世界经济:英美经验与中国思路",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggshic202005065",
+      "title": "拼多多营销策略创新",
+      "download_times": 10,
+      "browse_times": 29
+    },
+    {
+      "id": "cyb201811022",
+      "title": "社交裂变的精髓是什么?",
+      "download_times": 3,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "逆向物流选址",
+    "逆向物流选址",
+    "刘斌 湖北经济学院",
+    "知音号",
+    "中小投资者损害赔偿救济",
+    "中小投资者损害补偿救济",
+    "中小投资者损害补偿救济",
+    "中小投资者损害补偿救济",
+    "中小投资者损害补偿救济",
+    "中小投资者损害赔偿救济",
+    "翻译",
+    "工业设计",
+    "工业设计",
+    "工业设计",
+    "工业设计",
+    "工业设计",
+    "翻译",
+    "工业设计",
+    "工业设计",
+    "工业设计",
+    "工业设计",
+    "热能",
+    "主题:(外语)",
+    "中小投资者",
+    "主题:(外语)",
+    "工业设计",
+    "工业设计",
+    "主题:(外语)",
+    "分析",
+    "分析",
+    "工业设计",
+    "工业设计",
+    "热能",
+    "热能",
+    "主题:(外语)",
+    "主题:(外语)",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信",
+    "图书馆微信建设",
+    "结膜炎",
+    "图书馆",
+    "图书馆",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信",
+    "图书馆",
+    "结膜炎",
+    "结膜炎",
+    "图书馆微信",
+    "结膜炎",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(内容建设)",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信公众平台内容建设",
+    "学位论文",
+    "结膜炎",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*主题:(建设)",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(内容建设)",
+    "图书馆微信公众平台内容建设",
+    "图书馆微信公众平台内容建设",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(内容建设)",
+    "关键词:(图书馆)*关键词:(微信公众平台)*关键词:(建设)",
+    "图书馆微信公众平台内容建设",
+    "增量成本",
+    "(教师博览) 题名:大学男女比例失调：表象背后隐藏的危机 作者:王小波",
+    "营商环境改善的对策分析",
+    "刘迅",
+    "财务共享",
+    "层次分析法",
+    "女性高管特征",
+    "黑暗中使用手机",
+    "黑暗中手机",
+    "安然事件",
+    "题名: pragmatics transfer refusals",
+    "层次分析法 供应链金融",
+    "层次分析法",
+    "拼多多",
+    "供应链金融",
+    "小米公司",
+    "财务共享对会计行业未来发展的影响",
+    "人工智能时代下会计的出路",
+    "供应链金融",
+    "(作者:王小波) 题名:大学男女比例失调：表象背后隐藏的危机 作者:王小波",
+    "(beps行动计划 税收协定) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "社会转型期助人被讹现象的人类学分析",
+    "供应链金融",
+    "财务共享",
+    "财务共享",
+    "秩序完善",
+    "题名: pragmatics transfer",
+    "供应链金融 财务管理",
+    "刘迅",
+    "供应链金融 财务管理",
+    "刘迅",
+    "离婚原因",
+    "离婚原因",
+    "题名: pragmatics transfer refusals",
+    "题名: pragmatics transfer",
+    "(题名: pragmatics transfer refusals) (PublishYear:'2004' )",
+    "供应链金融 财务管理",
+    "刘迅",
+    "层次分析法",
+    "拼多多",
+    "大学生男女比例失衡对就业的影响",
+    "大学生男女比例失衡",
+    "拼多多",
+    "供应链金融",
+    "刘迅",
+    "刘迅",
+    "增量成本",
+    "beps行动计划 税收协定",
+    "陈锦沫",
+    "beps行动计划 税收协定",
+    "作者:王小波",
+    "安然事件财务共享",
+    "人工智能时代下会计",
+    "拼多多",
+    "关键词:失业心理",
+    "中国葬礼文化",
+    "宜家(进军中国市场的营销策略",
+    "(互联网对农业产业结构的作用研) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "杨晓琳",
+    "慈善募捐活动受众心理分析",
+    "关键词:中韩 经贸",
+    "獐子岛",
+    "资产证券化信用风险影响",
+    "獐子岛",
+    "中百仓储",
+    "关键词:洪湖",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "教育扶贫平台的实现",
+    "(关键词:洪湖) (Type:'Periodical' PublishYear:'2020' )",
+    "(关键词:洪湖) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:洪湖) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' )",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' )",
+    "关键词:环境",
+    "中宠",
+    "长城影视发展战略",
+    "互联网 农业产业结构",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "‘00’后大学生",
+    "风险自留理论",
+    "校园电子商务的背景",
+    "改进市场法在文化传媒",
+    "市场营销",
+    "市场营销公司论文",
+    "大电影产业",
+    "利率市场化商业银行盈利模式 中国银行",
+    "我国可再生能源产业发展研究",
+    "创新创业心得体会",
+    "(并购风险防范措施) (PeriodicalTitleForFacet:'财会通讯' )",
+    "啦啦操",
+    "风险资产剥离理论",
+    "宜家(进军中国市场的营销策略",
+    "浅谈在华跨国公司的本土化策略",
+    "跨国公司企业文化",
+    "认罪认罚",
+    "中西方企业文化",
+    "互联网 农业产业结构",
+    "社区养老",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "互联网 各国农业产业结构",
+    "互联网 农业产业结构调整",
+    "(关键词:洪湖) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:洪湖) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:洪湖) (Type:'Periodical' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2021' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' )",
+    "教育扶贫平台的实现",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' PublishYear:'2020' )",
+    "(关键词:环境) (Type:'Periodical' )",
+    "教育扶贫平台的实现",
+    "关键词:环境",
+    "中百仓储",
+    "中百仓储",
+    "关键词:失业心理",
+    "互联网对农业产业结构的作用研",
+    "开题报告",
+    "中宠公司",
+    "(电子商务) (ClassCodeForSearch:'0/F' )",
+    "电子商务",
+    "(互联网+农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "校园电子商务的现状",
+    "宠物食品营销",
+    "(宠物食品营销) (PublishYear:'2018' )",
+    "疫情下的社区养老",
+    "关键词:中韩 经贸",
+    "互联网 农业产业结构",
+    "獐子岛",
+    "(主题:(社会化留守儿童)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(儿童心理健康理论)) (Type:(Periodical OR Thesis OR Conference) )",
+    "宜家(进军中国市场的营销策略",
+    "跨国企业",
+    "中国葬礼文化",
+    "心理学发展",
+    "心理学发展",
+    "认罪认罚",
+    "疑罪从无",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "啦啦操",
+    "啦啦操赛事发展",
+    "啦啦操",
+    "中百仓储",
+    "裂变",
+    "分享",
+    "分享",
+    "裂变传播",
+    "裂变",
+    "风险资产剥离",
+    "互联网 农业产业结构",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "储蓄和投资",
+    "关键词:失业心理",
+    "(基于互联网的区域农业产业结构...) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "作者: 马衡雨",
+    "电子商务",
+    "校园电子商务平台",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' )",
+    "(关键词:环境) (Type:'Periodical' )",
+    "教育扶贫平台的实现",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' )",
+    "作者:'朱虹'",
+    "影视公司战略分析",
+    "美的集团2020半年报",
+    "BEPS行动计划",
+    "校园电子商务的发展现状",
+    "中西方企业文化对比",
+    "(主题:(社会化留守儿童)) (Type:(Periodical OR Thesis OR Conference) )",
+    "浅谈留守儿童心理健康教育",
+    "消费者购买意向",
+    "利率市场化背景下中国银行盈利模式转",
+    "证券化银行逻辑",
+    "美国企业特点",
+    "法国企业特点",
+    "美的集团财务风险分析",
+    "校园电子商务现状",
+    "关键词:失业心理",
+    "关键词:青年失业",
+    "(互联网对农业产业结构的作用研) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "作者:'韩雪禛' 作者单位:'常州市生物技术发展中心'",
+    "关键词:中韩 经贸",
+    "(作者:(吕璐) and 作者单位:(湖北经济学院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(电子商务) (ClassCodeForSearch:'0/F' )",
+    "商务英语",
+    "宜家(进军中国市场的营销策略",
+    "宜家(KEA)成本领先战略",
+    "中西方企业文化",
+    "公民对认罪认罚的了解",
+    "中百仓储供应商",
+    "中百swot",
+    "swot",
+    "中百仓储供应商",
+    "啦啦操",
+    "中美贸易战",
+    "并购风险防范措施",
+    "(并购财务风险) (PeriodicalTitleForFacet:'财会通讯' )",
+    "并购风险防范措施",
+    "并购财务风险",
+    "市场营销公司论文",
+    "中美贸易战",
+    "拼多多",
+    "裂变传播",
+    "校园电子商务产生背景",
+    "校园电子商务",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国农业博弈) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "互联网 农业产业结构",
+    "社会互构论视域下农村自杀现象的研究——基于《农民自杀研究》",
+    "校园电子商务",
+    "(互联网+中国农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国农业发展模式",
+    "(宠物食品营销) (PublishYear:'2019' )",
+    "(宠物行业) (PublishYear:'2020' )",
+    "社会福利的利处",
+    "心理学发展前景",
+    "分享",
+    "裂变传播",
+    "关键词:失业心理",
+    "浅谈教学管理中存在的问题及对策",
+    "互联网对农业产业结构的作用研...",
+    "基于互联网的区域农业产业结构...",
+    "互联网对农业产业结构的作用研究综述",
+    "基于互联网的区域农业产业结构...",
+    "(电子商务) (ClassCodeForSearch:'0/F' )",
+    "赵姝菊 . 高校学生用品动态校园 购物网站设计与开发",
+    "电子商务",
+    "中美贸易战",
+    "啦啦操发展",
+    "啦啦操赛事发展",
+    "受众心理分析",
+    "校园电子商务现状",
+    "校园电子商务背景",
+    "校园电子商务发展现状与 改进策略",
+    "浅析现代影视产业的生产管理",
+    "South Korea trade China",
+    "吕璐",
+    "影视公司战略分析",
+    "作者:'朱虹'",
+    "影视公司战略分析",
+    "家电行业上市公司财务风险分析",
+    "我国可再生能源产业发展研究",
+    "信用风险影响理论",
+    "风险资产剥离",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "彭靖迁",
+    "提出信用风险",
+    "证券化银行信用风险",
+    "银行风险",
+    "银行风险防范",
+    "会议信用风险",
+    "啦啦操赛事",
+    "上市公司盈余管理与财务风险分析",
+    "上市公司盈余管理",
+    "上市公司盈余管理",
+    "中百仓储",
+    "中百仓储",
+    "拼多多裂变传播",
+    "分享",
+    "裂变传播",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "互联网+中国农业博弈",
+    "互联网+中国农业",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "互联网+农业产业结构",
+    "(互联网+中国现代农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "互联网+中国现代农业",
+    "宠物食品营销",
+    "宠物",
+    "宠物行业",
+    "认罪认罚",
+    "贫困生补助政策存在的问题及对策",
+    "心理学发展以及如何服务社会",
+    "心理学发展",
+    "拼多多",
+    "拼多多",
+    "苏式建筑的变迁与保护",
+    "大学生 运动",
+    "大学生 运动 心理意愿",
+    "证券化银行风险",
+    "证券化银行风险",
+    "(心理意愿 运动) (Type:'Thesis' )",
+    "当前我国竞技",
+    "(中国农业发展模式) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "银行风险",
+    "银行金融体系地位",
+    "银行国民经济",
+    "((审计质量) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))) (PublishYear:'2020' )",
+    "(审计质量) (PublishYear:'2020' Type:'Thesis' )",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国互联网and农业",
+    "中国农业市场",
+    "什么值得买",
+    "社会学视角下的大学生就业问题研究",
+    "浅谈留守儿童心理健康教育",
+    "信贷资产证券化对我国商业银行信用风险影响的实证研究",
+    "证券化银行信用风险实证",
+    "证券化银行信用风险",
+    "(主题:(社会化留守儿童)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(社会化留守儿童)) (Type:(Periodical OR Thesis OR Conference) )",
+    "消费者购买意向",
+    "(审计质量) (PublishYear:'2020' )",
+    "以猪肉为原料的经典菜品",
+    "中国农业市场",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' PublishYear:'2019' )",
+    "教育扶贫平台",
+    "教育扶贫平台的实现",
+    "(关键词:洪湖) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' PublishYear:'2018' )",
+    "教育扶贫平台的实现",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' PublishYear:'2019' )",
+    "校园电子商务的发展现状",
+    "(校园电子商务的发展现状) Date:2018-2020",
+    "校园电子商务发展现状与改进策略",
+    "外貌焦虑",
+    "(社会福利) (ClassCodeForSearch:'0/F' )",
+    "跨国企业",
+    "上市公司财务风险分析",
+    "追星周边",
+    "跨国公司",
+    "心理学发展",
+    "认罪认罚",
+    "疑罪从无在我国司法中适用",
+    "中百仓储",
+    "中百仓储供应链",
+    "啦啦操",
+    "啦啦操",
+    "证券化风险剥离",
+    "心理学",
+    "资本主义国家的社会福利的政策",
+    "风险资产剥离理论",
+    "后疫情时代社区团购",
+    "(并购风险防范措施) (PeriodicalTitleForFacet:'电子商务' )",
+    "影视传媒企业",
+    "影视公司战略分析",
+    "消费者购买意向",
+    "消费者购买意向",
+    "银行是金融体系",
+    "银行风险防范",
+    "银行信用风险",
+    "中国互联网and农业",
+    "中国互联网and农业产业结构分析",
+    "(中国互联网and农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "上市公司经营者股权激励的会计研究——以伊利股份为例",
+    "无形资产转让定价",
+    "企业文化",
+    "法国企业特点",
+    "跨国公司",
+    "中西方企业文化对比",
+    "拼多多",
+    "汉口东正教堂的前尘往事与今昔",
+    "大学生 运动 心理意愿",
+    "大学生 运动 心理意愿",
+    "社会福利的利与弊",
+    "心理学发展",
+    "心理学发展以及如何服务社会",
+    "心理学发展以及如何服务社会",
+    "证券化影响路径",
+    "证券化影响机制",
+    "会议信用风险",
+    "会议提出信用风险",
+    "证券化风险资产剥离",
+    "信用风险信息不对称理论",
+    "(审计质量) (PublishYear:'2020' Type:'Thesis' )",
+    "(审计质量) (PublishYear:'2020' )",
+    "(后疫情时代社区) (PublishYear:'2020' )",
+    "(后疫情时代社区) (PublishYear:'2020' )",
+    "并购风险防范措施",
+    "并购财务风险",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国互联网and农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国互联网and农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国互联网and农业产业结构分析",
+    "中国互联网and农业",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国农业市场",
+    "心理意愿 运动",
+    "心理意愿",
+    "心理意愿 运动",
+    "心理医院",
+    "(心理意愿 运动) (Type:'Thesis' )",
+    "什么值得买",
+    "(主题:(社会化留守儿童)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(儿童心理健康教育)) (Type:(Periodical OR Thesis OR Conference) )",
+    "消费者购买意向",
+    "利率市场化背景下中国银行盈利模式转",
+    "分享",
+    "BEPS行动计划第五项",
+    "BEPS行动计划",
+    "信贷资产证券化信用风险实证研究",
+    "跨国公司",
+    "企业文化对比",
+    "企业文化对比",
+    "中西方企业文化对比",
+    "美的集团财务风险分析",
+    "商业计划书",
+    "谢哲浩",
+    "互联网背景下传媒产业",
+    "(宠物行业) (PublishYear:'2020' )",
+    "后疫情时代社区",
+    "(心理意愿 运动) (Type:'Thesis' )",
+    "(互联网 农业产业结构) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国农业发展模式",
+    "(中国农业发展模式) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "证券化银行逻辑",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "(关键词:环境) (Type:'Periodical' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' PublishYear:'2020' )",
+    "(关键词:环境) (Type:'Periodical' )",
+    "教育扶贫平台的实现",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'ISTIC' )",
+    "疫情下的社区养老",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "啦啦操发展",
+    "(关键词:环境) (Type:'Periodical' PublishYear:'2020' ClassCodeForSearch:'0/X' CorePeriodical:'PKU' )",
+    "当前我国经济",
+    "风险资产的剥离",
+    "会议提出信用风险",
+    "中国农业产业结构分析",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国互联网and农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "中国互联网and农业",
+    "(中国互联网and农业) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(中国农业产业结构分析) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR (DBID:FZ_Old) OR ((DBID:FZ_Old AND BoughtUserId:hbjjxy)) OR (DBID:FZ_New) OR ((DBID:FZ_New AND BoughtUserId:hbjjxy)) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "什么值得买"
+  ]
+}

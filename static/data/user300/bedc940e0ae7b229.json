@@ -1,0 +1,3277 @@
+{
+  "下载": [
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgys201805009",
+      "title": "薄煤层采煤机摇臂输出轴轴承特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201711003",
+      "title": "超硬镀膜圆柱滚子轴承动力学接触特性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "kmlgdxxb201305009",
+      "title": "深沟球轴承动力学有限元仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "mkjx201002034",
+      "title": "球轴承保持架动力学仿真及分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "mkjx201308142",
+      "title": "基于ANSYS/LS-DYNA的圆柱滚子轴承的动力学特性研究与故障模拟",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201906014",
+      "title": "滚动轴承稳定工况下的滚动体打滑动力学分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201811019",
+      "title": "汽车增压器滚动轴承动力学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "gsgydx201902006",
+      "title": "滚动轴承外圈局部缺陷的有限元动力学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "nygcxb201213007",
+      "title": "轴颈倾斜时滚柱轴承动态接触特性的有限元分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201609009",
+      "title": "耐热钢无油沟宽挡边圆柱滚子轴承外圈滚道与挡边的磨削加工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "dlxykzxb201506006",
+      "title": "旋转圆环平面外振动的行波法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "shdegydxxb201603003",
+      "title": "上海第二工业大学获得7项2016年度国家自然科学基金立项",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201221017",
+      "title": "滚动轴承动态接触特性数值模拟中若干问题",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "nygcxb201213007",
+      "title": "轴颈倾斜时滚柱轴承动态接触特性的有限元分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcs201303028",
+      "title": "振动频率对滚动轴承动态接触特性影响数值模拟研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "hebzc201203021",
+      "title": "3MZ3210外沟精研机改造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcs201303028",
+      "title": "振动频率对滚动轴承动态接触特性影响数值模拟研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "nygcxb201213007",
+      "title": "轴颈倾斜时滚柱轴承动态接触特性的有限元分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xjsxgy201307025",
+      "title": "单列向心球轴承保持架动力学仿真分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201711003",
+      "title": "超硬镀膜圆柱滚子轴承动力学接触特性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201802002",
+      "title": "不同凸形的高铁圆锥滚子轴承动态性能分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "mkjx201002034",
+      "title": "球轴承保持架动力学仿真及分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "xjsxgy201307025",
+      "title": "单列向心球轴承保持架动力学仿真分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910008",
+      "title": "高速脂润滑圆锥滚子轴承保持架动态稳定性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201308142",
+      "title": "基于ANSYS/LS-DYNA的圆柱滚子轴承的动力学特性研究与故障模拟",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201811003",
+      "title": "基于ANSYS/LS-DYNA的摇臂轴承温度场分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgys201805009",
+      "title": "薄煤层采煤机摇臂输出轴轴承特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzzjsyzb201804036",
+      "title": "基于ANSYS/LS-DYNA的推力球轴承早期故障状态研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201906014",
+      "title": "滚动轴承稳定工况下的滚动体打滑动力学分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "zdycj201910008",
+      "title": "高速脂润滑圆锥滚子轴承保持架动态稳定性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "mkjx201002034",
+      "title": "球轴承保持架动力学仿真及分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "hebzc201601001",
+      "title": "高速列车轴箱轴承动力学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201221017",
+      "title": "滚动轴承动态接触特性数值模拟中若干问题",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "hgjx201502003",
+      "title": "基于LS-DYNA的压缩机轴承可靠性分析方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "zc200907001",
+      "title": "圆柱滚子轴承的动力学分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "dlxykzxb201506006",
+      "title": "旋转圆环平面外振动的行波法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201002034",
+      "title": "球轴承保持架动力学仿真及分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyyy201201041",
+      "title": "机床主轴轴承保持架动力学的研究及其发展现状",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201910008",
+      "title": "高速脂润滑圆锥滚子轴承保持架动态稳定性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zdcsyzd201806017",
+      "title": "转速波动工况滚动轴承打滑动力学特性分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb201505014",
+      "title": "采用知识流理论的高速滚动轴承打滑失效试验台集成设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201711003",
+      "title": "超硬镀膜圆柱滚子轴承动力学接触特性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcxb201306006",
+      "title": "考虑涡动工况的高速滚动轴承打滑失效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "gsgydx201902006",
+      "title": "滚动轴承外圈局部缺陷的有限元动力学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "jlycsjs201702006",
+      "title": "基于ANSYS/LS-DYNA的6201深沟球轴承动力学仿真与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201803002",
+      "title": "基于ANSYS/LS-DYNA的摇臂轴承动力学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "mkjx201308142",
+      "title": "基于ANSYS/LS-DYNA的圆柱滚子轴承的动力学特性研究与故障模拟",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201604010",
+      "title": "高速圆柱滚子轴承保持架断裂原因分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201221017",
+      "title": "滚动轴承动态接触特性数值模拟中若干问题",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgcs201303028",
+      "title": "振动频率对滚动轴承动态接触特性影响数值模拟研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201609009",
+      "title": "耐热钢无油沟宽挡边圆柱滚子轴承外圈滚道与挡边的磨削加工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201403001",
+      "title": "圆柱滚子轴承滚子打滑机理研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201101018",
+      "title": "滚动轴承保持架动力学研究进展",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "xjsxgy201307025",
+      "title": "单列向心球轴承保持架动力学仿真分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201909008",
+      "title": "基于HyperMesh/LS-DYNA的航空发动机轴承内圈损伤仿真分析",
+      "download_times": 14,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "sxjx201304008",
+      "title": "润滑状态对滚动轴承动态接触特性的影响",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "hebzc201404001",
+      "title": "高速圆柱滚子轴承动力学分析",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy201922038",
+      "title": "滚动轴承打滑试验研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "shdegydxxb201603003",
+      "title": "上海第二工业大学获得7项2016年度国家自然科学基金立项",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201213007",
+      "title": "轴颈倾斜时滚柱轴承动态接触特性的有限元分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzz201404015",
+      "title": "基于ADAMS的圆柱滚子轴承保持架柔性化建模及仿真分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "kmlgdxxb201305009",
+      "title": "深沟球轴承动力学有限元仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201102003",
+      "title": "航空发动机主轴高速圆柱滚子轴承保持架柔体动力学仿真",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdcsyzd201806017",
+      "title": "转速波动工况滚动轴承打滑动力学特性分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "zc200101018",
+      "title": "本期内容摘要",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "mkjx201308142",
+      "title": "基于ANSYS/LS-DYNA的圆柱滚子轴承的动力学特性研究与故障模拟",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zzjsyjc201703020",
+      "title": "滚动轴承有限元动力学模拟中的刚体简化问题研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201811019",
+      "title": "汽车增压器滚动轴承动力学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "hebzc201203021",
+      "title": "3MZ3210外沟精研机改造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201802002",
+      "title": "不同凸形的高铁圆锥滚子轴承动态性能分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "hkdlxb200606021",
+      "title": "圆柱滚子中介轴承拟静力学分析",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "xajtdxxb201501022",
+      "title": "利用改进牛顿-拉夫逊法的高速圆柱滚子轴承打滑分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zc201604010",
+      "title": "高速圆柱滚子轴承保持架断裂原因分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "zdycj201905009",
+      "title": "圆弧兜孔圆柱滚子轴承的动态不稳定规律特性研究",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zc201910009",
+      "title": "沟道表面波纹度对高速球轴承保持架打滑的影响",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zdycj201507004",
+      "title": "圆柱滚子轴承多体接触动力学研究",
+      "download_times": 12,
+      "browse_times": 0
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201403001",
+      "title": "圆柱滚子轴承滚子打滑机理研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zngydxxb201803010",
+      "title": "加速工况下圆柱滚子轴承运动特性",
+      "download_times": 13,
+      "browse_times": 1
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    }
+  ],
+  "浏览": [
+    {
+      "id": "zzyzdh201524006",
+      "title": "基于ANSYS/LS-DYNA的铁路货车缺陷轴承振动特性研究",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201906014",
+      "title": "滚动轴承稳定工况下的滚动体打滑动力学分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgcs201303028",
+      "title": "振动频率对滚动轴承动态接触特性影响数值模拟研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "gctxxb201504009",
+      "title": "高速轴承动力学有限元分析方法",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "zc201710002",
+      "title": "基于ANSYS/LS-DYNA的高铁轴承动态仿真",
+      "download_times": 11,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "kmlgdxxb201702008",
+      "title": "圆锥滚子轴承动力学仿真分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zdycj201922012",
+      "title": "高速圆柱滚子轴承保持架振动特性研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "QK199700017891",
+      "title": "圆柱滚子轴承保持架窗孔间隙的计算",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hkdlxb201607023",
+      "title": "考虑保持架间隙碰撞的球轴承-机构系统动力学分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201903021",
+      "title": "简谐转速波动工况下滚动轴承保持架动态特性分析",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201105021",
+      "title": "高速角接触球轴承保持架柔体动力学分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "jxzzyzdh201405037",
+      "title": "基于ADAMS的球轴承保持架动力学仿真",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201206021",
+      "title": "基于ANSYS/LS-DYNA的保持架动力学分析",
+      "download_times": 23,
+      "browse_times": 6
+    },
+    {
+      "id": "rhymf201911028",
+      "title": "考虑疲劳故障的圆柱滚子轴承打滑失效分析",
+      "download_times": 12,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "jxcd201812019",
+      "title": "启停阶段圆柱滚子轴承动态特性分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zc201401002",
+      "title": "基于ADAMS和分形理论的轴承保持架动力学仿真分析",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc201401022",
+      "title": "角接触球轴承保持架柔性多体动力学分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201902002",
+      "title": "中大型圆柱滚子轴承柔性保持架动力学分析",
+      "download_times": 17,
+      "browse_times": 2
+    },
+    {
+      "id": "zc201007001",
+      "title": "高速圆柱滚子轴承柔性保持架的动力学分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "jxcd201908023",
+      "title": "角接触球轴承在减速过程中的保持架动态特性分析",
+      "download_times": 14,
+      "browse_times": 2
+    },
+    {
+      "id": "lygxyxb200602006",
+      "title": "高速圆柱滚子轴承保持架动力学分析",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jxkxyjs201802002",
+      "title": "停止阶段圆柱滚子轴承保持架应力分析",
+      "download_times": 10,
+      "browse_times": 3
+    },
+    {
+      "id": "hkdlxb201401027",
+      "title": "高速圆柱滚子轴承保持架动力学特性分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201709007",
+      "title": "变载偏斜圆柱滚子轴承打滑动力学分析",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "jxsjyzz201602017",
+      "title": "加速工况下高速圆柱滚子轴承打滑分析",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zc201604010",
+      "title": "高速圆柱滚子轴承保持架断裂原因分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201910035",
+      "title": "高速角接触球轴承保持架不稳定运动机理分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "jxgcxb201221017",
+      "title": "滚动轴承动态接触特性数值模拟中若干问题",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "lygxyxb201506004",
+      "title": "高速圆柱滚子轴承停止阶段打滑特性",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "jxgcxb201011006",
+      "title": "基于塑性材料模型的滚动轴承有限元分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "mkjx201308142",
+      "title": "基于ANSYS/LS-DYNA的圆柱滚子轴承的动力学特性研究与故障模拟",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "jxsjyzz201412021",
+      "title": "外圈波纹度对圆柱滚子轴承动态特性影响的研究",
+      "download_times": 7,
+      "browse_times": 2
+    },
+    {
+      "id": "nygcxb201213007",
+      "title": "轴颈倾斜时滚柱轴承动态接触特性的有限元分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzw201606056",
+      "title": "高速圆柱滚动轴承动力学仿真技术",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj201801026",
+      "title": "冲击载荷对铁路轴箱轴承塑料保持架动态性能影响研究",
+      "download_times": 12,
+      "browse_times": 4
+    },
+    {
+      "id": "xdjx201505002",
+      "title": "基于ANSYS/LS-DYNA高速列车轴箱轴承动力学分析与故障模拟",
+      "download_times": 9,
+      "browse_times": 8
+    },
+    {
+      "id": "dxqy202001028",
+      "title": "负浮力是板块运动的驱动力吗?关于岩石断裂力学的讨论",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201909020",
+      "title": "空调滑片式压缩机用圆柱滚子轴承摩擦功耗特性分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    },
+    {
+      "id": "zdycj201909015",
+      "title": "高速圆柱滚子轴承保持架运行稳定性分析",
+      "download_times": 17,
+      "browse_times": 14
+    }
+  ],
+  "检索": [
+    "滚子轴承保持架动力学",
+    "滚子轴承保持架动力学",
+    "滚子轴承保持架动力学",
+    "轴承dyna",
+    "滚子轴承dyna",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架动力学dyna",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承动力学",
+    "轴承保持架动力学",
+    "崔立",
+    "崔立高速",
+    "黄运生",
+    "滚子轴承外圈油沟",
+    "外圈yougou",
+    "外圈油沟",
+    "圆柱滚子轴承保持架动力学",
+    "滚子轴承外圈油沟",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "滚子轴承保持架动力学",
+    "滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "轴承保持架动力学dyna",
+    "保持架动力学dyna",
+    "保持架动力学dyna",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承动力学",
+    "轴承动力学",
+    "崔立",
+    "崔立轴承",
+    "崔立",
+    "崔立高速",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "滚子轴承保持架动力学",
+    "轴承保持架动力学dyna",
+    "圆柱滚子轴承保持架动力学dyna",
+    "轴承dyna",
+    "滚子轴承dyna",
+    "高速圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承保持架",
+    "高速圆柱滚子轴承",
+    "高速圆柱滚子轴承保持架",
+    "高速轴承",
+    "高速圆柱滚子轴承保持架动力学",
+    "轴承保持架动力学",
+    "滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承保持架",
+    "高速圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承保持架dyna",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学dyna",
+    "保持架动力学dyna",
+    "圆柱滚子轴承打滑率",
+    "圆柱滚子轴承dyna",
+    "圆柱滚子轴承dyna",
+    "圆柱滚子轴承dyna",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "轴承保持架动力学",
+    "高速圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承保持架动力学",
+    "滚子轴承dyna",
+    "高速圆柱滚子轴承保持架动力学",
+    "滚子轴承dyna",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "保持架动力学dyna",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学显式动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承dyna",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "波动冲击载荷下的高速列车",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承",
+    "高速圆柱滚子轴承保持架",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "崔立王黎钦",
+    "崔立王黎钦",
+    "崔立高速",
+    "黄运生",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "波动冲击载荷下的高速列车",
+    "轴承保持架动力学",
+    "轴承保持架动力学",
+    "外圈油沟",
+    "圆柱滚子轴承保持架动力学",
+    "高速圆柱滚子轴承保持架dyna",
+    "外圈油沟",
+    "滚子轴承保持架动力学",
+    "轴承保持架动力学",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "圆柱滚子轴承保持架动力学",
+    "轴承打滑率",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架打滑率",
+    "盖利森",
+    "轴承打滑率",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "加速工况下圆柱滚子轴承运动特性",
+    "轴承打滑率",
+    "轴承打滑率",
+    "轴承外圈油沟",
+    "张志华",
+    "张志华",
+    "Dyna轴承打滑率",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "轴承dyna",
+    "圆柱滚子轴承保持架动力学",
+    "圆柱滚子轴承保持架动力学",
+    "卢黎明",
+    "圆柱滚子轴承保持架动力学",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "圆柱滚子轴承保持架动力学",
+    "轴承打滑率",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "轴承保持架打滑率",
+    "轴承dyna",
+    "轴承dyna",
+    "轴承外圈油沟",
+    "轴承外圈油沟",
+    "轴承外圈油沟",
+    "含有故障的轴承动力学",
+    "含有故障的轴承动力学",
+    "含有故障的轴承动力学故障轴承动力学",
+    "含有故障的轴承动力学",
+    "含有故障的轴承动力学",
+    "断裂力学",
+    "含有故障的轴承动力学故障轴承动力学",
+    "含有故障的轴承动力学故障轴承动力学"
+  ]
+}

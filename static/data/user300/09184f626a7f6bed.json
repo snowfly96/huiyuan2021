@@ -1,0 +1,2399 @@
+{
+  "下载": [
+    {
+      "id": "zgfxkh201910006",
+      "title": "我国防洪减灾体系建设与成就",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjxxb200908020",
+      "title": "玉米秸秆等离子体热裂解液化实验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njhyj201508052",
+      "title": "新型下降管生物质热裂解液化装置的试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdhg200801006",
+      "title": "生物质真空热解液化技术研究现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdb200721015",
+      "title": "生物质快速热解制备生物油",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb200402030",
+      "title": "免耕播种机播种带玉米根茬处理装置研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdhg200309004",
+      "title": "生物质液化技术的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb200512027",
+      "title": "玉米秸秆在等离子体加热流化床上的快速热解液化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjxxb201109023",
+      "title": "下降管生物质热裂解液化反应器设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjz2010z1009",
+      "title": "生物质热解液化制油技术进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncny200805011",
+      "title": "生物油的分离与分析研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjnykj201309007",
+      "title": "鲜食春玉米引种试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gsnykj201702002",
+      "title": "5个鲜食玉米品种在天水市的引种试验初报",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlny200919016",
+      "title": "特种玉米引种及栽培技术要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyhjbh201906009",
+      "title": "植物修复重金属和抗生素复合污染 土壤微生物数量和酶活性的变化",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyjggc2016z1020",
+      "title": "无人机遥感技术在露天矿边坡测绘中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scdxxb-gckx200205015",
+      "title": "生物质秸秆在水中热化学液化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjz201610004",
+      "title": "生物质快速热解装置研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201407076",
+      "title": "浅析生物质快速热裂解反应器",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mcjgjx201101007",
+      "title": "生物质快速热裂解液化基础研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syhg201308001",
+      "title": "生物质快速热解液化技术研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hjwrzljsysb200611004",
+      "title": "生物质快速热裂解主要参数对生物油产率的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mcjgjx201203008",
+      "title": "生物质定向热裂解液化装置的研发Ⅰ:系统设计与工艺分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mhg201504014",
+      "title": "煤液化残渣和天然沥青的热解及化学组成分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201208010",
+      "title": "偏心式生物质热裂解反应器的设计及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbhg201203001",
+      "title": "生物质快速热解液化工艺研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjsfdxxb200201016",
+      "title": "棘托竹荪菌丝深层培养的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyj201104015",
+      "title": "液态发酵竹荪多糖提取工艺的优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchxygy200004017",
+      "title": "生物质的裂解及液化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201336121",
+      "title": "生物燃油生产用热载体的智能精确温度控制装置的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tynxb201101005",
+      "title": "温度及流化床床料对生物质热裂解产物分布的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb200808045",
+      "title": "利用小型流化床的生物质热裂解影响因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb201105052",
+      "title": "流化床系统参数对生物油产率的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyjyyhb201904114",
+      "title": "抗生素土壤污染及其修复探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lhjy-hx201907006",
+      "title": "固相萃取-高效毛细管电泳法同时分离测定水体和土壤中13种抗生素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjxxb200907022",
+      "title": "竖直下降管换热实验台改进设计与实验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tryhj201809025",
+      "title": "中国农业土壤中四环素类抗生素污染现状及来源研究进展",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201923375",
+      "title": "水文水资源环境管理及防洪减灾研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdb201133011",
+      "title": "移动式生物质快速热解反应器的设计及流态化模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gljs201002017",
+      "title": "生物质热解过程气体产物释放特性的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjxxb201903031",
+      "title": "移动式生物质快速热裂解装置设计与性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdkx201601010",
+      "title": "3种不同原料生物油主要化学成分的GC-MS分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj200612069",
+      "title": "生物质快速热裂解制取生物油的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lchgtx201003012",
+      "title": "生物质热解液化制备生物油技术研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwny201012006",
+      "title": "利用微藻热化学液化制备生物油的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xwskxyjs201001011",
+      "title": "生物质热解液化的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchgtx201301009",
+      "title": "生物质能流化热裂解技术研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgjz201602019",
+      "title": "木质纤维素生物质水热液化的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njlydxxb201301012",
+      "title": "3种天牛科昆虫摩擦发音器的超微结构及摩擦发音机制分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowxb200102005",
+      "title": "RVA分析辅助选择食用优质早籼稻的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zggckx201905004",
+      "title": "东北地区食物安全可持续发展战略研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgnykx201905012",
+      "title": "南粳系列水稻品种的食昧品质与稻米理化特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx200101011",
+      "title": "利用RVA谱快速鉴别不同表观直链淀粉含量早籼稻的淀粉粘滞特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx201504005",
+      "title": "中日水稻品种杂交后代株型性状的变化及其相互关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyjs200403054",
+      "title": "特优稻米品种-秋田小町",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggckx201905003",
+      "title": "国际化绿色化背景下国家区域食物安全 可持续发展战略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnykjdb200204006",
+      "title": "中国水稻生产新特点与稻米品质改良",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnxtb200508017",
+      "title": "RVA谱在稻米蒸煮食用品质评价及遗传育种方面的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsdkx201904009",
+      "title": "施氮量和灌溉方式的交互作用对东北粳稻稻米品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjlxyxb201902016",
+      "title": "6种沟胫天牛摩擦发音板的微细结构观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201418068",
+      "title": "2种墨天牛摩擦发音器超微结构的比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzyzp200301004",
+      "title": "氮肥对稻米品质影响的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdnykx200908009",
+      "title": "香稻种质稻米淀粉RVA谱特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dbnydxxb200202006",
+      "title": "氮素营养对稻米理化特性及淀粉谱特性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx201906007",
+      "title": "不同类型水稻品种稻米蛋白质含量与蒸煮食味品质的关系及后期氮肥的效应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdm200903007",
+      "title": "施氮对稻米淀粉RVA谱特征值的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowxb200501023",
+      "title": "施氮水平和栽插密度对粳稻淀粉RVA谱特性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stbctb199902014",
+      "title": "降雨入渗和产流问题研究的若干进展及评述",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dbnydxxb201905011",
+      "title": "黑龙江省西部半干旱区雨季及融雪期径流特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nsbdyslkj201801009",
+      "title": "SRM融雪径流模型在奎屯河流域洪水预报的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyjsjy201920007",
+      "title": "学习者视角下精品在线开放课程建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201618096",
+      "title": "信息时代下高校化学课程教学改革探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygch201403034",
+      "title": "气吸式红枣捡拾机设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201912001",
+      "title": "气力式矮密栽培红枣捡拾机研制",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkxjz200301010",
+      "title": "SWAT模型的原理、结构及应用研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zglyxb201904012",
+      "title": "水稻淀粉糊化温度表征差异的比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "njhyj201605029",
+      "title": "自走式红枣捡拾机的设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncpjg-cxb201708013",
+      "title": "一种气吸式红枣捡拾收获机的研制",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "bcdt200003001",
+      "title": "祁连山中部地区40 a来气候变化及其对径流的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201701050",
+      "title": "落地林果集果捡拾技术研究及进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gsnydxxb201904022",
+      "title": "气吸式落地红枣捡拾机的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bcdt200101005",
+      "title": "气候变化对中国西北地区山区融雪径流的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "synydxxb201901003",
+      "title": "表观直链淀粉和蛋白质双低型粳稻食味的关联性状分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdm201905015",
+      "title": "氮肥用量对优质粳稻产量、品质及氮肥利用率的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz202001020",
+      "title": "Multisim仿真实验在电路分析中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njhyj201006008",
+      "title": "基于SolidWorks的气吸排种器运动仿真设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs201931076",
+      "title": "市政给排水设计中的节能节水措施研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjs201808021",
+      "title": "城市建设项目节水设施设计方案的评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianyjs201606033",
+      "title": "分布式光伏并网对配电网电压的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njsfdxxb-gcjsb201703003",
+      "title": "分布式光伏系统并网对配电网电压的影响及电压越限治理方案",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyd201902003",
+      "title": "逆变型分布式电源接入影响配电网电弧接地过电压的仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201510032",
+      "title": "中国水稻生产现状与发展趋势",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sxsl201710013",
+      "title": "原平市水资源开发利用现状及可持续对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjqbkfyjj200925074",
+      "title": "原平市水资源特点及可持续利用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd200612006",
+      "title": "对节水灌溉工程建设的几点思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slghysj200503001",
+      "title": "对节水灌溉工程规划若干问题的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnydxxb200203020",
+      "title": "城市节水规划原则及节水效果评价方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsdkx200202012",
+      "title": "粳稻米淀粉特性与食味间的相关性分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zjsd200104023",
+      "title": "谷粒形状与稻米品质相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ygjsyyy200001005",
+      "title": "卫星雪盖监测与玛纳斯河融雪径流模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "btzyjsxyxb201902016",
+      "title": "精品在线开放课程建设与实施初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxhx201605003",
+      "title": "化学类在线开放课程的认识与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201807337",
+      "title": "精品在线开放课程建设思路探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgstbckx201904006",
+      "title": "东北黑土区北部典型小流域融雪径流及发生条件分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdjgcxb201407028",
+      "title": "“主动配电网和微网技术研究”专题征稿启事",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdm200903007",
+      "title": "施氮对稻米淀粉RVA谱特征值的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdm201105005",
+      "title": "黑龙江省粳稻食用品质评价新体系的建立及应用的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201226146",
+      "title": "宁南山区农业节水灌溉工程规划与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201922267",
+      "title": "水利工程节水灌溉设计与规划中存在问题及解决措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsl200906005",
+      "title": "原平市水资源保护与利用思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201703017",
+      "title": "冻融状态和初始含水率对土壤力学性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ghdqnyyj201905007",
+      "title": "季节性冻融期覆砂对太谷农田土壤含水率时空变化的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxkj201918008",
+      "title": "海绵城市综合体节水节能集成设计方案",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjzh201113044",
+      "title": "优化城市给排水工程设计的策略探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sydlgdzkxxxb201901002",
+      "title": "分布式光伏电源对配电网电压的影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl201910015",
+      "title": "分布式光伏对配电网电压的影响机理及仿真分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnxtb201315038",
+      "title": "不同稻米食味及食味特性的比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "synydxxb200302004",
+      "title": "肥水处理对北方粳稻碾磨品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ygxb200804017",
+      "title": "遥感和GIS支持下的分布式融雪径流过程模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjdxxb201202020",
+      "title": "融雪径流模型应用研究综述",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnykx201706045",
+      "title": "水稻食味品质主要影响因子分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxsl201606010",
+      "title": "山西省农田水利灌溉现状及解决措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsl201108019",
+      "title": "山西省农田水利发展研究初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsl201909018",
+      "title": "汾河流域生态修复与保护治理存在的问题及建议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxsl201408007",
+      "title": "原平市水资源现状及发展对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsl200404017",
+      "title": "原平市城区水资源管理分析及措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjqbkfyjj201035049",
+      "title": "山西省高效节水示范基地的建设与思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdxx201103179",
+      "title": "浅谈节水灌溉区划与规划方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dixs200903039",
+      "title": "原平市水文地质类型区划分成果分析与探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trxb201902009",
+      "title": "冻融条件下黑土大孔隙结构特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnjh201506058",
+      "title": "分布式光伏发电并网对配电网电压分布影响的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxtzdh201523009",
+      "title": "虚拟电厂下计及大规模分布式光伏的储能系统配置优化模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnnyxb201805001",
+      "title": "江苏省主要粳稻品种稻米品质研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sljsjd201603027",
+      "title": "SRM模型在大凌河流域融雪径流模拟中的运用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkx-cd2006z2004",
+      "title": "开都河流域融雪径流模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnm201725176",
+      "title": "分布式光伏并网对配电网电压的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlnydxxb201106012",
+      "title": "东北山樱根际细菌群落结构多样性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gznykx201107049",
+      "title": "东北山樱根际促生细菌的筛选及其对幼苗的促生效应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qyzl201912230",
+      "title": "水稻生产现状与发展趋势的相关研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201806118",
+      "title": "在线开放课程的教学思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "angydxxb-shkxb201606024",
+      "title": "无机化学微课教学模式的应用实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx201701004",
+      "title": "稻米淀粉RVA谱特征值与直链淀粉、蛋白含量的相关性及QTL定位分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hunannydx201601001",
+      "title": "不同地域水稻的RVA谱特征值及其与蛋白质含量的关系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbnyxb201501011",
+      "title": "粳稻米蒸煮食味品质与其他品质性状的典型相关分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cckjdxxb201905018",
+      "title": "提孜那甫河流域融雪径流模拟及不确定性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkx-cd2006z1004",
+      "title": "开都河流域融雪径流模拟研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlxb200611004",
+      "title": "SRM融雪径流模型在长江源区冬克玛底河流域的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stbctb201502023",
+      "title": "松花江流域融雪径流及其影响因素",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb201719023",
+      "title": "基于地形因子改进融雪径流的模拟及验证",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqsystbcxb200403013",
+      "title": "黄壤坡地土壤水分入渗垂直变异特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmhh201310033",
+      "title": "黄河流域灌溉发展规划分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnykx200701017",
+      "title": "实时实地氮肥管理对水稻产量和稻米品质的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbgtzy200902023",
+      "title": "原平市水资源现状分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsl201203006",
+      "title": "原平市水资源可持续利用对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxkj200801006",
+      "title": "加强水土保持促进山西水利可持续发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjxx201412088",
+      "title": "关于原平市水资源节水规划措施分析及利用报告",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sljsygl201912012",
+      "title": "山西省松塔水利工程全要素功能 供给侧改革研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxsl200603025",
+      "title": "农业灌溉节水规划基本理念",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunannydx201903002",
+      "title": "施氮量对优质稻产量和稻米品质及氮素利用效率的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjmzyjsxyxb201904022",
+      "title": "高职学生大规模在线开放课程(MOOC)学习现状调查与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxhx201810010",
+      "title": "分析化学在线课堂引入实验视频教学模式改革",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdjgcxb201322003",
+      "title": "主动配电系统可行技术的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytdxxb201904008",
+      "title": "小尺度温室土壤含水率空间变异性及水分迁移研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dcyyb201914006",
+      "title": "大规模分布式光伏接入的配网风险评估及应对措施研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dxjy201605049",
+      "title": "翻转课堂的教学设计与应用——基于大学分析化学实验的案例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hggdjy201903011",
+      "title": "有机化学精品在线开放课程的建设与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkx-cd200507008",
+      "title": "气候变化对中国内陆干旱区山区融雪径流的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lzdxxb201103001",
+      "title": "黑河上游不同流域融雪过程的SRM模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stbctb201904049",
+      "title": "东北黑土区坡耕地土壤侵蚀特征与多营力复合侵蚀的研究重点",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ygjsyyy200902021",
+      "title": "MODIS积雪产品及研究应用概述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sw201905004",
+      "title": "SRM模型在尼洋河流域的应用研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dxhx201406003",
+      "title": "中美两门大学普通化学网络课程的比较——以中国大学精品开放课程和Coursera为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zglyxb200004002",
+      "title": "不溶性直链淀粉与储藏大米质构特性的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zbjsytg200905002",
+      "title": "春季气温变暖导致禾谷缢管蚜时段性衰减的原因研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201732136",
+      "title": "基于水库导流方案的比选及探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "synydxxb200604003",
+      "title": "中晚熟粳稻米质性状综合分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwzz201005015",
+      "title": "粳稻品质性状间的相关关系研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wltb201912006",
+      "title": "大学物理精品在线开放课程建设的实践和思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dzbzh201912071",
+      "title": "高职院校精品在线开放课程建设探讨",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "bcdt200104017",
+      "title": "基于遥感与地理信息系统的SRM融雪径流模型在Alps山区流域的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scnydxxb200803002",
+      "title": "引进粳稻品种品质性状的相关及聚类分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxtb200319017",
+      "title": "SRM融雪径流模型在西天山巩乃斯河流域的应用实验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slfd201709005",
+      "title": "基于过程的融雪模型研发Ⅰ——原理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljnykx201112045",
+      "title": "肥料对稻米外观品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsdkx200202012",
+      "title": "粳稻米淀粉特性与食味间的相关性分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "lsyslgy200709003",
+      "title": "稻米淀粉RVA特性及食味评价技术研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shnykj201901010",
+      "title": "优质与高产水稻品种稻米品质和淀粉RVA谱特征值差异初探",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "szybh200601009",
+      "title": "水资源利用中最优规划问题的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsl200601027",
+      "title": "农业节水规划与实施办法探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd200201021",
+      "title": "发展节水灌溉应注意的几个问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201335099",
+      "title": "丘北县水资源利用现状及高效节水建设规划",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201917070",
+      "title": "农田水利工程的节约规划灌溉初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxslkj201102033",
+      "title": "原平市地下水开发和可持续性利用规划措施研究及分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dbslsd200612026",
+      "title": "北方缺水地区节水灌溉的动态规划模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjqbkfyjj200604093",
+      "title": "原平市重点水源区地下水动态及水质量现状分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201718027",
+      "title": "谷氨酰胺转氨酶在酸奶中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zrzyxb200302007",
+      "title": "基于DEM的分布式水文模型研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bcdt200805008",
+      "title": "SRM融雪径流模型在黑河流域上游的模拟研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "chgc201606006",
+      "title": "GIS 优化 SRM 储流函数模型变量与参数方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slghysj201705014",
+      "title": "气候变化环境下新疆喀什冰川河流融雪径流动态响应研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zuowxb200508021",
+      "title": "食用稻米品质性状间的相关性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kzydz201703006",
+      "title": "施氮量对优质粳稻品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnyxb201102002",
+      "title": "氮钾肥用量对杂交粳稻常优1号米质性状及淀粉黏滞谱特征的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201335099",
+      "title": "丘北县水资源利用现状及高效节水建设规划",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201109065",
+      "title": "糙米储藏陈化过程中生理生化指标变化特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lsyslgy201107006",
+      "title": "不同储藏温度及储藏方法对稻谷品质的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sw201304002",
+      "title": "基于栅格尺度的双层融雪径流模型研究及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xblykj199904015",
+      "title": "还原糖直接滴定法的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowxb200907015",
+      "title": "生育类型与施氮水平对粳稻加工品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowxb201202013",
+      "title": "生育类型与施氮水平对粳稻淀粉RVA谱特性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdm201501020",
+      "title": "不同施氮处理对不同类型粳稻产量与品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sydlgdzkxxxb201901006",
+      "title": "分布式光伏并网对配电网电压偏差影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgjs201918053",
+      "title": "分布式光伏接入对配电网电能质量影响的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shnykj201904037",
+      "title": "不同施氮量对优质粳稻“宝农407”产量和品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjsd201105025",
+      "title": "施氮量与栽插密度对粳稻稻米品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201611023",
+      "title": "施氮水平对4个日本粳稻品种（系）产量及蒸煮食味品质的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gzyzp200401011",
+      "title": "施氮量与栽插密度对粳稻品种品质的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201921025",
+      "title": "基于InVEST模型的安徽省金寨县生境质量对土地覆被变化的响应",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jxcjdxxb201304008",
+      "title": "要素流动、农户资源禀赋与农业技术采纳:文献回顾与理论解释",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjtjj201918012",
+      "title": "安徽和县农户环境友好型技术采纳行为特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnnykx201104002",
+      "title": "影响农户选择农药使用技术的因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjglyj201517024",
+      "title": "农户禀赋、风险偏好与农户新技术投入行为--基于广东水果种植农户的调查实证",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stbckjqb201503018",
+      "title": "径流、泥沙与农用化学物质迁移过程研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyhjbh201810012",
+      "title": "应用HYDRUS-1D模型模拟分析PFCs在土壤中的迁移特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjdxxb201202020",
+      "title": "融雪径流模型应用研究综述",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "mhxtysx201002016",
+      "title": "基于数据包络分析的模糊综合评价方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sclyj201605008",
+      "title": "绿色债券的国际创新和中国路径",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caoyekx202002018",
+      "title": "幼龄反刍动物瘤胃菌群研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "rmcj201904010",
+      "title": "土壤中硝态氮迁移转化的数值模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlyj201710006",
+      "title": "我国猪肉中磺胺类药物的残留特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qydb200911106",
+      "title": "发达国家碳金融发展现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrllysj201512020",
+      "title": "发达国家推进绿色债券发展的主要做法及对我国的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szdxxb-zxshkxb201106025",
+      "title": "国外绿色金融政策及其借鉴",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ghdqnyyj201903029",
+      "title": "基于HYDRUS模型的暗管排水水盐运移模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggtdkx201908012",
+      "title": "生态认知、信息传递与农户生态耕种采纳行为",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spaqzljcjs201405047",
+      "title": "食品安全风险评估模型研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyr201806003",
+      "title": "降雪及旅游活动对金佛山表层岩溶泉水化学的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ncjjykj201703011",
+      "title": "户主特征、要素禀赋与现代农业技术扩散行为 ——以江西省为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjnydxxb-shkx201404006",
+      "title": "农户对农业技术采用行为的机理研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2017271768",
+      "title": "制药企业存货管理内部控制研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdjgcxb201416010",
+      "title": "虚拟同步发电机及其在微电网中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsdkx201905002",
+      "title": "水稻叶倾角分子机制及育种应用的研究进展",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201322027",
+      "title": "基于HYDRUS模型的江苏如东盐渍土一维淋滤渗流试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdnykx201313062",
+      "title": "技术选择中农户意愿选择与实际选择的差异因素分析——以农村户用沼气建设为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201525048",
+      "title": "长期基金定投产品的选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ghdqnyyj201906012",
+      "title": "基于HYDRUS-2D的雨水集聚深层入渗系统土壤水分运移模拟",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zzlsxyxb200705014",
+      "title": "食品安全综合评价指标体系的层次与灰色分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bcdt200602021",
+      "title": "积雪融雪过程中水、热、溶质耦合运移规律的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqsystbcxb202001021",
+      "title": "基于HYDRUS模型渠道渗漏模拟及影响因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "silgy200714019",
+      "title": "鸡蛋中多种磺胺类药物残留的检测方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201512018",
+      "title": "递推关系概化前期产流条件改进SCS模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csjz201521014",
+      "title": "基于地域文化的风景区规划设计思路探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rmhh202002010",
+      "title": "基于InVEST模型的大凌河上游区产水功能分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "stxb201713017",
+      "title": "奎屯河流域春季融雪期SCS-CN模型参数取值方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb201407009",
+      "title": "基于SCS-CN模型的紫色土坡地径流预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxjsqy201319044",
+      "title": "基于变压器经济运行的10kV配电网节能降损研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shijny200503001",
+      "title": "风险分析体系在各国食品安全管理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lykj201606017",
+      "title": "大兴安岭北部森林流域内积雪与融雪径流化学特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbnydxxb2001z1025",
+      "title": "植物源杀虫剂研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnydxxb-shkxb202001009",
+      "title": "不同属性技术农户行为选择差异分析——以安徽四大名茶种植户为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nygcxb200803017",
+      "title": "曲线数值法(SCS模型)在北京温榆河流域降雨-径流关系中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgstbckx201904006",
+      "title": "东北黑土区北部典型小流域融雪径流及发生条件分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "lzxk201504026",
+      "title": "传统农区女性农业技术选择及其影响因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkxjz201404011",
+      "title": "基于Logistic-ISM模型的农户采用新技术影响因素——以甘肃省定西市马铃薯种植技术为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjsjj200503008",
+      "title": "农户禀赋对保护地生产技术采纳的影响分析--以陕西、四川和宁夏为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjlt201312023",
+      "title": "我国农技服务效率评价及其影响因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201717002",
+      "title": "农户技术选择决策行为的综述与展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljnykx201607040",
+      "title": "农户对节水灌溉技术选择的影响因素研究综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjjw201102013",
+      "title": "西北地区的农户技术效率分析——基于陕、甘、宁的调查",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "synydxxb201906017",
+      "title": "东北低山丘陵区解冻期不同土地利用土壤侵蚀特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrpgy201710008",
+      "title": "发酵乳中乳酸菌产生的风味物质",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kfyj201101021",
+      "title": "农户禀赋影响节水灌溉技术普及的实证分析——以陕西为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjsc201918017",
+      "title": "植物叶发育分子遗传机制的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "stbctb201502023",
+      "title": "松花江流域融雪径流及其影响因素",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sljsjd201806014",
+      "title": "基于不同灌水模式下HYDRUS模型土壤水盐运移模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljxmsy200408074",
+      "title": "断奶仔猪腹泻的原因及预防",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spkx201913048",
+      "title": "抗菌肽快速筛选方法的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dwyyxb201805029",
+      "title": "酸化剂和牛至油替代硫酸黏杆菌素对断奶仔猪生长性能、腹泻率和盲肠微生物数量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdkf202010028",
+      "title": "抗菌肽抗菌机制及研究热点",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "dwyxjz201210015",
+      "title": "甘氨酸对硫酸黏杆菌素体外抑菌作用的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsyzz201302015",
+      "title": "硫酸黏菌素毒性及其残留检测研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwyxjz201909020",
+      "title": "抗菌肽作用机制研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yzjsgw201003017",
+      "title": "哺乳仔猪的生理特点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdxmsy201710012",
+      "title": "仔猪的生理特点及其饲养管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yfsyxjz201207065",
+      "title": "发挥和利用仔猪生理特性提高仔猪成活率",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncpjg-cxb201801007",
+      "title": "百合加工无硫护色技术的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdwbj202002051",
+      "title": "抗菌肽作为饲料添加剂在断奶仔猪上的田间试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxmzz201507019",
+      "title": "抗菌肽在断奶仔猪生产中的应用效果研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyxjs-jryzy201203008",
+      "title": "日粮添加抗菌肽制剂对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxmsy201207069",
+      "title": "抗菌肽和抗生素对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl201919013",
+      "title": "饲料中添加抗菌肽粗提取物对断奶仔猪生长性能及蓝耳病毒抗体水平的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jcst201303006",
+      "title": "天蚕素抗菌肽对断奶仔猪生长性能和猪瘟及伪狂犬抗体水平的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rzbtx201611007",
+      "title": "我国与欧盟单板层积材标准比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rzbtx201611004",
+      "title": "单板层积材制造工艺与研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgswyyy201907003",
+      "title": "全程无硫护色与超声波联用技术绿色养护新鲜兰州百合",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwbj202003008",
+      "title": "猪旋毛虫病的流行病学与诊断",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jgswxb201806010",
+      "title": "新生仔猪肠道抗菌肽的表达特征",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxmzz201901025",
+      "title": "抗菌肽对断奶仔猪生长性能、免疫器官指数及胃肠道pH的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgksszz201812004",
+      "title": "抗菌肽抗菌机制及与抗生素协同作用的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "silgy200702018",
+      "title": "硫酸黏杆菌素研究概况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl201908018",
+      "title": "抗菌肽对断奶仔猪生长性能、养分消化率、 肠道微生物含量及绒毛结构的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyzz200603020",
+      "title": "鸡体内硫酸黏杆菌素残留消除规律研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njjzy201604052",
+      "title": "旱地秸秆还田对玉米产量及性状的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwyyxb201503028",
+      "title": "复合抗菌肽对断奶仔猪生长性能及血清细胞因子含量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwkxydwyx201101019",
+      "title": "天蚕素抗菌肽对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yz201705014",
+      "title": "补饲饲粮中添加天蚕素抗菌肽对放牧断奶藏猪仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slyxm200809016",
+      "title": "新型高效广谱抗菌肽对断奶仔猪的生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl201819014",
+      "title": "抗菌肽与喹乙醇体外抑菌效果的比较及对断奶仔猪生产性能的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxmzz201702027",
+      "title": "抗菌肽替代硫酸粘菌素对断奶仔猪生长性能和抗腹泻性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx-xsb200822057",
+      "title": "抗菌肽的功能及作用机理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmzmjyyzz202001012",
+      "title": "辽宁南票野生药用植物资源普查现状与分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qgsj201822037",
+      "title": "某水电站溢流坝设计及结构计算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shkx201911002",
+      "title": "新生代农民工住房模式选择及影响机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjscbfzzz200808023",
+      "title": "反向遗传学技术及其在狂犬病病毒研究中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsyxkxyyk200103016",
+      "title": "RNA病毒的反向遗传学操作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwyxjz200803016",
+      "title": "反向遗传学技术及在RNA病毒研究中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxmsy200812016",
+      "title": "反向遗传学技术的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rzbtx201611002",
+      "title": "我国单板层积材发展现状及趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxnydxxb-shkx201901010",
+      "title": "家庭禀赋、住房选择与农民工迁移意愿",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljnykx201203041",
+      "title": "浑河源地区野生药用植物资源种类调查",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgmzmjyyzz201912013",
+      "title": "辽宁省北票市药用植物资源调查",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcsly201803011",
+      "title": "植物园科普教育系统规划设计探析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "stbctb201904023",
+      "title": "基于INVEST模型的大连市产水量时空变化分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdxmsykj200706001",
+      "title": "RNA病毒反向遗传的应用前景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyzyxyxb201906022",
+      "title": "抗菌肽的研究现状",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "ahnykx201915001",
+      "title": "抗菌肽在生猪养殖中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xqy201212039",
+      "title": "管碟法测定硫酸黏菌素效价的方法探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgxmkx202002017",
+      "title": "抗菌肽对抗生素耐药菌株的抑菌活性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnnykx201302038",
+      "title": "黑粒青麦仁协同护色技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyzs-kxyz201609017",
+      "title": "硫酸黏菌素将禁用",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl201112009",
+      "title": "添加天蚕素抗菌肽对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yz201102006",
+      "title": "天蚕素抗菌肽对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyzs-kxyz201609017",
+      "title": "硫酸黏菌素将禁用",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl201103014",
+      "title": "抗菌肽制剂替代血浆蛋白粉对断奶仔猪生长性能及健康状况的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swjstb200104001",
+      "title": "RNA病毒的反向遗传学",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs200606002",
+      "title": "反向遗传学技术及其应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lsyslgy200709016",
+      "title": "硫酸黏杆菌素与不同抗生素配伍对断奶仔猪生长性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shnyxb201906015",
+      "title": "新型抗菌肽CAMa的制备及其在断奶仔猪生产中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsl202004005",
+      "title": "抗菌肽的作用机制及在畜禽生产中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandny200905055",
+      "title": "铁岭市野生植物资源现状及开发前景和措施",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "beijny201515128",
+      "title": "2010年7月19日华北一次暴雨天气过程的诊断分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahny201501135",
+      "title": "东亚季风指数定义的分类及方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbnxb201602029",
+      "title": "长期定位施肥土壤硝态氮和铵态氮积累特征及其与玉米产量的关系",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnqx201503015",
+      "title": "2013年8月6-7日华北大暴雨过程的诊断分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnxtb201917018",
+      "title": "朱顶红在华南地区的栽培技术与园林应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdwjy201605022",
+      "title": "动物RNA病毒反向遗传学操作技术及应用进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yzjsgw201909018",
+      "title": "初生仔猪的生理特点及管理要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rzbtx201611005",
+      "title": "单板层积材生产新技术介绍",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gysj202004082",
+      "title": "多旋翼农用植保无人机设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljxmsy200403018",
+      "title": "浅谈仔猪的生理特点及其日粮配合要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxqyzy201611022",
+      "title": "断奶仔猪腹泻的原因及防治",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxnykx201204032",
+      "title": "植物NAC转录因子的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zuowuyj202005021",
+      "title": "玉米—大豆间套作模式研究现状及其展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjdxxb-nyysm201706010",
+      "title": "矿质营养元素阻控植物镉积累:从机制到应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shanxnykx201308010",
+      "title": "玉米谷胱甘肽过氧化物酶生物信息学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ycxb200110007",
+      "title": "提高水稻转化效率几个主要因素的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201324001",
+      "title": "作物花后氮素吸收·转移生理生态与模拟研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "abjbtb201701005",
+      "title": "整合基因的拷贝数与表达信息识别胶质瘤风险通路区域内的生存标志物",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxnydxxb201701003",
+      "title": "玉米耐低磷自交系的筛选与鉴定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxnydxxb201104008",
+      "title": "玉米昼夜节律钟基因CCA1的克隆及表达分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "stnyyj201706016",
+      "title": "我国农田土壤钾平衡研究进展与展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbnxb202004005",
+      "title": "谷子酸性磷酸酶ACP家族基因鉴定与SiACP1耐低磷单倍型分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yc201211004",
+      "title": "亚洲栽培稻主要驯化性状研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbnyxb201707008",
+      "title": "大豆矮化突变体苗期表型观察及对外源激素的响应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx200904001",
+      "title": "水稻氧营养的生理、生态机制及环境效应研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "YwJa+vy8pK9+PRHMQ+7cmnoDfoe5U93xe0k3lnTCMiE=",
+      "title": "特色山楂良种简介",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "CI3Zm/v4Ezk9IC7vMFVWExw2HnXO1pVt2i9lGzLaUCE=",
+      "title": "文冠果的生殖生物学与良种繁育研究进展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yLWBHX7fcXvVP+JSTNGxtR8O3m4BwVc+P5Z7hhybX7I=",
+      "title": "牡蛎“华南1号”",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yPrvQkTOhmdUMMYdcXvk8svfYXXrDnZy84OiVNodu94=",
+      "title": "“华南1号”牡蛎",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "核桃种质资源与良种选育研究",
+    "榛子良种选育",
+    "榛子良种选育",
+    "榛子良种选育",
+    "文冠果的生殖生物学与良种繁育研究进展 戚建华",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "作者:'S. Looareesuwan'",
+    "榛子良种选育",
+    "山楂良种选育",
+    "核桃种质资源与良种选育研究",
+    "核桃种质资源与良种选育研究",
+    "榛子良种选育",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "榛子良种选育",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "文冠果的生殖生物学与良种繁育研究进展",
+    "文冠果的生殖生物学与良种繁育研究进展 戚建华",
+    "华南一号牡蛎",
+    "华南一号牡蛎",
+    "华南一号牡蛎",
+    "华南一号牡蛎",
+    "关键词:华南一号",
+    "违背道德动机",
+    "违背道德行为的因素",
+    "混凝土坝温度变形",
+    "电位法测定水中氟化物",
+    "(西点发展) (ClassCodeForSearch:'0/T' )",
+    "发酵菜废液",
+    "中式糕点",
+    "(全部:(活性炭) and 全部:(甲基绿) and 全部:(吸附)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(甲基绿) and 题名或关键词:(吸附) and 题名或关键词:(活性炭)) (Type:(Periodical OR Thesis OR Conference) )",
+    "牛奶市场调查",
+    "牛奶市场调查",
+    "牛奶市场调查",
+    "牛奶市场调查",
+    "中式糕点趋势",
+    "发酵菜废液",
+    "发酵菜废液",
+    "发酵菜废液",
+    "纯净水",
+    "(题名或关键词:(活性炭) and 题名或关键词:(甲基绿) and 题名或关键词:(吸附)) (Type:(Periodical OR Thesis OR Conference) )",
+    "财务风险分析与防范",
+    "违背道德",
+    "人的道德因素在内部控制和风险管理中的作用",
+    "违背道德行为的因素",
+    "混凝土坝温度",
+    "公司营运资金管理研究",
+    "中式糕点趋",
+    "发酵菜废液",
+    "(题名或关键词:(活性炭) and 题名或关键词:(甲基绿) and 题名:(吸附)) (Type:(Periodical OR Thesis OR Conference) )",
+    "西式糕点发展",
+    "西点发展",
+    "(主题:(水中氟化物的测定和评价)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(活性炭) and 题名或关键词:(甲基绿) and 题名或关键词:(吸附)) (Type:(Periodical OR Thesis OR Conference) )",
+    "牛奶市场调查",
+    "存货管理研究",
+    "销售服务有限公司营运资金管理研究",
+    "中式糕点发展",
+    "纯净水",
+    "家班劳动共育模式的探索与实践 黄玉芬",
+    "资金流管理研究",
+    "公司资金流管理研究",
+    "牛奶市场调查",
+    "牛奶市场调查",
+    "纯化水",
+    "纯净水长期",
+    "(主题:(甲基绿) and 题名或关键词:(吸附)) (Type:(Periodical OR Thesis OR Conference) )",
+    "花开满树红 劳动最光荣——新时代背景下劳动教育在家班共育中的探索与尝试",
+    "Plant phenomics, from sensors to knowledge",
+    "基于游憩机会谱的城市森林公园优化设计研究",
+    "(安磺灵) 作者:李涵",
+    "张佳华",
+    "抽穗扬花期高温胁迫对水稻主要品质指标的影响",
+    "孕穗期高温对水稻物质分配及产量结构的影响",
+    "城市污水处理思路",
+    "基于SEM的长沙城市公园游客游憩满意度研究",
+    "农村饮水问题及解决",
+    "基于ROS理论的城市游憩绿地体系规划研究",
+    "牛磺酸LPS肝",
+    "财务杠杆",
+    "应收账款",
+    "农户土地流转的行为决策及影响因素",
+    "财务杠杆",
+    "全球变暖形成机制",
+    "金正勋",
+    "中国每年碳交易价格",
+    "中国每年碳交易价格",
+    "年产食品生产线",
+    "LPS肝",
+    "污水处理",
+    "植物表型组学:发展、现状与挑战",
+    "新一代植物表型组学的发展之路",
+    "财务杠杆",
+    "(作者:(李洪兵) and 题名或关键词:(灰色)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(孙延鹏) and 题名或关键词:(Forecasting)) (Type:(Periodical OR Thesis OR Conference) )",
+    "刊名:'统计学与应用'",
+    "高光效",
+    "安磺灵",
+    "年产肠生产线",
+    "污水处理",
+    "田月昕",
+    "牛磺酸肝损伤",
+    "牛磺酸肝损伤",
+    "(农户土地流转行为决策及影响因素分析) (Type:'Thesis' )",
+    "配电网理论线损潮流计算",
+    "植物表型组学大数据及其研究进展",
+    "(刊名:'统计学与应用') 作者:孙延鹏",
+    "中国耕地土壤有机质",
+    "胡秋倩",
+    "营养生长期高温胁迫对水稻生育后期耐冷性的影响",
+    "农村饮水问题及解决",
+    "农村饮水问题及解决",
+    "股票投资现状调查",
+    "年产生产线",
+    "(主题:(信息化教材  化学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Conference' )",
+    "(森林生态系统 陆地生态系统 地位) (ClassCodeForSearch:'0/S' PublishYear:'2014' )",
+    "森林生态系统  地位",
+    "灌浆初期高温影响水稻籽粒碳氮代谢的机理",
+    "全球变暖",
+    "中国年碳交易价格",
+    "碳交易价格",
+    "年产奶粉生产线",
+    "年产生产线",
+    "日产生产线",
+    "安磺灵",
+    "杂交兰黄金小神童",
+    "安磺灵诱导安祖花",
+    "(主题:(信息化教材)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(信息化  化学)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "森林生态系统 陆地生态系统 地位",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Thesis' PublishYear:'2018' )",
+    "抗生素饲料",
+    "抗生素饲料",
+    "氧化还原条件变化下污染水稻土中重金属形态及水稻富集研究",
+    "抗生素饲料",
+    "中亚热带典型林分汞的输入/输出平衡",
+    "基于无人机遥感的玉米表型信息提取技术研究",
+    "旅游行为",
+    "马韫韬",
+    "(作者:(张磊) and 题名或关键词:(灰色)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(刊名:'统计学与应用') 作者:孙延鹏",
+    "Geoffrey Jellicoe",
+    "配电网理论线损潮流计算",
+    "牛磺酸肝损伤",
+    "(主题:(信息化  化学)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "农村饮水问题及解决",
+    "水质安全问题",
+    "森林生态系统  地位",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Conference' ClassCodeForSearch:'0/S' PublishYear:'2014' )",
+    "森林生态系统 陆地生态系统 地位",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Conference' )",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Conference' ClassCodeForSearch:'0/S' )",
+    "(森林生态系统 陆地生态系统 地位) (ClassCodeForSearch:'0/S' )",
+    "火电机组当前现状",
+    "刘同坤",
+    "6-10KV配电网理论线损计算",
+    "(全部:(黎思奇)) (Type:(Periodical OR Thesis OR Conference OR Patent) )",
+    "(农户土地流转行为决策及影响因素分析) (Type:'Thesis' )",
+    "(主题:(信息化  化学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(信息化教材 化学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "森林生态系统 陆地生态系统 地位",
+    "森林生态系统 陆地生态系统 地位",
+    "森林生态系统 陆地生态系统 地位",
+    "配电网理论线损计算",
+    "年产香肠生产线",
+    "李晓楠",
+    "(主题:(信息化教材)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(信息化  化学)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "森林生态系统 陆地生态系统 地位",
+    "(森林生态系统 陆地生态系统 地位) (Type:'Thesis' )",
+    "森林生态系统  地位",
+    "(森林生态系统 陆地生态系统 地位) (PublishYear:'2018' )",
+    "抽穗期灌溉缓解水稻高温热害的微气象学分析",
+    "抗生素饲料"
+  ]
+}

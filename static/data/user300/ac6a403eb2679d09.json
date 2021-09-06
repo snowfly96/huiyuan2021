@@ -1,0 +1,3453 @@
+{
+  "下载": [
+    {
+      "id": "kxsd201222173",
+      "title": "论试卷命题的原则与测量",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "cjxs201103009",
+      "title": "超越心中的地狱——《万延元年的足球队》中的罪孽、创伤与救赎",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnmzxyxb-zxshkxb200411036",
+      "title": "从生命意识到酒神精神--论《红高粱家族》在文学史上的独特价值",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzflc200501012",
+      "title": "中国行政检查问题研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdcb201904004",
+      "title": "中国县级融媒体中心改革发展报告",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl201721206",
+      "title": "青年责任感视角下的高校大学生志愿服务工作的动机调研",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ywxx201709018",
+      "title": "国际测量理论与实践视野中的评分标准开发(上)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyxlc201701004",
+      "title": "重建官话方言音韵史的设想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wysh201109186",
+      "title": "从微博看网络传播的“去中介化”现象",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcxb200907012",
+      "title": "昆虫细胞免疫反应中的吞噬、集结和包囊作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsjyxyxb201809223",
+      "title": "从文化角度探析商务日语中敬语误用的原因",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yyhx201809004",
+      "title": "表面增强拉曼光谱:应用和发展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjgcysj201902034",
+      "title": "基于生成对抗网络的图像识别改进方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcjwsbj200308003",
+      "title": "SARS危机的启示--建立重大突发公共卫生事件应急反应机制势在必行",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-jyxx201910096",
+      "title": "聚焦初中数学课堂的差异教学——以《二元一次方程组的应用》为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hbydjs201712015",
+      "title": "基于机器学习的网络异常流量检测研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201824162",
+      "title": "中日称呼敬语表达方式对比研究——以人称代名词为中心",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hubeigxyxb201203024",
+      "title": "汉日敬语的语用意识比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ytctyy201712032",
+      "title": "王健教授从脾胃论治慢性唇炎经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glpl201709006",
+      "title": "基于大样本数据模型的汽车贷款违约预测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjrglgbxyxb201701015",
+      "title": "个人汽车消费贷款违约影响因素分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201923054",
+      "title": "废旧锂离子电池资源化过程中重金属污染物的分析与控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201933129",
+      "title": "敬语的历史演变研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx201208043",
+      "title": "城市生活垃圾焚烧灰渣的分析及处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljdljs200502025",
+      "title": "布袋除尘器技术在火电厂锅炉烟气除尘的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtjs200601060",
+      "title": "布袋除尘器技术及其应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rlfd201201002",
+      "title": "布袋除尘器过滤效率影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkxxk201912003",
+      "title": "基于非均衡求解的D2D多复用通信资源块分配算法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz201929300",
+      "title": "重思想引领促融合贯通 ——二元一次方程组两种解法整合教学初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxsslh-qr201907026",
+      "title": "二元一次方程组专题复习",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk201925031",
+      "title": "汽车贷款资产证券化提前偿还风险分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tqjj200802031",
+      "title": "美国汽车消费贷款的发展对我国的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ynjr201904020",
+      "title": "商业银行个人汽车贷款风险与防范",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fgxb201910002",
+      "title": "基于SERS技术的靶向修饰金纳米探针 用于Hela细胞的检测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qnjz201920058",
+      "title": "短视频内容生产中的舆情传播",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gdhg201920042",
+      "title": "重金属污泥烧结烟气治理工艺",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201603024",
+      "title": "我国汽车金融信贷风险分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yhj201909025",
+      "title": "新业态下财务公司产业链金融服务——以江铃汽车集团财务有限公司为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjjxx201924252",
+      "title": "浅谈信贷ABS在汽车金融公司的融资管理与运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201923026",
+      "title": "'互联网+'背景下我国汽车金融的市场研究",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "kjjjsc201601068",
+      "title": "浅谈汽车消费贷款的风险管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbshkx200207047",
+      "title": "谈谈“新民乐”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlysxyxb200803005",
+      "title": "新民乐的继承与发展之路",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjqbkfyjj200923062",
+      "title": "浅谈个人汽车消费不良贷款形成的原因及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcyjswx-wxb201910003",
+      "title": "4S店汽车金融渗透率的提升策略",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsc201801020",
+      "title": "中国汽车消费信贷的保险风险管理探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxhg201912036",
+      "title": "城市生活垃圾焚烧飞灰中重金属稳定处理技术研究进展",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "xddzjs201523021",
+      "title": "基于机器学习的网络异常流量检测方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ksszxb-shkxb201501023",
+      "title": "从西厢故事的演变看王实甫《西厢记》的艺术价值",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "syyj201811060",
+      "title": "我国汽车金融业存在的问题分析及其发展对策",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyhj201506037",
+      "title": "垃圾焚烧烟气净化处理半干法脱酸工艺浅析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gdhg201917056",
+      "title": "生活垃圾焚烧飞灰重金属处置技术进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201534080",
+      "title": "试论日语教学中的文化导入--以《日语综合教程第5册》教学为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dangdhg200101031",
+      "title": "《韩国音乐界》将韩国流行音乐推向世界",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlscxyxb201606019",
+      "title": "水生无脊椎动物血淋巴细胞分类及免疫研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfhj201604025",
+      "title": "某垃圾焚烧厂烟气净化工艺选择分析研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyhj201303035",
+      "title": "垃圾焚烧电厂烟气干法脱酸工艺控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201934186",
+      "title": "浅谈建筑项目工程建设中的招标阶段造价管理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyx201831010",
+      "title": "致死性家族性失眠症2家系患者的临床 、影像及基因改变特点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201391018",
+      "title": "论《爱,是不能忘记的》的悲剧爱情及在现实中的观照",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "chz201920200",
+      "title": "体育游戏在小学体育教学中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzk-a201935148",
+      "title": "体育游戏在小学体育教学中的运用研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "shang201533245",
+      "title": "运动损伤的处理方法与急救",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "bjsfdxxb-shkx200805002",
+      "title": "30年教育改革的中国经验",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsyr-jyxln2015020037",
+      "title": "浅谈中国基础教育改革",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnjdgdzkxxxb201403004",
+      "title": "基于 SIM 900A 的物联网智能家居控制系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wtyypkj201920057",
+      "title": "哈尔滨市宾县小学生体育游戏参与现状调查研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wtyypkj201904045",
+      "title": "浅析民间传统体育游戏在小学体育教学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201924039",
+      "title": "朦胧诗的经典化历程研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwxyj200302021",
+      "title": "论《长恨歌》的怀旧情结",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fzbl201801098",
+      "title": "民事诉讼证明妨碍制度的法理基础探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shdqn201811162",
+      "title": "民事诉讼证明妨碍制度研究——以比较法为视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "flyyx201801003",
+      "title": "我国民事诉讼证明妨碍研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqsfxyxb-zxshkxb200204008",
+      "title": "从南戏-传奇、元杂剧到明清南杂剧--试论南杂剧对南北戏曲文化的继承和发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjjsc201907038",
+      "title": "浅析科创板注册制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wuljs201712009",
+      "title": "利用变式教学 促进学习高端进阶",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ysjxzz200109019",
+      "title": "发作性睡病与睡眠瘫痪症",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhsjk201901007",
+      "title": "家族性致死性失眠症八例",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgzlxxcy202002203",
+      "title": "我国商业银行信用风险及防范对策",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb201709024",
+      "title": "嵇康之死 ——从《与山巨源绝交书》谈起",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysfdxxb-skb200904026",
+      "title": "嵇康《与山巨源绝交书》论析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhzhjyyx201403002",
+      "title": "突发事件应急救援标准的现状与发展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggyjjy201204015",
+      "title": "日本大地震应急救援启示录",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jryjj201508016",
+      "title": "公司治理对商业银行风险承担的影响研究——基于我国上市银行的实证分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl201912017",
+      "title": "基于STM32的综合实验平台设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jianghlt200302021",
+      "title": "论中国古代累积型集体创作长篇小说之基本特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdxxb-zxsh200001022",
+      "title": "略论明代文学思潮",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyykjlt201715034",
+      "title": "基于红外检测的SIM900电路嵌入式报警系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjjcglyjs201906005",
+      "title": "上海市雾霾污染物对人群健康影响的统计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xuey201512128",
+      "title": "常见运动损伤的预防和紧急处理--体育与健康教学设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sjbzhyzlgl201809016",
+      "title": "国内外应急救援标准化发展现状与趋势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjy201904002",
+      "title": "抓住基础教育改革的“牛鼻子”",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njsfdxwxyxb201401028",
+      "title": "古代汉语食品类名物词义辨析札记",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnjrglgbxyxb201908017",
+      "title": "公司治理对上市商业银行风险行为影响的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjy-s201305070",
+      "title": "《西去列车的窗口》与《这是四点零八分的北京》之比较",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yiyqy201420407",
+      "title": "1例社交恐惧症的案例报告",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "wuljs201806026",
+      "title": "培养关键能力 推举目标进阶",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdfx201803004",
+      "title": "国有建设用地使用权出让合同性质辨析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201632094",
+      "title": "基于评论信息的淘宝服装类评分体系优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201710080",
+      "title": "基于SIM900A的远程汽车空调温度控制系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201733032",
+      "title": "基于STM32与GSM的车载儿童安全智能报警系统的设计",
+      "download_times": 9,
+      "browse_times": 7
+    },
+    {
+      "id": "xsyj200511025",
+      "title": "世代累积型集体创作说献疑",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgywlyfzzz201905010",
+      "title": "循证矫正八大原则的本土化实践运用及服务建议——以心明爱机构社区矫正服务专业个案实践为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnwxj201308126",
+      "title": "以《沙家浜》为案例解读“文革”文艺思潮",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njdxxb-zxrwshkxb201506013",
+      "title": "清词自度曲与清代词学的发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whdxxb-rwkx200603024",
+      "title": "清代词学的经纬构建--评《清代词学发展史论》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnsfjgzyxyxb201904018",
+      "title": "我国证明妨碍法律后果之重构:以民事案例为切入点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncsygcjs-lssp200709006",
+      "title": "植物性原料酸奶发酵工艺概述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fdzzxpl201501008",
+      "title": "一个“游击式风格”的政策制定:对我国高等教育1999年6月扩招决策的政治学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjzj201808072",
+      "title": "《智取威虎山》:基于样板戏的'红色经典'传承与革新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn201803196",
+      "title": "浅谈纳兰性德诗词",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jykxyj201502008",
+      "title": "中小学减负政策文本的梳理及分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sgjs201918021",
+      "title": "BIM技术在某扇形大屋盖钢结构施工中的应用?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchc201902001",
+      "title": "加强家族性致死性失眠症的认识及诊断决策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhgjx201702011",
+      "title": "《論語注疏校勘記》編纂考述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxda201705050",
+      "title": "《论语》中古注疏语料库的建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmhfxxyxb201703008",
+      "title": "基于STM32和SIM900A车载通讯系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201610086",
+      "title": "基于SIM900A的温湿度采集与传输",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kszk201954142",
+      "title": "体育游戏在小学体育教学中应用现状及对策探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdsdxb-rwshkxb200904032",
+      "title": "论民事诉讼中的举证妨碍",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xsyj200609022",
+      "title": "世代累积型集体创作说检讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcb201914089",
+      "title": "品牌延伸在扩大品牌生命周期中的作用——以旧金山华特·迪士尼家庭博物馆为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyx-x201936200",
+      "title": "浅谈体育游戏在小学体育教学中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jjyjdk201927033",
+      "title": "创业板上市公司内部治理对自愿性信息披露影响实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mdjsfxyxb201702012",
+      "title": "基于改进主成分方法的淘宝品牌女装店绩效评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ktnw-jszd201905003",
+      "title": "谁在左右我们的基础教育——中国基础教育改革面临的严峻现实",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shcsgh201804016",
+      "title": "上海市国有建设用地土地供应与规划实施管理策略研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201921177",
+      "title": "针对国有建设用地使用权网上交易现状探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcs201919014",
+      "title": "浅析基于STM32的智能家居控制系统的设计与开发",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qmfskz201911026",
+      "title": "简化油田地面工程建设施工程序的措施分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjy-zx201910031",
+      "title": "学习进阶视角下的物理教学设计——以'浮力单元'教学为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sd-jy201909031",
+      "title": "'植'入进阶教学思想,提升学生数学素养",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxdgy201907026",
+      "title": "美国爱情故事有人读博为了名,他们读博为了命",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfwx-z201210053",
+      "title": "清代女性词综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ccsfxyxb201402024",
+      "title": "从《与山巨源绝交书》看嵇康的隐逸思想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wysh-whyy201910178",
+      "title": "体育游戏在小学体育教学中的方法与应用要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gsxzxyxb201006004",
+      "title": "城市社区公共事务分类治理模式的实践与创新——以杭州为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201807115",
+      "title": "基于STM32F103ZET6的仓库智能运货车设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dncb201909030",
+      "title": "新浪微博中的'上海垃圾分类'议题文本挖掘研究 ——基于Python Snow NLP的舆情分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "njsfdxwxyxb201704012",
+      "title": "从清词总集看“清词三大家”的经典化生成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxfx201902008",
+      "title": "论民事诉讼中的证明妨碍",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkcdx-s201917060",
+      "title": "体育游戏在小学体育教学中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiaos201912058",
+      "title": "娄底市城区小学体育游戏开展现状调查及分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shijny201511056",
+      "title": "森林对于实现可持续发展目标至关重要",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncjgdzkxxxb201905014",
+      "title": "基于文本情感分析的社交媒体数据挖掘",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201205024",
+      "title": "基于SIM900A的物联网短信报警系统",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201733032",
+      "title": "基于STM32与GSM的车载儿童安全智能报警系统的设计",
+      "download_times": 9,
+      "browse_times": 7
+    },
+    {
+      "id": "xdycjyyj201405003",
+      "title": "获取教育大数据：基于xAPI规范对学习经历数据的获取与共享",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ywjs201909005",
+      "title": "论'语'说'文' ——学术论著《语文常谈》的阅读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fysfxyxb-shkxb200501039",
+      "title": "论团体心理辅导与学生创造性思维的培养",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wysh-whyy200904071",
+      "title": "《文艺生活·文海艺苑》征稿、稿件格式规范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tykjwxtb201903043",
+      "title": "体育游戏在新乡市小学体育教学中的应用现状调查",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201825092",
+      "title": "小学体育教学中体育游戏运用现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc201924038",
+      "title": "基于STM32智能家居控制系统的设计",
+      "download_times": 21,
+      "browse_times": 5
+    },
+    {
+      "id": "xzk-b201401172",
+      "title": "开放式中学物理实验教学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tysk201807067",
+      "title": "体育游戏在小学体育教学中的应用反思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjykc202002002",
+      "title": "面向未来的思考 ——第十届京师基础教育创新论坛会议综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxdb-kxjy201414045",
+      "title": "项目化教学的现状及对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201811111",
+      "title": "核准制与注册制的比较分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs202002090",
+      "title": "分析工程建设项目前期阶段的投资控制",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "caiz201122262",
+      "title": "运动损伤的预防和处理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdkf-zxk201207098",
+      "title": "运动损伤的预防和处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shcsgh201804016",
+      "title": "上海市国有建设用地土地供应与规划实施管理策略研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "sdsfdxxb-shkx201404017",
+      "title": "基础教育改革的最新“中国案例”——论杜郎口课堂改革的经验、价值、问题和启示",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zxxgl201906020",
+      "title": "'大事记':为中国基础教育改革四十年画像—简评《辉煌四十年—中国基础教育改革大事记》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njsdxb-shkxb201902002",
+      "title": "新中国70年教育观变革的回顾与反思",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxxgl201909004",
+      "title": "70年:新中国基础教育发展大事记(1949-2019年)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "flyyx201905001",
+      "title": "民事诉讼证明妨碍及制裁措施之选择",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjmdk201512016",
+      "title": "“十三五”时期教育改革发展的思路与建议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nbgbdsdxxb201304011",
+      "title": "食指“地下诗歌”的价值--以《这是四点零八分的北京》和《相信未来》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjyjs201812012",
+      "title": "高分组英语写作文本的句法特征探究 ——基于句酷批改网英语写作文本的数据挖掘",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qhdxjyyj201905005",
+      "title": "21世纪以来我国教育社会学研究进展述评",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jyjxlt202002073",
+      "title": "知识经济时代高等教育的改革与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tyykx201404013",
+      "title": "村落舞龙传承的问题、机遇与对策分析——以骆山村“骆山大龙”为分析个案",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njtyxyxb-skb201503003",
+      "title": "村落舞龙：“骆山大龙”的传承与发展动力研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shangyyj202003021",
+      "title": "文旅融合视角下骆山大龙的传承与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shcsglzyjsxyxb202002005",
+      "title": "青年社区矫正对象的社会支持:评量、归因与策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzh201806022",
+      "title": "认知负荷理论综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxlwszz201910010",
+      "title": "中学生非自杀性自伤行为与自杀意念和自杀未遂的关联",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "sz-sxk201903193",
+      "title": "在学科教学中渗透心理健康教育的必要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxxxljkjy201821019",
+      "title": "深入学科教学的心理健康教育及其操作",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxxxljkjy201615015",
+      "title": "对学科教学中渗透心理健康教育的再思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfwx-x201712046",
+      "title": "初窥《长生殿》",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjy-s201912068",
+      "title": "秦淮灯会在元宵文化传承中的重要作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xxdjysxjy201915026",
+      "title": "对加强网络思政工作的若干思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201208018",
+      "title": "中外律师事务所商业模式比较分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjkx200304018",
+      "title": "SBR系统中同步硝化反硝化好氧颗粒污泥的培养",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qy201223053",
+      "title": "城乡基础教育资源均衡配置问题研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnjyxyxb200703038",
+      "title": "一蓑烟雨任平生——从黄州词看苏轼的旷达人生",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gxsfxyxb-zxsh201002029",
+      "title": "论陈独秀《文学革命论》对应用文的'革命'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cbkx201904012",
+      "title": "屏幕阅读的视觉传播模式及效果研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "suxjy201904017",
+      "title": "基于认知负荷理论设计慕课",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xxkx-j201910074",
+      "title": "基于认知负荷理论的 科学课教学策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsyr-jyxln201505012",
+      "title": "义务教育学校依法治校与校长作为简论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huanj201303017",
+      "title": "“雾都”伦敦的救赎之路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhzjs201308062",
+      "title": "伦敦是如何摘掉“雾都”帽子的？",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201616098",
+      "title": "生态文明与城市雾霾治理启示——以雾都伦敦治理为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjsfdxxb-shkx200102017",
+      "title": "工业革命以来英国城市大气污染及防治措施研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xzqyyj201106050",
+      "title": "浅论教育与社会分层、社会流动",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysyj200903014",
+      "title": "论在广告摄影中审美认知的多元化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stglyj201109014",
+      "title": "浅析民办非企业单位发展的现状、问题及对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201907221",
+      "title": "为黑暗世界再造光影——盲人无障碍电影脚本撰稿初探",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xnjtdxxb-sh201902008",
+      "title": "扎根理论及其在新闻传播学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjhkhtdxxb-shkxb201806009",
+      "title": "扎根理论在营销研究中的应用探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsyr-dxpd200805004",
+      "title": "社会及文化因素对基础教育改革的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddjyywh201501009",
+      "title": "基础教育改革的政治逻辑",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnsfdx-jy201505009",
+      "title": "课程改革的政治学：启蒙、政治与权力博弈",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjy-x201408068",
+      "title": "再论刘心武《班主任》的问题意识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdcb201901024",
+      "title": "中国文化海外沉浸传播模式:以Facebook Live为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shsfdxxb-zxsh201001011",
+      "title": "我国基础教育改革的现实境遇与未来抉择",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtsjy201811012",
+      "title": "思维风格、时间压力对道德决策的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cxkj201106005",
+      "title": "自尊与学业成败关系研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sjzsfzkxxxb201106024",
+      "title": "初中生的自尊、同伴接纳与学业成绩的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qianx201702023",
+      "title": "伦敦治霾经验:立法减排与能源优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzjsjjgl201404016",
+      "title": "英国伦敦雾霾治理经验及启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbqx201706011",
+      "title": "2008年初我国南方地区大范围冻雨过程的温度层结特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljmzck200302014",
+      "title": "清初民族文化的矛盾、融会及接纳",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scgc201912005",
+      "title": "政府统一公共支付: 助力数字政府一网通办,助力智慧城市一码通行",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qlhlzz201921028",
+      "title": "社区针对性干预对老年高血压患者的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fzbl201833154",
+      "title": "微博自媒体的著作权侵权",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgrpgy201805007",
+      "title": "酸奶感官描述词的建立与应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dyx-x201932237",
+      "title": "女排精神融入在小学排球教学中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb201903006",
+      "title": "跨界协同治理视角下我国户外运动发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ysxk201805010",
+      "title": "《波动》:在伤痕叙事模式之外",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb201803030",
+      "title": "探析环境描写在小说中的深层意蕴 ——读北岛的《波动》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sclyj201912029",
+      "title": "推进人工智能促进教育教学改革研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "wjzl200930003",
+      "title": "文道并重:苏轼的文道观",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnwxj201830062",
+      "title": "苏轼诗歌中的禅意",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdcb201611004",
+      "title": "政治传播的基本形态及运行模式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qnjz201935025",
+      "title": "短视频舆论事件传播的特点及模式",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "tsgjs201604010",
+      "title": "外借逾期图书数据分析对馆藏资源建设的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaijj202004030",
+      "title": "对西安市中小学教育公平问题的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfltd201618205",
+      "title": "浅析中国律师行业发展现状及走向",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zjda201302016",
+      "title": "石浦—富冈如意信俗",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsj201722001",
+      "title": "试论城乡经济发展对基础教育水平的影响 ——以湖北省武汉市、大悟县宣化店镇为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cxsfxyxb200710004",
+      "title": "从'以情为本'角度看《牡丹亭》和 《长生殿》的共性与差异",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjszfglgbxyxb200906009",
+      "title": "孔子:中国文明的守望者——试论孔子的'传统'观及其文化贡献",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shsfdxxb-zxsh200601005",
+      "title": "孔子复古思想的审美文化意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdqngbxyxb200301014",
+      "title": "教育、社会分层与社会流动--以外来流动人口及其子女为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjwt201812008",
+      "title": "家庭资本、教育与社会流动",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtwp201903043",
+      "title": "食品感官评价技术应用研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "djwx201403012",
+      "title": "谁的伤痕--论刘心武《班主任》的现实价值",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzwy201819063",
+      "title": "基于认知负荷理论的设计史论微课设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "llgc201902042",
+      "title": "我国义务教育阶段城乡教育公平问题研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxks201726267",
+      "title": "多元智能理论在小学数学中的巧妙运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxsd201811017",
+      "title": "以观鸟活动为载体,培养自然观察智能的策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqdxxb-shkx200303028",
+      "title": "<长生殿>与<桃花扇>结构艺术比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tsgjs201706009",
+      "title": "五大出版社视角下TP类图书馆藏建设之启示——基于上海师范大学图书馆的个案研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytjy201524257",
+      "title": "关于我国基础教育管理体制改革相关问题的文献综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxjz201129008",
+      "title": "以少林寺为例谈中国佛殿建筑轴线布局与像设",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz202005159",
+      "title": "家庭资本、教育获得与社会分层关系研究——基于CGSS15年的数据",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shfl-llb201612007",
+      "title": "民办非企业单位财务管理的现状及对策",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zxxxljkjy201735004",
+      "title": "4~6年级学生同伴关系、 学业成绩与自尊的相关研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shenh201616035",
+      "title": "浅析《夏洛的网》中友谊的真谛",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgfltd201910173",
+      "title": "微博作品著作权保护研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shenz201401013",
+      "title": "骆山大龙“非遗”保护现状及问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201909219",
+      "title": "智慧教育背景下基础教育资源均衡模式构建研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zykfysc202001008",
+      "title": "中国农村基础教育资源配置水平测度与障碍因素诊断",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xkc-jy201904491",
+      "title": "农村小学心理健康教育在各学科教学中渗透教学的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "flsfxyxb201702012",
+      "title": "朦胧诗人与地下沙龙、归来诗人和现代主义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywknw201818010",
+      "title": "浅谈宋代文人的精神世界 ─以苏轼《水调歌头·明月几时有》为例说明宋代文人的文化心态",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjy-z201910048",
+      "title": "浅析计算机英语文本特征及翻译",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyykjlt201924069",
+      "title": "教育信息化背景下的成人教育改革探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzysh201928026",
+      "title": "论我国青少年缓刑犯受高等教育权利的法律保护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfwx-z201906035",
+      "title": "论苏轼对词境的开拓",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxsfdxjxjyxb200703019",
+      "title": "《长生殿》:一部闹热的《牡丹亭》——《长生殿》与《牡丹亭》'至情'文化主题比较",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "xfzyjsxyxb201905029",
+      "title": "我国新时代实现教育公平存在的问题与解决路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjyddxxb-shkxb201804001",
+      "title": "弹幕视频广告及其传播模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyy-z201905006",
+      "title": "从认知负荷理论角度看同声传译的断句和衔接",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdsmgy202004085",
+      "title": "高校国际结算双语教学翻转课堂模式构建研究——基于认知负荷理论视角",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jlgbdsdxxb201908023",
+      "title": "基于认知负荷理论的多媒体教学设计与呈现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljjyxyxb201901043",
+      "title": "认知负荷理论视角下的大学英语移动学习研究综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjda202002017",
+      "title": "那年起,女排精神一直激励着国人",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "fzysh201934026",
+      "title": "IPTV视角下著作权侵权分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjy-z201603039",
+      "title": "王熙凤形象中的管理学思想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlhgxyxb201808023",
+      "title": "明清易代与士人生计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyscl201910005",
+      "title": "同步脱氮除磷技术研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjsps200002007",
+      "title": "生物脱氮新工艺及其技术原理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgfltd201824122",
+      "title": "浅析微博著作权的保护问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcjyyj201734098",
+      "title": "互联网+背景下小学语文学科混合式教学实践探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdbg201813003",
+      "title": "伤痕文学:对十年浩劫的反思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201808036",
+      "title": "北岛《波动》的价值重估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-zx201701329",
+      "title": "浅析教育信息化在基础教育改革中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxdz-kx201909149",
+      "title": "论人工智能时代高等教育改革",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nbq201815160",
+      "title": "多元智能理论在小学数学中的巧妙运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxsd201409131",
+      "title": "基于单片机的人体生理信号采集电路设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hjwryfz201403002",
+      "title": "太湖上游流域地表水及污水处理厂尾水氮、磷污染特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljjyxyxb201203040",
+      "title": "浅谈《长生殿》对《牡丹亭》的“至情”突破",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gbdsdxxb-zxsh201902004",
+      "title": "《荆生》《妖梦》的评价与现代文学研究的'专业立场'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzk-a202006096",
+      "title": "心理健康教育渗透学科教学的实践探索——以小学语文学科教学为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdqywh201902114",
+      "title": "微博作品著作权及其保护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201817139",
+      "title": "浅论微博著作权的法律保护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjsdfqfxxb201903007",
+      "title": "《长生殿》的'至情'意象解读 ——兼论'至情'意象对悲剧爱情主题的揭示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjsfdxxb-shkx200105008",
+      "title": "教育、社会分层与社会流动",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mysj201208031",
+      "title": "培养宝宝的自然观察智能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "guangdyxyxb201903009",
+      "title": "UiO-66系列MOFs材料对含甲硝唑药物废水的吸附研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsf201613012",
+      "title": "上海博物馆藏明清题铭砚",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ws200310023",
+      "title": "现状与追求:我国基础教育公平问题透视",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyjzy-jyyjysj201502022",
+      "title": "浅谈如何实现城乡九年义务教育阶段教育公平",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wzsfxyxb201903006",
+      "title": "从加州宪法修正案(五)看美国教育公平问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxzyglxb201804011",
+      "title": "图书情报领域认知负荷测量研究综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gjxk202005034",
+      "title": "认知负荷理论视角下外国文学教学中教与研的策略探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201809226",
+      "title": "苏轼豪放词的美学意境探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201926212",
+      "title": "社区高血压患者血压、血糖及血脂水平分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdsfdxxb-shkx201606012",
+      "title": "从启蒙到政治经济学——高晓声“陈奂生系列”再解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qzsfgdzkxxxb201809007",
+      "title": "《牡丹亭》《长生殿》中的魂游情节探析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-xx201910218",
+      "title": "微博著作权的侵权问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfwx-z201911030",
+      "title": "苏轼词对儒道精神的继承研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "szdxxb-zxshkxb201902002",
+      "title": "道:孔子毕生追求的政治终极——孔子道论评析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njsfxyxb201811010",
+      "title": "《四库全书总目》明代诗文评提要述论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szdxxb-zxshkxb200802014",
+      "title": "近年日本元明清诗文研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwxx201701343",
+      "title": "苏轼文学创作的高潮 ——杭州、密州、黄州时期",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "qnwxj201829063",
+      "title": "论苏轼的杭州词作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcyk201917006",
+      "title": "从苏轼赠友诗词看苏轼的精神内涵",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xzk-b201009241",
+      "title": "通过观察自然开发幼儿智力",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gxdxxb-zxsh201905019",
+      "title": "从《牡丹亭》看汤显祖的诗文观念嬗变",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hxjs201925064",
+      "title": "人工智能背景下的基础教育发展展望分析",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "bjgbdsdxxb201905001",
+      "title": "人机协同的新时代:我国人工智能教育应用的现状与趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjjjdk201601120",
+      "title": "企业并购中的财务协同效应分析——以优酷并购土豆为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lqjx201908044",
+      "title": "教育公平视野下的义务教育阶段择校问题研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "anysfxyxb201906004",
+      "title": "新时代推进教育公平的问题与路径思考",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ywknw202002005",
+      "title": "洒脱的生活豁达的胸襟 ——从黄州词看苏轼",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "ghs200309010",
+      "title": "城市滨水区游憩空间设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zbjx201901002",
+      "title": "基于认知负荷理论的数控机床配色研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyxxjs201405021",
+      "title": "基于认知负荷理论的初中数学PPT课件设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hjkxxb200605005",
+      "title": "SBBR同步硝化反硝化处理生活污水的影响因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hjgc200803026",
+      "title": "两种填料生物膜工艺脱氮效果的比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytjy201513236",
+      "title": "自然观察智力及其在幼儿园教育中的培养",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxs-jyjxyj201517027",
+      "title": "对幼儿自然观察智能的培养初探",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wysh201409006",
+      "title": "至真至情《长生殿》，兴亡叹息《桃花扇》--《长生殿》结局与《桃花扇》结局的比较",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz201935367",
+      "title": "社区矫正社会工作应用研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "djwx201010087",
+      "title": "爱是《长生殿》——论《长生殿》中的'至情观'",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "wjzl200925042",
+      "title": "汤显祖戏曲艺术'至情'观",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mdjdxxb201903011",
+      "title": "爱情与政治的悲剧 ——《长生殿》与《安东尼与克丽奥佩德拉》之比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywxk201606043",
+      "title": "场域理论下的'伤痕文学'书写——论'伤痕文学'书写的制约因素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tzgj201006018",
+      "title": "徐树铮:现实中的'荆生'?——兼谈五四新文化运动",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdbg201909006",
+      "title": "'五四'文学革命,开创了中国文学的新时代",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzgcxyxb-zk200302022",
+      "title": "《金瓶梅》的语言特色",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gzgbdsdxxb200804017",
+      "title": "《金瓶梅》中的俗语研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkcdx-s201129027",
+      "title": "《金瓶梅》熟语的运用特色和修辞作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gbdsxx202002012",
+      "title": "基于颜色和纹理的图像检索算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcysj201911027",
+      "title": "基于双线性模型的图像检索技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gddnydx201910002",
+      "title": "基于多特征融合的图像检索方法研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgywxk200801012",
+      "title": "论杜甫的正体七律及其声律特色",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jsyr-jsxgn202003026",
+      "title": "突破心理习得性无助效应培养学生自主学习能力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "flsfxyxb201801015",
+      "title": "从正统到邪说 ——浅析神魔志怪小说",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn202006202",
+      "title": "探究舞龙舞狮运动文化的传承与价值",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "mykj201307068",
+      "title": "档案馆检索工具刍议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ltsj201809016",
+      "title": "英国国家档案馆的网络档案信息检索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201931032",
+      "title": "声像档案的建设与管理之我见",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201922046",
+      "title": "建设项目声像档案的管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs201935048",
+      "title": "混凝土碳化与钢筋混凝土耐久性",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cmlt201918106",
+      "title": "探析全媒体时代慢综艺节目如何讲好故事 ——以《忘不了餐厅》为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbgbds201816070",
+      "title": "'慢'中取胜 ——湖南卫视《向往的生活》节目特点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlkj201905022",
+      "title": "探究大学生网店的运营与物流",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czssj201402040",
+      "title": "数学家遇到的植树问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjda201908017",
+      "title": "新时期声像档案的管理与发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqywh201815145",
+      "title": "拓宽规范档案题名提高检索利用率",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsc201934196",
+      "title": "探析现代档案管理中的声像档案管理问题及其策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxda201904017",
+      "title": "新加坡国家档案馆的网络档案信息检索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201924193",
+      "title": "关于声像档案管理问题及其策略的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wysh-whyy201205081",
+      "title": "浅谈入声字的辨识方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsxjy-gz201605001",
+      "title": "弘扬传统数学文化强化教材育人功能--数学史融入教材训练系统的探索与尝试",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mqxsyj200202007",
+      "title": "《三国演义》对关羽的描绘及其文化意蕴",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwjmsw201505022",
+      "title": "吉利控股收购沃尔沃汽车的战略需求与实践分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cbgj201924022",
+      "title": "快节奏时代慢综艺的传播策略 ——以《中餐厅》第三季为例",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcykx201911013",
+      "title": "基于SHN模型的商品图像检索方法",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dayjs201806010",
+      "title": "“以图搜图”技术在照片档案管理中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjda200604005",
+      "title": "论档案信息检索智能化趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qy200909051",
+      "title": "撼人的壮美与动人的优美——北岛、舒婷诗歌美学之比较",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "xnsfdxxb-rwsh200401030",
+      "title": "舒婷诗歌的理想倾向与当代诗歌的选择",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcjyyj201405023",
+      "title": "促进小学生情绪智力发展的初步探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxqn201603036",
+      "title": "鞍山市大班幼儿的父母教养方式、情绪智力与亲社会行为的关系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywxk201223007",
+      "title": "李白诗歌用韵小考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xlyk202002032",
+      "title": "性格优势在生活应激和习得性无助之间的作用探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hzjz201904002",
+      "title": "我国高铁站基本人流模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj201927158",
+      "title": "可转债的转股博弈:以白云转债为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjz201705021",
+      "title": "浅谈地铁车站侧墙钢筋保护层厚度防控",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaijj201921087",
+      "title": "大学生习得性无助现象的成因及对策分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "kjzw201715319",
+      "title": "探究大学生网络创业存在的问题及对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shang201624170",
+      "title": "百事可乐在新媒体中的品牌传播",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ltsj2019z1035",
+      "title": "档案管理的未来趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "msj-xia201912369",
+      "title": "中英文联合检索在专利图像领域的检索实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chz201204165",
+      "title": "谈档案信息检索的基本模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qddxxb-zrkx202001002",
+      "title": "基于多核学习的GIST全局和SIFT局部特征融合遥感图像检索方法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzx202003011",
+      "title": "浅谈深度学习在图像识别领域的应用现状与优势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjkj201912020",
+      "title": "基于虚拟化技术的气象数字档案检索系统研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201917100",
+      "title": "创新档案管理理念,实现档案管理信息化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnxx201905010",
+      "title": "图像描述生成方法研究文献综述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hpkx200502008",
+      "title": "基于遥感技术的太湖近15年面积动态变化",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dianyjs201602029",
+      "title": "基于SOC的电池均衡控制技术的仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxslfd201202015",
+      "title": "储能技术在电力系统中的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzkjx200920021",
+      "title": "学生'习得性无助'的原因分析及应对策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201230008",
+      "title": "风险异质性在市场调研中的应用与扩展——人流量的统计分布探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tsggzyyj201804008",
+      "title": "基于SOR框架的手机图书馆用户持续使用影响因素研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xswzk201904246",
+      "title": "数字时代声像档案管理策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjylt201607008",
+      "title": "中学几何知识结构的理解分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201904019",
+      "title": "网络社群对消费者冲动性购买的影响因素:模型及实证分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzyxyxb201705024",
+      "title": "青少年情绪智力现状及其影响因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tysfxyxb-shkx200703019",
+      "title": "李白诗歌用韵研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xwzs201903016",
+      "title": "从文化价值的角度分析'慢综艺'《向往的生活》",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201736204",
+      "title": "多雷达数据融合算法综述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ycsfxyxb-rwsh200401013",
+      "title": "论舒婷诗歌语言的审美特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddwt201002033",
+      "title": "舒婷的文学创作与女性主义",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggshic201920064",
+      "title": "关于百事可乐与可口可乐广告的比较研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hjjkyyj201703003",
+      "title": "东太湖湖滨带近三十年生态环境变化遥感分析与评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zrzz201603002",
+      "title": "气候变化对中国东部季风区水循环及水资源影响与适应对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "st202001008",
+      "title": "快时代与慢综艺 ——对综艺同质化现象的反思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chz201408058",
+      "title": "试析《金瓶梅》与《红楼梦》的传承",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "flkx201505001",
+      "title": "习近平法治思想述要",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dndxxb201804001",
+      "title": "社交网络中基于成本的广告投放策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyykx201401018",
+      "title": "民族图腾与国家象征：龙狮运动的文化价值与仪式认同",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dayjs201711010",
+      "title": "论声像档案检索方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ltsj201317003",
+      "title": "论我国现存档案信息检索及改进设想",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmsjyxyxb200202071",
+      "title": "档案检索刍议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "huaz201105219",
+      "title": "基于内容的图像档案检索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201206358",
+      "title": "谈档案的检索工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qywh-x201509132",
+      "title": "加强声像档案管理措施发挥声像档案现实价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rdsta201107062",
+      "title": "《金瓶梅》的语言特色",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gczl201906006",
+      "title": "室内环境下钢筋混凝土结构耐久性问题的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kwyw-jyb201401143",
+      "title": "浅谈古入声字的判定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxydn201704044",
+      "title": "Word中VBA的妙用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hndxxb-shkxb201705012",
+      "title": "论《金瓶梅》中的节日叙写及其小说史意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnjz201817041",
+      "title": "“慢综艺”节目的突破与创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "st201709038",
+      "title": "'真、性、情'——解读《向往的生活》的成功要素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cbgj201819027",
+      "title": "我国慢生活综艺的现状与思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmggbydsjs201808008",
+      "title": "别让'慢下来去生活'只是口号 ——浅谈慢综艺热播现象",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbgbds201816101",
+      "title": "声像档案的拍摄方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjda201803009",
+      "title": "声像档案管理模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgsyw201924087",
+      "title": "浅谈声像档案管理与有效利用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201925261",
+      "title": "浅谈声像档案管理的现状及存在的问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xswzk201913032",
+      "title": "浅论档案管理中的声像档案管理策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxdnyy201912035",
+      "title": "基于兴趣点局部分布特征的图像检索研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlaqjsyyy201909021",
+      "title": "基于深度学习的图像检索技术的实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxtzdh201301009",
+      "title": "几类面向电网的储能电池介绍",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy202009018",
+      "title": "新时代大学生爱国主义精神的培育和践行",
+      "download_times": 8,
+      "browse_times": 16
+    },
+    {
+      "id": "zgncswdxxb202002011",
+      "title": "制度自信视域下的国家治理现代化研究 ——以抗击新冠肺炎疫情为例",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "diansjs200012005",
+      "title": "多功能厅音响系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysfgdzkxxxb200705009",
+      "title": "论杜甫的正体七律及其声律特色",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjshkx200201022",
+      "title": "桐城派研究的世纪回顾",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdshkx201803021",
+      "title": "杜甫律诗与当明时期越南七律的繁荣",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "pyjyxyxb200602024",
+      "title": "《助字辨略》、《经传释词》比较略述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sdda201104043",
+      "title": "清代戏曲档案",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jtyyjs201307010",
+      "title": "我爱家庭影院！2013'智能家居影音娱乐系统创意设计大赛颁奖典礼报道及获奖作品公布",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "diansjs201907004",
+      "title": "一种多功能厅的音响系统设计及其调音技巧",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dqshkx202002006",
+      "title": "抗击疫情彰显中国力量",
+      "download_times": 10,
+      "browse_times": 17
+    },
+    {
+      "id": "yykx200301010",
+      "title": "古汉语虚词研究评议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "flsfxyxb200604011",
+      "title": "略述清以前的汉语虚词研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahdxxb-zxsh201401007",
+      "title": "“以古为律”与杜甫七律艺术的革新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahsx200805012",
+      "title": "戴名世与桐城派关系辨析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjcrgdxxlhxb201503025",
+      "title": "从艺术角度看清代戏曲的发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjcrgdxxlhxb201401026",
+      "title": "论清代戏曲发展的社会原因",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201717086",
+      "title": "多功能厅音响系统设计要求探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyjzy-jyyjysj202006053",
+      "title": "核心素养在语文课堂综合实践教学中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qzsfxyxb200304007",
+      "title": "多功能厅音响系统的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xdzxxjy202003008",
+      "title": "语文核心素养视域下识字写字教学路径的转变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkydxxb-shkx202003001",
+      "title": "中国特色社会主义制度优越性的系统阐释",
+      "download_times": 10,
+      "browse_times": 22
+    },
+    {
+      "id": "huaibzyjsxyxb201805019",
+      "title": "禅宗思想对苏轼诗歌创作的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqsxyxb202002001",
+      "title": "中国特色社会主义制度优势和国家治理任务——由抗击'新冠肺炎'重大疫情引起的思考与建言",
+      "download_times": 54,
+      "browse_times": 54
+    },
+    {
+      "id": "yingsjs200503010",
+      "title": "多功能厅音响系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbslsdxyxb-skb201703040",
+      "title": "世纪末文人的新旧冲突与济世情怀——以刘鹗《老残游记》为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsf201913036",
+      "title": "从唐代集字碑看王羲之真迹的存亡",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sz-sxk202014109",
+      "title": "探索小学语文教学中学生语文素养的培养",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "huaiysfxyxb-zxsf201904010",
+      "title": "《老残游记》的超时空成就和 文化小说定位新论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jianghlt201906028",
+      "title": "论桐城派前期作家对古代散文理论的整合与超越",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbdxxb-zxsh201905008",
+      "title": "重返生命的本真:北宋文人生活审美特质论",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fzysh202008090",
+      "title": "新时代厚植大学生爱国主义情怀的路径探析——基于实践育人的视角",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy202010005",
+      "title": "疫情防控彰显中国特色社会主义制度优越性",
+      "download_times": 45,
+      "browse_times": 140
+    },
+    {
+      "id": "zysfxyxb200705009",
+      "title": "古代汉语中虚词的修辞作用研究述略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lldk202005014",
+      "title": "从抗击疫情的伟大斗争看'中国之治'",
+      "download_times": 30,
+      "browse_times": 61
+    },
+    {
+      "id": "jrzj202007004",
+      "title": "守初心担使命迈新步谱新篇努力成为新时代全面展示中国特色社会主义制度优越性的重要窗口",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "ahsx200406014",
+      "title": "桐城派研究百年回顾",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyyjjk201402002",
+      "title": "非意愿与“V不了”的认识情态表达?",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yyxlc201302005",
+      "title": "汉语认识情态词“应该”用以表达传信意义",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "xdsmgy201908096",
+      "title": "ELF3基因与植物分类系统探讨",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "676793078",
+      "title": "新形势下高校思想政治教育进社团面临的挑战及对策研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yspj201406082",
+      "title": "'直面当代'首届中国油画名家学术邀请展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_7002430019",
+      "title": "浅议原生家庭对子女的影响——以《都挺好》为例",
+      "download_times": 0,
+      "browse_times": 7
+    },
+    {
+      "id": "dylc201912014",
+      "title": "委托代理、激励机制与信托公司治理",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "msj-xia201911524",
+      "title": "原生家庭对当代大学生心理健康的影响及对策",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "HANS201905210137",
+      "title": "信贷产品初创期申请评分建模方法综述",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "jlcsgdzkxxxb201804012",
+      "title": "数字化背景下我国酒店业的发展策略",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jlcsgdzkxxxb201804012",
+      "title": "数字化背景下我国酒店业的发展策略",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xsyj201809011",
+      "title": "员额制:超附加设定与单一性红线的悖论及其应对",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xlxb201901001",
+      "title": "正字法深度对汉族、维吾尔族大学生汉字词命名的影响",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "HANS201910240089",
+      "title": "父母教养方式和家庭环境对青少年患抑郁症的影响研究——以青少年应对方式为中介",
+      "download_times": 0,
+      "browse_times": 24
+    },
+    {
+      "id": "jkbd001201936485",
+      "title": "认知行为治疗对青少年抑郁焦虑情绪的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyy-z201910074",
+      "title": "女性主义翻译视角下《达洛维夫人》译者主体性解读",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "ynsfdxxb-zxsh201901004",
+      "title": "汉语的欧化与欧化的汉语——百年汉语历史回顾之一",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "huainsfxyxb201102015",
+      "title": "解密“常凯申”误译事件与汉字注音发展史",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kjwh201819074",
+      "title": "浅析中国文化负载词汇的翻译策略",
+      "download_times": 11,
+      "browse_times": 6
+    },
+    {
+      "id": "zhongguofy201404007",
+      "title": "剑桥汉学与翻译传统:19世纪至当代图景",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xzk-b201009241",
+      "title": "通过观察自然开发幼儿智力",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "676466997",
+      "title": "幼儿自然观察智能的探究——基于大班幼儿的观察记录",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hnsfdx-jy202001009",
+      "title": "澳大利亚教育惩戒的理念变迁、实践经验及其启示",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xgzyjsxyxyb201904019",
+      "title": "高校教育惩戒权法律问题研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bjda202002017",
+      "title": "那年起,女排精神一直激励着国人",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dyx-x201932237",
+      "title": "女排精神融入在小学排球教学中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "HANS202003020208",
+      "title": "女大学生灵活就业的可能性分析——基于沈阳市的思考",
+      "download_times": 0,
+      "browse_times": 8
+    }
+  ],
+  "检索": [
+    "绩效薪资改革的盲点",
+    "绩效薪资改革的盲点",
+    "绩效薪资改革的盲点",
+    "00后",
+    "建模",
+    "正确写作美国建模",
+    "酒店业数字化",
+    "LGM Mplus",
+    "实证反思与模式重构",
+    "中国法官员额制",
+    "委托代理",
+    "Mplus output",
+    "结构方程模型mplus 与应用",
+    "Mplus output",
+    "00后",
+    "正确写作美国建模",
+    "酒店业数字化",
+    "Mplus",
+    "Latent Mplus",
+    "LatentMplus",
+    "Mplus",
+    "未入员额法官在员额制下",
+    "绩效薪资改革的盲点",
+    "留守儿童",
+    "青少年抑郁",
+    "古希腊戏剧",
+    "原生家庭大学生",
+    "00后理论意义",
+    "00后",
+    "古希腊戏剧",
+    "Mplus",
+    "Mplus",
+    "中国法官员额制问题",
+    "中国法官员额制",
+    "中国法官员额制问题",
+    "中国法官员额制",
+    "结构方程模型mplus 与应用",
+    "社会环境",
+    "社会环境",
+    "原生家庭",
+    "00后理论意义",
+    "正确写作美国美国建模",
+    "建模",
+    "留守儿童油画创作",
+    "Latent Mplus",
+    "未入员额法官在员额制下",
+    "未入员额法官在员额制下",
+    "法官激励机制",
+    "心理学报",
+    "留守儿童油画创作",
+    "青少年抑郁",
+    "酒店业数字化",
+    "结构方程模型mplus 与应用",
+    "Mplus",
+    "Mplus",
+    "LGM Mplus",
+    "LatentMplus",
+    "Mplus",
+    "Mplus",
+    "未入员额法官在员额制下",
+    "社会环境对大学生的影响",
+    "酒店业数字化",
+    "社会环境对大学生的影响",
+    "原生家庭",
+    "建模",
+    "建模",
+    "酒店业数字化",
+    "00后理论意义",
+    "原生家庭大学生",
+    "elf3",
+    "汉语发展史与翻译",
+    "汉语发展史",
+    "汉语历史",
+    "女性翻译",
+    "女性翻译",
+    "女性翻译",
+    "女性翻译",
+    "汉语发展史",
+    "汉语发展史与翻译",
+    "汉语发展史与翻译",
+    "女性翻译",
+    "汉语历史",
+    "汉语发展史与翻译",
+    "女性翻译",
+    "汉语发展史",
+    "自然观察智能",
+    "自然观察智能 数学",
+    "自然观察智力",
+    "自然观察",
+    "自然观察智能",
+    "自然观察只能",
+    "自然观察智能",
+    "自然观察只能",
+    "自然观察智能",
+    "自然观察智能",
+    "自然观察智力",
+    "自然观察智能 数学",
+    "自然观察智能",
+    "自然观察智能 数学",
+    "自然观察智力",
+    "自然观察智能 数学",
+    "自然观察智能",
+    "教育惩戒",
+    "女排精神",
+    "大学生就业",
+    "疫情",
+    "疫情",
+    "大学生就业",
+    "全球抗疫中国担当",
+    "战后日本文化外交战略的发展趋势",
+    "我是猫形象",
+    "推动新冠肺炎疫情防控国际合作",
+    "新冠肺炎疫情防控彰显中国制度优势",
+    "BiOCl/ZrO2",
+    "新冠肺炎疫情防控彰显中国制度优势",
+    "BiOCl/过渡金属氧化物",
+    "BiOCl/ZrO2",
+    "BiOCl/V2O5",
+    "BiOCl/V2O5",
+    "过渡金属氯氧化物",
+    "过渡金属氯氧化物",
+    "脱贫",
+    "健康监测技术word",
+    "拜登政策",
+    "拜登讲话",
+    "疫情",
+    "由奥巴马救市计划看新贸易保护主义现状及中国的应对策略",
+    "对外汉语网络教学与虚拟教室的调查研究",
+    "BiOCl/ZrO2",
+    "脱贫",
+    "柏林旅交会",
+    "ITB Berlin",
+    "四川甘孜",
+    "扶贫",
+    "美国大选",
+    "脱贫",
+    "一国两制",
+    "作者:'吴奇藩'",
+    "BiOCl/过渡金属氧化物光催化剂",
+    "过渡金属氯氧化物",
+    "黎亚琦",
+    "中国平安财务效率分析",
+    "全球抗疫中国担当",
+    "疫情中的群众路线",
+    "国际突发公共卫生事件的全球治理与大国担当",
+    "中美贸易战对世界经济发展的影响",
+    "BiOCl/ZrO2",
+    "兴于诗",
+    "题名:上古汉语指示代词的演变",
+    "文学圈阅读教学研究综述",
+    "(杜轶) (Type:'Thesis' )",
+    "(杜轶) (Type:'Thesis' PublishYear:'2008' )",
+    "脱贫",
+    "脱贫",
+    "美国大选",
+    "丁真",
+    "一国两制",
+    "健康监测技术",
+    "结构健康监测技术的现状和发展方向 结构健康监测技术的现状和发展方向",
+    "杜轶",
+    "旅交会",
+    "美国大选",
+    "脱贫",
+    "脱贫",
+    "疫情",
+    "疫情",
+    "美国大选",
+    "脱贫",
+    "一国两制",
+    "《向苍天呼吁》中宗教象征体现的心理状态",
+    "四川甘孜脱贫",
+    "一国两制",
+    "2020美国大选",
+    "(一国两制) AND ((IsOA:true))",
+    "脱贫",
+    "土木新材料",
+    "(未来建筑工程技术的发展方向研究) (Type:'Conference' )",
+    "教学评价改革",
+    "盲人 药盒",
+    "网络教育留学生",
+    "网课时差",
+    "预算参与权",
+    "成人依恋",
+    "成人依恋 自我",
+    "(成人依恋 ) (PeriodicalTitleForFacet:'中国临床心理学杂志' )",
+    "(成人依恋 身体) (PeriodicalTitleForFacet:'中国心理卫生杂志' )",
+    "作者:方维保",
+    "曾令存茶馆",
+    "老舍茶馆",
+    "作者:'吴小美'",
+    "基于新时代视角下地方政府机构改革困境与路径",
+    "压力",
+    "情绪与健康‘",
+    "展览展签",
+    "上海师范 实践报告",
+    "中国扶贫政策",
+    "奥林匹克运动和民族精神",
+    "浅谈学生学习心理发展不平衡的原因及对策 浅谈学生学习心理发展不平衡的原因及对策",
+    "我国商业银行杠杆率",
+    "因第三人欺诈所订立合同效力研究",
+    "声动力疗法的研究进展",
+    "杨帆",
+    "辜梦子",
+    "当代世界逆全球化倾向的表现",
+    "小学生 偷窃",
+    "浅谈小学生问题行为的形成与干预",
+    "运动干预睡眠障碍",
+    "退火",
+    "公民参与权的司法保障",
+    "教学评价改革内容",
+    "中国最早的汉字",
+    "德育教育案例",
+    "肥胖控制",
+    "控制肥胖",
+    "基于代价敏感主动学习的多标签分类器构建方法",
+    "(成人依恋) (PeriodicalTitleForFacet:'中国临床心理学杂志' )",
+    "成人依恋",
+    "成人依恋 相貌",
+    "成人依恋",
+    "(成人依恋 自我) (PeriodicalTitleForFacet:'中国临床心理学杂志' )",
+    "成人依恋",
+    "达到了近啊",
+    "国家治理体制 疫情",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "父母教养方式",
+    "中国贫困人群产生原因",
+    "中国贫困经济水平",
+    "暗黑人格",
+    "中国贫困生活水平",
+    "民族心史:中国当代文学60年",
+    "留学生教育时差",
+    "家庭暴力量表",
+    "肥胖的预防和治疗",
+    "心理发展不平衡",
+    "心理发展不平衡",
+    "家庭暴力量表",
+    "家庭暴力",
+    "期货模拟交易心得",
+    "依恋焦虑",
+    "心理发展不平衡",
+    "早恋心理辅导",
+    "题名:日常言语交际中打断现象的性别差异性研究",
+    "教学评价改革",
+    "运动营养",
+    "展览标签",
+    "未来建筑工程技术的发展方向研究",
+    "(未来建筑工程技术的发展方向研究) (Type:'Thesis' )",
+    "伴侣关系满意度与暗黑人格和沟通频率的关系",
+    "基于微课的信息技术空中课堂设计与实施",
+    "展览标签",
+    "流动儿童",
+    "代价敏感多标签",
+    "现代人压力与健康",
+    "作者:'吴小美'",
+    "孙洁《茶馆》",
+    "新冠 国家",
+    "突发性公共卫生事件冲击下",
+    "国家治理能力 新冠",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "新冠 国家 能力",
+    "(主题:(运动干预睡眠障碍)) (Type:'Periodical' )",
+    "当代世界逆全球化倾向的表现",
+    "压力",
+    "小学 组织管理",
+    "佳丽与书籍",
+    "青少年肥胖",
+    "研学旅行 服务管理",
+    "家庭暴力",
+    "敬畏情绪对道德行为的影响及其心理机制探究",
+    "《古代朝鲜宣祖朝汉诗研究》",
+    "一种测定色胺含量的高效液相色谱方法",
+    "网购评价偏差",
+    "网购跟踪评价",
+    "网购追评",
+    "全球疫情",
+    "老舍茶馆",
+    "老舍茶馆",
+    "老舍茶馆",
+    "新冠 国家 能力",
+    "国家治理体制",
+    "国家治理",
+    "首发精神分裂症患者心灵理论损伤的研究",
+    "暗黑三人格",
+    "网络教育留学生",
+    "未来课程改革的走向——创建中国特色课程",
+    "(成人依恋) (PeriodicalTitleForFacet:'中国临床心理学杂志' )",
+    "(依恋焦虑 ) (PeriodicalTitleForFacet:'中国临床心理学杂志' )",
+    "成人依恋",
+    "成人依恋",
+    "成人依恋 身体",
+    "成人依恋",
+    "盲人 药",
+    "小学生 偷窃",
+    "作者:'于是之'",
+    "作者:Goldberg",
+    "《扇形的面积》案例分析",
+    "盲人 药盒",
+    "期货模拟交易",
+    "瑞典体操",
+    "(期刊名称/刊名:(青年时代)) (Type:(Periodical OR Thesis OR Conference) )",
+    "小学图书馆功能",
+    "新课改 小学图书馆",
+    "新课改 图书馆",
+    "焦虑抑郁心理辅导",
+    "亲子家庭观众与展品互动研究——以中国科学技术馆为",
+    "宋代杭州寺院研究",
+    "作者:'习近平'",
+    "新型冠状病毒肺炎疫情下大学生心理健康状况及",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "对话式德育",
+    "发展前景",
+    "贾平凹小说论",
+    "双重抑郁",
+    "小学教师与管理层关系",
+    "中国最早的汉字",
+    "作者:Goldberg FirstCreator:(Goldberg)",
+    "成人依恋",
+    "地方政府推进校园欺凌治理的政策与反思——基于17个地区校园欺凌政策文本的分析",
+    "国际抗疫",
+    "(题名:全球变化与生态系统) (PublishYear:'2020' )",
+    "题名:全球变化与生态系统",
+    "全球变化生态学",
+    "智慧教育",
+    "malevolent forces:",
+    "小学 组织管理",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "如歌的浪漫行板-谈浪漫主义风格在服饰上的表现",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "(新冠 国家 能力) (CorePeriodical:'PKU' )",
+    "虞云国",
+    "宋代寺院",
+    "校本STEAM课程开发与本土化实践探析",
+    "(作者:'习近平') 题名:小康",
+    "家庭暴力施暴行为的代际传递",
+    "家庭暴力施暴遗传",
+    "全球变化生态学",
+    "题名:全球变化与生态系统研究现状与展望",
+    "新媒体公益广告",
+    "植物导水系统的形态差异性与功能趋同性",
+    "英国的户外运动",
+    "统筹推进疫情防控和“三农”工作补上全面小康“三农”领域短板",
+    "新冠肺炎疫情防控彰显中国制度优势",
+    "老舍茶馆",
+    "老舍茶馆",
+    "回望玛格南:经验与启示",
+    "网购评价体系",
+    "梦幻文学",
+    "养教结合",
+    "中国扶贫政策效果",
+    "小学生 偷盗",
+    "电商发展趋势",
+    "老舍茶馆",
+    "老舍茶馆",
+    "老舍茶馆",
+    "阈下抑郁的现代医学研究概况",
+    "新媒体公益广告",
+    "街头诗人",
+    "《中国哲学简史》阅读报告",
+    "摘要:核磁，脂肪",
+    "论文查重",
+    "网购评价真实性",
+    "网购评价",
+    "网购评价",
+    "中国新时代城乡融合与乡村振兴",
+    "全球疫情防控",
+    "“老有所乐”老年教育养教结合创新模式研究",
+    "心理与身体健康",
+    "运动补剂",
+    "未来建筑工程技术的发展方向研究",
+    "(土木新材料) (Type:'Periodical' )",
+    "盲人 药盒",
+    "孙洁茶馆",
+    "方维保茶馆",
+    "作者:'吴小美'",
+    "老舍茶馆",
+    "扶壁式轻型桥台设计",
+    "(作者:Goldberg FirstCreator:(Goldberg)) (ClassCodeForSearch:'0/H' )",
+    "对话式德育",
+    "当今世界逆全球化倾向",
+    "逆全球化 世界经济损失",
+    "佛教与宋代地方行政",
+    "小学班主任管理",
+    "小学 组织管理",
+    "地方政府推进校园欺凌治理的政策与反思——基于17个地区校园欺凌政策文本的分析",
+    "小学生偷窃",
+    "《答张文潜书》",
+    "题名:全球变化与生态系统",
+    "(题名:全球变化与生态系统) (PublishYear:'2018' )",
+    "课外体育培训",
+    "智慧教育设计方案",
+    "小学生 偷窃",
+    "查重",
+    "新媒体背景下公益广告创意策略分析",
+    "老舍茶馆",
+    "老舍茶馆",
+    "老舍茶馆",
+    "植物导水系统的形态差异性与功能趋同性",
+    "植物导水系统的形态差异性与功能趋同性",
+    "二十四节气 学科",
+    "儿童 性犯罪 自我保护",
+    "回望玛格南",
+    "抑郁心理辅导",
+    "焦虑抑郁",
+    "使用价值反映",
+    "家庭暴力施暴行为的代际传递",
+    "盲人 药盒",
+    "认识论",
+    "认识的过程",
+    "小学生 偷窃",
+    "(题名:全球变化与生态系统) (PublishYear:'2016' )",
+    "徽菜",
+    "作者:韩玥",
+    "大单元教学中的项目化学习——以五年级上册民间故事单元为例",
+    "卡尔顿",
+    "情绪与健康",
+    "人际关系",
+    "人际关系与心理健康",
+    "全面小康与三农短板",
+    "老舍茶馆",
+    "二十四节气",
+    "摘要:核磁，脂肪",
+    "网购评价体系数据",
+    "网购评价体系",
+    "全球疫情",
+    "肥胖的危害",
+    "展签",
+    "基于CASPER平台的射电频谱仪设计与实现",
+    "小学 图书馆 功能",
+    "焦虑抑郁心理辅导",
+    "运动补剂",
+    "心理压力健康",
+    "上海师范 实践报告",
+    "上海师范 实践报告",
+    "值班律师制度的源流、现状及其分歧澄清",
+    "展签设计",
+    "宋代杭州寺院与社会生活研究",
+    "当今世界逆全球化倾向",
+    "小学 组织管理",
+    "小学班主任班级管理工作困境及其突破路径探索",
+    "浅谈财务工作在企业风险控制及经营决策中的作用",
+    "美国森林火灾",
+    "言可为心声,文可不必如其人",
+    "哲学的认识论",
+    "哲学的认识",
+    "认识过程",
+    "认识哲学",
+    "题名:全球变化与生态系统",
+    "题名:全球变化与生态系统研究现状与展望",
+    "课外体育培训",
+    ".HTML5",
+    "暴力 约会暴力"
+  ]
+}

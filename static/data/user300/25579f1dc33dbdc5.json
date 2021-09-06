@@ -1,0 +1,4720 @@
+{
+  "下载": [
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hzyxb201604013",
+      "title": "DNAN力学性能分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201104017",
+      "title": "典型炸药柱的400kg落锤撞击感度特性分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201502034",
+      "title": "高能压装炸药部件裂纹损伤及防治措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201805007",
+      "title": "侵彻弹爆炸场三波点位置高度研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201502012",
+      "title": "溶剂效应对FOX-7晶体形貌影响的分子动力学模拟研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "kxjsygc201414021",
+      "title": "FOX-7研究新进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201506002",
+      "title": "一种CL-20基压装混合炸药JWL状态方程参数研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "hncl201903014",
+      "title": "温压作用下α-DNAN的晶体结构及力学性能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201304009",
+      "title": "含能粘结剂丙烯酸偕二硝基丙酯-乙酸乙烯酯共聚物的合成及性能",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201604013",
+      "title": "DNAN力学性能分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201604004",
+      "title": "GAP-ETPE/NC共混聚合物的制备与性能",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jtyjhw200803012",
+      "title": "叠氮含能粘结剂的研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "xyjsclygc200901032",
+      "title": "用纳米压痕仪测量Cu50Zr43Ti7非晶合金的硬度和弹性模量",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl201810005",
+      "title": "RDX杂质对HMX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201403030",
+      "title": "纳米压痕仪测试TNT单晶(100)晶面的模量与硬度",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl200302012",
+      "title": "国外火药含能粘结剂研究动态",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hgp201604013",
+      "title": "温度对B炸药力学性能与感度的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "bpqc201905002",
+      "title": "聚醋酸乙烯酯与黑索今体系的分子动力学模拟",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gyjz201906024",
+      "title": "纳米压痕表征水泥基材料高温后微观力学性能",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hchx200806003",
+      "title": "含能粘结剂聚缩水甘油硝酸酯的合成与表征",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201505015",
+      "title": "低热应力下石蜡对压装 RDX 基 PBX炸药性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201809034",
+      "title": "钝感剂及装药工艺对炸药燃烧转爆轰的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "asgtxyxb201904004",
+      "title": "氮化复合DLC薄膜的制备和性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201911009",
+      "title": "DNAN及TNT基熔铸炸药综合性能比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dlxyxb200906008",
+      "title": "纳米压痕仪测量镧奶对牙釉质再矿化的实验研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "kxjsygc201904004",
+      "title": "纳米压痕法测量Ti13Nb13Zr医用钛合金蠕变应力指数",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201931024",
+      "title": "钼(钨)基氮化物硬质及超硬涂层的微观结构及综合性能",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lykx201907014",
+      "title": "基于纳米压痕技术的木材胶合界面力学行为",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "cldb201918006",
+      "title": "利用原位压痕技术表征原子层沉积Al2O3超薄纳米薄膜的力学性能",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jscxgy201910011",
+      "title": "C/C复合材料不同碳基体的纳米压痕行为研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "gyjz201906024",
+      "title": "纳米压痕表征水泥基材料高温后微观力学性能",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "bpqc201506006",
+      "title": "重结晶对DNTF形貌和含铝炸药爆轰性能的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "xyjsclygc200901032",
+      "title": "用纳米压痕仪测量Cu50Zr43Ti7非晶合金的硬度和弹性模量",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jxkf201909021",
+      "title": "CrAlSiN涂层的制备及其性能研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "fhclxb201803011",
+      "title": "基于纳米压痕法的羟基磷灰石/聚乳酸复合材料力学性能表征",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-wl201807004",
+      "title": "纳米压痕法测试微纳米涂层的力学性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxyxb200906008",
+      "title": "纳米压痕仪测量镧奶对牙釉质再矿化的实验研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "asgtxyxb201904004",
+      "title": "氮化复合DLC薄膜的制备和性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hncl201806004",
+      "title": "FOX-7在H2O/DMF溶剂中的结晶形貌预测",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "gthjjs201805008",
+      "title": "GAP复合固体推进剂细观结构演变特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "bgxb201502012",
+      "title": "溶剂效应对FOX-7晶体形貌影响的分子动力学模拟研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hzyxb201902009",
+      "title": "HNIW/GAP混合物燃速的实验研究与数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cldb201922016",
+      "title": "PREP法制备球形CuAl10 Fe3铜合金粉末的性能表征",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201804010",
+      "title": "非溶剂体系温度对细化RDX影响的分子 动力学模拟及实验研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "gzhg201103011",
+      "title": "结晶控制技术对晶体形貌的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hntysnzp201911005",
+      "title": "改性Ⅲ级粉煤灰对混凝土强度和自收缩的影响",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgccl201812008",
+      "title": "Fe60Cr5Mo2Ni2W2Mn1C4Si7B17非晶合金的纳米压痕力学性能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "shdjxyxb201903001",
+      "title": "碳微球的纳米压痕弹塑性行为的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcsjs200701024",
+      "title": "纳米压痕仪和激光超声技术检测薄膜弹性模量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hdyjxyxb201803014",
+      "title": "水泥砂浆界面处纳米压痕的近场动力学模拟",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "wlhxxb201706013",
+      "title": "混合溶剂对β-HMX结晶形貌影响的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gthjjs201304015",
+      "title": "含能粘接剂团聚硼性能研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201504019",
+      "title": "GAP应用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201401011",
+      "title": "NTO结晶形貌的预测",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbgxyxb201702019",
+      "title": "溶剂对HNS晶体形貌的影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201903003",
+      "title": "氧化石墨烯/碳纳米管复合薄膜制备及表征",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201904050",
+      "title": "LLM-105在不同溶剂中结晶形貌的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gdhg201923022",
+      "title": "不同溶剂对SAS法制备HMX单晶形貌的影响分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb200706011",
+      "title": "DNTF基含硼和含铝炸药的水下能量",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201631034",
+      "title": "铝粉含量及粒度对炸药驱动能力的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201301019",
+      "title": "含铝炸药装药工艺装备现状与发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201610010",
+      "title": "HMX级配对醇醛高聚物粘结炸药流变性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201612014",
+      "title": "RDX级配对醇醛高聚物粘结炸药触变性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201902018",
+      "title": "热固型火炸药药浆真空振动浇注系统",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201501008",
+      "title": "BAMO/AMMO共聚物基高能固体推进剂能量特性计算和分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201908003",
+      "title": "国外弹药战斗部先进制造技术发展与思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd200906034",
+      "title": "激光法与密度计法颗粒级配回归模型的建立",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200001004",
+      "title": "偶联剂在HMX基浇注固化炸药中的作用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb200803020",
+      "title": "BAMO-AMMO的热行为及其与含能组分的相容性",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200101013",
+      "title": "粘接炸药的室温硫化硅橡胶胶粘剂的研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201807007",
+      "title": "端羟基聚叠氮缩水甘油醚与六硝基六氮杂异伍兹烷基四元混合炸药能量释放研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201610004",
+      "title": "PBAMO/APP基星型含能热塑性弹性体的合成与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201410043",
+      "title": "铝粉粒度对奥克托今(HMX)基含铝浇注高聚物粘结炸药爆热的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201805009",
+      "title": "加速老化对RDX基压装PBX炸药性能的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201604004",
+      "title": "GAP-ETPE/NC共混聚合物的制备与性能",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201812023",
+      "title": "高氮含能化合物TKX-50侵彻安全性试验研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb201808033",
+      "title": "硼铝复合粉在含能材料中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201901004",
+      "title": "聚缩水甘油醚硝酸酯增塑剂的性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201006009",
+      "title": "浇注型PBX炸药的动态力学性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201901015",
+      "title": "几种硝胺炸药在熔态TNT和DNP中的溶解性及其结晶晶型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201907009",
+      "title": "CL-20/FOX-7基PBX的制备及其性能表征",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "gdhg201723086",
+      "title": "浇注PBX炸药的配方设计与性能研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xclcy201206015",
+      "title": "含能增塑剂的开发与应用进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201611016",
+      "title": "HTPB/TDI粘结体系的固化反应动力学",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201805009",
+      "title": "加速老化对RDX基压装PBX炸药性能的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb201702014",
+      "title": "低交联度GAP弹性体的制备及其宽温力学性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201711040",
+      "title": "齐聚物含能增塑剂的合成研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201203010",
+      "title": "基于MD方法的多组分PBX粘结剂优选研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201904010",
+      "title": "GAP/CL-20固体推进剂的力学性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201701001",
+      "title": "混合炸药设计研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201801007",
+      "title": "浇注高聚物粘结炸药的粘结剂体系设计及其应用研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jazgy201602005",
+      "title": "CL-20与火药粘结剂TPU的相容性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sxhg201712042",
+      "title": "关于GAP的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201903025",
+      "title": "HTPE推进剂的老化性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201902010",
+      "title": "GAP基自修复粘结剂的制备及性能",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201910005",
+      "title": "SHPB实验加载方式对PBX炸药力学响应的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbgxyxb201905014",
+      "title": "新型粘结体系推进剂综合性能研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201910009",
+      "title": "冷压成型压力对HMX基PBX微结构影响的SANS研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201401011",
+      "title": "NTO结晶形貌的预测",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hzyxb201901004",
+      "title": "三叠氮新戊醇乙酸酯的合成、表征与性能研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201712014",
+      "title": "HMX/TiO2复合颗粒制备及其浸润性可逆转变",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201404012",
+      "title": "高格尼能钝感浇注PBX设计及性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgp201403009",
+      "title": "碳纤维对塑料粘结炸药力学性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201902009",
+      "title": "HNIW/GAP混合物燃速的实验研究与数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201603005",
+      "title": "多点起爆网络结构参数设计及其同步性误差分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201905007",
+      "title": "端丙炔基聚丁二烯预聚物的贮存稳定性",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201610004",
+      "title": "PBAMO/APP基星型含能热塑性弹性体的合成与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201906003",
+      "title": "GAP原位聚合包覆RDX的研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201802011",
+      "title": "含CL-20/HMX的GAP高能推进剂老化特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201706008",
+      "title": "4,4,4-三硝基丁酸-2-叠氮基-1-叠氮甲基乙酯的合成、表征和热性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201901012",
+      "title": "Viton/PVA粘结剂乳液的设计及其在炸药油墨中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hbgxyxb201503017",
+      "title": "两种增塑剂对GAP/CL-20热分解的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201801014",
+      "title": "PBX装药弹体侵彻混凝土薄板的数值模拟",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201504019",
+      "title": "GAP应用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hxtjjygfzcl200305007",
+      "title": "含能增塑剂研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201912011",
+      "title": "双叠氮直链醚增塑剂的合成与性能",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201401011",
+      "title": "NTO结晶形貌的预测",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201303008",
+      "title": "端羟基P(GA-b-AMMO)的合成与表征",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb200802022",
+      "title": "BAMO/AMMO基ETPE的合成与性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201723086",
+      "title": "浇注PBX炸药的配方设计与性能研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201911012",
+      "title": "FOX-7基浇注型PBX安全性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201604018",
+      "title": "p（BAMO-AMMO）热塑性高能推进剂燃烧转爆轰试验研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201604004",
+      "title": "GAP-ETPE/NC共混聚合物的制备与性能",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201304009",
+      "title": "含能粘结剂丙烯酸偕二硝基丙酯-乙酸乙烯酯共聚物的合成及性能",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hbgxyxb201503017",
+      "title": "两种增塑剂对GAP/CL-20热分解的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxyxb201702019",
+      "title": "溶剂对HNS晶体形貌的影响研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201301021",
+      "title": "高能钝感混合炸药的研究进展及发展趋势",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201801007",
+      "title": "浇注高聚物粘结炸药的粘结剂体系设计及其应用研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl2004z1095",
+      "title": "含能粘结剂对铝化炸药爆炸能量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxhg201201006",
+      "title": "正交法分析PBX浇注炸药爆速的影响因素",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201801005",
+      "title": "异呋咱类熔铸炸药载体分子设计与性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200401005",
+      "title": "可浇注固化PBX类含铝炸药低易损性研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201807007",
+      "title": "端羟基聚叠氮缩水甘油醚与六硝基六氮杂异伍兹烷基四元混合炸药能量释放研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201403011",
+      "title": "TNAZ/DNTF最低共熔物的熔铸性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201703010",
+      "title": "壳体约束下浇注PBX的温度适应性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jazgy201602005",
+      "title": "CL-20与火药粘结剂TPU的相容性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201908009",
+      "title": "某浇注PBX炸药的起爆特性分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "ynhg201805060",
+      "title": "1-甲基-3,4,5-三硝基吡唑合成工艺研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201804010",
+      "title": "非溶剂体系温度对细化RDX影响的分子 动力学模拟及实验研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hncl201504002",
+      "title": "ε-CL-20/含能黏结剂复合体系结合能及力学性能的模拟",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201504014",
+      "title": "几种钝感含能增塑剂之间的相容性",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201805005",
+      "title": "多点起爆网络装药及性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201708006",
+      "title": "GAP推进剂粘接体系组分迁移动力学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201505005",
+      "title": "RDX基复合含能微球的制备及表征",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201306029",
+      "title": "浇注PBX力学性能的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201707001",
+      "title": "不同粘结体系对PBX炸药能量输出特性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bpqc201703003",
+      "title": "含有5-氨基四唑的GAP/AN基推进剂的研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201804008",
+      "title": "GAP高能推进剂体积开裂尺寸效应",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "njlgdxxb200905025",
+      "title": "高聚物粘结剂与硅烷偶联剂分子间相互作用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201706003",
+      "title": "含能增塑剂BDNPF/A与几种高能炸药相容性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201507019",
+      "title": "含能增塑剂DAMNP的合成与性能",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jtyjhw200803012",
+      "title": "叠氮含能粘结剂的研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201902010",
+      "title": "含能增塑剂一缩二甘油四硝酸酯的基本性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201605009",
+      "title": "中性高分子键合剂在含能增塑剂/粘合剂预聚物中相分离的介观模拟",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201805012",
+      "title": "GAP-PAVA的制备及性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201401018",
+      "title": "RDX/POLY(BAMO-AMMO)基发射药的热分解与燃烧性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201908009",
+      "title": "某浇注PBX炸药的起爆特性分析",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201004009",
+      "title": "硝胺粒度及类型对BAMO-AMMO基ETPE发射药燃烧性能的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201406012",
+      "title": "黑索今含量对BAMO-AMMO基推进剂力学性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl2005z1004",
+      "title": "水下武器用含铝炸药性能研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201301021",
+      "title": "高能钝感混合炸药的研究进展及发展趋势",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201909008",
+      "title": "活性射流作用混凝土靶侵彻与爆炸效应研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201907009",
+      "title": "CL-20/FOX-7基PBX的制备及其性能表征",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "hncl201901004",
+      "title": "聚缩水甘油醚硝酸酯增塑剂的性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201904050",
+      "title": "LLM-105在不同溶剂中结晶形貌的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201803005",
+      "title": "GAP-HDI/CL-20纳米复合含能材料的制备、表征及其热分解特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200401005",
+      "title": "可浇注固化PBX类含铝炸药低易损性研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb201808033",
+      "title": "硼铝复合粉在含能材料中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb199903014",
+      "title": "含能粘结剂低温动态力学性能的临界温度",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201202044",
+      "title": "新型含能材料的研究进展",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hgp201701009",
+      "title": "GAP/CL-20基PBX炸药固化温度的分子动力学模拟与实验研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gzhg201214032",
+      "title": "粘结剂增强对TATB基PBX力学性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yzyfzwlxb201706017",
+      "title": "GaP相变及热力学性质的理论研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201812023",
+      "title": "高氮含能化合物TKX-50侵彻安全性试验研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200302012",
+      "title": "国外火药含能粘结剂研究动态",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bpqc201802004",
+      "title": "含能增塑剂2,3-二羟甲基-2,3-二硝基-1,4-丁二醇四苯甲酸酯的合成及表征",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201912010",
+      "title": "3,5-二硝基-3,5-二氮杂庚烷合成与性能",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "ddhg201412006",
+      "title": "混合增容剂对HDPE/sPS共混物形态及性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200204013",
+      "title": "聚NIMMO的合成及其在火药中的应用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hchx200806003",
+      "title": "含能粘结剂聚缩水甘油硝酸酯的合成与表征",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201106029",
+      "title": "新型钝感含能增塑剂3-硝基呋咱-4-甲醚的合成与性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201703004",
+      "title": "GAP基热塑性弹性体改性单基发射药的热行为及力学性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201603017",
+      "title": "TATB基PBX界面粘结改善研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201702009",
+      "title": "微型爆炸网络用DNTF/HMX基传爆药研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201606014",
+      "title": "拉剪复合试验测试炸药晶体/粘结剂界面力学特性",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gncl201801015",
+      "title": "细观结构对HTPB推进剂力学性能影响的数值研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201806038",
+      "title": "不同铝粉含量黑索今基浇注高聚物黏结炸药的慢速烤燃特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200302012",
+      "title": "国外火药含能粘结剂研究动态",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb199903014",
+      "title": "含能粘结剂低温动态力学性能的临界温度",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201301025",
+      "title": "TNT替代物含能三唑盐的合成及性能研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201003012",
+      "title": "PBX浇注炸药撞击感度的影响因素研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201804010",
+      "title": "非溶剂体系温度对细化RDX影响的分子 动力学模拟及实验研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl201205009",
+      "title": "TNAZ/ANTA最低共熔物的制备与性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201202044",
+      "title": "新型含能材料的研究进展",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl200806011",
+      "title": "在浇注固化炸药中的应用探索",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201504010",
+      "title": "含氟粘结剂对含硼炸药水下爆炸能量的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201005010",
+      "title": "浇注PBX炸药药柱的动态撞击性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201911012",
+      "title": "FOX-7基浇注型PBX安全性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201304009",
+      "title": "含能粘结剂丙烯酸偕二硝基丙酯-乙酸乙烯酯共聚物的合成及性能",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jtyjhw200803012",
+      "title": "叠氮含能粘结剂的研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201801014",
+      "title": "PBX装药弹体侵彻混凝土薄板的数值模拟",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201905011",
+      "title": "基于十二烷基苯磺酸固化季戊四醇丙烯醛树脂的粘结体系流变特征及反应动力学研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bpqc201903005",
+      "title": "利用分离式Hopkinson压杆技术研究浇注 PBX炸药的老化性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201306029",
+      "title": "浇注PBX力学性能的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201906004",
+      "title": "纳米Cu-Cr复合金属氧化物的机械研磨制备及对AP的催化性能",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201803035",
+      "title": "冲击加载下两种典型抗高过载炸药的损伤特性",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201809012",
+      "title": "一种高颗粒体积分数PBX细观模型的生成方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201808030",
+      "title": "基于级配方程的粗粒料级配演化预测模型",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "slsykxyj201806012",
+      "title": "基于GA-BP神经网络的粗粒土渗透系数预测",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201631034",
+      "title": "铝粉含量及粒度对炸药驱动能力的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxhg201201006",
+      "title": "正交法分析PBX浇注炸药爆速的影响因素",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201601007",
+      "title": "小组分对热固性浇注 PBX 性能的影响?",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hncl201701005",
+      "title": "PBT与含能增塑剂相互作用的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201806002",
+      "title": "2,4-二硝基-2,4-二氮杂戊烷的合成与热性能",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl2004z2010",
+      "title": "含能粘结剂对铝化炸药爆炸能量的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb200504013",
+      "title": "含能增塑剂的研究现状及发展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200806011",
+      "title": "在浇注固化炸药中的应用探索",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb200504009",
+      "title": "含能耐热粘结剂PNP合成中的绿色技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201805008",
+      "title": "GAP复合固体推进剂细观结构演变特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jazgy201602013",
+      "title": "浇注PBX药浆表观黏度的实验研究?",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201404009",
+      "title": "粒度级配对CL-20基浇注传爆药流变性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201806009",
+      "title": "丁腈橡胶类键合剂在CL-20/GAP体系中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201824028",
+      "title": "高能钝感推进剂配方改性的研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201805012",
+      "title": "不同TMETN/NG配比对CMDB推进剂塑化特性的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201904011",
+      "title": "Bu-NENA/PBT推进剂安全性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201903004",
+      "title": "高能低感熔铸炸药液相载体3,3'-联(1,2,4-,噁二唑)-5,5'-二甲硝酸酯的合成及性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200001004",
+      "title": "偶联剂在HMX基浇注固化炸药中的作用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201902018",
+      "title": "热固型火炸药药浆真空振动浇注系统",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201908003",
+      "title": "国外弹药战斗部先进制造技术发展与思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201406039",
+      "title": "硝基吡唑类化合物的合成研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201105007",
+      "title": "熔铸混合炸药用载体炸药评述",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201905006",
+      "title": "高性能CNA的制备及其在HMX基混合炸药中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201004008",
+      "title": "大药量浇注PBX炸药工程化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxgcs201909005",
+      "title": "内交联型水性聚氨酯胶粘剂的制备与性能研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hbgxyxb201905014",
+      "title": "新型粘结体系推进剂综合性能研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb200504009",
+      "title": "含能耐热粘结剂PNP合成中的绿色技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201604001",
+      "title": "钝感弹药技术凸显压制工艺的重要性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "hgp201003012",
+      "title": "PBX浇注炸药撞击感度的影响因素研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201510003",
+      "title": "P(BAMO/AMMO)基含能热塑性聚氨酯弹性体的性能研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201905011",
+      "title": "基于十二烷基苯磺酸固化季戊四醇丙烯醛树脂的粘结体系流变特征及反应动力学研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nianj200304003",
+      "title": "TATB/氟聚合物塑料粘结炸药的表(界)面特性研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201404012",
+      "title": "高格尼能钝感浇注PBX设计及性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jazgy201502012",
+      "title": "混合异氰酸酯固化剂对HTPB固化反应的影响研究?",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201911008",
+      "title": "微纳米CL-20颗粒级配对低共熔DNAN/TNT基熔铸炸药性能的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201304015",
+      "title": "P(BAMO-r-AMMO)在推进剂中的应用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "wlhxxb201706013",
+      "title": "混合溶剂对β-HMX结晶形貌影响的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hncl201806004",
+      "title": "FOX-7在H2O/DMF溶剂中的结晶形貌预测",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hncl201911006",
+      "title": "TKX-50基混合炸药的爆轰及安全性能",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hgp201504010",
+      "title": "含氟粘结剂对含硼炸药水下爆炸能量的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201907014",
+      "title": "高剪切速率下硼与HTPB、PBT和GAP端羟基的反应活性",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bpqc201601007",
+      "title": "小组分对热固性浇注 PBX 性能的影响?",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hgp201402015",
+      "title": "浇注PBX固化行为的实验与模拟",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "bpqc201602002",
+      "title": "黏结剂相对分子质量对浇注PBX固化应力的影响?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shht201504013",
+      "title": "PBT/增塑剂共混物相容性的介观动力学模拟",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yzyfzwlxb201801020",
+      "title": "聚氨酯结构与径向分布的分子动力学模拟",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "gncl201801015",
+      "title": "细观结构对HTPB推进剂力学性能影响的数值研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201605011",
+      "title": "固体推进剂组分相容性的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201201010",
+      "title": "BuAENA合成过程中反应热的测定及动力学关联",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201702006",
+      "title": "杀爆战斗部装药能量对破片动能的转化率",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201201013",
+      "title": "固化剂类型对HTPE型聚氨酯弹性体胶片性能的影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201906009",
+      "title": "NC/TMETN黏结体系的多尺度模拟及实验研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdxxhxxb200705037",
+      "title": "受限状态聚合物熔体的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlgdxxb201906001",
+      "title": "制导杀爆弹毁伤效能评估的应用研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gthjjs200906012",
+      "title": "固体推进剂粘合剂HTPE研究及其分子设计思想概述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200406014",
+      "title": "钝感固体推进剂的研制与进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201402015",
+      "title": "浇注PBX固化行为的实验与模拟",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gthjjs201805012",
+      "title": "GAP-PAVA的制备及性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxyxb201503017",
+      "title": "两种增塑剂对GAP/CL-20热分解的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201806009",
+      "title": "丁腈橡胶类键合剂在CL-20/GAP体系中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201905003",
+      "title": "含ADN或TKX-50的叠氮高能固体推进剂能量特性分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201803005",
+      "title": "GAP-HDI/CL-20纳米复合含能材料的制备、表征及其热分解特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb201502016",
+      "title": "杀爆战斗部爆破威力试验影响因素分析?",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201405004",
+      "title": "HTPE/增塑剂共混体系相容性的分子动力学模拟",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201429019",
+      "title": "端羟基聚丁二烯与有机溶剂相容性的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "yzyfzwlxb201904023",
+      "title": "孔洞缺陷对B炸药性能影响的理论计算",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201604001",
+      "title": "杀爆弹破片与冲击波对地面人员目标综合毁伤",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxyjyyy200906006",
+      "title": "HTPB固体推进剂增塑剂选取分子模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlhxxb200901034",
+      "title": "HTPB与Al不同晶面结合能和力学性能的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201802011",
+      "title": "含CL-20/HMX的GAP高能推进剂老化特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201802012",
+      "title": "GAP对NG分子间相互作用及CMDB推进剂感度的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "njlgdxxb201702014",
+      "title": "低交联度GAP弹性体的制备及其宽温力学性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdxxhxxb200601030",
+      "title": "高分子相分离的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gthjjs201501017",
+      "title": "含BuNENA钝感交联改性双基推进剂能量分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201904010",
+      "title": "GAP/CL-20固体推进剂的力学性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yzyfzwlxb201706017",
+      "title": "GaP相变及热力学性质的理论研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz202001036",
+      "title": "某型云爆弹对地堡目标有生力量杀伤仿真研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201701005",
+      "title": "PBT与含能增塑剂相互作用的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl201405004",
+      "title": "HTPE/增塑剂共混体系相容性的分子动力学模拟",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201805012",
+      "title": "不同TMETN/NG配比对CMDB推进剂塑化特性的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jmlyjsycp201816185",
+      "title": "头、底部起爆杀爆战斗部威力影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201504014",
+      "title": "几种钝感含能增塑剂之间的相容性",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "sxhg201712042",
+      "title": "关于GAP的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201708006",
+      "title": "GAP推进剂粘接体系组分迁移动力学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc201702006",
+      "title": "杀爆战斗部装药能量对破片动能的转化率",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj202001026",
+      "title": "模拟破片杀伤战斗部空爆冲击波与高速破片群联合作用的等效试验方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs200806015",
+      "title": "HTPB与TDI固化的分子模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201001011",
+      "title": "HTPB与增塑剂相容性评价的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hxxb200808011",
+      "title": "HMX和HMX/HTPB PBX的晶体缺陷理论研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201805010",
+      "title": "CBNT与高聚物黏结剂界面作用的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201902008",
+      "title": "分子动力学法研究掺杂缺陷对HMX/NQ共晶炸药性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201503010",
+      "title": "金属加速炸药/高爆热炸药复合装药爆炸特性研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "djyzdxb201502016",
+      "title": "杀爆战斗部爆破威力试验影响因素分析?",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201602010",
+      "title": "杀爆战斗部破片与冲击波运动规律研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201707001",
+      "title": "杀伤爆破弹综合威力评估方法与应用研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "bgzdh201504019",
+      "title": "GAP应用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "hncl201810005",
+      "title": "RDX杂质对HMX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "hncl201911005",
+      "title": "DNTF/HATO混合体系安全性及分子动力学模拟",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "cldb2019z2125",
+      "title": "NTO在混合炸药中的应用及其酸性问题的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201407016",
+      "title": "DNTF/HMX炸药金属加速做功能力及其JWL状态方程",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxgc201012016",
+      "title": "BuNENA/DMSO二元体系密度、黏度测定及关联",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl202001004",
+      "title": "2,4?二硝基苯甲醚(DNAN)基熔铸炸药研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201908008",
+      "title": "两种DNAN基含铝炸药的爆轰性能",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "gthjjs201501017",
+      "title": "含BuNENA钝感交联改性双基推进剂能量分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201201010",
+      "title": "BuAENA合成过程中反应热的测定及动力学关联",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201501010",
+      "title": "热分析法研究AlH3与固体推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201601016",
+      "title": "GAP黏合剂胶片力学性能的影响因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201504014",
+      "title": "几种钝感含能增塑剂之间的相容性",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201901004",
+      "title": "DNAN基大尺寸带壳装药的能量输出特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp202001012",
+      "title": "CL-20/DNAN混合体系分子间作用的MD研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjzm201508031",
+      "title": "复合装药冲击波超压性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201503010",
+      "title": "金属加速炸药/高爆热炸药复合装药爆炸特性研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201801020",
+      "title": "复合装药威力性能试验分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201406018",
+      "title": "高氯酸铵的包覆降感与应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgp201402015",
+      "title": "浇注PBX固化行为的实验与模拟",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gthjjs200202009",
+      "title": "国外固体推进剂研究与开发的趋势",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201805009",
+      "title": "复合装药爆炸载荷下砌体墙破坏过程及动态响应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201701005",
+      "title": "PBT与含能增塑剂相互作用的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gthjjs201806010",
+      "title": "掺杂缺陷对PBX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201002019",
+      "title": "GAP-ETPE基发射药配方的能量特性分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sygyxyxb201003002",
+      "title": "注装用改性B炸药渗油性的试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201206004",
+      "title": "高品质HMX的包覆降感技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb201711011",
+      "title": "F装药形成包覆式复合侵彻体的仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gywlxb201903004",
+      "title": "高聚物黏结炸药的分子模拟进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201306011",
+      "title": "包覆材料对高氯酸铵（AP）药粉撞击感度影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201511002",
+      "title": "复合装药偏心起爆条件下波形扫描实验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cblx201808010",
+      "title": "典型含水复合结构在聚能装药水下 爆炸作用下的毁伤",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bzycj201802018",
+      "title": "复合装药空气中爆炸冲击波传播特性",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201818040",
+      "title": "端羟基聚醚/增塑剂共混体系混溶性的介观动力学模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb200902025",
+      "title": "丁基硝酸酯乙基硝胺与高分子粘结剂混合体系的相互作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gthjjs201504014",
+      "title": "几种钝感含能增塑剂之间的相容性",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201505009",
+      "title": "DNTF 基含铝炸药复合装药的驱动特性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs200202009",
+      "title": "国外固体推进剂研究与开发的趋势",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201405001",
+      "title": "钝感推进剂配方研究及发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201106029",
+      "title": "新型钝感含能增塑剂3-硝基呋咱-4-甲醚的合成与性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201405004",
+      "title": "HTPE/增塑剂共混体系相容性的分子动力学模拟",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201904011",
+      "title": "Bu-NENA/PBT推进剂安全性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201905009",
+      "title": "HTPE推进剂慢速烤燃及其热分解特性",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl200803027",
+      "title": "HTPE推进剂研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "shht201801020",
+      "title": "HTPE推进剂热分解特性研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201405004",
+      "title": "HTPE/增塑剂共混体系相容性的分子动力学模拟",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201807007",
+      "title": "端羟基聚叠氮缩水甘油醚与六硝基六氮杂异伍兹烷基四元混合炸药能量释放研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201604005",
+      "title": "HTPE与FOX-7和FOX-12混合体系的热分解",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl202001014",
+      "title": "丙基硝基胍(PrNQ)热化学特性及分解机理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl202008008",
+      "title": "含不同燃速催化剂的NC/GAP复合球形药的制备与热分解性能",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201809011",
+      "title": "功能助剂对DNAN/RDX熔铸炸药界面黏结强度的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs202003003",
+      "title": "硝酸酯增塑GAP推进剂网络结构断键薄弱点表征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gcbp201906003",
+      "title": "用DSC法研究混入煤粉的铵油炸药相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201802012",
+      "title": "GAP对NG分子间相互作用及CMDB推进剂感度的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201502015",
+      "title": "DSC 法研究高能炸药 TEX 与推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl202002009",
+      "title": "超细CL-20/HMX共晶的制备、表征及其与推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl202004005",
+      "title": "PEG/增塑剂共混物相容性的分子动力学模拟和介观模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl202006008",
+      "title": "NG/TMETN混合增塑PEG体系的力学、感度及相容性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201808009",
+      "title": "DNAN/HMX熔铸炸药的流变特性",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201905002",
+      "title": "TNT熔铸炸药内部结晶组织的数值模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hdlgdxxb201406003",
+      "title": "梳型共聚物SMAC对硅胶石蜡熔融共混体系流变学性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hbgxyxb201406021",
+      "title": "DNTF/TNT/HMX 基熔铸炸药流变性能研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl202008006",
+      "title": "PEG/N-100中增塑剂扩散性能的微观与介观模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fhdd200505005",
+      "title": "空地武器的现状及发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fhdd200805004",
+      "title": "法国空地模块化武器",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb201302020",
+      "title": "微通道挤注药剂配方与装药工艺研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb200904012",
+      "title": "双元炸药装药空中爆炸的输出特性",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zght200108015",
+      "title": "便携式防空导弹现状和发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjzlxx200712010",
+      "title": "美俄竞相开发巨型炸弹的战略考虑",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy201811009",
+      "title": "定压控制技术在挤注装药工艺中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj200501013",
+      "title": "挤注炸药的爆轰性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hkbq201901005",
+      "title": "空空导弹智能化技术的发展与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkbq201806002",
+      "title": "从空海联合作战看美国空空导弹发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201905002",
+      "title": "TNT熔铸炸药内部结晶组织的数值模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb201003001",
+      "title": "钝感复合装药结构能量输出规律数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201808009",
+      "title": "DNAN/HMX熔铸炸药的流变特性",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200904010",
+      "title": "双元复合炸药装药水下爆炸能量输出特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201802018",
+      "title": "复合装药空气中爆炸冲击波传播特性",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb200904012",
+      "title": "双元炸药装药空中爆炸的输出特性",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hkbq201701002",
+      "title": "2016年国外空空导弹发展动态研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201606003",
+      "title": "空地精确打击体系构成与关键技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hkbq201902007",
+      "title": "空空导弹战斗部毁伤效能评估技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkbq201903001",
+      "title": "2018年国外空空导弹发展动态研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gywlxb201002002",
+      "title": "炸药水下爆炸能量输出特性试验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201407015",
+      "title": "含铝温压弹药自动化连续混合挤注装药技术",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jiangxhg201906092",
+      "title": "炸药降感专利技术分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hdlgdxxb201406003",
+      "title": "梳型共聚物SMAC对硅胶石蜡熔融共混体系流变学性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gjhk200607014",
+      "title": "空地导弹发展评述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkbq201702001",
+      "title": "空空导弹面临的挑战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jscxgy201805018",
+      "title": "空空导弹定延寿技术应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201407015",
+      "title": "含铝温压弹药自动化连续混合挤注装药技术",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "ddxb201003001",
+      "title": "钝感复合装药结构能量输出规律数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gfkj201006005",
+      "title": "空地制导武器发展的核心理念",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201405022",
+      "title": "温压炸药爆炸能量输出的实验研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzlxxcy202012117",
+      "title": "防空导弹雷达导引头超低空目标探测及验证问题研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl200802012",
+      "title": "JO-9159/ECX复合装药的冲击波感度研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxb200701013",
+      "title": "挤注炸药爆轰产物JWL状态方程研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201707001",
+      "title": "不同粘结体系对PBX炸药能量输出特性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fhdd200708007",
+      "title": "美国空军加速发展和装备信息化弹药",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmlyjsycp201720182",
+      "title": "基于信息化战争条件下空军武器装备需求研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zght200512019",
+      "title": "防空导弹发展趋势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201302020",
+      "title": "微通道挤注药剂配方与装药工艺研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201405005",
+      "title": "一种以HMX为主的挤注传爆药安定性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201821189",
+      "title": "空空导弹发展状况及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb200701013",
+      "title": "挤注炸药爆轰产物JWL状态方程研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201405022",
+      "title": "温压炸药爆炸能量输出的实验研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hgp201503010",
+      "title": "金属加速炸药/高爆热炸药复合装药爆炸特性研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb200804027",
+      "title": "新概念信息化弹药的现状与发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb202001004",
+      "title": "侵彻单层和多层靶时战斗部装药损伤及热点生成机理研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201104001",
+      "title": "军用混合炸药的发展趋势",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201304021",
+      "title": "HMX/CL-20基传爆药的挤注装药工艺及传爆性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200801019",
+      "title": "三种方法研究ADN与几种粘合剂的相容性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201203014",
+      "title": "储氢合金/AP/HTPB推进剂的热分解性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp201604013",
+      "title": "温度对B炸药力学性能与感度的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl201810005",
+      "title": "RDX杂质对HMX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201706011",
+      "title": "CL-20/MDNI混合炸药分子间作用的分子动力学",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "gthjjs201806010",
+      "title": "掺杂缺陷对PBX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gdxxhxxb201603023",
+      "title": "CL-20/TNT共晶炸药的分子动力学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgp202001012",
+      "title": "CL-20/DNAN混合体系分子间作用的MD研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201904011",
+      "title": "Bu-NENA/PBT推进剂安全性能",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gthjjs201506019",
+      "title": "包覆层对SZQu推进剂安定性及相容性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "clgc201111006",
+      "title": "超级铝热剂的制备及其与双基系推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gthjjs200202012",
+      "title": "RDX/AP/HTPB推进剂热分解特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgxb201910039",
+      "title": "软段结构对聚氨酯弹性体性能的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201604003",
+      "title": "CL-20/HMX共晶与共混物的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201902008",
+      "title": "分子动力学法研究掺杂缺陷对HMX/NQ共晶炸药性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201904009",
+      "title": "丙基硝基胍应用基础性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201614009",
+      "title": "晶形控制剂对六硝基六氮杂异伍兹烷晶形的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxtjjygfzcl201101005",
+      "title": "123树脂的合成、改性及在推进剂和炸药中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "hzyxb200203022",
+      "title": "丁羟胶性能及其改性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb201806009",
+      "title": "丁腈橡胶类键合剂在CL-20/GAP体系中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bpqc202003006",
+      "title": "CL-20基高爆热含铝压装混合炸药的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201701011",
+      "title": "CL-20对硝酸酯炸药性能的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hncl201803004",
+      "title": "5,5'-联四唑-1,1'-二氧二羟铵在不同生长条件下的晶体形貌预测",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh202003019",
+      "title": "CL-20基压装型抗过载温压炸药制备工艺",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201704007",
+      "title": "聚醚砜酮及其与ε-CL-20复合体系性能的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hxxb201114007",
+      "title": "B炸药主要组分TNT和RDX分子间相互作用的理论研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xyjsclygc200901032",
+      "title": "用纳米压痕仪测量Cu50Zr43Ti7非晶合金的硬度和弹性模量",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "bgxb201502012",
+      "title": "溶剂效应对FOX-7晶体形貌影响的分子动力学模拟研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hncl201403030",
+      "title": "纳米压痕仪测试TNT单晶(100)晶面的模量与硬度",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201304009",
+      "title": "含能粘结剂丙烯酸偕二硝基丙酯-乙酸乙烯酯共聚物的合成及性能",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201604004",
+      "title": "GAP-ETPE/NC共混聚合物的制备与性能",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "gyjz201906024",
+      "title": "纳米压痕表征水泥基材料高温后微观力学性能",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "scbgxb201502034",
+      "title": "高能压装炸药部件裂纹损伤及防治措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hgp201604013",
+      "title": "温度对B炸药力学性能与感度的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl200302012",
+      "title": "国外火药含能粘结剂研究动态",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dlxyxb200906008",
+      "title": "纳米压痕仪测量镧奶对牙釉质再矿化的实验研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "QK199400349733",
+      "title": "纯黑索今和太安炸药压装工艺条件的探索",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201810005",
+      "title": "RDX杂质对HMX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201401009",
+      "title": "A-IX-II压装炸药失效模式分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201809034",
+      "title": "钝感剂及装药工艺对炸药燃烧转爆轰的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hchx200806003",
+      "title": "含能粘结剂聚缩水甘油硝酸酯的合成与表征",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201903014",
+      "title": "温压作用下α-DNAN的晶体结构及力学性能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201604013",
+      "title": "DNAN力学性能分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "bpqc201506006",
+      "title": "重结晶对DNTF形貌和含铝炸药爆轰性能的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201804010",
+      "title": "非溶剂体系温度对细化RDX影响的分子 动力学模拟及实验研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gsyxb201807011",
+      "title": "不同溶剂中TSB晶体的生长与形貌分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hncl201806004",
+      "title": "FOX-7在H2O/DMF溶剂中的结晶形貌预测",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "kjzx201931024",
+      "title": "钼(钨)基氮化物硬质及超硬涂层的微观结构及综合性能",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgccl201812008",
+      "title": "Fe60Cr5Mo2Ni2W2Mn1C4Si7B17非晶合金的纳米压痕力学性能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "sylx201806015",
+      "title": "基于纳米压痕的页岩微观力学性质分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "asgtxyxb201904004",
+      "title": "氮化复合DLC薄膜的制备和性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shdjxyxb201903001",
+      "title": "碳微球的纳米压痕弹塑性行为的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "gzhg201103011",
+      "title": "结晶控制技术对晶体形貌的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "lykx201907014",
+      "title": "基于纳米压痕技术的木材胶合界面力学行为",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "jxzzyzdh201903003",
+      "title": "氧化石墨烯/碳纳米管复合薄膜制备及表征",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "bmjs201512021",
+      "title": "纳米压痕技术在材料力学测试中的应用",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gyjz201906024",
+      "title": "纳米压痕表征水泥基材料高温后微观力学性能",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cldb201918006",
+      "title": "利用原位压痕技术表征原子层沉积Al2O3超薄纳米薄膜的力学性能",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xyjsclygc200901032",
+      "title": "用纳米压痕仪测量Cu50Zr43Ti7非晶合金的硬度和弹性模量",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cldb201922016",
+      "title": "PREP法制备球形CuAl10 Fe3铜合金粉末的性能表征",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "dlxyxb200906008",
+      "title": "纳米压痕仪测量镧奶对牙釉质再矿化的实验研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "fhclxb201803011",
+      "title": "基于纳米压痕法的羟基磷灰石/聚乳酸复合材料力学性能表征",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hntysnzp201911005",
+      "title": "改性Ⅲ级粉煤灰对混凝土强度和自收缩的影响",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "wlhxxb201706013",
+      "title": "混合溶剂对β-HMX结晶形貌影响的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "bgzdh201504019",
+      "title": "GAP应用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "bgxb201502012",
+      "title": "溶剂效应对FOX-7晶体形貌影响的分子动力学模拟研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "jscxgy201910011",
+      "title": "C/C复合材料不同碳基体的纳米压痕行为研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "wlcs201901001",
+      "title": "微纳米覆盖层材料的力学性能表征探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hdyjxyxb201803014",
+      "title": "水泥砂浆界面处纳米压痕的近场动力学模拟",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "scbgxb201904050",
+      "title": "LLM-105在不同溶剂中结晶形貌的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jxkf201909021",
+      "title": "CrAlSiN涂层的制备及其性能研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hxtjjygfzcl201806005",
+      "title": "GAP基含能热塑性弹性体制备及其在复合固体推进剂中的应用进展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201909008",
+      "title": "活性射流作用混凝土靶侵彻与爆炸效应研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201906004",
+      "title": "纳米Cu-Cr复合金属氧化物的机械研磨制备及对AP的催化性能",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "hzyxb201401011",
+      "title": "NTO结晶形貌的预测",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "hzyxb201804010",
+      "title": "非溶剂体系温度对细化RDX影响的分子 动力学模拟及实验研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "wlhxxb201706013",
+      "title": "混合溶剂对β-HMX结晶形貌影响的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201602008",
+      "title": "FOX-7结晶形貌的分子动力学模拟",
+      "download_times": 6,
+      "browse_times": 14
+    },
+    {
+      "id": "scbgxb201904050",
+      "title": "LLM-105在不同溶剂中结晶形貌的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "yzyfzwlxb201903025",
+      "title": "一元溶剂体系 β-HMX球形化结晶形貌的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201903009",
+      "title": "溶剂晶面吸附结合能对超细HMX性能的影响",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "hncl201806004",
+      "title": "FOX-7在H2O/DMF溶剂中的结晶形貌预测",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hncl201701005",
+      "title": "PBT与含能增塑剂相互作用的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gncl201801015",
+      "title": "细观结构对HTPB推进剂力学性能影响的数值研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb200904016",
+      "title": "键合剂对HTPB与Al/Al2O3之间界面作用的分子模拟",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yzyfzwlxb201801020",
+      "title": "聚氨酯结构与径向分布的分子动力学模拟",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hgxxcl201702060",
+      "title": "BuNENA单基球形药制备工艺研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201707001",
+      "title": "杀伤爆破弹综合威力评估方法与应用研究",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "hgxxcl201511062",
+      "title": "GAP与3种含能钝感增塑剂共混相容性的分子动力学模拟研究",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "hbgxyxb201804008",
+      "title": "杀爆战斗部动态破片威力场分布规律研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "bgzdh201504019",
+      "title": "GAP应用研究进展",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hgp201402015",
+      "title": "浇注PBX固化行为的实验与模拟",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201805012",
+      "title": "不同TMETN/NG配比对CMDB推进剂塑化特性的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hxtjjygfzcl201306012",
+      "title": "叠氮增塑剂与GAP黏合剂的相容性模拟计算",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201902008",
+      "title": "分子动力学法研究掺杂缺陷对HMX/NQ共晶炸药性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hkdlxb201710030",
+      "title": "基体特性对HTPB推进剂力学性能的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201606005",
+      "title": "黑梯炸药力学性能与感度的分子动力学研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hzyxb201901004",
+      "title": "三叠氮新戊醇乙酸酯的合成、表征与性能研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yzyfzwlxb201904023",
+      "title": "孔洞缺陷对B炸药性能影响的理论计算",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc201429019",
+      "title": "端羟基聚丁二烯与有机溶剂相容性的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "QK199800251149",
+      "title": "新型含能增塑剂--硝氧乙基硝胺族化合物发展概况",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201001011",
+      "title": "HTPB与增塑剂相容性评价的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hpfsykzxb201501004",
+      "title": "某大口径杀爆弹杀伤威力计算及优化设计",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jmlyjsycp201816185",
+      "title": "头、底部起爆杀爆战斗部威力影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201405004",
+      "title": "HTPE/增塑剂共混体系相容性的分子动力学模拟",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201203021",
+      "title": "HTPB推进剂中增塑剂扩散系数计算",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hkdlxb201801027",
+      "title": "复合固体推进剂细观结构建模及脱黏过程数值模拟",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201605011",
+      "title": "固体推进剂组分相容性的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wlhxxb200901034",
+      "title": "HTPB与Al不同晶面结合能和力学性能的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201703014",
+      "title": "纳米压痕技术对比研究DNAN和TNT晶体的微观力学性能",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "bpqc201702006",
+      "title": "杀爆战斗部装药能量对破片动能的转化率",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hxtjjygfzcl201305003",
+      "title": "N-丁基硝氧乙基硝胺的合成工艺研究进展",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hxxb201120027",
+      "title": "丁硝胺乙基硝酸酯合成2-叠氮乙基丁硝胺反应动力学研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "gthjjs201905010",
+      "title": "包覆高氯酸铵对丁羟推进剂慢速烤燃特性的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201806010",
+      "title": "掺杂缺陷对PBX性能影响的分子动力学研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201505009",
+      "title": "DNTF 基含铝炸药复合装药的驱动特性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fhdd201509018",
+      "title": "国外复合固体推进剂连续混合装药工艺的研发及应用前景",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201511002",
+      "title": "复合装药偏心起爆条件下波形扫描实验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201002019",
+      "title": "GAP-ETPE基发射药配方的能量特性分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gthjjs201905009",
+      "title": "HTPE推进剂慢速烤燃及其热分解特性",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hgxxcl201511062",
+      "title": "GAP与3种含能钝感增塑剂共混相容性的分子动力学模拟研究",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "hncl201206004",
+      "title": "高品质HMX的包覆降感技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gywlxb201705008",
+      "title": "扇形复合装药驱动破片定向飞散的数值模拟",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hxtjjygfzcl201401001",
+      "title": "BuNENA含能增塑剂的性能及应用",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "shht201801020",
+      "title": "HTPE推进剂热分解特性研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gthjjs201405019",
+      "title": "二元包覆的AP吸湿性及热分解性能研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hgp201402015",
+      "title": "浇注PBX固化行为的实验与模拟",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hxxb201120027",
+      "title": "丁硝胺乙基硝酸酯合成2-叠氮乙基丁硝胺反应动力学研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "hzyxb201805009",
+      "title": "复合装药爆炸载荷下砌体墙破坏过程及动态响应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjzm201508031",
+      "title": "复合装药冲击波超压性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201701005",
+      "title": "PBT与含能增塑剂相互作用的分子动力学模拟",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl200803027",
+      "title": "HTPE推进剂研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201502015",
+      "title": "DSC 法研究高能炸药 TEX 与推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "16007732",
+      "title": "一种ABS塑料表面涂料的研制",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201604005",
+      "title": "HTPE与FOX-7和FOX-12混合体系的热分解",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201802012",
+      "title": "GAP对NG分子间相互作用及CMDB推进剂感度的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl202001014",
+      "title": "丙基硝基胍(PrNQ)热化学特性及分解机理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hncl202002009",
+      "title": "超细CL-20/HMX共晶的制备、表征及其与推进剂组分的相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gcbp201906003",
+      "title": "用DSC法研究混入煤粉的铵油炸药相容性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl202008008",
+      "title": "含不同燃速催化剂的NC/GAP复合球形药的制备与热分解性能",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gthjjs202003003",
+      "title": "硝酸酯增塑GAP推进剂网络结构断键薄弱点表征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcs201603024",
+      "title": "基于灰色理论的DANA基熔铸炸药成型工艺参数优化",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "hbgxyxb201406021",
+      "title": "DNTF/TNT/HMX 基熔铸炸药流变性能研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ddxb201003001",
+      "title": "钝感复合装药结构能量输出规律数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgxb201302020",
+      "title": "微通道挤注药剂配方与装药工艺研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gywlxb201002002",
+      "title": "炸药水下爆炸能量输出特性试验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201407015",
+      "title": "含铝温压弹药自动化连续混合挤注装药技术",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hgxxcl201805029",
+      "title": "工艺参数对HMX基挤注炸药装药质量的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb201003001",
+      "title": "钝感复合装药结构能量输出规律数值模拟",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hbgxyxb201406021",
+      "title": "DNTF/TNT/HMX 基熔铸炸药流变性能研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hzyxb201304021",
+      "title": "HMX/CL-20基传爆药的挤注装药工艺及传爆性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201802018",
+      "title": "复合装药空气中爆炸冲击波传播特性",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb200904012",
+      "title": "双元炸药装药空中爆炸的输出特性",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bgzdh201707001",
+      "title": "不同粘结体系对PBX炸药能量输出特性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl201905002",
+      "title": "TNT熔铸炸药内部结晶组织的数值模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmlyjsycp201720182",
+      "title": "基于信息化战争条件下空军武器装备需求研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb200904012",
+      "title": "双元炸药装药空中爆炸的输出特性",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201405022",
+      "title": "温压炸药爆炸能量输出的实验研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb200701013",
+      "title": "挤注炸药爆轰产物JWL状态方程研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hqjs200719013",
+      "title": "巨型炸弹族谱",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xnm202020035",
+      "title": "无人机在现代农业的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb200701013",
+      "title": "挤注炸药爆轰产物JWL状态方程研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201903015",
+      "title": "展开式EFP战斗部复合破片场成型的数值模拟",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bzycj201004015",
+      "title": "含铝纤维复合炸药的能量输出和力学强度",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hncl200904010",
+      "title": "双元复合炸药装药水下爆炸能量输出特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljzdhjsyyy201811009",
+      "title": "定压控制技术在挤注装药工艺中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201407015",
+      "title": "含铝温压弹药自动化连续混合挤注装药技术",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hgp201503010",
+      "title": "金属加速炸药/高爆热炸药复合装药爆炸特性研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsjtx201821189",
+      "title": "空空导弹发展状况及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fhdd200103003",
+      "title": "用于宙斯盾武器系统的通用对陆攻击系统",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zght200512019",
+      "title": "防空导弹发展趋势分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hdlgdxxb201406003",
+      "title": "梳型共聚物SMAC对硅胶石蜡熔融共混体系流变学性能的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hncl201808009",
+      "title": "DNAN/HMX熔铸炸药的流变特性",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gthjjs201506019",
+      "title": "包覆层对SZQu推进剂安定性及相容性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201632038",
+      "title": "TNT、DNAN、TNAZ、DNTF不可逆膨胀特性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hgxxcl201511062",
+      "title": "GAP与3种含能钝感增塑剂共混相容性的分子动力学模拟研究",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "hncl201604003",
+      "title": "CL-20/HMX共晶与共混物的分子动力学模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsuliao202010008",
+      "title": "炭黑对聚醚醚酮激光吸收影响的实验研究及数值模拟",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hzyxb201603010",
+      "title": "老化对TNT基熔铸炸药性能的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201303013",
+      "title": "水浴和自然条件下熔铸炸药凝固过程的数值计算",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK000001378181",
+      "title": "浇铸PBX-一种用于机载导弹战斗部的不敏感炸药",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hxtjjygfzcl201904004",
+      "title": "丙基硝基胍合成及其在熔铸炸药中的应用进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201614009",
+      "title": "晶形控制剂对六硝基六氮杂异伍兹烷晶形的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh202003019",
+      "title": "CL-20基压装型抗过载温压炸药制备工艺",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdhg202012034",
+      "title": "一种DNAN基熔铸炸药的装药工艺探究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK000005172657",
+      "title": "浇铸PBX炸药在战斗部中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shanxhg201402010",
+      "title": "CL-20结晶形貌的预测",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "bpqc202003006",
+      "title": "CL-20基高爆热含铝压装混合炸药的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzyxb201403006",
+      "title": "DNAN基熔铸复合炸药的爆轰性能",
+      "download_times": 0,
+      "browse_times": 1
+    }
+  ],
+  "检索": [
+    "分子动力学",
+    "分子动力学",
+    "TNT RDX",
+    "TNT RDX",
+    "TNT RDX",
+    "FOX-7",
+    "FOX-7",
+    "纳米压痕仪",
+    "DNAN力学性能",
+    "纳米压痕 炸药",
+    "压装炸药",
+    "压装炸药",
+    "压装炸药",
+    "压装炸药",
+    "压装炸药",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "杭贵云",
+    "TNT RDX",
+    "TNT RDX",
+    "梯黑炸药",
+    "梯黑炸药",
+    "TNT RDX",
+    "TNT RDX",
+    "TNT RDX",
+    "TNT RDX",
+    "DNAN力学",
+    "DNAN力学性能",
+    "FOX-7",
+    "DNAN",
+    "DNAN力学",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "DNAN",
+    "含能粘结剂",
+    "分子动力学",
+    "TNT RDX",
+    "TNT RDX",
+    "分子动力学",
+    "压装炸药",
+    "压装炸药",
+    "晶体形貌分子动力学",
+    "DNAN力学性能",
+    "含能粘结剂",
+    "含能粘结剂",
+    "FOX-7",
+    "晶体形貌分子动力学",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "纳米压痕",
+    "纳米压痕",
+    "压装炸药",
+    "压装炸药",
+    "DNAN",
+    "含能粘结剂",
+    "DNAN",
+    "梯黑炸药",
+    "梯黑",
+    "TNT RDX",
+    "TNT RDX",
+    "TNT RDX",
+    "分子动力学",
+    "纳米压痕 炸药",
+    "晶体形貌分子动力学",
+    "FOX-7",
+    "晶体形貌分子动力学",
+    "晶体形貌分子动力学",
+    "DNAN力学",
+    "AMMO",
+    "晶体形貌分子动力学",
+    "杭贵云",
+    "梯黑炸药",
+    "梯黑",
+    "TNT RDX",
+    "分子动力学",
+    "TNT RDX",
+    "晶体形貌分子动力学",
+    "FOX-7",
+    "FOX-7",
+    "FOX-7",
+    "晶体形貌分子动力学",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "纳米压痕",
+    "纳米压痕",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "纳米压痕",
+    "纳米压痕仪",
+    "溶剂 结晶形貌",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "含能粘接剂",
+    "GAP",
+    "GAP",
+    "纳米压痕",
+    "纳米压痕仪",
+    "GAP含能粘接剂",
+    "GAP",
+    "GAP",
+    "GAP",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "纳米压痕仪",
+    "溶剂 结晶形貌",
+    "GAP",
+    "GAP含能粘接剂",
+    "GAP",
+    "溶剂 结晶形貌",
+    "溶剂 结晶形貌",
+    "溶剂 结晶形貌",
+    "溶剂 结晶形貌",
+    "GJB772A",
+    "GJB772A",
+    "溶剂 结晶形貌",
+    "火炸药学报",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能增塑剂",
+    "含能粘结剂",
+    "含能增塑剂",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能增塑剂",
+    "AMMO",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "DNTF",
+    "AMMO",
+    "AMMO",
+    "颗粒级配设计",
+    "颗粒级配",
+    "AMMO",
+    "AMMO",
+    "颗粒级配模型",
+    "颗粒级配设计",
+    "AMMO",
+    "AMMO",
+    "AMMO",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "DNTF基熔铸炸药的性能研究",
+    "高能量密度材料3,4-二硝基呋咱基氧化呋咱性能及应用研究",
+    "含能粘结剂",
+    "熔铸炸药载体",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "DNAN DNTF",
+    "含能粘结剂",
+    "浇注炸药",
+    "含能粘结剂",
+    "CL-20晶体形貌",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "浇注炸药粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能增塑剂",
+    "GAP",
+    "含能粘结剂",
+    "颗粒级配模型",
+    "含能粘结剂",
+    "颗粒级配模型",
+    "AMMO",
+    "AMMO",
+    "AMMO",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "AMMO",
+    "浇注炸药",
+    "AMMO",
+    "颗粒级配",
+    "AMMO",
+    "AMMO",
+    "含能粘结剂",
+    "熔铸炸药载体",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "浇注炸药",
+    "含能增塑剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "含能增塑剂",
+    "GAP",
+    "含能粘结剂",
+    "GAP",
+    "GAP",
+    "含能增塑剂",
+    "含能粘结剂",
+    "偶联剂 炸药",
+    "CL-20晶体形貌",
+    "CL-20晶体形貌",
+    "伽马CL-20晶体形貌",
+    "含能粘结剂",
+    "浇注炸药",
+    "熔铸炸药载体",
+    "火炸药学报",
+    "含能低共熔物研究进展",
+    "一种新型熔铸炸药研究",
+    "AMMO",
+    "AMMO",
+    "颗粒级配模型",
+    "浇注炸药",
+    "AMMO",
+    "浇注炸药",
+    "浇注炸药",
+    "浇注炸药",
+    "AMMO",
+    "颗粒级配模型",
+    "AMMO",
+    "工艺温度对DNTF/DNAN二元共熔物传爆性能影响",
+    "2,4-二硝基苯甲醚为基熔铸炸药的研究进展",
+    "高能量密度材料3,4-二硝基呋咱基氧化呋咱性能及应用研究",
+    "美国不敏感混合炸药的发展现状",
+    "美国不敏感混合炸药的发展现状",
+    "DNTF炸药的能量及可熔铸性",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "GAP",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "GAP",
+    "含能粘结剂",
+    "含能增塑剂",
+    "含能粘结剂",
+    "颗粒级配模型",
+    "含能增塑剂",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "颗粒级配模型",
+    "AMMO",
+    "颗粒级配模型",
+    "浇注炸药",
+    "AMMO",
+    "浇注炸药",
+    "颗粒级配模型",
+    "浇注炸药",
+    "颗粒级配设计",
+    "颗粒级配模型",
+    "AMMO",
+    "颗粒级配模型",
+    "浇注炸药",
+    "AMMO",
+    "含能粘结剂",
+    "伽马CL-20晶体形貌",
+    "含能粘结剂",
+    "含能增塑剂",
+    "含能粘结剂",
+    "GAP",
+    "含能粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "含能增塑剂",
+    "GAP",
+    "GAP",
+    "浇注炸药粘结剂",
+    "含能粘结剂",
+    "含能粘结剂",
+    "AMMO",
+    "含能粘结剂",
+    "含能粘结剂",
+    "GAP",
+    "偶联剂 炸药",
+    "GAP",
+    "含能粘结剂",
+    "AMMO",
+    "含能增塑剂",
+    "爆炸效应",
+    "DNAN降低DNTF冲击波感度研究",
+    "工艺温度对DNTF/DNAN二元共熔物传爆性能影响",
+    "DNAN在RDX中的非等温结晶动力学",
+    "DNTF",
+    "DNTF",
+    "DNTF",
+    "DNTF",
+    "含能粘结剂",
+    "DNTF基熔铸炸药的性能研究",
+    "梯恩梯撞击安全性试验研究与评述",
+    "DNAN力学性能分析",
+    "DNAN炸药的烤燃实验",
+    "含能低共熔物研究进展",
+    "DNAN炸药的烤燃实验",
+    "DNAN在RDX中的非等温结晶动力学",
+    "DNTF",
+    "DNTF",
+    "含能粘结剂",
+    "浇注炸药",
+    "含能粘结剂",
+    "浇注炸药",
+    "含能粘结剂",
+    "CL-20晶体形貌",
+    "DNAN力学性能分析",
+    "梯恩梯撞击安全性试验研究与评述",
+    "含能粘结剂",
+    "DNTF",
+    "DNTF",
+    "DNTF炸药的能量及可熔铸性",
+    "DNAN降低DNTF冲击波感度研究",
+    "2,4-二硝基苯甲醚为基熔铸炸药的研究进展",
+    "颗粒级配模型",
+    "浇注炸药",
+    "颗粒级配",
+    "AMMO",
+    "B 炸药的改性研究及其进展",
+    "梯恩梯撞击安全性试验研究与评述",
+    "含能粘结剂",
+    "浇注炸药",
+    "浇注炸药",
+    "熔铸炸药载体",
+    "浇注炸药",
+    "浇注炸药",
+    "含能粘结剂",
+    "PBT/增塑剂共混物相容性的介观动力学模拟",
+    "PBT/增塑剂共混物相容性的介观动力学模拟",
+    "GAP",
+    "含能低共熔物研究进展",
+    "温度对B炸药力学性能与感度的影响",
+    "黑梯炸药力学性能与感度的分子动力学研究",
+    "Bu-NENA",
+    "新型含能增塑剂",
+    "Bu-NENA",
+    "Bu-NENA",
+    "HTPE",
+    "HTPE 分子动力学",
+    "增塑剂 含量 分子动力学",
+    "增塑剂 含量 分子动力学",
+    "增塑剂 含量 分子动力学",
+    "PBX炸药。分子动力学模拟",
+    "GAP",
+    "GAP",
+    "GAP",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "GAP",
+    "含能增塑剂 分子动力学模拟",
+    "含能增塑剂  增塑比",
+    "含能增塑剂  增塑比",
+    "含能增塑剂  增塑比",
+    "增塑比",
+    "GAP粘结剂",
+    "GAP",
+    "增塑比",
+    "GAP",
+    "溶度参数 分子动力学",
+    "无扰均分方旋转半径",
+    "高分子链无扰均分方旋转半径的计算方法",
+    "含能增塑剂  增塑比",
+    "高分子链极限特征比",
+    "新型含能增塑剂-硝基乙基硝胺族化合物发展",
+    "Bu-NENA 炸药",
+    "HTPE",
+    "HTPE",
+    "HTPE",
+    "HTPE",
+    "GAP",
+    "增塑比",
+    "增塑比",
+    "增塑比",
+    "增塑比",
+    "GAP",
+    "增塑比",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "增塑比",
+    "溶度参数 分子动力学",
+    "溶度参数",
+    "DNAN TNT力学性能",
+    "分子动力学 炸药",
+    "含能低共熔物研究进展",
+    "HTPE",
+    "DNTF/HATO混合体系安全性及分子动力学模拟",
+    "杀爆战斗部装药",
+    "高分子链粗粒化",
+    "高分子链无扰均分方旋转半径的计算方法",
+    "无扰均分方旋转半径",
+    "含能增塑剂 分子动力学模拟TMETN",
+    "含能增塑剂 分子动力学模拟",
+    "GAP",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "Bu-NENA 炸药",
+    "新型含能增塑剂",
+    "杀爆战斗部装药",
+    "杀爆战斗部装药",
+    "HTPE",
+    "溶度参数 分子动力学HTPE",
+    "杀爆战斗部装药",
+    "增塑剂 含量 分子动力学",
+    "增塑剂 含量 分子动力学",
+    "溶度参数 分子动力学HTPE",
+    "高分子链极限特征比",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "增塑比",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "GAP",
+    "新型含能增塑剂",
+    "Bu-NENA",
+    "新型含能增塑剂-硝基乙基硝胺族化合物发展",
+    "Bu-NENA",
+    "Bu-NENA",
+    "Bu-NENA",
+    "HTPB 分子动力学",
+    "HTPB 分子动力学",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP粘结剂",
+    "高分子链粗粒化",
+    "含能增塑剂 分子动力学模拟",
+    "HTPB 分子动力学",
+    "杀爆",
+    "GAP及GAP推进剂",
+    "含能增塑剂  增塑比",
+    "含能增塑剂  增塑比",
+    "BUNENA",
+    "BUNENA",
+    "浇注炸药  分子动力学模拟",
+    "杀爆",
+    "PBX炸药。分子动力学模拟",
+    "GAP",
+    "GAP",
+    "GAP",
+    "GAP",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "GAP",
+    "BUNENA",
+    "BUNENA",
+    "BUNENA",
+    "BUNENA",
+    "高分子链粗粒化",
+    "杀爆",
+    "杀爆",
+    "BUNENA",
+    "HTPE 分子动力学",
+    "增塑剂 含量 分子动力学",
+    "GAP",
+    "增塑比",
+    "GAP",
+    "GAP",
+    "GAP",
+    "增塑比",
+    "GAP粘结剂",
+    "增塑剂的研究与发展",
+    "BUNENA",
+    "BUNENA",
+    "溶度参数 分子动力学",
+    "NTO",
+    "DNTF/HMX炸药金属",
+    "DNTF/HATO",
+    "DNTF/HATO",
+    "二元相图",
+    "二元相图",
+    "PBX-1炸药的力学性能和本构关系",
+    "Phase diagram analysis and application",
+    "分子动力学计算",
+    "DNAN",
+    "黑梯炸药力学性能与感度的分子动力学研究",
+    "BuNENA",
+    "T-x二元相图",
+    "二元相图",
+    "二元相图",
+    "RDX和HMX晶体力学性能的分子动力学模拟及其撞击加载响应",
+    "美国不敏感混合炸药的发展现状",
+    "BuNENA",
+    "二元相图",
+    "二元相图",
+    "丙基硝基胍应用基础性能研究",
+    "DNAN",
+    "分子动力学计算",
+    "分子动力学计算",
+    "二元相图",
+    "二元相图",
+    "分子动力学计算",
+    "分子动力学计算",
+    "分子动力学计算",
+    "二元相图",
+    "HTPE",
+    "HTPE",
+    "HTPE",
+    "HTPE CL-20相容性",
+    "包覆AP",
+    "HMX包覆降感技术",
+    "中大型战斗部",
+    "复合装药",
+    "Bu-NENA",
+    "HTPE",
+    "HTPE CL-20",
+    "B炸药",
+    "HTPE CL-20",
+    "HTPE",
+    "HTPE",
+    "B炸药渗油性",
+    "高品质HMX包覆降感技术",
+    "高品质HMX包覆降感技术",
+    "HTPE CL-20",
+    "HTPE CL-20",
+    "PBX 分子动力学",
+    "Bu-NENA热分解",
+    "Bu-NENA热分解",
+    "B炸药渗油性",
+    "BuNENA",
+    "HMX包覆降感技术",
+    "中大型战斗部",
+    "BuNENA",
+    "复合装药",
+    "HTPE",
+    "Bu-NENA",
+    "HTPE",
+    "B炸药",
+    "B炸药渗油性",
+    "B炸药",
+    "BuNENA",
+    "HTPE 炸药",
+    "DNAN DNTF",
+    "奥克托今热分解",
+    "HTPE",
+    "GAP",
+    "GAP",
+    "醋酸丁酸纤维素 分子动力学",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "DSC相容性",
+    "DSC相容性",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "HTPE",
+    "HTPE",
+    "HTPE",
+    "GAP热分解",
+    "GAP",
+    "HTPE",
+    "DNTF",
+    "GAP",
+    "DNTF",
+    "DSC相容性",
+    "醋酸丁酸纤维素",
+    "端羟聚醚叠氮缩水甘油醚",
+    "HTPE 炸药",
+    "DNTF",
+    "HTPE",
+    "HTPE",
+    "GAP对NG",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "醋酸丁酸纤维素",
+    "醋酸乙酸纤维苏",
+    "Bu-NENA热分解",
+    "奥克托今热分解",
+    "HTPE",
+    "HTPE",
+    "HTPE热分解",
+    "HTPE",
+    "HTPE热分解",
+    "DNAN 助剂",
+    "GAP对NG",
+    "GAP",
+    "醋酸丁酸纤维素 分子动力学",
+    "醋酸乙酸纤维苏",
+    "GAP热分解",
+    "CAB",
+    "CAB",
+    "熔铸炸药仿真",
+    "熔铸工艺特性",
+    "熔铸工艺特性",
+    "熔铸炸药工艺特性",
+    "熔铸炸药流变",
+    "TNBP",
+    "熔铸炸药流变",
+    "熔铸炸药流动性",
+    "熔铸炸药流动性",
+    "PEG",
+    "TNT熔铸炸药内部",
+    "熔铸炸药工艺特性",
+    "熔铸炸药流动性",
+    "PEG",
+    "TNBP炸药",
+    "熔铸炸药仿真",
+    "熔铸炸药仿真",
+    "TNBP炸药",
+    "反飞机的手段",
+    "炸药能量",
+    "武器弹药发展趋势",
+    "复合装药",
+    "复合装药能量输出",
+    "武器弹药打的快",
+    "巨型炸弹",
+    "炸药能里输出特性研究",
+    "炸药能量输出",
+    "炸药能里输出",
+    "复合装药",
+    "挤注装药",
+    "空空导弹",
+    "空地武器发展",
+    "空空导弹",
+    "超声速武器弹药",
+    "武器弹药发展趋势",
+    "武器弹药发展趋势",
+    "反飞机的手段",
+    "巨型炸弹",
+    "空军弹药",
+    "炸药能量输出",
+    "炸药能量输出",
+    "打的快",
+    "打的快打的远",
+    "空空导弹",
+    "复合装药",
+    "挤注装药",
+    "防空导弹发展趋势",
+    "引战匹配重要性",
+    "无人机 军事",
+    "无人机 军事",
+    "空空导弹",
+    "空空导弹",
+    "挤注装药",
+    "挤注装药",
+    "挤注装药",
+    "引战匹配重要性",
+    "无人机 军事",
+    "挤注装药",
+    "无人机 军事",
+    "无人机",
+    "炸药能量输出",
+    "空军武器",
+    "空空导弹",
+    "空空导弹",
+    "武器弹药发展趋势",
+    "王晓峰",
+    "战斗部发展",
+    "引战匹配",
+    "无人机",
+    "武器弹药发展趋势",
+    "战斗部装药",
+    "武器弹药发展趋势",
+    "复合装药能量输出",
+    "战斗部发展",
+    "王晓峰 战斗部",
+    "挤注装药",
+    "空地武器发展",
+    "引战匹配",
+    "无人机 军事",
+    "DNAN",
+    "DNAN",
+    "PET",
+    "季戊四醇丙烯醛树脂",
+    "HTPB热分解",
+    "聚醚高分子",
+    "聚醚",
+    "HTPB热分解",
+    "HTPB热分解",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "分子动力学",
+    "炸药 分子动力学",
+    "123树脂",
+    "DNAN DNTF",
+    "DNAN",
+    "DSC判断相容性",
+    "CCPE",
+    "123树脂",
+    "DNTF",
+    "PET",
+    "季戊四醇丙烯醛树脂",
+    "HTPB热分解温度",
+    "CCPE",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "聚醚高分子",
+    "季戊四醇丙烯醛树脂",
+    "炸药 分子动力学",
+    "PET",
+    "123树脂",
+    "TNT DNTF",
+    "DNAN DNTF",
+    "DNTF",
+    "DNAN",
+    "PET",
+    "DNAN",
+    "DNAN",
+    "HTPB热分解温度",
+    "Bu-NENA",
+    "DNAN",
+    "DNAN",
+    "DNAN",
+    "Bu-NENA",
+    "DNAN",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂",
+    "炸药 分子动力学",
+    "梯黑  分子动力学",
+    "抛撒药",
+    "123树脂 HTPB",
+    "CL-20",
+    "CL-20",
+    "123树脂",
+    "抛撒药",
+    "郑世宗",
+    "抛撒药",
+    "DNTF DNAN",
+    "CL-20晶体形貌预测",
+    "抛撒药",
+    "抛撒药",
+    "抛撒药",
+    "4号炸药",
+    "抛撒药",
+    "抛撒药",
+    "CL-20晶体形貌",
+    "CL-20晶体形貌",
+    "CL-20晶体形貌",
+    "CL-20晶体形貌预测",
+    "HATO",
+    "抛撒药",
+    "123树脂 相容性",
+    "123树脂",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂 相容性",
+    "123树脂  相容性",
+    "123树脂",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "季戊四醇丙烯醛 热",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂",
+    "HATO",
+    "20晶体形貌预测",
+    "CL-20",
+    "CL-20",
+    "CL-20",
+    "CL-20",
+    "CL-20",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "王红星",
+    "20晶体形貌",
+    "熔铸炸药",
+    "熔铸炸药",
+    "EFP",
+    "4号炸药",
+    "抛撒药",
+    "郑世宗 炸药",
+    "抛撒药",
+    "郑世宗 炸药",
+    "季戊四醇丙烯醛树脂 相容性",
+    "季戊四醇丙烯醛 热",
+    "季戊四醇丙烯醛树脂",
+    "熔铸炸药",
+    "熔铸炸药",
+    "123树脂",
+    "123树脂",
+    "20晶体形貌预测",
+    "EFP",
+    "EFP",
+    "王红星",
+    "CL-20晶体形貌",
+    "CL-20晶体形貌",
+    "熔铸炸药",
+    "123树脂",
+    "123树脂",
+    "季戊四醇丙烯醛树脂",
+    "123树脂 相容性",
+    "CL-20",
+    "DNTF DNAN",
+    "王红星",
+    "王红星"
+  ]
+}

@@ -1,0 +1,4677 @@
+{
+  "下载": [
+    {
+      "id": "zgjmdk201702028",
+      "title": "基于游客体验的智慧景区建设评价研究——以南京中山陵景区为例",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "ahkj201710017",
+      "title": "黟县西递景区智慧旅游数字化平台建设研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjsd201905028",
+      "title": "基于旅游电子商务的智慧景区服务系统的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2018151049",
+      "title": "智慧旅游发展背景下景区标识系统建设初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scjjglxyxb201905011",
+      "title": "大数据理念下贵州省旅游业信息化转型研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "njsdxbz201703024",
+      "title": "基于利益相关者诉求的景区智慧旅游框架体系构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjykj201818069",
+      "title": "基于杜邦分析法的财务数据对比分析——以三全食品和双汇发展为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shanddz201908023",
+      "title": "教学楼智能化节能控制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "guangdnj201905008",
+      "title": "低功耗茶园环境监测节点设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzdxxb201904005",
+      "title": "基于北斗与ZigBee的生态环境参数实时采集系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wxhlkj201920072",
+      "title": "基于窄带物联网的智能温室环境监测系统设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201928012",
+      "title": "面向智慧城市建设的LED路灯智能调光系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxwjy201909115",
+      "title": "以就业能力培养为导向的高校勤工助学管理模式探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-zx201907007",
+      "title": "新时代勤工助学育人面临的现实问题及其突破",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcljs200806047",
+      "title": "基于单片机的MIDI电子琴的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201002008",
+      "title": "基于单片机的简易电子琴录/放音系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl201809069",
+      "title": "基于单片机半导体温度控制系统的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy201902002",
+      "title": "基于单片机的温度控制系统研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcs201822012",
+      "title": "基于单片机的温度控制系统硬件设计研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dzzz201911025",
+      "title": "基于单片机的温度控制系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia201902021",
+      "title": "单片机在温度控制系统设计中的应用探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjs201911020",
+      "title": "磷酸盐复合缓蚀剂对不同材质供水管道缓蚀控制的对比试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shzylt201711006",
+      "title": "中共云南省委关于贯彻《中共中央关于认真学习宣传贯彻党的十九大精神的决定》的实施意见",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjnj201902011",
+      "title": "基于WiFi通讯的无线智能家居系统设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xddzjs201906027",
+      "title": "一种中央空调温控器控制系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201926121",
+      "title": "从语言表达看日本人的委婉心理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcs201211051",
+      "title": "小型电动玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201701023",
+      "title": "基于振动排序技术的马铃薯播种机设计与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201008021",
+      "title": "螺旋挤搓式玉米脱粒机的设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "njzfgw201912172",
+      "title": "小型电动玉米脱粒机的设计及性能探讨",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "njjzy201911085",
+      "title": "自走式马铃薯播种机的设计与试验",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxycf201504208",
+      "title": "5TY-32小型玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201503050",
+      "title": "马铃薯播种机排薯器的设计与研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njhyj201801023",
+      "title": "铺膜铺管马铃薯播种机的设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201422128",
+      "title": "2CM-2型马铃薯种薯播种机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncsyjs201805025",
+      "title": "一种农用玉米脱粒机主轴的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njkj-xxk201605147",
+      "title": "新型玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj200901047",
+      "title": "小型揉搓式玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jdgc201907016",
+      "title": "一种新型立式辊条玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201905011",
+      "title": "2CMW-4B微型马铃薯播种机的设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunnj201408020",
+      "title": "小型电动玉米脱粒机的设计及性能分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjxxb200808044",
+      "title": "差速式玉米种子脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201704029",
+      "title": "户用轻便型玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201512033",
+      "title": "新型马铃薯播种机的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zbzzjs201512021",
+      "title": "手推式草坪修剪机的设计及运动学仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnjh201609004",
+      "title": "马铃薯播种机取土部件的改进设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ghdqnyyj201303042",
+      "title": "2CM-2型马铃薯播种机漏播补偿系统的设计与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjnkkj201502018",
+      "title": "2BSL-2马铃薯播种机的工作原理及改进设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201903014",
+      "title": "升运履带式马铃薯播种机的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201203024",
+      "title": "离散元法在玉米脱粒机优化设计中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201405113",
+      "title": "基于我国北方地区农艺要求的马铃薯播种机设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncsyjs201805026",
+      "title": "农用玉米脱粒机机械结构分析、设计方案及电动机的选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnjh201905004",
+      "title": "与轮式联合收割机配套的秸秆打捆机工艺设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdnj201910030",
+      "title": "正牵引式圆草捆打捆机的设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201825223",
+      "title": "自动感应照明控制系统的设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "neijkj201904032",
+      "title": "汽车夜间远-近光灯自动变光控制系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbsfxyxb201903017",
+      "title": "基于单片机的室内智能照明系统设计",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "dhykz201905016",
+      "title": "高分辨率模数转换电路的设计及误差分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gykzjsj201910015",
+      "title": "基于AIOT的农业智能补光系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkj201613013",
+      "title": "基于BH1750光照强度数据采集系统的设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201912008",
+      "title": "基于单片机的温度控制系统的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbnjh201912050",
+      "title": "基于单片机的智能鱼缸温度控制系统的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbmzxyxb-zrkx201902021",
+      "title": "基于单片机的PID温度控制系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huol201820175",
+      "title": "单片机温度控制系统设计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shzylt201712040",
+      "title": "龙陵县'六小课堂'集中宣讲党的十九大精神",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201423055",
+      "title": "基于AT89C51单片机的简易电子琴设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgkjzh201015083",
+      "title": "基于AT89S51单片机的电子琴设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201412010",
+      "title": "基于STC89C51单片机的简易电子琴和音乐播放器的设计和实现",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "lsdsj201918023",
+      "title": "水生维管束植物水体净化污染物作用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szyxsj201508123",
+      "title": "基于单片机的智能教学电子琴设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201711003",
+      "title": "基于单片机的多功能电子琴设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zggxjsqy201024004",
+      "title": "基于AT89C51单片机电子琴的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njhyj201904004",
+      "title": "基于MatLab的多目标猕猴桃无损采摘路径规划",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjdxxb200807009",
+      "title": "斜拉索退化机理及钢丝力学模型",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xagyxyxb201905003",
+      "title": "一种多目标约束条件的云计算资源调度算法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201945494",
+      "title": "浅谈城市供水管网漏损及控制措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dnbcjqywh201912049",
+      "title": "一种供水管网DMA分区管理方法",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "tjdxxb201909008",
+      "title": "基于事故率的城市供水管网全寿命运行可靠性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxjsxcpjx201904056",
+      "title": "浅析市政管网雨污水管道分流治理的措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjs201904057",
+      "title": "分流制排水地区雨污混接调查评估及分流改造方案研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lmdxxb201905009",
+      "title": "上海迪士尼乐园智慧化建设评价指标与效果研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz201736196",
+      "title": "江西智慧旅游系统建设体系与发展策略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201919057",
+      "title": "'互联网+'背景下南宁市智慧旅游景区发展研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddlv201709001",
+      "title": "智慧旅游背景下景区解说系统的提升",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "znjzycsxx201911034",
+      "title": "智慧景区视角下的山林型寺院声景观评价——以丽江市灵源寺为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201927019",
+      "title": "基于MATLAB的香烟小包装图像处理研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "shjtdxxb200408024",
+      "title": "一种新型管道检测机器人系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201821002",
+      "title": "高精度光照度计的设计与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ranj201901006",
+      "title": "智能型光伏百叶窗防盗报警装置的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj201405062",
+      "title": "自调光路灯控制器",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzzz201913028",
+      "title": "基于AT89C51单片机的电子琴设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzx201902058",
+      "title": "基于单片机的微型电子琴建模",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyjxlt201939036",
+      "title": "论《桂林风土记》的文学景观",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncjjykj201910178",
+      "title": "一种手摇式花生脱壳机的研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgnjh201710012",
+      "title": "花生脱壳机关键部件的设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201211159",
+      "title": "刮板式花生脱壳机的三维设计与建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201921008",
+      "title": "基于网络评论的乡村旅游住宿质量评价 ——结合AHP和BP神经网络的实证分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201930099",
+      "title": "基于共词分析的国内民宿研究热点分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lyxk201901014",
+      "title": "台湾地区民宿研究特点分析——兼论中国大陆民宿研究框架[",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "lmdxxb201802012",
+      "title": "民宿的概念厘清、内涵演变与业态发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjfz201909030",
+      "title": "基于Android的手机摄影测量软件设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201934146",
+      "title": "ZSM-5分子筛改性方法概述",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hsxyxb201703005",
+      "title": "景区智慧旅游系统的软硬件协同设计",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201215003",
+      "title": "高校学生干部信息管理系统的开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxq201912017",
+      "title": "基于物联网的睡眠环境监测智能控制系统设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gykzjsj201908068",
+      "title": "基于AT89C52的温室大棚智能控制系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkf201904037",
+      "title": "基于LabVIEW与MATLAB的多通道数据采集与分析系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201106105",
+      "title": "日本語の自動詞と他動詞につぃて",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyj201935008",
+      "title": "浅谈新时代高校学生干部的培养和管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjxhydqh201212015",
+      "title": "2CM2型马铃薯播种机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxjx201601049",
+      "title": "多功能割草机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxnj201908032",
+      "title": "马铃薯播种机的结构设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunnj201808204",
+      "title": "小型玉米脱粒机的研究现状及发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjxxb201908008",
+      "title": "基于振动排序的马铃薯微型种薯播种机设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201914025",
+      "title": "一种玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lyjxymgsb201702005",
+      "title": "气吸组合式玉米、马铃薯播种机的结构设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201908005",
+      "title": "棉田地膜回收打捆机关键部件的优化设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gykzjsj201806052",
+      "title": "基于微信公众号的智能餐厅系统的设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sd-xx201901269",
+      "title": "浅谈LINQ to SQL技术的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjl201610028",
+      "title": "基于C#技术网上订餐系统的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jczdh201905009",
+      "title": "空调房间温湿度PID解耦控制系统的仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zmgcxb201904028",
+      "title": "交流220 V同步方式通信电路的灯光控制系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbydjs201901066",
+      "title": "基于电流滞环数模转换电路设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs201507003",
+      "title": "无线传感器网络通信协议及其在医学领域的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdbg201920070",
+      "title": "论新形势下博物馆文化产业与旅游业的融合发展——以重庆红岩革命历史博物馆为例",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkjxx201612032",
+      "title": "基于VB的测量坐标系统转换程序设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsjgc201815008",
+      "title": "基于VB的数学测量坐标系统转换程序设计与实现研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xajtdxxb201812015",
+      "title": "涡轮增压天然气发动机电控系统进气模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxtxjs201806006",
+      "title": "基于区块链的电子数据存证的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxaqyj201703003",
+      "title": "众筹区块链上的智能合约设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201805326",
+      "title": "基于单片机的电子琴设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201609064",
+      "title": "基于单片机的简易电子琴设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfdk201602206",
+      "title": "基于单片机的微型电子琴研究与实现分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunnj201807175",
+      "title": "基于单片机的16键多功能电子琴硬件设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cdsfxyxb201504007",
+      "title": "基于单片机的简易电子琴设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzx201910006",
+      "title": "关于单片机温度控制系统方案的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzrntfkt201610010",
+      "title": "基于热舒适指标PMV的空调控制系统研究综述",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "szjs201905054",
+      "title": "环状高扬程供水管网水锤与防护措施分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzyzs201902138",
+      "title": "城市排水系统雨污分流改造技术探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yjck201914114",
+      "title": "城市排水系统雨污分流改造技术探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj201802230",
+      "title": "智能照明控制系统的应用现状及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whchkjdxxb200001001",
+      "title": "摄影测量与遥感的现状及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjstx98201906003",
+      "title": "基于RFID技术的身份证识别门禁系统开发",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx200736186",
+      "title": "人力花生脱壳机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsps201911028",
+      "title": "基于GIS预处理的市政雨水管网系统SWMM快速构建方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxdnyy201910048",
+      "title": "基于STC89C52RC单片机的智能晾衣架设计与制作",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "ahnykx201408106",
+      "title": "花房温度及光照度控制电路的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs200611031",
+      "title": "一种简易光照度检测电路的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "smsj201911033",
+      "title": "基于ZigBee无线通信技术的物联网智能家居系统设计",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "gdkj201911020",
+      "title": "可嵌入式智能调光控制模块电路设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201919117",
+      "title": "LED显示系统电路的设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzsj201823119",
+      "title": "基于单片机控制的RFID门禁系统设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgyxwlxzz200902023",
+      "title": "基于GPRS的腕带式儿童健康实时监护模块的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sygc201804017",
+      "title": "新夏港双线船闸双排对拉板桩结构受力特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzsw201712001",
+      "title": "对武夷山智慧旅游发展的设计方案研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyj201909005",
+      "title": "基于改进的鸡群算法在云计算资源调度中的研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "dxwl201105004",
+      "title": "广义相对论的几个问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx201702029",
+      "title": "大高差变化区域GNSS高程转换模型与方法的优选",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201904127",
+      "title": "基于MATLAB下的供电系统三相短路电流计算研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxwl201907003",
+      "title": "各种系综可以不等价",
+      "download_times": 9,
+      "browse_times": 35
+    },
+    {
+      "id": "lyxk201911009",
+      "title": "矛盾的乌托邦:邮轮旅游体验的空间生产 ——基于扎根理论的质性分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbbfxyxb-z201707009",
+      "title": "基于相关性聚类对城市空气污染分析数据真实性的判别",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj201507295",
+      "title": "基于单片机C语言下的电子琴设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201806001",
+      "title": "基于单片机的简易电子琴设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj-shang201905009",
+      "title": "电子技术与现代电子琴",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shzylt201808003",
+      "title": "白曲传唱群众乐春雨润物细无声 ——'剑川县白曲宣讲团'用说唱方式把党的声音传递给群众",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slfzyj201910015",
+      "title": "供水管网漏损现状分析和控制模型研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsysc201903015",
+      "title": "合流制排水管网雨污分流改造策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201916020",
+      "title": "试论市政雨污水管道分流改造工程相关问题及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxfzdx-x201909031",
+      "title": "联网型楼宇对讲与门禁管理系统功能化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbkjdx201405007",
+      "title": "自动避障三轮管道机器人设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb200911038",
+      "title": "农田信息采集无线传感器网络节点设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201934187",
+      "title": "TFT-LCD显示电路驱动方法的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qhdxxb-zr201905015",
+      "title": "基于Python的情感数据分析",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "jxglkf201910049",
+      "title": "基于Matlab的掘进机截割过程的动力学建模与仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjxtyy201911016",
+      "title": "基于可视化工作流的高校勤工助学管理系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xbpg201910003",
+      "title": "浅谈硬质PVC管材PVC-U、PVC-M、PVC-O管的经济应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jien201902055",
+      "title": "关于干式配电变压器的使用及技术发展分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxwlaq201908002",
+      "title": "基于区块链技术的数据存证管理系统",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "xaydxyxb201804013",
+      "title": "基于区块链技术的电子数据存证系统",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdzzjsyzb201609018",
+      "title": "玉米脱粒机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyybyzdhzz201801017",
+      "title": "容器云平台网络资源配置管理系统的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkj201904021",
+      "title": "秸秆打捆机的结构设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201906048",
+      "title": "基于ZigBee的智能空调温湿度控制系统的设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201828013",
+      "title": "一种模数转换电路的关键设计技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsjgc201809023",
+      "title": "灯光自动控制系统的设计及实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201927330",
+      "title": "基于MATLAB的烟包密封度工艺参数研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fxyq200001014",
+      "title": "常规扫描电子显微镜的特点和发展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201825031",
+      "title": "国内共享民宿的前景及管理对策分析 —— 基于中西旅游消费模式的视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xbyxzz201903031",
+      "title": "分子印迹技术在中药研究中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy201003021",
+      "title": "网上电子商城的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201629107",
+      "title": "基于JSP的电子商城系统的设计与实现",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "szjsyyy201904098",
+      "title": "基于单片机的电子琴设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201924307",
+      "title": "楼宇门禁系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjzxdb201831039",
+      "title": "LED显示屏驱动方法及LED电源控制电路分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj200811032",
+      "title": "人力花生脱壳机的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201907071",
+      "title": "基于RFID技术门禁系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzsfxyxb201805017",
+      "title": "中国民宿旅游研究进展及展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxgcdxxb200204018",
+      "title": "有理函数模型在航空航天传感器摄影测量重建中的应用及分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201104070",
+      "title": "基于B/S模式网上订餐系统的研究与实现",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "scxdh201714050",
+      "title": "移动智能点餐管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shandnykx201811030",
+      "title": "海产贝类养殖物联网平台光照强度采集器设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjgc201608012",
+      "title": "手机产品电子商城系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxshkx201908026",
+      "title": "唐宋笔记中的广西形象及启示",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangssl201809005",
+      "title": "基于扎根理论的民宿游客满意度影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzsfdxxb201704023",
+      "title": "基于游客感知的四明山民宿意象研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "tg201902103",
+      "title": "智能门禁系统的设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huol201818132",
+      "title": "住宅小区楼宇门禁系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201522027",
+      "title": "智能楼宇可对讲门禁系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201927036",
+      "title": "基于交流调压的灯光控制电路设计与仿真",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ybjsycgq201008017",
+      "title": "基于Zigbee无线传感器网络的温室测控系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201909095",
+      "title": "光伏供电自动调光LED驱动电路设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spyzl201912217",
+      "title": "暖通空调自动控制系统应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gtxjs201902006",
+      "title": "可见光通信LED高速驱动电路研究与设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz201913221",
+      "title": "高精度隔离模数转换器电路的设计与验证",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201935055",
+      "title": "云会计系统下企业会计信息系统优化研究",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "xxydn201523047",
+      "title": "基于蓝牙与激光控制的单片机电子琴",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201274107",
+      "title": "基于单片机智能电子琴的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201917100",
+      "title": "基于AT89C51的简易电子琴设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201709104",
+      "title": "基于51单片机的电子琴设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shzylt201801036",
+      "title": "曲靖市“六化”推动形势政策理论宣讲工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glxb201701021",
+      "title": "基于Airbnb网站评价信息的京台民宿对比研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hbnj201909040",
+      "title": "基于MATLAB的宿舍门禁人脸识别系统设计",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "dzqj201904047",
+      "title": "基于物联网模式的农田信息采集系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2018362634",
+      "title": "浅谈给水管网中的排水阀门",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdhjy201408019",
+      "title": "翻转课堂模式在“数据结构”课程教学中的应用研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "kfjyyj201503011",
+      "title": "移动学习环境下微信支持的翻转课堂实践探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whkjdxxb201804001",
+      "title": "7050/3003 铝合金复层铸坯的制备与热处理工艺研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chxb201602012",
+      "title": "利用北斗GEO卫星反射信号反演土壤湿度",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzjgzyxyxb201204003",
+      "title": "管制刀具在治安管理法律文件中存在的问题及建议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201919098",
+      "title": "试析SSH技术在网站开发中的研究与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxmxmr18201922191",
+      "title": "医院仓库耗材的管理策略探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hlyzhkz201911011",
+      "title": "后方仓库管理保障能力评估指标体系设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201920032",
+      "title": "浅谈仓库管理在物资管理中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201812042",
+      "title": "Java Web中的Java SSH框架分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wxdnyy201811020",
+      "title": "基于SSH架构的小区物业管理系统设计与实现",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dnbcjqywh201912050",
+      "title": "基于SSH框架的班级事物管理系统设计与实现",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xbtkgc202001010",
+      "title": "浅谈关于溶洞发育地区施工中的混凝土超灌的处理技术措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slsy201708080",
+      "title": "路边停车位自动收费系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "chxb201607006",
+      "title": "逐历元GNSS-R测高单差和双差算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsmgy202003039",
+      "title": "仓库管理中的问题及提高其利用率探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201945115",
+      "title": "浅谈仓库管理的重要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201922051",
+      "title": "基于物联网技术的智能仓库管理系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbydjs201910078",
+      "title": "基于WEB的企业物资仓库管理系统设计与实现",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xzqykj201932065",
+      "title": "基于SSH框架的家电商城设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zhiy201928053",
+      "title": "SSH技术在网上书城开发中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syhj201922002",
+      "title": "正中珠江会计师事务所对康美药业审计失败的案例研究",
+      "download_times": 12,
+      "browse_times": 7
+    },
+    {
+      "id": "kszk201926143",
+      "title": "基于Android平台面向大学生的校园服务软件孟德跑腿App开发与推广",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lyxk201810002",
+      "title": "旅游化是新时代发展的重要动力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjdxxb201505014",
+      "title": "一种基于查找表的GNSS-R土壤含水量估算方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201932029",
+      "title": "小型仓库管理系统分析与设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbnjh201904049",
+      "title": "SSH框架的用处与前景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbydjs201910073",
+      "title": "基于SSH技术的物流管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qzysjx201921015",
+      "title": "基于SSH框架的远程设备图像诊断系统研究与设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dgkj201908003",
+      "title": "基于SSH框架的在线考试系统",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cczl201936040",
+      "title": "SSH框架的Web网站设计与实现研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjzdclykz201810027",
+      "title": "SSH框架在Web项目开发中的设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201909025",
+      "title": "北斗GEO卫星微动条件下的GNSS-R 土壤湿度反演",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnt201408027",
+      "title": "碳纤维珊瑚混凝土各项力学性能试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ygxb201903008",
+      "title": "GNSS-RDDM波形仿真的时延与多普勒间隔研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyjykx201905029",
+      "title": "基于X射线的跨境邮寄物隐匿风险源物品在线识别应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scjggdzkxxxb201603011",
+      "title": "寄递物流业对危险物品管控的影响及对策",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201905127",
+      "title": "铁路暴恐刀斧砍杀犯罪预防与现场处置研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggyy200311002",
+      "title": "医疗救治网络系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskjxx201601024",
+      "title": "国外CVD法制备石墨烯的创新研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ycyk201305004",
+      "title": "应用于机载GNSS-R接收机的差分相干算法及实验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxyxxh201925143",
+      "title": "智慧仓库物资管理探索",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201911030",
+      "title": "应用技术工程师培养在《自动化立体仓库 设计与管理》教学中的探索和实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjsj-xby201217018",
+      "title": "基于MVC与J2EE的小区物业管理系统开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dqkxjz200607013",
+      "title": "利用反射GPS信号遥感土壤湿度",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wtzb201606014",
+      "title": "GNSS-R在探测土壤水分中的应用现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ldxb201304001",
+      "title": "我国GNSS-R遥感技术的研究现状与未来发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdcsyj201908004",
+      "title": "基于最优路径分析和两步移动搜索法的武汉市医疗卫生设施服务水平评价与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyl201912018",
+      "title": "妥协景观思想及其对中国风景园林实践的启迪",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "csjt201904015",
+      "title": "基于视频桩的路内停车管理系统框架研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gljtkj201709015",
+      "title": "综合效益最优的路边停车价格研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjsyzdh200601023",
+      "title": "基于决策树的数据挖掘方法在CRM中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyggygl201902037",
+      "title": "基于人力资源管理三支柱模型的HRBP体系再造",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjdxxb201002008",
+      "title": "上海地区深基坑周围地面沉降特点及其预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wgjjygl201704008",
+      "title": "人力资源业务伙伴模式研究的知识结构与发展趋势——基于知识图谱的分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxshkx201207032",
+      "title": "林地承包经营权流转的《森林法》规制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjnykx202002016",
+      "title": "茶树杭茶22号的选育与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn201905079",
+      "title": "情义两肩挑——论金庸武侠小说中的侠客形象",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbjzgcxyxb201404022",
+      "title": "基于Solidworks的JZC350搅拌机建模及受力分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqgxyxb201912010",
+      "title": "基于离散元法的双卧轴搅拌机工作性能的分析与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csfzyj201605021",
+      "title": "城市公共服务设施布局的均衡性探究——以北京市城六区医疗设施为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrlzykf201414011",
+      "title": "IBM的人力资源管理演变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb-shkx201803015",
+      "title": "我国HRBP模式实施现状分析及对策建议",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zghgmy201833220",
+      "title": "合成甲醇催化剂使用总结",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mhg201605006",
+      "title": "大型甲醇合成工艺及甲醇下游产业链综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyggygl201710053",
+      "title": "人力资源业务合作伙伴的四种典型模式分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201132007",
+      "title": "广西龙胜壮族民居的研究及保护建议——以龙脊古壮寨为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shidwx200908002",
+      "title": "儒家文化视角下金庸小说侠义精神内涵及其表现形式探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbtyxyxb201405022",
+      "title": "中国侠义精神论释",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wy-gzb201901749",
+      "title": "《冰与火之歌》中'冰'与'火'之多重象征意义分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzxk201003012",
+      "title": "战国侠义精神",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xswzk201910134",
+      "title": "HRBP模式下人力资源管理变革路径研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shkxj201707019",
+      "title": "传统乡村聚落景观“地方性知识”的构成及其应用——以陕西为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ncjyxyxb201806020",
+      "title": "基于'互联网+'政务平台的公共管理类课程实验教学探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201821104",
+      "title": "基于SaaS商家CRM系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201707095",
+      "title": "当代中国人力资源管理的发展趋势—HRBP",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bjsjjglgbxyxb201703007",
+      "title": "中小企业HRBP运行效率及其影响因素探究 ——以DD公司为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spyzl201727096",
+      "title": "企业中HR如何转型至战略合作伙伴(HR转型至HRBP)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rclw201724107",
+      "title": "商业银行HRBP人力资源管理模式探析——以N银行公司业务条线为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hubgbdsdxxb200802031",
+      "title": "中国武侠小说和西方骑士文学'侠'文化比较",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "fzysh200805140",
+      "title": "试述中世纪骑士文化及其影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgrlzykf201710009",
+      "title": "HRBP模式实施有效性及其影响因素研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rddl200902007",
+      "title": "广州中心城区基本医疗服务等级区域分布及其特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyjskf201906038",
+      "title": "中小企业人力资源管理效能的提高 ——基于HRBP视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjlykj201004038",
+      "title": "林地承包经营权与林地地役权关系的法律探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glkxwz201117035",
+      "title": "基于Access数据库开发商场管理系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqywh201926123",
+      "title": "集团化企业三支柱转型研究——以N公司为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shdjxyxb201803011",
+      "title": "以业务支持为导向的企业人力资源管理模式变革——以上海电气风电集团HRBP模式为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201642109",
+      "title": "基于大数据时代企业人力资源管理变革的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201907053",
+      "title": "基于HRBP的人力资源管理创新模式的构建 ——以C企业为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syjlr201802044",
+      "title": "人力资源'三支柱'模型及发展分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "njgbdsdxxb201803020",
+      "title": "AHP视角下家电连锁企业物流配送模式选择研究——以浙江心连心电器连锁超市为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cszz201606014",
+      "title": "桂北瑶族传统村落建筑特色研究——以龙胜小寨村为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nnzyjsxyxb201705026",
+      "title": "龙脊小镇壮族旅游街区建筑环境改造创研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201912109",
+      "title": "浅谈由传统HR向HRBP转型的方案设计及落地 ——以某中型互联网公司为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fz201603036",
+      "title": "浅议《射雕英雄传》中的侠义精神",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahwx201310011",
+      "title": "论金庸小说的侠义形象",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "xl201511019",
+      "title": "中国侠义精神与西欧骑士精神之比较",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bj-wskx201405007",
+      "title": "侠义精神在当代传承价值思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qnwxj201521062",
+      "title": "残缺中抗争：解读《冰与火之歌》中的男性角色",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsy201712019",
+      "title": "金庸武侠小说中的侠义精神",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdglkx201906035",
+      "title": "人力资源三支柱体系构建与发展机制研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xdqy201807010",
+      "title": "基于HRBP事业部制下的人力资源管理体系建设",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201514016",
+      "title": "JZC350混凝土搅拌机拌筒及叶片设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lhzyjsxyxb200805023",
+      "title": "百货商场信息管理系统研究与开发——前台销售子系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgsjtx201404025",
+      "title": "Lurgi甲醇合成塔与Davy甲醇合成塔的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zghgmy201401074",
+      "title": "浅析年产20万吨煤制甲醇生产工艺初步设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgrlzykf201624008",
+      "title": "基于三支柱理论的人力资源组织再造研究:以SXGP为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "rlzygl201810016",
+      "title": "基于'共享思维'的中小企业人力资源管理职能优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jrhb-xby201511031",
+      "title": "基于JSP的商场销售管理系统的设计与实现(后台)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zykfysc201901022",
+      "title": "武夷印象:基于网络文本的旅游目的地形象感知研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gych201902010",
+      "title": "甲醇合成催化剂的工艺参数优化及反应机理探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201801126",
+      "title": "小议现代人力资源管理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "chxyxb200303020",
+      "title": "基于最短路径的扩展泰森多边形建立",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiepxzz201906002",
+      "title": "不同年龄段成人大脑皮质厚度偏侧性的MRI研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlydxxb-shkx200903005",
+      "title": "农村林地承包经营权初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cldb202001010",
+      "title": "植入式神经微电极",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ahwx200909025",
+      "title": "英国骑士文学与中国武侠小说之比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hunshkx201405053",
+      "title": "中国文学中的侠义精神论释",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzwy201012082",
+      "title": "射雕英雄传中的侠义精神",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrlzykf201520004",
+      "title": "人力资源部被'炸掉'之后——基于HRBP战略本土化转型思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "huaz201329071",
+      "title": "企业实施人力资源组织模式转型三支柱模型的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sczk201406062",
+      "title": "中小企业采用业务合作伙伴的SWOT分析及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjywl201919055",
+      "title": "Honeyd图形化配置程序的实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddz202001004",
+      "title": "内蒙古别鲁乌图铜多金属矿床锆石U-Pb年龄和S、Pb同位素特征及其地质意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "suzjyxyxb200603010",
+      "title": "试论欧洲文学中的骑士精神",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hungbdsdxxb201404013",
+      "title": "中国侠义精神与西方骑士精神之差异",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dypj201206040",
+      "title": "侠义精神和爱情模式的现代转变——从金庸的武侠小说到网络穿越小说",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huaz201311064",
+      "title": "论金庸小说的侠义精神",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wgwxyj200503010",
+      "title": "中世纪欧洲的骑士精神与宫廷爱情",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgnydxxb-shkxb201806010",
+      "title": "承包期届满的自动续期制度研究——“第二轮土地承包到期后再延长30年”的法律表达",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lykx200808023",
+      "title": "'均山':集体林权制度改革的现实选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201928406",
+      "title": "广西亚热带特色农业农产品冷链物流研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlzygl201708140",
+      "title": "HRBP工作实践探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmghjbh202002020",
+      "title": "微塑料污染现状及控制对策",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jjs202003025",
+      "title": "国美零售控股集团发展战略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggshic201817088",
+      "title": "人力资源业务合作伙伴(HRBP)的模式可行性探究——以昆明市X集团为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201728100",
+      "title": "浅析小企业设置HRBP模式的培训专员的可行性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "skzh201512019",
+      "title": "《不动产登记暂行条例》实施相关问题研究与讨论",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjlxyxb201902018",
+      "title": "NdMnO3亚微米团簇磁热效应的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rclw201710140",
+      "title": "传统人力资源管理与三支柱模式的中间模式探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqywh201530120",
+      "title": "人力资源变革--三支柱模型浅析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2015243581",
+      "title": "浅析人力资源管理的发展进程及新趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sydxxb-shkx201605003",
+      "title": "国内人力资源三支柱研究:综述与展望",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csgzxb201404004",
+      "title": "La0.9MnO3钙钛矿纳米颗粒的尺寸效应和磁热效应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rlzy201701024",
+      "title": "用对技巧,HRBP秒变“老司机”",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jhyscts201712013",
+      "title": "农村家电物流配送现状分析及优化对策研究 ——以镇江市为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jydq201607022",
+      "title": "家电零售巨头配送中心带给我们的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hfgy201906013",
+      "title": "XNC-98型甲醇合成催化剂应用总结",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlzygl201502013",
+      "title": "HRBP视角下人力资源组织结构的改进",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "whsjjglgbxyxb201503010",
+      "title": "转型期新疆大型民营企业HRBP模式的探索——以T公司为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjglyj200907012",
+      "title": "第三方物流匹配模式创新研究——基于中远公司案例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjkszxb201805018",
+      "title": "张家口市蔬菜出口竞争力分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxsd201410097",
+      "title": "DN3800甲醇合成塔的设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rclw201506036",
+      "title": "现代企业人才招聘的问题与对策",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hljsxyxb200505017",
+      "title": "改进AdaBoost对基于HMM的唇读系统识别率的提高",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlyj200206010",
+      "title": "基于引力模型的城市空间互相关和功率谱分析--引力模型的理论证明、函数推广及应用实例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wljs201907017",
+      "title": "基于SPSS的公交服务满意度影响因素研究",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "qyggygl201504043",
+      "title": "电商跨境经营的优势与不足--以天猫国际为例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "kjf201718254",
+      "title": "“天猫国际”跨境电商存在的问题与对策分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whsjjglgbxyxb201904005",
+      "title": "区块链技术在跨境进口电商中的应用研究——以天猫国际为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "tzycy202004058",
+      "title": "跨境电商平台的商业模式研究 ——以天猫国际为例",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "jckxjs201805005",
+      "title": "螺旋桨无键安装液压伺服控制系统设计与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjyy201905002",
+      "title": "无人机目标跟踪综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zzyzdh202002013",
+      "title": "改进型蚁群算法在路径规划中的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy201305109",
+      "title": "蚁群算法在路径规划中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs202004016",
+      "title": "改进蚁群优化算法的移动机器人路径规划研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gfzclkxygc200601050",
+      "title": "不同方式制备长角豆半乳甘露聚糖样品的原子力显微镜观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjtdxxb-shkx201304019",
+      "title": "日语助词“は”与“が”的习得问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nianj202001027",
+      "title": "基于云计算的智能化C语言自学系统开发应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbfzgxyxb200404010",
+      "title": "自然与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangndxxb201904005",
+      "title": "基于服装号型的参数化人体模型控制要素分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "wlgcygl202002050",
+      "title": "基于SPSS统计法下校园快递的顾客满意度调查分析",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "hsxyxb201703005",
+      "title": "景区智慧旅游系统的软硬件协同设计",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hqscxxdb201805003",
+      "title": "海南智慧旅游景区建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgggaq201521019",
+      "title": "智慧硬件+智慧应用平台 打造智慧景区",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201714171",
+      "title": "橘子洲景区数字化导视系统设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhj201914005",
+      "title": "基于财务绩效、人力资本、研发创新的股权激励效果分析 ——以华为技术有限公司为例",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "xfdk201838093",
+      "title": "高技术企业人力资本激励机制对企业创新能力的影响——以华为公司为例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "dlkxjz201503007",
+      "title": "简单、复杂与地理分布模型的选择",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnwxj201733138",
+      "title": "浅析日本妖怪文化中的典型妖怪形象",
+      "download_times": 6,
+      "browse_times": 8
+    },
+    {
+      "id": "stxb201923021",
+      "title": "闽江流域生态安全格局及其生态保护修复措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cdsfxyxb202002002",
+      "title": "基于DEA模型旅游上市公司业绩评价与经营效率分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzdxxb201204015",
+      "title": "一种改进的HMM/RBF情感语音识别方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hjhkgcxyxb201806007",
+      "title": "改进的基于隐马尔可夫模型的自适应IMM算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201731016",
+      "title": "低信噪比环境下的麦克风阵列语音识别算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjzdclykz201804057",
+      "title": "改进的HMM模型在特征抽取上的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jczdh201611029",
+      "title": "一种新的HMM/SVM混合语音识别模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mssbyrgzn200201020",
+      "title": "基于HMM建模技术的语音识别改进算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hensl201708042",
+      "title": "HRB500Ⅳ级热轧带肋钢筋的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyhjbh201910014",
+      "title": "叶面肥与不同类型钝化材料组合施用对水稻累积镉效应研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sicjc201911074",
+      "title": "张隧涌水量预测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjs2014z1002",
+      "title": "水文地质调查与分析在隧道工程中的应用探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdizhi201902001",
+      "title": "中国地质调查局'岩溶地区水文地质环境地质调查工程'进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg201812060",
+      "title": "移动互联网时代下小米手机营销模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201229049",
+      "title": "苹果手机营销渠道与营销策略研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "scxdh201518039",
+      "title": "浅谈三星手机营销渠道策略研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nldz202001006",
+      "title": "2020年1月19日新疆伽师MS6.4地震交通系统震害特点分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjhxxb201707005",
+      "title": "溶胶-凝胶法合成Li1-xNaxMn2O4及其作为水系锂离子电池正极材料的电化学性能",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rwzy201922096",
+      "title": "日语动词句中谓语动词的意义特征和助词'が''は'的相关关系",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201430161",
+      "title": "日语助词「は」和「が」的差异性分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "msjyyj201801014",
+      "title": "从'水彩'到'中国水彩' ——中国水彩艺术的历史与叙事",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sykxyjs201905019",
+      "title": "扫描电镜的基本原理及应用",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "ywjs201921014",
+      "title": "猪八戒形象:以丑为美",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xll201906033",
+      "title": "人力资源管理中员工激励机制的启示 ——以华为公司为例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgjtjj202005031",
+      "title": "华为股权激励模式下人力资源权益会计的实践与应用研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "dlkxjz201705001",
+      "title": "城市形态的分维估算与分形判定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csgh200502008",
+      "title": "分形城市与城市规划",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxjz201611095",
+      "title": "谈山岭隧道涌水量计算方法在勘察中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xbzy201903058",
+      "title": "基于数值模型的尾矿库项目地下水污染的环境影响预测评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dljy201906025",
+      "title": "钦江流域灵山东边塘河段水污染调查报告",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gxslsd200901013",
+      "title": "钦江流域水污染状况与水环境保护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201918024",
+      "title": "基于支持向量机的彩色图像分割研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk201922065",
+      "title": "在线旅游(OTA)发展模式优化研究",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zglyqy201906029",
+      "title": "互联网时代OTA对传统旅行社的影响分析及对策研究",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201187093",
+      "title": "日语“～ている/～てある/～ておく”用法辨析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txjs202002010",
+      "title": "基于支持向量机分类识别的行人航迹推算室内定位",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm202008040",
+      "title": "基于SPSS软件的高校周边商品价格分析与研究",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "cczl202007004",
+      "title": "衡阳抗战文化融入高校思政教育的途径摭探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hdcbgyxy201903017",
+      "title": "多孔吸附剂制备及其对高效氟氯氰菊酯分离研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsks201903004",
+      "title": "含锌渣尘中有价金属回收利用现状与研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201333084",
+      "title": "西门子S7-200 PLC 脉冲输出MAP指令库控制步进电机的应用实例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "dbnydxxb-shkxb200903002",
+      "title": "进一步提高本科毕业论文质量的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangndxxb200906018",
+      "title": "基于改进蚁群算法的HMM参数估计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddfzxb200904013",
+      "title": "基于优化的Baum-Welch算法的说话人识别研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs201805044",
+      "title": "一种改进的特征提取方法在语音识别中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201212004",
+      "title": "固相萃取吸附剂的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunny201504009",
+      "title": "一种新型叶面阻隔剂",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "ahny201919006",
+      "title": "不同叶面肥对水稻产量及镉含量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rlhxxb201909005",
+      "title": "Ni/Zr-MOF催化剂的制备及其在生物质热解中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xngxyxb201903011",
+      "title": "西香高速小高山隧道地下水环境影响评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjs200812015",
+      "title": "单个黄原胶分子的样品制备与原子力显微镜检测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx201912152",
+      "title": "城市污水处理厂地下水环境影响评价方法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmzbl201904022",
+      "title": "浅析日本妖怪文化中典型女性妖怪形象 ——以手游《阴阳师》中动漫角色人物为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ylsfxyxb-z201101007",
+      "title": "黄原胶分子形貌的原子力显微镜研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sz-sxk201936038",
+      "title": "浅析在翻译长句时对日语助词理解——以'は、が、を、に'为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc201717025",
+      "title": "施工企业人才招聘存在的问题与解决方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201534008",
+      "title": "论企业人员招聘的原则与渠道",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjkx201101059",
+      "title": "基于HMM方法的动态手势识别技术的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyjyyhb201910022",
+      "title": "某项目地下水环境影响评价相关问题探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jien201912047",
+      "title": "地下水环境影响评价问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbszyysgc201905010",
+      "title": "隧道施工引起的地下水环境负效应评价体系研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyjyyhb201712041",
+      "title": "金属尾矿库地下水环境影响评价研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zyjyyhb202002018",
+      "title": "地下水环境影响评价研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-z201803123",
+      "title": "论华为公司如何做好90后员工的入职培训",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyggygl201816035",
+      "title": "'以人为本'人才管理理念在华为的应用与启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaiyx201802125",
+      "title": "激励在现代企业人力资源管理中的作用 ——以华为公司为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rwzy201914029",
+      "title": "浅析日本志怪文学作品中的女性形象",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scyz201707007",
+      "title": "陆基家庭水产养殖对广西南流江、钦江、防城江环境影响的初步研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgywylc202008015",
+      "title": "骨生物材料研究新方向:基于免疫微环境调控的骨再生研究进展",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "jsjj201705006",
+      "title": "知识型员工管理模式——华为案例研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "rjhjcdl201910018",
+      "title": "大数据人才解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh-bgsbygc201101051",
+      "title": "华为发布云计算战略和解决方案/AMD大中华区总裁郭可尊年底离职/惠普弃Siebel改用Salesforce",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201706103",
+      "title": "从华为企业文化浅谈员工激励",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ryzs200903008",
+      "title": "「すぐ」「さっそく」与「たちきち」的异同",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mysfxyxb201612028",
+      "title": "日本志怪文学中的妖怪形象述评",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201443004",
+      "title": "苹果手机的营销渠道和营销模式研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hgjz201907032",
+      "title": "Zr系列MOFs催化乙酸乙酯N-酰胺化反应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zbkj200104010",
+      "title": "南京雨花石中的「松脂石」",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scjz200903098",
+      "title": "高强钢筋的研究及使用现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cxcyllyjysj201903073",
+      "title": "蚁群算法在路径规划中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzhg201423013",
+      "title": "SEM 在矿物学领域中的应用进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlkj201503013",
+      "title": "小微物流企业发展困境分析——以南京汉唐物流有限公司为例",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "ddjj201525031",
+      "title": "海口市公交车服务满意度调查分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201005029",
+      "title": "利用空间相关性的改进HMM模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjxtyy201601035",
+      "title": "基于HMM与遗传神经网络的改进语音识别系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysx201903012",
+      "title": "一种改进的DNN-HMM的语音识别方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201914035",
+      "title": "基于循环神经网络的语音识别研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cdqxxy201905010",
+      "title": "基于改进BP-Adaboost和HMM混合模型的方言情感识别",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "diansjs200712012",
+      "title": "基于HMM和PNN的混合语音识别模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjsdxb201104007",
+      "title": "改进的小波变换HMM语音识别算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyyyrj201511065",
+      "title": "基于改进SVM和HMM的文本信息抽取算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkx200006007",
+      "title": "分形城市引力模型的一般形式和应用方法--关于城市体系空间作用的引力理论探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdqywh201818311",
+      "title": "华为技术有限公司的人力资源管理特点分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "szhyh201829184",
+      "title": "浅析华为员工持股计划激励效果",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gjdw201810019",
+      "title": "华为如何管理知识型员工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsc201808001",
+      "title": "我国蔬菜及其加工出口产业发展状况与对策",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "spyfx201610047",
+      "title": "扫描电镜在果蔬保藏中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gsslsdjs201802009",
+      "title": "隧道涌水量预测计算方法总结探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdzdc201701001",
+      "title": "岩溶地区水文地质环境地质综合调查工程进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yskj201510157",
+      "title": "自然，首饰设计的源泉--论首饰艺术的本源与生命诉求",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyjskf201804008",
+      "title": "苹果手机与华为手机在华营销策略比较研究",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "sjysjs201913003",
+      "title": "锌冶金固废渣综合利用现状研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xtgcydzjs202002021",
+      "title": "Q-learning强化学习制导律",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xadzkjdx202002012",
+      "title": "飞行器强化学习多模在轨控制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangndxxb201906006",
+      "title": "基于SPSS数据分析的服装号型设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hhgxyxb201503006",
+      "title": "蚁群算法在路径规划中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjtb201512033",
+      "title": "一种改进蚁群算法在机器人路径规划中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggshic201922065",
+      "title": "在线旅游网站大数据营销探究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcyyy202007027",
+      "title": "融合相关粒子滤波目标跟踪算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zghjjc201605026",
+      "title": "液相色谱-质谱法同时快速测定地表水中13种农药残留",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjcg201315011",
+      "title": "地下水特征污染物迁移规律与三维模拟*",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbdkf-zxk201304057",
+      "title": "上海市中心城区供水管网数字水质信息平台功能构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjyj200001005",
+      "title": "激励机制与企业绩效——一项基于上市公司的实证研究",
+      "download_times": 10,
+      "browse_times": 14
+    },
+    {
+      "id": "xtgcllffyy202003005",
+      "title": "具有外部激励的股票价格振荡与模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201022038",
+      "title": "基于GARCH族模型的上证指数波动性的实证分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddhg201610011",
+      "title": "纹身墨水多含致癌性物质所谓有机染料无行业标准",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jhyscts200708040",
+      "title": "《市场论坛》征稿启事",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lsltjs202003038",
+      "title": "食品检验检测中液相色谱和气相色谱的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dxqy200601030",
+      "title": "地下水有机污染人体健康风险评价初探",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjzh201521003",
+      "title": "氟污染的危害及含氟废水处理技术探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxwlxzz200903005",
+      "title": "基于凸集投影的稀疏磁共振图像重建新算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjlwzx201714016",
+      "title": "梯度插值与可变阈值改进的POCS算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgc201303052",
+      "title": "基于加权POCS的图像超分辨率重建",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzkj200602019",
+      "title": "压缩图像的变换域凸集投影法超分辨率重建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wtyht201604019",
+      "title": "基于复值曲波变换的地震数据重建方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sywt201602006",
+      "title": "基于频率域奇异值分解的地震数据插值去噪方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ygjsyyy200503011",
+      "title": "一种多幅欠采样图像的凸集投影超分辨率重建方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjcg201811005",
+      "title": "农村饮用水中微量有毒污染物深度处理的纳米材料与技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsks201204039",
+      "title": "氟污染的危害及含氟废水处理技术研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hkldjs201904002",
+      "title": "基于压缩感知的探地雷达成像算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xajtdxxb200310017",
+      "title": "基于凸集投影和线过程模型的超分辨率图像重建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scqhgxyxb201503018",
+      "title": "Hilbert空间中解凸集约束优化问题的梯度投影算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtfzxb2001z1025",
+      "title": "基于小波变换和凸集投影的数据恢复和建模算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sywt201605007",
+      "title": "基于Shearlet变换稀疏约束地震数据重建",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mssbyrgzn200905014",
+      "title": "一种基于POCS约束的图像代数重建算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsjgc201318043",
+      "title": "使用改进的POCS算法的超分辨率图像复原",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sydxxb199902030",
+      "title": "凸集上的投影问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdjsyy201906006",
+      "title": "基于POCS的微扫描超分辨率图像重建算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wxjyyy201518014",
+      "title": "基于改进SURF算法的POCS图像复原技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wxjyyy201408013",
+      "title": "基于POCS的超分辨率重建算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sywt201801009",
+      "title": "基于3D Curvelet变换的频率域高效地震数据插值方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sydqwlkt202001024",
+      "title": "基于凸集投影的重力同时填充扩边和去噪方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cdqxxy200506019",
+      "title": "基于凸集投影算法的超分辨率图像重建技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yqyb201502011",
+      "title": "基于梯度图的快速POCS超分辨率复原算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzclyyqxb201506003",
+      "title": "基于区域选择的快速POCS超分辨率复原算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjkx201408009",
+      "title": "基于非局部POCS的超分辨率图像重建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgc201221060",
+      "title": "基于改进POCS算法的图像重建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyy2012z2048",
+      "title": "基于加速稳健特征匹配和凸集投影算法的超分辨率重建",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bfhj202001017",
+      "title": "氟化工项目废水治理方案研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlxygtyj201003005",
+      "title": "五种常用降水量插值方法误差时空分布特征研究——以深圳市为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnykx201512131",
+      "title": "小尺度区域重金属含量空间插值方法比较——以Hg元素为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljjtgdzkxxxb202001005",
+      "title": "不同空间插值方法对圩畈土壤属性空间预测精度的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hykx200904006",
+      "title": "局部多项式插值方法在多源海底沉积厚度数据融合中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcyyy201601037",
+      "title": "基于局部多项式的自适应图像放大",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cckjdxxb201103025",
+      "title": "基于经验模态分解和加权最小二乘支持向量机的采空区地面塌陷预测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qxswhyyq201604011",
+      "title": "三种插值方法在中国海域海浪数据处理中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfsc201502011",
+      "title": "利用多种空间插值法分析西北太平洋柔鱼渔场",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jlny201521053",
+      "title": "土壤重金属分布空间插值方法的优选——以湖南某地土壤重金属Cd的分布为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlxygtyj201404004",
+      "title": "DEM地面形态重构方法的精度差异特征研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jldxzrkxxb201803038",
+      "title": "最小二乘支持向量机的点云数据孔洞修补算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "slfd201606004",
+      "title": "基于降雨分布不均匀性的空间插值方法适用性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dbch201311076",
+      "title": "区域地磁场插值方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dbch201806065",
+      "title": "沉降监测数据插值方法选取与精度分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyycp201205003",
+      "title": "降水量的空间插值方法研究——以甘肃省为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzjsyy202001008",
+      "title": "一种高性能脉冲信号处理电路模块",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shrl201704014",
+      "title": "弘扬工匠精神打造中国色彩",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201729016",
+      "title": "管理会计在农商行整体战略中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201523017",
+      "title": "管理会计应用财务指标分析--以丰华酒店为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjzfs202009009",
+      "title": "地下工程明挖现浇混凝土结构施工缝防水设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202003067",
+      "title": "关于轨道交通地下工程防水技术的探讨",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "yejck201306010",
+      "title": "管理会计对实现企业价值最大化的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sgjs201921014",
+      "title": "城市地下工程防水技术研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gskj201918041",
+      "title": "地下工程的防渗漏施工技术分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhjc202010027",
+      "title": "基于解耦控制算法的XYθ定位平台系统研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201836141",
+      "title": "试论欧债危机的成因及影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbhsdxxb202018051",
+      "title": "次贷危机对我国金融监管体制的影响",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "glkxwz201926070",
+      "title": "金融危机的政策根源与启示 ——以美国次贷危机为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjjxx201514218",
+      "title": "从亚洲金融危机、美国次贷危机到A股股灾看政府救市的必要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljdwjm202006026",
+      "title": "美国次贷危机的成因及对我国现金贷市场监管的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdjj201712069",
+      "title": "东南亚金融危机的成因与教训",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sq-zh201811033",
+      "title": "东南亚金融危机根源及传染效应分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl202007041",
+      "title": "欧债危机原因及影响分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjm201604112",
+      "title": "浅析美国次贷危机应对政策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qhjrpl201905022",
+      "title": "“811汇改”以来人民币汇率走势分析及展望",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "sq-zh201724103",
+      "title": "次贷危机的形成机理及其影响研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qhjrpl202006022",
+      "title": "次贷、欧债与新冠:三次危机的启示",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qhjrpl201905022",
+      "title": "“811汇改”以来人民币汇率走势分析及展望",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "xdglkx201805020",
+      "title": "欧债危机后欧洲去杠杆措施与启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl202008109",
+      "title": "人民币汇率形成机制改革对股票价格波动的影响 ——基于'811汇改'的实证分析",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "syjlr201515136",
+      "title": "美国次贷危机与东南亚金融危机的比较及启示",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dyxb201802027",
+      "title": "《电源学报》征稿启事",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201832017",
+      "title": "人民币汇率制度改革历史与发展方向",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "wlyfz201802011",
+      "title": "'811汇改'后人民币汇率与股市、债市的联动效应 ——基于中美两国汇率及资本市场的实证研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbjmdxxb201605019",
+      "title": "我国民间资本监管制度的合理设计--美国次贷危机产权机理及其对我国的启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201910100",
+      "title": "通过CDO来分析美国次贷危机爆发的原因及启示",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl202008109",
+      "title": "人民币汇率形成机制改革对股票价格波动的影响 ——基于'811汇改'的实证分析",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "sygs201524021",
+      "title": "美国次贷危机对日本经济的影响分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "dnyyj201705001",
+      "title": "东南亚移民危机与移民治理:从'安全化'到'区域化'",
+      "download_times": 2,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [
+    {
+      "id": "cwykj202004014",
+      "title": "'数字科技驱动资本市场会计信息与审计质量提升'主题论坛在北京国家会计学院举办",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jhyscts200708040",
+      "title": "《市场论坛》征稿启事",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wtyht201604019",
+      "title": "基于复值曲波变换的地震数据重建方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "wlaqjsyyy201403129",
+      "title": "基于POCS和范例学习的序列图像超分辨率重建",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sywt201605007",
+      "title": "基于Shearlet变换稀疏约束地震数据重建",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxzz201706016",
+      "title": "带1-范数约束的分裂可行问题的投影算法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jgygdzxjz201502004",
+      "title": "图像超分辨率复原方法及应用",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "sydqwlkt201701003",
+      "title": "反假频POCS数据规则化及其在偏移成像中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gdjsyy201906006",
+      "title": "基于POCS的微扫描超分辨率图像重建算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hkldjs201904002",
+      "title": "基于压缩感知的探地雷达成像算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dianzixb201109042",
+      "title": "基于感知压缩的探地雷达数据压缩采集",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgmhxyxb201404013",
+      "title": "投影算子的一种简单算法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yqdzycsl200906016",
+      "title": "利用交替投影神经网络进行地震弱信息分离",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wxdnyy201708008",
+      "title": "超分辨率重建结合正则化最小二乘的人脸识别方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "swyxgcx200905004",
+      "title": "基于凸集投影与小波融合的图像超分辨率重建方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjlwzx201714016",
+      "title": "梯度插值与可变阈值改进的POCS算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wxjyyy201518014",
+      "title": "基于改进SURF算法的POCS图像复原技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sywt201602006",
+      "title": "基于频率域奇异值分解的地震数据插值去噪方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyy2012z2048",
+      "title": "基于加速稳健特征匹配和凸集投影算法的超分辨率重建",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyxwlxzz200903005",
+      "title": "基于凸集投影的稀疏磁共振图像重建新算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "XlrICIU55xVuw+y3pfwgAG6WXkOK0VTKxQy/6VIxT14=",
+      "title": "大学生学习宣传习近平新时代中国特色社会主义思想路径与机制研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "XfQ3KRv+uwiR4pYwMB+JNCc3Ze06c36I4TqJiH0YvWI=",
+      "title": "场景视域下数字阅读特征与发展策略研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "GyvpKqAXrW1GYydTQcRsRYL+3mQPuEMRuHr1Kmy4kS0=",
+      "title": "搅拌塔式反应器传热特性研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "pndQRCcE0My/J2nPM5Ax6tI3TjW9C4eQ774KaPXS6Rg=",
+      "title": "“夜郎古国民族文化旅游园”选址考察",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "Kumar, Subindu;Biswas, Santosh;Bhattacharya, Rahul.Resource optimization for \t\temulation of behavioral models of mixed signal circuits on FPGA: a case study of DC-DC \tbuck converter[J].2017,45(11).",
+    "中国集体经济",
+    "Pb2+/有机基质协同调控碳酸钙结晶行为研究",
+    "适老化视角下贾汪区医疗设施配置与空间布局研究",
+    "I1. Phase boundary processes as rate determining steps in reactions between solids and liquids: The inhibitory action of metal ions on the formation of calcium bicarbonate by the reaction of calcite with aqueous carbon dioxide",
+    "I1. Phase boundary processes as rate determining steps in reactions between solids and liquids: The inhibitory action of metal ions on the formation of calcium bicarbonate by the reaction of calcite with aqueous carbon dioxide",
+    "河北职业教育市场论坛中国集体经济",
+    "Pb2+/有机基质协同调控碳酸钙结晶行为研究",
+    "中国集体经济",
+    "凸集投影",
+    "地震pocs",
+    "凸集投影地震凸集投影",
+    "电法凸集投影",
+    "地震pics",
+    "雷达凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "地震pocs",
+    "电法凸集投影",
+    "凸集投影",
+    "地震凸集投影",
+    "地震凸集投影",
+    "地震凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "凸集投影地震凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "雷达凸集投影",
+    "凸集投影",
+    "雷达凸集投影",
+    "凸集投影",
+    "地震pocs",
+    "凸集投影",
+    "凸集投影",
+    "地球物理凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "凸集投影地震凸集投影",
+    "地震pocs",
+    "凸集投影",
+    "电法凸集投影",
+    "凸集投影",
+    "凸集投影",
+    "Mineralogy and geochemistry of the newly discovered Late Mesozoic granite-pegmatite and associated Sn-Nb-Ta-Be mineralization in the Miao'ershan-Yuechengling composite batholith, northern Guangxi, South China",
+    "Mineralogy and geochemistry of the newly discovered Late Mesozoic granite-pegmatite and associated Sn-Nb-Ta-Be mineralization in the Miao'ershan-Yuechengling composite batholith, northern Guangxi, South China",
+    "Tianle Liu;Yufei Wang;Qijiao Song;Ye Qi",
+    "Low-carbon governance in China – Case study of low carbon industry park pilot",
+    "Low-carbon governance in China – Case study of low carbon industry park pilot",
+    "Low-carbon governance in China – Case study of low carbon industry park pilot",
+    "Evaluating Public Participation in Environmental Policy-Making",
+    "Public participation in public policy making",
+    "碳酸酐酶参与矿物—微生物相互作用的分子证据及矿物风化的碳汇效应",
+    "失地农民",
+    "Public participation in public policy making",
+    "Evaluating Public Participation in Environmental Policy-Making、",
+    "失地农民",
+    "失地农民",
+    "https://kns.cnki.net/kcms/detail/detail.aspx",
+    "基于p型半导体PbS及其异质结构的光电化学传感器的研究",
+    "传播学视域下儿童数字阅读付费平台的发展策略研究",
+    "题名:中国高温高压合成钻石的电学与磁学性质研究",
+    "传播策略研究",
+    "题名:国产无色化学气相沉积法（CVD）合成钻石及再生钻石的宝石学性质研究",
+    "高等教育公平问题",
+    "当代大学生系统化学习宣传习近平新时代中国特色 社会主义思想研究",
+    "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFD1214&filename=1012382642.nh&v=M8%25mmd2FY2zSQF0IUgjt%25mmd2BFQxaP%25mmd2BUh%25mmd2ByGj1GOt5wLaRh12gWbuIQAi3EOX4NAHQxFamEt7",
+    "(尾砂) (PublishYear:'2020' )",
+    "峰丛洼地",
+    "农村水利",
+    "工业塔式反应器温度控制系统",
+    "作者:刘星科",
+    "格力",
+    "电子竞技产业盈利",
+    "电竞产业财务",
+    "快餐体验营销",
+    "尾砂",
+    "喀斯特",
+    "岩溶水资源开发",
+    "garner花园杯",
+    "旅游决策影响因素模型",
+    "海砂机制砂养护",
+    "井冈山红色资源开发",
+    "海砂机制砂",
+    "海砂 机制砂 养护",
+    "(尾砂) (PublishYear:'2020' )",
+    "(彩色沥青) (PublishYear:'2020' )",
+    "彩色沥青",
+    "喀斯特",
+    "中国地质科学院岩溶地质研究所",
+    "电竞行业财务报表分析",
+    "电竞产业财务",
+    "孟德润,田光耀,刘雁春.海洋潮汐学[M].北京:海潮出版社,1993.",
+    "疫情",
+    "疫情电竞",
+    "直播行业盈利",
+    "电子竞技产业盈利",
+    "盐碱地",
+    "盐碱地",
+    "红色景区对比分析",
+    "机器学习",
+    "孟德润,田光耀,刘雁春.海洋潮汐学[M].北京:海潮出版社,1993.",
+    "孟德润,田光耀,刘雁春.海洋潮汐学[M].北京:海潮出版社,1993.",
+    "((主题:(直播盈利)) and Date:2015- and ) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "((主题:(直播收入确认)) and Date:2015- and ) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "电子竞技产业盈利",
+    "((主题:(直播盈利收入确认)) and Date:2015- and ) (Type:(Periodical OR Thesis OR Conference OR Patent OR Standard OR Cstad OR Claw OR Nstr OR LocalChronicle) )",
+    "贵阳地区石漠化植被恢复造林树种的 筛选",
+    "财务报表分析",
+    "电竞",
+    "((主题:(直播盈利)) and Date:2015- and ) (Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "高等教育公平性与政府责任",
+    "高等教育公平问题与职能",
+    "政府公共职能与教育公平",
+    "高等教育公平性与政府责任",
+    "镁合金 动电位",
+    "高等教育公平性与职能",
+    "游乐场  住宅",
+    "民族文化园",
+    "劳动经济",
+    "多元治理理论",
+    "济南 乔木",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "(智能农业物联网系统设计) (PublishYear:'2020' )",
+    "智能农业物联网系统设计",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "(主题:('城绿关系')) (Type:(Periodical OR Thesis OR Conference) )",
+    "java",
+    "(java) (PublishYear:'2020' )",
+    "java",
+    "(java) (PublishYear:'2020' )",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/G' )",
+    "英国庄园文化",
+    "西方庄园文化",
+    "中国园林史",
+    "英国庄园文化",
+    "英国庄园文化",
+    "西方庄园",
+    "小说中的庄园文化",
+    "可行性研究报告",
+    "可行性研究报告",
+    "广西灌阳县旅游发展的规划思考",
+    "(题名或关键词:(城景关系)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(ROS系统 路径规划) (Type:'Thesis' PublishYear:'2018' )",
+    "(ROS系统 路径规划) (Type:'Thesis' PublishYear:'2018' )",
+    "捐赠物资系统的设计与实现",
+    "板 冲击",
+    "板 冲击",
+    "板 冲击",
+    "作者:陆绍荣",
+    "刘滨谊 公园城市",
+    "亚马逊扩张战略",
+    "基于ROS 定位",
+    "(基于ROS 定位) (Type:'Thesis' PublishYear:'2019' )",
+    "(基于ROS 定位) (Type:'Thesis' )",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "题名:广西乡村旅游",
+    "邹建梅 邱丽萍",
+    "题名:乡村农事旅游",
+    "题名:广西乡村旅游",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "乡村旅游综合体",
+    "日本人的恋母",
+    "居酒屋",
+    "公园城市  景观视廊",
+    "公园城市  景观视廊",
+    "社会契约论",
+    "社会契约论",
+    "社会契约论",
+    "(基于SLAM ros) (Type:'Thesis' )",
+    "(城市环境多主体治理) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "国内外聚酯塑料啤酒瓶近期技术进展",
+    "浪漫主义 李白",
+    "蒋远营",
+    "管理心理学",
+    "基于移动计算的环境噪声地图系统的设计与实现",
+    "预制桩施工技术",
+    "溶洞处理",
+    "冲击",
+    "板 冲击",
+    "板 冲击",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU3' )",
+    "一间自己的房间",
+    "我国失地农民群体性事件成因及防控对策研究",
+    "广西灌阳县旅游发展的规划思考",
+    "(沈丹 北京清华同衡规划设计研究院有限公司) 作者:沈丹",
+    "证券、",
+    "(ROS系统 路径规划) (Type:'Thesis' PublishYear:'2018' )",
+    "中国啤酒包装概况",
+    "塑料替代玻璃瓶",
+    "啤酒包装",
+    "可调节病床",
+    "古希腊哲学",
+    "会计电算化",
+    "导购机器人",
+    "(主题:(导购机器人)) (Type:'Periodical' )",
+    "(主题:(导购机器人)) (Type:'Periodical' PublishYear:'2018' )",
+    "(基于SLAM ros) (Type:'Thesis' PublishYear:'2018' )",
+    "(基于SLAM ros) (Type:'Thesis' PublishYear:'2019' )",
+    "范紫薇",
+    "民族文化园",
+    "民族文化园",
+    "范紫薇",
+    "悦榕庄",
+    "(酒店) (Type:'Thesis' )",
+    "(悦榕庄) (Type:'Thesis' )",
+    "au电化学传感器",
+    "实验模具",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "((智能农业物联网系统设计) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))) (PublishYear:'2020' SingleSourceDB:'ISTIC' )",
+    "岛崎藤村小说研究",
+    "戏曲文化在景观",
+    "英语构词法的研究",
+    "(粤语说书) (Type:'LocalChronicle' )",
+    "啤酒包装概况",
+    "小说中的中国园林",
+    "庄园文化",
+    "((庄园文化) 关键词:'中国园林') (Type:'Thesis' Degree:'硕士' PublishYear:'2018' )",
+    "梁启超",
+    "板 冲击",
+    "(基于ROS 定位) (Type:'Thesis' )",
+    "(主题:(中药材磨粉机)) (Type:(Periodical OR Thesis) )",
+    "饮用水消毒副产物",
+    "饮用水消毒副产物",
+    "(饮用水消毒副产物) (Language:'chi' )",
+    "公园城市",
+    "公园城市  景观视廊",
+    "房地产项目管理",
+    "广西灌阳县旅游发展的规划思考",
+    "广西农业旅游",
+    "作者:陆绍荣",
+    "陆绍荣",
+    "(城市环境多主体治理) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "(城市环境治理) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "基于文化生态学的城景关系协调规划研究--以蜀岗-瘦西湖风景名胜区为例",
+    "分析测试学报",
+    "(题名:('城景关系')) (Type:(Periodical OR Thesis OR Conference) )",
+    "乡村农事旅游",
+    "题名:广西乡村旅游",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "广西乡村文创旅游",
+    "日本人的依赖心理",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "螺旋压力机的设计",
+    "螺旋压力机的设计",
+    "(主题:(基于Apriori算法的数据挖掘在移动医疗系统中的应用)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori算法的数据挖掘在移动医疗系统中的应用)) (Type:'Periodical' )",
+    "亚马逊需求管理",
+    "蒋远营",
+    "漓江景区",
+    "漓江",
+    "文艺复兴时期透视法的奠基人",
+    "透视法在最后的晚餐的应用",
+    "(主题:('cuo') and 主题:('电极') and 主题:(制备)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(民族文化园) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "民族文化园",
+    "乡村休闲旅游发展趋势",
+    "浅论中国传统文化主流思想在人力资源管理中的应用",
+    "刘滨谊 公园城市",
+    "广西 休闲农场",
+    "广西 庄园经济",
+    "休闲农场",
+    "广西 乡村庄园",
+    "乡村营地",
+    "tensorflow",
+    "电动螺旋压力机的设计",
+    "离合器式螺旋压力机的设计",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "可行性研究报告",
+    "大圩古镇文化景观",
+    "冲击",
+    "(冲击) (ClassCodeForSearch:'1/T/TU' )",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU3' )",
+    "板 冲击",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU9' )",
+    "餐饮项目计划书",
+    "餐饮",
+    "餐饮项目计划书",
+    "高分子材料article",
+    "刘来玉",
+    "沈丹",
+    "基坑支护",
+    "egg.js",
+    "egg.js",
+    "纳米材料植物修复",
+    "伍尔夫",
+    "《一间自己的房间》和《第二性》",
+    "数据挖掘技术",
+    "ROS  导购",
+    "(java软件开发) (PublishYear:'2020' )",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/U' )",
+    "(java) (PublishYear:'2020' )",
+    "关于ava软件开发",
+    "(java) (PublishYear:'2020' )",
+    "java软件开发",
+    "会计电算化运用",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/T' )",
+    "(java软件开发) (PublishYear:'2020' )",
+    "刘滨谊",
+    "电化学传感器",
+    "谈古希腊思想文化对英国文学的影响",
+    "基于Node.js和REST风格的移动端页面可视化构建平台",
+    "古希腊哲学",
+    "古希腊哲学",
+    "古希腊哲学",
+    "板 冲击",
+    "板 冲击",
+    "作者:'赵雪芹' 作者单位:'西南科技大学'",
+    "板 冲击",
+    "板 冲击",
+    "商主体制度理论研究",
+    "饮用水消毒副产物",
+    "叶绿素反演 三波段",
+    "饮用水消毒副产物",
+    "饮用水消毒副产物",
+    "公园城市  景观视廊",
+    "劳动经济",
+    "城市环境多主体治理",
+    "基于SLAM ros",
+    "齐鲁文化与近代山东山水画的发展",
+    "济南 景观绿化特色",
+    "济南 特色植物",
+    "广西农业旅游",
+    "智能农业物联网系统设计",
+    "((智能农业物联网系统设计) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))) (PublishYear:'2020' )",
+    "(智能农业物联网系统设计) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "(基于SLAM ros) (Type:'Thesis' PublishYear:'2018' )",
+    "小说中的中国园林",
+    "((庄园文化) 关键词:'中国园林') (Type:'Thesis' )",
+    "西方庄园文化",
+    "庄园文化",
+    "西方庄园文化",
+    "西方庄园文化",
+    "高等教育公平性与政府",
+    "高等教育公平与职能",
+    "高等教育公平性与政府",
+    "高等教育公平性与政府",
+    "日本人的依赖心理",
+    "日本人的交际",
+    "日本人的恋母情结",
+    "居酒屋",
+    "王劲峰地理探测器",
+    "王劲峰",
+    "螺旋压力机的设计",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "板 冲击",
+    "最后的晚餐作品分析",
+    "最后的晚餐透视法",
+    "范紫薇",
+    "悦榕庄",
+    "酒店员工忠诚度",
+    "酒店员工忠诚度",
+    "IPA酒店文化",
+    "(酒店) (Type:'Thesis' )",
+    "广西 休闲 旅游",
+    "广西 庄园经济",
+    "休闲农场",
+    "广西乡村休闲",
+    "庄园经济",
+    "(主题:('cuo') and 主题:('电极') and 主题:(制备)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(民族文化园) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "体验价值",
+    "公共设施",
+    "啤酒采用玻璃瓶包装",
+    "电动螺旋压力机的设计",
+    "螺旋压力机的设计",
+    "离合器式螺旋压力机的设计",
+    "关键词:同性恋",
+    "(主题:(景观廊道)) (Type:(Periodical OR Thesis OR Conference) )",
+    "汇率、FDI",
+    "捐赠系统的设计与实现",
+    "捐赠系统的设计与实现",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "公园城市",
+    "(公园城市  景观视廊) 关键词:公园城市  景观视廊",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "公园城市  景观视廊",
+    "(公园城市) 题名:公园城市",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "Black lives matter",
+    "(餐饮项目计划书) 关键词:'SWOT分析法'",
+    "啤酒包装塑料化",
+    "啤酒瓶包装塑料化",
+    "egg",
+    "古希腊哲学",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "栾利强",
+    "(民族团结教育) (Type:'Thesis' )",
+    "催化动力学光度法测定痕量铁及反应机理的研究",
+    "地热能产业与技术发展趋势及对 石油公司的建议",
+    "实木家具",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "桂平历史",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "英国庄园",
+    "小说中的庄园文化",
+    "英国庄园",
+    "大数据算法应用",
+    "Apriori",
+    "大数据算法应用",
+    "题名:基于翡翠文化的市场推广策略研究",
+    "Monsters and Men",
+    "个人英雄主义",
+    "相会在昨天",
+    "Queen & Slim",
+    "失业保险",
+    "基于改进的蚁群算法路径规划方法研究",
+    "(会计 内部控制) (Type:'Thesis' )",
+    "会计 创业",
+    "(会计 创业) (Type:'Thesis' )",
+    "电化学传感器",
+    "改进Hummers法化学合成石墨烯及其表征",
+    "高等教育公平与政府",
+    "政府与高等教育公平问题",
+    "政府与教育公平问题",
+    "镁合金 防腐蚀",
+    "政府与高等教育公平问题",
+    "商主体调查理论分析",
+    "(主题:('氧化铜') and 主题:('电极') and 主题:(制备)) (Type:(Periodical OR Thesis OR Conference) )",
+    "民族文化园",
+    "我国饮用水消毒副产物",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/R' )",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/G' )",
+    "会计电算化应用",
+    "(java) (PublishYear:'2020' )",
+    "java软件开发",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/S' )",
+    "会计电算化在企业中的具体运用",
+    "会计电算化的现状",
+    "(java) (PublishYear:'2020' )",
+    "公路桥梁震害",
+    "游乐场退距",
+    "动物园退距",
+    "(主题:(城景关系)) (Type:(Periodical OR Thesis OR Conference) )",
+    "装配式结构",
+    "公园城市  城景关系",
+    "城景关系",
+    "广西灌阳县旅游发展的规划思考",
+    "城绿关系",
+    "地热能",
+    "漓江与城市建设",
+    "含三苯胺苯并噻二唑聚苯乙烯撑衍生物",
+    "(ROS系统 路径规划) (Type:'Thesis' )",
+    "(ROS系统 路径规划) (Type:'Thesis' PublishYear:'2018' )",
+    "成都打造公园城市建设新模式",
+    "公园",
+    "济南 文化",
+    "广西灌阳县旅游发展的规划思考",
+    "((智能农业物联网系统设计) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))) (PublishYear:'2020' )",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计",
+    "我国地热能利用现状与发展机遇分析",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "axios",
+    "地热能人才",
+    "中国园林",
+    "英国庄园文化",
+    "英国庄园文化",
+    "西方庄园",
+    "(庄园文化) 关键词:'中国园林'",
+    "纳米材料污染土壤植物修复",
+    "海砂资源",
+    "中国戏曲文化在景观设计中的应用",
+    "破产法",
+    "板 冲击",
+    "(基于ROS 定位) (Type:'Periodical' )",
+    "粤语说书",
+    "导购机器人",
+    "(导购机器人) (Type:'Periodical' )",
+    "egg.js",
+    "太阳能电池材料",
+    "对外汉语教师课堂衔接语的案例分析",
+    "古希腊哲学",
+    "古希腊哲学",
+    "敦煌绿洲水资源安全评价及模拟研究",
+    "(冲击) (ClassCodeForSearch:'1/T/TU' )",
+    "板 冲击",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU3' )",
+    "板 冲击",
+    "广西农业旅游",
+    "广西休闲旅游",
+    "广西 休闲旅游",
+    "广西 休闲旅游",
+    "广西休闲度假旅游",
+    "螺旋压力机的设计",
+    "离合器式螺旋压力机的设计",
+    "电动螺旋压力机的设计",
+    "螺旋压力机的设计",
+    "ROS  服务",
+    "ROS 服务",
+    "关联理论视角下中美大学生英语演讲比赛中的话语标记语对比研究",
+    "最后的晚餐思想",
+    "tensorflow nlp",
+    "怪物与人",
+    "镁键合",
+    "疫情下的电子采购",
+    "广西度假旅游",
+    "乡村度假",
+    "政府与高等教育公平问题",
+    "高等教育公平性与政府职能研究",
+    "高等教育公平性与职能",
+    "政府职能与高等教育公平",
+    "高等教育公平",
+    "高等教育公平问题与职能",
+    "(民族文化园) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "公园城市  景观视廊",
+    "公园城市  景观视廊",
+    "范紫薇",
+    "范紫薇",
+    "范紫薇",
+    "范紫薇",
+    "民族文化园",
+    "公路桥梁震害",
+    "公路桥梁震害",
+    "作者:陆绍荣",
+    "(酒店) (Type:'Thesis' )",
+    "酒店员工忠诚度",
+    "悦榕庄",
+    "关键词:回归分析",
+    "景观廊道",
+    "(城市环境多元主体治理) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "多元治理理论",
+    "地热能",
+    "基于“山水城市”视域下的城市景观风貌规划研究——以张家口市为例",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "公共治理视角下农村征地型群体性事件研究--以L区L镇为例",
+    "征地拆迁类群体性事件的应对机制研究——以Y市X县为例",
+    "邱丽萍",
+    "高分子材料article",
+    "ROS系统 路径规划",
+    "商主体调查结果理论分析",
+    "axios",
+    "大学生网络集群行为的影响因素与对策",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/T' )",
+    "(java) (PublishYear:'2020' )",
+    "会计电算化的现状",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/T' )",
+    "关于java软件开发",
+    "(java) (PublishYear:'2020' ClassCodeForSearch:'0/G' )",
+    "(题名或关键词:(公园城市  景观视廊)) (Type:(Periodical OR Thesis OR Conference) )",
+    "公园城市  景观视廊",
+    "广西乡村度假旅游",
+    "公园城市",
+    "(题名或关键词:(公园城市  景观视廊)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(公园城市  景观视廊)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于特色风貌的城市设计管控要素与管控体系研究",
+    "分析测试学报",
+    "装配式结构梁柱节点",
+    "egg or sequelize",
+    "漓江历史",
+    "Noise processing techniques for time",
+    "可行性研究报告",
+    "开设项目计划书",
+    "项目计划书",
+    "关于可行性研究报告",
+    "可行性研究报告内容",
+    "项目可行性研究报告",
+    "螺蛳粉项目计划书",
+    "项目可行性研究报告",
+    "书店项目计划书",
+    "项目可行性研究报告",
+    "项目可行性研究报告",
+    "可行性研究报告",
+    "可行性研究报告",
+    "咖啡店项目可行性研究",
+    "地理探测器",
+    "螺旋压力机的设计",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "应用统计学",
+    "决策树",
+    "电子束焊接设备",
+    "(电子束焊接设备) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "电子束焊接设备",
+    "电子束焊机简介",
+    "英语问候语",
+    "(导购机器人) (Type:'Periodical' )",
+    "(主题:(导购机器人)) (Type:'Periodical' PublishYear:'2019' )",
+    "(主题:(导购机器人)) (Type:'Periodical' PublishYear:'2017' )",
+    "(导购机器人) (PublishYear:'2020' )",
+    "(主题:(导购机器人)) (Type:'Periodical' )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "公园城市",
+    "(酒店) (Type:'Thesis' )",
+    "文艺复兴时期马萨乔",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "镁化学性质",
+    "Black lives matter",
+    "大藤峡",
+    "心灵店项目计划书",
+    "(项目计划书) 关键词:'投资收益率'",
+    "开设一家书店项目计划书",
+    "可行性研究报告内容",
+    "木材料",
+    "替代材料",
+    "微弧氧化",
+    "替代",
+    "地热能产业与技术发展趋势及对 石油公司的建议",
+    "作者:仲麒",
+    "电化学传感器",
+    "Vue.js技术在移动应用可视化平台网页设计中的应用",
+    "基于Node.js和REST风格的移动端页面可视化构建平台",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "英语问候语 语用失误",
+    "催化动力学光度法测定痕量铁及反应机理的研究",
+    "个人英雄主义与集体主义",
+    "失业保险",
+    "失业保险",
+    "两种常见镁合金的腐蚀与防护",
+    "木材组成",
+    "常用木材力学性能",
+    "社会契约论",
+    "木材的性质和现象",
+    "防火涂料",
+    "乡村振兴战略",
+    "家具在中国文化中",
+    "螺旋压力机的设计",
+    "实木家具市场",
+    "Apriori",
+    "(基于改进的蚁群算法路径规划方法研究) (Type:'Thesis' )",
+    "基于Node.js和REST风格的移动端页面可视化构建平台",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "桂林发展研究",
+    "智能农业物联网系统设计",
+    "古希腊哲学",
+    "古希腊哲学",
+    "木材力学性能",
+    "广西主要树种木材性质与用途的研究",
+    "空间布局",
+    "中国地热资源潜力评价",
+    "浪漫主义 郭沫若",
+    "劳动经济",
+    "劳动经济",
+    "(主题:(基于Apriori)) (Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (Type:'Periodical' )",
+    "光电信息科学与工程",
+    "光电信息科学与工程",
+    "光电信息科学与工程",
+    "(冲击) (ClassCodeForSearch:'1/T/TU' )",
+    "板 冲击",
+    "(冲击) (ClassCodeForSearch:'1/T/TU' )",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU3' )",
+    "板 冲击",
+    "板 冲击",
+    "(冲击) (ClassCodeForSearch:'2/T/TU/TU3' )",
+    "Lolita",
+    "作者:沈丹",
+    "基于线性景观视觉评价的环湖风景道优化策略",
+    "电动螺旋压力机的设计",
+    "文化实木家具",
+    "中国文化实木家具",
+    "木质家具在中国文化中",
+    "(ROS  购) (ClassCodeForSearch:'0/T' )",
+    "ROS系统 路径规划  导购",
+    "英国庄园",
+    "基于改进的蚁群算法路径规划方法研究",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "欧洲中世纪城市建设",
+    "广西灌阳县旅游发展的规划思考",
+    "游乐场  住宅",
+    "劳动",
+    "房地产开发项目可行性分析报告",
+    "济南 种植",
+    "智能农业物联网系统设计",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "智能农业物联网系统设计 *(年份:2020 OR 年份:2019 OR 年份:2018 OR 年份:2017 OR 年份:2016)",
+    "英国庄园文化",
+    "英国庄园文化",
+    "西方庄园文化",
+    "横县茉莉花",
+    "((庄园文化) 关键词:'中国园林') (Type:'Thesis' Degree:'硕士' )",
+    "西方庄园文化",
+    "西方庄园文化",
+    "智能农业物联网系统设计",
+    "英语构词法的研究",
+    ".六、粤语说书",
+    "英语构词法的研究",
+    "粤语说书",
+    "Cartographer",
+    "章信",
+    "啤酒包装塑料",
+    "古希腊哲学",
+    "河南省水资源安全预警指标体系的构建",
+    "文艺复兴时期透视法",
+    "文艺复兴时期透视法的透视法的奠基人",
+    "(基于SLAM ros) (Type:'Thesis' PublishYear:'2018' )",
+    "(主题:(导购机器人)) (Type:'Periodical' PublishYear:'2020' )",
+    "(导购机器人) (Type:'Periodical' PublishYear:'2020' )",
+    "(ROS 服务) (Type:'Thesis' )",
+    "民族文化园",
+    "民族文化园",
+    "作者:'范紫薇'",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "乡村度假旅游",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "动力学光度法",
+    "ensp",
+    "Macnae",
+    "项目可行性研究报告",
+    "项目可行性研究报告",
+    "关于建筑工程的可行性研究报告",
+    "项目可行性研究报告",
+    "项目计划书",
+    "项目计划书",
+    "替代",
+    "决策树",
+    "数据分析",
+    "我国地热产业整体评价与发展模式探析",
+    "(电子束焊接设备) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "(电子束焊接设备) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "(电子束焊接设备) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "海砂资源",
+    "种族主义",
+    "盲点",
+    "(盲点) 题名:盲点 关键词:黑人",
+    "英国脱欧",
+    "英语问候语 语用失误",
+    "高等教育公平和职能",
+    "(主题:(基于Apriori算法设计)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori图书管理)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (Type:'Periodical' )",
+    "木材的替代",
+    "木材的性质",
+    "木材性能",
+    "(螺旋压力机的设计) (Type:'Thesis' )",
+    "实木家具占比",
+    "螺旋压力机的设计",
+    "桂平",
+    "小说中的中国园林",
+    "小说中英国庄园",
+    "Apriori",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "民族团结教育",
+    "砗磲",
+    "北京大学贷款",
+    "会计电算化的现状",
+    "绝热材料",
+    "园区网络",
+    "可行性研究报告",
+    "可行性研究报告",
+    "可行性研究报告",
+    "可行性研究报告",
+    "可行性研究报告",
+    "碳酸铵 镁合金",
+    "可行性研究报告内容",
+    "项目可行性研究报告",
+    "项目计划书",
+    "(项目可行性研究报告) (PublishYear:'2019' )",
+    "关于可行性研究报告",
+    "关于可行性研究报告",
+    "项目计划书",
+    "(项目可行性研究报告) (PublishYear:'2020' )",
+    "项目可行性研究报告",
+    "可行性研究报告",
+    "木材",
+    "egg",
+    "axios",
+    "现浇混凝土肋板",
+    "小视频",
+    "污染土壤植物修复",
+    ".我国地热产业整体评价与发展模式探析",
+    "电子束焊机介",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "高等教育公平性与政府",
+    "劳动经济",
+    "(主题:(Apriori or 算法的研究及在商业决策中的应用)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori图书管理)) (Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (CorePeriodical:'EI' Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "ITO导电玻璃支撑的富勒烯修饰双分子层脂膜的光电效应和传感器应用研究",
+    "(导购机器人) (Type:'Periodical' PublishYear:'2019' )",
+    "(主题:(导购机器人)) (Type:'Periodical' )",
+    "(主题:(导购机器人)) (Type:'Periodical' PublishYear:'2018' )",
+    "机制砂石粉",
+    "光电信息科学与工程",
+    "成都段水环境预警",
+    "会计 内部控制",
+    "催化动力学光度法测定微量重金属含量及反应机理的研究",
+    "失业保险",
+    "木材的使用性能",
+    "家具木材的替代",
+    "家具木材的性质和现象",
+    "螺旋压力机的设计",
+    "电动螺旋压力机的设计",
+    "螺旋压力机的设计",
+    "实木家具缺点",
+    "实木家具市场占比",
+    "螺旋压力机的设计",
+    "Vue.js技术在移动应用可视化平台网页设计中的应用",
+    "螺旋压力机的设计",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "小说中的庄园文化",
+    "乳制品市场营销",
+    "A算法",
+    "Apriori算法",
+    "Apriori",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "(桂林发展研究) 题名:桂林发展研究",
+    "欧洲城市建设",
+    "民族团结教育",
+    "民族团结教育",
+    "(民族团结教育) (Type:'Thesis' )",
+    "“课程思政”理念在高校公共音乐教育中的运用研究 ——以桂林市三所高校为例",
+    "民族团结教育",
+    "中国传统聚落景观基因图谱的构建与应用研究",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "基于SLAM",
+    "征地拆迁类群体性事件的应对机制研究——以Y市X县为例",
+    "群体性事件网络激化作用初探——以P市征地引发的群体性事件为例",
+    "地热能产业与技术发展趋势及对 石油公司的建议",
+    "镁合金键合",
+    "汉密尔顿",
+    "《一间自己的房间》和《第二性》",
+    "男权思想",
+    "沈  丹",
+    "沈丹 北京清华同衡规划设计研究院有限公司",
+    "英国庄园文化",
+    "人脸识别",
+    "pandas",
+    "ROS  购",
+    "透视法",
+    "日本人的体恤文化",
+    "居酒屋",
+    "广西乡村旅游综合体",
+    "日本人的交际",
+    "依赖心理",
+    "广西乡村旅游综合体",
+    "(ROS 服务) (Type:'Thesis' PublishYear:'2019' )",
+    "(ROS 服务) (Type:'Thesis' )",
+    "王劲峰地理探测器",
+    "地理探测器模型",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "螺旋压力机的设计",
+    "(螺旋压力机的设计) (ClassCodeForSearch:'0/T' )",
+    "亚马逊美国",
+    "浪漫主义对我国文学",
+    "浪漫主义 郭沫若",
+    "刊名:'成都科技大学学报'",
+    "(基于SLAM ros) (Type:'Thesis' PublishYear:'2018' )",
+    "民族文化园",
+    "民族文化园",
+    "民族文化园",
+    "民族文化园",
+    "范紫薇",
+    "范紫薇",
+    "酒店文化",
+    "(公园城市  景观视廊) 关键词:公园城市  景观视廊",
+    "(公园城市  景观视廊) 关键词:公园城市  景观视廊",
+    "(主题:('公园城市')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(公园城市) 题名:公园城市",
+    "egg.js",
+    "项目后评价",
+    "咖啡店项目计划书",
+    "(项目可行性研究报告) (PublishYear:'2019' )",
+    "可行性研究报告",
+    "项目后评价",
+    "可行性研究报告",
+    "(项目可行性研究报告) (PublishYear:'2020' )",
+    "项目计划书",
+    "开设项目计划书",
+    "项目计划书",
+    "项目计划书",
+    "微弧氧化 镁合金",
+    "神经网络",
+    "小饰品",
+    "(电子束焊接设备) AND ((((Type:Periodical) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC) OR (SingleSourceDB:NSTL) OR (IsOA:true) OR (SingleSourceDB:CMA))) OR ((Type:Thesis) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:ISTIC))) OR ((Type:Conference) AND ((ServiceMode:1 AND HasFulltext:true) OR (SingleSourceDB:NSTL))) OR ((Type:Standard) AND (HasFulltext:true)) OR (Type:Patent) OR (Type:Claw) OR (Type:Nstr)))",
+    "电子束焊接设备",
+    "电子束焊接设备",
+    "(主题:(基于Apriori算法设计)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(基于Apriori算法设计)) (Type:'Periodical' )",
+    "(主题:(基于Apriori)) (CorePeriodical:'PKU' Type:'Periodical' )"
+  ]
+}

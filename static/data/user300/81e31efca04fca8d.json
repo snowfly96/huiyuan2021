@@ -1,0 +1,2973 @@
+{
+  "下载": [
+    {
+      "id": "jjyjdk201827042",
+      "title": "探索数学模型在金融中的具体应用",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "dzsjgc201705039",
+      "title": "语音电子开关系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "npszxb201611010",
+      "title": "中国国防教育的历史演变及其启示",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "sygs201517039",
+      "title": "数学模型在商业银行管理领域中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjsd201011009",
+      "title": "基于SPCE061A的智能密码锁设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ckxx201622154",
+      "title": "数学模型在金融市场的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjr-x201701021",
+      "title": "论数学模型在金融领域中的应用",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjtjj201834066",
+      "title": "大数据时代下数学理论模型在金融市场的应用 ——从风险度量角度",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxkf200607027",
+      "title": "语音合成芯片API840N在密码锁中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201605092",
+      "title": "基于单片机的多功能智能密码锁的设计研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdsdxb-zrkx201803011",
+      "title": "基于STM32的智能电子密码锁系统设计",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "shang201512113",
+      "title": "现阶段管理会计在我国企业应用中存在的问题及对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xyd-x201801158",
+      "title": "浅谈数学模型在金融市场中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzgcs200704025",
+      "title": "基于状态机的语音电子密码锁设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-ycxfc201806011",
+      "title": "人类染色体外环状DNA研究现状",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "msj-xia201901353",
+      "title": "关于中国汽车4S店现状及未来营销发展趋势的研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "gwdzcljs200502006",
+      "title": "数字温度传感器DS18B20在化学工业中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201133025",
+      "title": "国内外啤酒发酵温度控制系统发展现状",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gyybyzdhzz200201019",
+      "title": "国内啤酒生产自动控制的现状与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjgc201904011",
+      "title": "TiO2暗活化过硫酸盐降解典型染料废水",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caix201622013",
+      "title": "影响我国汽车销量的因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xswzk201813198",
+      "title": "试论国内汽车营销渠道模式的发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xjysddzzz-e201909181",
+      "title": "汽车营销学教学模式现状及发展趋势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201631279",
+      "title": "浅析汽车市场营销模式及发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjz201905046",
+      "title": "过硫酸盐高级氧化降解水体中有机污染物研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnz201911004",
+      "title": "发酵环境变化对酵母生长和成品啤酒的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dswz201620091",
+      "title": "中国汽车营销渠道的现状与发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201615236",
+      "title": "浅析汽车市场营销模式及发展趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mmxyxb201405017",
+      "title": "我国家族企业知识型员工激励机制现状与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdqywh201802128",
+      "title": "家族企业员工激励存在的问题及对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnjj201810015",
+      "title": "汽车生产及营销行业的发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyxnjjyj201703006",
+      "title": "浅析新能源汽车发展趋势与营销模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201005053",
+      "title": "明代南阳城与唐王府初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgzyy201908046",
+      "title": "陈天然教授治疗复发性口腔溃疡经验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-zyzyfc201811023",
+      "title": "沈英森治疗经前复发性口腔溃疡的经验探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zylcyj201805050",
+      "title": "李建武教授治疗复发性口腔溃疡经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgwsbzgl201701059",
+      "title": "冀爱英教授治疗复发性口腔溃疡经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201908071",
+      "title": "基于ADMAS的光伏清洁机器人结构设计与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgdb201912039",
+      "title": "三段式教学法在初中英语阅读教学的有效实施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxsyy-czb201607011",
+      "title": "试谈三段式教学法在高中阅读教学中的运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxtzdh202001028",
+      "title": "新疆电网风电基地110 kV人工短路试验及结果分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jsdjgc201806025",
+      "title": "220kV电缆线路终端故障及仿真分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnzyxyxb200602024",
+      "title": "张仲景运用《内经》因势利导治则探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyhk-gzb202003107",
+      "title": "高中英语教学中词汇教学探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ytctyy201617033",
+      "title": "李培教授治疗复发性口腔溃疡经验浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqzyy201809033",
+      "title": "自拟清热消疡经验方辨治脾胃湿热证复发性口腔溃疡62例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qydb201619116",
+      "title": "高压配电线路防雷技术措施的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sd-jy201712074",
+      "title": "'三阶段'阅读教学法提高学生学习英语兴趣",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz202001262",
+      "title": "任务型语言教学法在英语阅读中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dtsj201713024",
+      "title": "高压配电线路防雷探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxkjycyh200912038",
+      "title": "创新绝缘材料护航电能输送——记清华大学电机系教授、中国电工技术学会副秘书长周远翔",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjy-j201010125",
+      "title": "英语阅读'三阶段'教学法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201951293",
+      "title": "高中英语词汇教学法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxnyyjn202001024",
+      "title": "新疆风电现状及发展建议",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmjlf201808040",
+      "title": "治疗复发性口腔溃疡的临床经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lngzxb201308016",
+      "title": "试论高职英语阅读教学中任务型教学法的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csjsllyj2013031893",
+      "title": "高压配电线路防雷探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxygl-llb202001030",
+      "title": "基于认知语言学的英语词汇教学逻辑探索",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "yyhk-gzb202003115",
+      "title": "试论任务型阅读在中职英语教学中的运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csjsllyj2014240987",
+      "title": "高压配电线路防雷探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjts201910031",
+      "title": "认知视角下如何提升英语词汇教学——评《英语专业词汇教学的认知研究》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yswxx-czbxxk201407024",
+      "title": "“三段式”初中英语阅读教学模式探微",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gmzy200809014",
+      "title": "'胃脘胀满'之下法治疗探源",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxzy200001047",
+      "title": "'先病而后生中满者治其标”临床运用体会",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbzyxyxb201706029",
+      "title": "李家庚运用因势利导法医案举隅",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcjyyj201813021",
+      "title": "基于支架理论的三进阶式初中英语阅读教学探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsdxxb201805034",
+      "title": "基于单片机的智能水位监控系统设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "txsj201614001",
+      "title": "安卓系统安全保护架构研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjywl201308043",
+      "title": "防止安卓设备被攻击的十个必要措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wszyjy201909038",
+      "title": "中医药科研思路与方法教学实践与体会",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnzyxyxb202002013",
+      "title": "中医膝痹病临床文献的数字化保存与挖掘研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxyyzz202010015",
+      "title": "中药三七对血液系统的药理药效研究进展",
+      "download_times": 4,
+      "browse_times": 13
+    },
+    {
+      "id": "qnsd201933050",
+      "title": "新医改背景下和谐医患关系的构建",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "wsrkx202003002",
+      "title": "用法律保护医疗卫生人员、促进和谐医患关系",
+      "download_times": 9,
+      "browse_times": 16
+    },
+    {
+      "id": "cskf202003024",
+      "title": "购物中心如何做好社群管理?",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyykzz201903020",
+      "title": "青蒿类药物“扶正祛邪法”治疗视网膜静脉阻塞继发黄斑水肿的中医理论探讨",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "dafj201902015",
+      "title": "那个敢说『顾客第二』的人去了 ——美国西南航空创始人赫伯·凯莱赫(Herb Kelleher)的传奇",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdc-sc201909005",
+      "title": "谁来拯救衰老的购物中心",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgmjlf200604010",
+      "title": "读《脾胃论》有感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzyy200808008",
+      "title": "重读《脾胃论》有感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxxzz201508400",
+      "title": "中医药科研的思路与方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyxlt202002093",
+      "title": "多维度构建和谐医患关系",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "wsjjyj201412007",
+      "title": "医患关系紧张的原因及应对策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kysw201807021",
+      "title": "基于4P模型下的 易捷航空低成本运营模式分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbyxjy201606002",
+      "title": "传承中西优良医德传统对构建和谐医患关系的意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncws202006019",
+      "title": "加强护理管理和谐医患关系",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lcyydzzz202017115",
+      "title": "重视医患沟通技巧搭建和谐医患关系的探讨",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "kxzx201921052",
+      "title": "中美贸易摩擦对IT行业及大学生就业影响的调研报告",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "txsj201904163",
+      "title": "基于STM32的电涡流测距传感器设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zjdl200902016",
+      "title": "电涡流式振动位移传感器应用和运行分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaijj201919093",
+      "title": "中美贸易摩擦背景下大学生爱国主义教育探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gmzy201505087",
+      "title": "成肇仁教授治疗消化系统疾病验案2则",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyyxb200408017",
+      "title": "功能性消化不良的中医临床辨证规律研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mfkj201612016",
+      "title": "基于“小而美”环境的线上针织毛衫的情感化设计新模式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbzyxyxb200404018",
+      "title": "《古医书研究》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gmzy200803016",
+      "title": "梅国强教授运用柴胡类方经验述要",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbzyxyxb200703012",
+      "title": "从'伤寒方'看甘草在临床中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mfkj201105015",
+      "title": "男式毛衫中性化设计演绎与思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbzyzz200609010",
+      "title": "梅国强活用葛根芩连汤举隅",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbzyxyxb200304003",
+      "title": "当代伤寒学一代宗师",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyzz200601033",
+      "title": "五个疏肝复方对胃肠运动功能影响的比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbzyxyxb200502002",
+      "title": "加味小陷胸汤对氧化低密度脂蛋白致血管内皮细胞增殖和凋亡的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyfjxzz200804020",
+      "title": "甘露消毒丹对温病湿热证大鼠LBP mRNA、CD14 mRNA、NF-κBp动态干预",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzxyjhpwzz200404002",
+      "title": "疏肝和胃汤对功能性消化不良大鼠血胃动素和胃泌素的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbzyzz201209013",
+      "title": "梅国强经方治疗脾胃病临证撮要",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "szgygy201308104",
+      "title": "梅国强治疗脾胃病经验(一)",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyxx200605007",
+      "title": "糜烂性胃炎的中医治疗进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "gmzy200802016",
+      "title": "浅谈《伤寒论》之心烦",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gmzy201616062",
+      "title": "半夏泻心汤证治机理及临床运用浅析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbzyzz201804005",
+      "title": "邱明义运用经方同病异治治疗胃脘痛验案举隅",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ahzylczz200803021",
+      "title": "湿热证模型大鼠内毒素转导信号的动态研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbzyxyxb199904017",
+      "title": "论扩大<伤寒论>方临床运用途径",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbzyxyxb201903034",
+      "title": "梅国强自拟方四土汤探析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hbzyzz201003014",
+      "title": "成肇仁运用柴胡桂枝汤经验",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbzyxyxb200804005",
+      "title": "疏肝和胃汤对功能性消化不良",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbzyzz200406010",
+      "title": "成肇仁治疗慢性胃炎的经验",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "shanxzy200107051",
+      "title": "中药复方治疗溃疡性结肠炎的实验和临床研究概况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zyyxk200406036",
+      "title": "古典医籍对功能性消化不良相关病证的认识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgjsxb202016005",
+      "title": "永磁直线同步电动机伺服系统的自适应加加速度控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yinsbj201950302",
+      "title": "分析临终关怀在老年临终患者护理中的意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddyy201724010",
+      "title": "民族意象集 ——朱践耳钢琴组曲 《南国印象》 的演奏诠释",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hhzs202015082",
+      "title": "浅谈肖邦夜曲的艺术魅力——以降b小调夜曲op.9 no.1为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xxyxyxb202006005",
+      "title": "同时测定中药材中5种重金属含量的电感耦合等离子体质谱法研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjfxcs202004009",
+      "title": "ICP-MS法测定四种中药材中重金属含量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjzyy201911002",
+      "title": "ICP-MS法分析不同产地何首乌中40种无机元素",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yfxs-syyyxyxb201804015",
+      "title": "钢琴组曲《南国印象》民族性及音乐特色分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonguoyy200702032",
+      "title": "朱践耳钢琴组曲和声研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xkc-zx201812519",
+      "title": "《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfyy201817042",
+      "title": "德彪西钢琴曲《水中倒影》中踏板技术的应用解析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jkzy202016061",
+      "title": "针灸疗法在原发性痛经中的临床应用研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "bfwx-z201304016",
+      "title": "余秋雨散文艺术探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qwtd201009032",
+      "title": "《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gzzyydxxb201605026",
+      "title": "论温病学对《伤寒论》下法的传承与发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgywjjx201412098",
+      "title": "糖尿病患者的饮食护理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjgcyyy202014001",
+      "title": "导盲机器人研究现状综述",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "bfyy202001064",
+      "title": "浅谈肖邦《降b小调谐谑曲》中的和声色彩及演奏技巧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shenh201902057",
+      "title": "红楼一梦终消散——读《红楼梦》有感",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjy-x201710078",
+      "title": "《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jyj202018013",
+      "title": "浅析外貌描写的作用 ——以阿累的《一面》为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyjcyx200112020",
+      "title": "试论《伤寒论》清、下、滋三法对温病治法的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxwjy200907129",
+      "title": "浅析肖邦《降b小调夜曲》的教学与演奏",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ysbjzn-x201934080",
+      "title": "糖尿病患者饮食护理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "yinsbj201929223",
+      "title": "糖尿病患者的饮食治疗及护理",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sdbg-xs201208409",
+      "title": "肖邦《降b小调夜曲》教学探微",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201801171",
+      "title": "循证护理在糖尿病病人饮食护理中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wtdj201201015",
+      "title": "两轮机器人实时运动控制系统的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "geh201404017",
+      "title": "交响组曲《云南音诗》中民族音乐元素交响化的运用及历史评价",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hlxzz201802027",
+      "title": "护理研究课程教学引入课题计划书的效果评价",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hunnj201103114",
+      "title": "浅谈余秋雨散文艺术风格的认识和评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy202010023",
+      "title": "基于ANSYS的导盲机器人底盘有限元分析",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "zgbjyy-kp202013447",
+      "title": "微波消解-ICP-MS法对葛根等5种中药材的重金属及有害元素的分析测定",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qilyy201603005",
+      "title": "朱践耳钢琴组曲《南国印象》演奏诠释",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xdhl201920031",
+      "title": "国内外妊娠期糖尿病产妇母乳喂养影响因素及促进措施的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hnzy200704003",
+      "title": "谈《温病条辨》对《伤寒论》的继承与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jlzyy201806031",
+      "title": "试述《温病条辨》对《伤寒论》的继承与发展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbjzkjxyxb-shkx200601036",
+      "title": "论俄罗斯钢琴学派的民族性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgbjyy-kp201811175",
+      "title": "护理干预对糖尿病患者饮食依从性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201824157",
+      "title": "关于糖尿病饮食护理指导措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ldbzsj201812029",
+      "title": "医学生对临终关怀认知水平调查",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysk202008052",
+      "title": "探析云南少数民族音乐元素在视唱练耳教学中的运用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ywjxzy201909018",
+      "title": "从祥林嫂的三次外貌描写透视祥林嫂的悲剧",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dypj201113042",
+      "title": "探究张朝钢琴组曲《滇南山谣三首》中的意境表现",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yysk202002003",
+      "title": "论中国钢琴组曲《滇南山谣三首》的艺术特色和演奏技巧",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "dzwy201924101",
+      "title": "刍议中国钢琴作品中京剧元素的运用——以钢琴作品《皮黄》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "llxyxb200702061",
+      "title": "钢琴组曲《南国印象》曲式结构试析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hhzs201917079",
+      "title": "云南少数民族舞蹈元素融入小学音乐教学的策略分析 ——以楚雄市A小学为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201920366",
+      "title": "老年人健康需求特点与健康管理对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzzyydxxb200402003",
+      "title": "从《温病条辨》对《伤寒论》的继承与发展论中医发展的创新性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yskj201301022",
+      "title": "浅析吉卜力最新动画电影《借东西的小人阿莉埃蒂》",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jnwx-jdydx201203151",
+      "title": "心随琴动——浅析肖邦降b小调夜曲",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "spaqzljcjs201607012",
+      "title": "微波消解-电感耦合等离子体质谱法同时测定药食两用中药材中的15种元素",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fxcsxb201706009",
+      "title": "微波酸提取/液相色谱-电感耦合等离子体质谱法测定动物源性中药中6种砷形态",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyy202001015",
+      "title": "电感耦合等离子体-原子发射光谱法测定不同产地丹参中微量元素",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yysk202018016",
+      "title": "论京剧元素在钢琴作品《皮黄》中的运用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zxyjhxxgbdzzz201933083",
+      "title": "糖尿病患者的饮食护理及健康教育研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "ysbjzn-x201932139",
+      "title": "糖尿病患者护理中饮食指导的应用效果观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jtbj201918287",
+      "title": "套餐式饮食在糖尿病饮食护理中的应用效果探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgzyy201307126",
+      "title": "伤寒与温病之辨析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jtyy201806391",
+      "title": "老年病房护士对临终关怀和临终尊严护理的认知调查",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yskj201609160",
+      "title": "肖邦《降b小调夜曲》(OP.9NO.1)的演奏特点与风格特征",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgzyyxdycjy201111001",
+      "title": "温病与伤寒的学术之争",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "smsfgdzkxxxb201904028",
+      "title": "我国钢琴音乐中的少数民族音乐元素 ——以张朝的《滇南山谣三首》为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "mzsfgdzkxxxb202005010",
+      "title": "西方钢琴创作技法与彝族传统音乐的融合——解析《滇南山谣三首》的音乐特色与演奏",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "bfyy202005014",
+      "title": "巴赫钢琴组曲的艺术风格研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hhzs201706059",
+      "title": "云南少数民族音乐的艺术特点与传承",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzyyxxzz202006016",
+      "title": "微波消解电感耦合等离子体质谱法同时测定4个省区锁阳中19种无机元素含量",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dxsfgdzkxxxb201502024",
+      "title": "朱践耳《童嬉》的艺术特色探析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "bfyy201922033",
+      "title": "钢琴曲《皮黄》的音乐特征和演奏技巧分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xhyyxyxb201401017",
+      "title": "朱践耳钢琴组曲《南国印象》中织体的结构力与风格特征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yysk201915004",
+      "title": "云山之南曲尽其妙 ——钢琴组曲《南国印象》艺术研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "swbj202007024",
+      "title": "倦倚红楼 ——《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdyw-gzb2017z1032",
+      "title": "《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dywx201415028",
+      "title": "重观宫崎骏的动画电影《借东西的小人阿莉埃蒂》",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yycz201906012",
+      "title": "《滇南山谣三首》对彝族音乐元素的运用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "geh201503017",
+      "title": "越歌元素的创造性运用探究--以室内乐《边寨之夜》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "czsyxzw201208070",
+      "title": "唱一曲“红楼”——《红楼梦》读后感",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sd-xx201812006",
+      "title": "浅析余氏散文特色",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjlcyx201705083",
+      "title": "肿瘤干细胞的来源及主要调节机制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lc-sc2019z1038",
+      "title": "玉雕行业的生存与发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysbjzn-x202008092",
+      "title": "刘完素的取象比类思维及临床应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xalhdxxb201304006",
+      "title": "汪曾祺两篇《异秉》人物处理技巧的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjj202034041",
+      "title": "中小制造业企业存货管理问题和对策研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh201930097",
+      "title": "浅析重庆市沃尔玛连锁超市存货管理",
+      "download_times": 12,
+      "browse_times": 15
+    },
+    {
+      "id": "sq-zh202014152",
+      "title": "F公司的存货管理研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "dianzsw201902002",
+      "title": "'新零售'模式下生鲜电商发展研究 ——以'易果生鲜'为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "mysd-c201308012",
+      "title": "浅析红山文化玉器的精神内涵",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlxzz201901005",
+      "title": "老年癌症患者恐惧疾病进展与希望水平的相关性研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "hlykf201311006",
+      "title": "癌症患者希望水平与相关因素的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdhl200905005",
+      "title": "胃肠道癌症患者的希望水平与社会支持的相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ncjjykj201810086",
+      "title": "关于C2C网店运营推广策略研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jyyxylc201701015",
+      "title": "危机干预对宫颈癌患者手术后应对方式及希望水平的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "tjscmglgbxyxb202004008",
+      "title": "新冠疫情对我国生鲜电商行业的冲击与机遇分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dianzsw202008003",
+      "title": "新零售模式下生鲜电商盈利模式研究",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "hlxzz201911016",
+      "title": "临床护士情绪智力对护士领导力的影响",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hlykf201207004",
+      "title": "肿瘤医院护士工作压力和满意度与评判性思维能力的相关分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcb202021015",
+      "title": "互联网时代法国实体书店运营策略创新与实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zqsczk201918030",
+      "title": "有友食品品牌形象深入人心的“重庆美食名片”",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qgsq-jjllyj201628008",
+      "title": "网店运营中客户数据分析与应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyyxxzz201811024",
+      "title": "取象比类法在血瘀型银屑病治疗中的运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyyxdycjy201913028",
+      "title": "中医药的取类比象法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qlhlzz202019009",
+      "title": "以认知为基础的积极行为重塑方案在原发性肝癌介入治疗患者中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tg201912024",
+      "title": "浅谈玉器的发展及玉雕器皿件创作",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "renj201604005",
+      "title": "韩少功小说中非理性人物形象的意蕴探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzsw202009004",
+      "title": "生鲜电商平台型模式分析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zwxx201706267",
+      "title": "《爸爸爸》中'丙崽'的文化意义",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "xdyw-czb200805032",
+      "title": "传统与现代的交锋——浅析《爸爸爸》",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdyw-llyj200412007",
+      "title": "人性的复归--丙崽形象看法点滴",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mysd-x201905029",
+      "title": "汪曾祺笔下的'手艺人'",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ywxk201205025",
+      "title": "从阿Q与丙崽看鲁迅和韩少功对传统文化的态度",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjzl201109002",
+      "title": "探究'傻子'形象所反映出的人性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-hlxfc202021026",
+      "title": "危机干预护理对宫颈癌患者术后心理状态、应对方式及希望水平的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mysd-s201006039",
+      "title": "玉雕产业发展与玉雕人才培养",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkcyj-zy202003010",
+      "title": "汪曾祺《昆明的雨》再解读",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "zzxk201807023",
+      "title": "论汪曾祺笔下的传统中国人形象",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qnwxj202030020",
+      "title": "汪曾祺小说小人物形象探析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzwy202008020",
+      "title": "民间劳动的诗与美——论汪曾祺小说中的底层劳动者形象",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zhhljy202004020",
+      "title": "消化系统癌症女性患者希望水平在恐惧疾病进展与生育忧虑间的中介作用",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "csgzxb200901018",
+      "title": "废墟里长出的罂粟花——《小孃孃》精读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "htsfgdzkxxxb-hwb201005138",
+      "title": "玉器——传承中华文化的载体",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt202037128",
+      "title": "'取象比类'思维方法在中药学教学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201830253",
+      "title": "关于每日优鲜:定义生鲜电商新模式探讨",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201826032",
+      "title": "个性化搜索背景下的淘宝网店差异化运营策略探讨",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hbjjxyxb-rwshkxb202003021",
+      "title": "从《庄子·天下》谈诸子对'百家争鸣'现象的批判",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjmdk202011038",
+      "title": "塑料管道企业存货管理问题与对策——以A公司为例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjzlgl202019006",
+      "title": "炭业科技有限公司的存货管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsmgy202019013",
+      "title": "外贸企业风险分析及规避措施研究 ——以福耀玻璃集团为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "nyfzyjr202008014",
+      "title": "新冠疫情下农发行服务外贸企业路径",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "ywjxyyj-ddb201702006",
+      "title": "论韩少功《爸爸爸》人物的民族悲剧意识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdyw-czb201306021",
+      "title": "《爸爸爸》中丙崽与刑天的形象意义解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzllcykf201807033",
+      "title": "认知行为干预对肝癌患者术后自我效能及负性情绪的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mysd-x202008021",
+      "title": "论汪曾祺小说《故乡人》中王淡人的人物形象",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bfwx-x201902024",
+      "title": "边缘处的思考——韩少功小说人物形象研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzsj201312116",
+      "title": "基于matlab变声器的设计",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "jcjykc202022009",
+      "title": "让阅读教学绽放中华优秀传统文化的魅力",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxllx201812017",
+      "title": "临床护士评判性思维态度倾向性与护理伦理决策能力的相关性分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qlhlzz201913022",
+      "title": "规范化培训护士评判性思维能力及影响因素分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jfjhlzz201212004",
+      "title": "综合性教学医院临床护士评判性思维的现状及其影响因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tlsjyyj201902009",
+      "title": "临床护士评判性思维态度倾向性现状与相关因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbqy201905044",
+      "title": "谷果农府绿色食品'实体店+网店'运营模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201924133",
+      "title": "盒马鲜生的新零售模式研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "syjlr201833012",
+      "title": "生鲜电商运营模式及发展对策研究 ——以京东到家和每日优鲜为例比较分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "gjyywsdb201815049",
+      "title": "姑息照护健康教育对肝癌患者希望水平的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gxzljddb202008058",
+      "title": "康美药业股份有限公司存货管理分析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sczyjsxyxb201504010",
+      "title": "谈迟子建与韩少功笔下的侏儒形象",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jnwx-jdydx201308029",
+      "title": "“道”向“万物”的演化--《爸爸爸》中的生命意识",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlglzz201310002",
+      "title": "ICU护士评判性思维的现状及影响因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsp201821039",
+      "title": "有望成为“泡椒凤爪第一股”有友食品亟需破解产品单一难题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tzycy202006054",
+      "title": "浅谈淘宝网店运营的推广手段和运营策略",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "juanz201405209",
+      "title": "中小企业存货管理浅析--以得润电子为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sq-zh202018123",
+      "title": "优衣库供应链模式下存货管理经验与启示",
+      "download_times": 3,
+      "browse_times": 11
+    },
+    {
+      "id": "zgcy202009011",
+      "title": "生鲜电商的创新者——每日优鲜",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xwyxz201509035",
+      "title": "给予就是最好的沟通——泰国公益广告赏析",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "rwzy201904018",
+      "title": "公益广告的多模式积极话语分析 ——一则公益广告赏析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "nfwt201904002",
+      "title": "“要贴着人物写”——“这是小说学的精髓”",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncws201605015",
+      "title": "取象比类法在中医儿科的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lzjyxyxb201101010",
+      "title": "韩少功小说中的女性形象分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdhl201504001",
+      "title": "癌症患者希望水平相关因素及护理措施的研究现状",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddhs201612045",
+      "title": "心灵关怀对癌症居家姑息护理患者希望水平的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xjzj201307256",
+      "title": "《爸爸爸》中人物形象的民俗意蕴",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxjyyj202006020",
+      "title": "理工类院校推动中华优秀传统文化教育的路径探析",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "dlxttx200512019",
+      "title": "基于FPGA的PCM编码器与解码器的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201748227",
+      "title": "从题材寓意探讨玉器的文化价值与民族精神",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbpg201802054",
+      "title": "山西美特好连锁超市存货管理分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "xiandaiyx202006099",
+      "title": "连锁超市存货成本管理分析",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "fjzlgl202012042",
+      "title": "存货内部控制研究 ——以红旗连锁超市为例",
+      "download_times": 8,
+      "browse_times": 10
+    },
+    {
+      "id": "zgjtjj202017032",
+      "title": "电子制造企业库存管理问题和对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjtjj201726056",
+      "title": "浅谈中小型电子企业存货管理",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hhzs202016037",
+      "title": "朱践耳钢琴组曲《南国印象》的审美特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mm202006057",
+      "title": "生鲜电商O2O模式网络营销研究——以'盒马生鲜'为例",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jkxlxzz202002013",
+      "title": "正向激励干预在肿瘤内科住院患者的应用及对负性情绪、希望水平和应对方式的影响",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hnsfdxxb-yxb201905001",
+      "title": "叙事疗法对晚期癌症患者希望水平及心理状态的影响",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zgwssygl201905006",
+      "title": "癌症患者内心希望水平与言语量的关系分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfhlxb201908010",
+      "title": "308例癌症中年患者希望水平现状及影响因素分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jfjhlzz200904008",
+      "title": "胃肠道癌症患者希望水平与生活质量的相关性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhhlzz200707020",
+      "title": "癌症首次手术后化疗患者希望水平与应对方式、社会支持的关系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hsjxzz201915001",
+      "title": "中年癌症患者心理弹性与希望水平及应对方式的相关性研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "hsjxzz202013018",
+      "title": "'自我效能加油站'对Ⅰ～Ⅱ期肺腺癌患者术后康复效果、癌因性疲乏及希望水平影响的研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zwkjzlml-yyws201802048",
+      "title": "癌症患者希望水平的研究现状和展望",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "tg202002005",
+      "title": "礼玉文化的传承与发展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzwy201320018",
+      "title": "王尔德《莎乐美》的病态美在汪曾祺《小孃孃》中的印迹",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "pp202013024",
+      "title": "基于客户满意度提升的网店运营策略探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "wxjy-z201903041",
+      "title": "从《大鱼海棠》看中国元素在电影中的运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nysfxyxb201108012",
+      "title": "南阳市的玉雕产业发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ksszxb-shkxb202002016",
+      "title": "汪曾祺小说《八千岁》中的人物形象研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zjwlxyxb201906012",
+      "title": "汪曾祺小说结构生成路径及特色探析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy202022034",
+      "title": "中华优秀传统文化融入高校思想政治教育探究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xdyyws201919039",
+      "title": "基于藏象学说的中医儿科教学方法实践研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201714006",
+      "title": "母婴电商发展的SWOT分析及对策",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "sysd201904024",
+      "title": "'新零售'背景下生鲜电商商业模式比较分析——以盒马鲜生和每日优鲜为例",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zhonggsm201824007",
+      "title": "基于SCP视角下生鲜电商竞争策略的比较分析 ——以盒马鲜生和每日优鲜为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "sclyj201803028",
+      "title": "每日优鲜的战略分析及面临的挑战",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "xlys-x201736007",
+      "title": "基于纽曼理论的护理方法在宫颈癌子宫全切术后患者负性情绪干预中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tlsjyyj201909040",
+      "title": "心理危机多维度干预策略在宫颈癌手术患者中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "llycz201624011",
+      "title": "畸形时代的精神脉象与文化症候--论韩少功《爸爸爸》人物塑造的象征意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc201921116",
+      "title": "CZRWHCM有限公司企业线上线下推广策略研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjy-z202009009",
+      "title": "论韩少功小说中的'失语者'形象",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzwy201919028",
+      "title": "韩少功小说文化再解读",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jnwx-jdydx201209042",
+      "title": "浅析韩少功《爸爸爸》中丙崽的身份符号",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfwx-x201911004",
+      "title": "韩少功小说《爸爸爸》的文化人类学阐释",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xfdk202006117",
+      "title": "生鲜电商发展研究——以'易果生鲜'为例",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "hqsc202020125",
+      "title": "网络消费者行为特征及营销策略分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jiangssl202005031",
+      "title": "南通华银毛绒制品的存货管理问题研究",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "hzjjykj202013059",
+      "title": "科隆股份盈利能力分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdlchl201203006",
+      "title": "农村癌症患者希望水平及其影响因素的调查分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghlgl201401017",
+      "title": "晚期癌症患者希望水平与应对方式、生活质量的相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gxyx201918029",
+      "title": "基于微信平台的延续护理在中晚期鼻咽癌患者中的应用效果",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjykdxxb-shkx201903007",
+      "title": "晚期癌症患者照顾者希望水平与积极感受研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "hbydjs201203006",
+      "title": "基于 MATLAB 的语音信号的采集与运算",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zbkj200702013",
+      "title": "浅述中国玉器的传承与创新之路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjsfgdzkxxxb200903014",
+      "title": "丙崽:中国式的'圣愚'",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yzjpl202001013",
+      "title": "穿越语言的迷雾 ——重读汪曾祺的小说《复仇》",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdjyxyxb201906022",
+      "title": "汪曾祺小说中手艺人形象的分析",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qnwxj202026013",
+      "title": "汪曾祺小说中的民间文学色彩",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "dzwy201910019",
+      "title": "论汪曾祺乡土小说中的人物形象",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "scxdh201902005",
+      "title": "速卖通女装行业的问题及对策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxzyjsxyxb201902015",
+      "title": "试论汪曾祺早期小说中人物的内在叙事",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh202020096",
+      "title": "我国中小企业存货管理问题研究——以美特斯邦威公司为例",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "syjlr202030004",
+      "title": "新冠疫情背景下中国对外贸易面临的风险与对策研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jjlt202007018",
+      "title": "从新冠疫情看突发事件对外贸企业的影响及对策",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jyz202012032",
+      "title": "中小企业ERP实施的建议与对策",
+      "download_times": 5,
+      "browse_times": 10
+    },
+    {
+      "id": "xfdk201720197",
+      "title": "中小企业实施ERP的策略研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjtjj202034030",
+      "title": "沃尔玛存货管理存在的问题及对策研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jhxk202003029",
+      "title": "先秦诸子百家争鸣综说",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hzjjykj201803036",
+      "title": "生鲜电商运营模式案例分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xbnlkjdxxb-sh201902012",
+      "title": "生鲜电商O2O商业模式实现路径",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dzwy201218245",
+      "title": "从玉器的形质和纹饰看环太湖地区史前考古学文化的延续性——以马家浜文化 崧泽文化 良渚文化为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201825052",
+      "title": "生鲜电商现状与趋势研究——以每日优鲜为例",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "zsjj-zgzx201905019",
+      "title": "母婴电商蜜芽口碑存争议",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzlwlx201902030",
+      "title": "每日优鲜被投诉消费者“四不满意”",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "hbzyxyxb200703012",
+      "title": "从'伤寒方'看甘草在临床中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyfjxzz200804020",
+      "title": "甘露消毒丹对温病湿热证大鼠LBP mRNA、CD14 mRNA、NF-κBp动态干预",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "QK199400651269",
+      "title": "心下痞辨证分型与胃脘部皮肤及胃内温度相关性研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gmzy200803016",
+      "title": "梅国强教授运用柴胡类方经验述要",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbzyxyxb199904017",
+      "title": "论扩大<伤寒论>方临床运用途径",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "hlxzz201802027",
+      "title": "护理研究课程教学引入课题计划书的效果评价",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "0120180803173190",
+      "title": "护理研究课程教学引入课题计划书的效果评价",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dypj201113042",
+      "title": "探究张朝钢琴组曲《滇南山谣三首》中的意境表现",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qilyy201603005",
+      "title": "朱践耳钢琴组曲《南国印象》演奏诠释",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "dxsfgdzkxxxb201502024",
+      "title": "朱践耳《童嬉》的艺术特色探析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "yysk201915004",
+      "title": "云山之南曲尽其妙 ——钢琴组曲《南国印象》艺术研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jnwx-jdydx201203151",
+      "title": "心随琴动——浅析肖邦降b小调夜曲",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sjzyy201911002",
+      "title": "ICP-MS法分析不同产地何首乌中40种无机元素",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_7002935917",
+      "title": "钢琴音乐中少数民族元素的应用——以滇南彝族传统音乐为例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "675394319",
+      "title": "万籁此俱寂,惟余钟磬音——张朝《在那遥远的地方》的创作特色",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nmgzyy201307126",
+      "title": "伤寒与温病之辨析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyjcyx200112020",
+      "title": "试论《伤寒论》清、下、滋三法对温病治法的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyyxdycjy201111001",
+      "title": "温病与伤寒的学术之争",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hnzy201609004",
+      "title": "伤寒与温病",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "mzsfgdzkxxxb202005010",
+      "title": "西方钢琴创作技法与彝族传统音乐的融合——解析《滇南山谣三首》的音乐特色与演奏",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "bfyy201910059",
+      "title": "钢琴组曲《版纳风情》中的现代和声研析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fjfxcs202004009",
+      "title": "ICP-MS法测定四种中药材中重金属含量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy201922033",
+      "title": "钢琴曲《皮黄》的音乐特征和演奏技巧分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200702190371",
+      "title": "肖邦降B小调夜曲(OP.9NR.1)分析及演奏",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yycz201906012",
+      "title": "《滇南山谣三首》对彝族音乐元素的运用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "smsfgdzkxxxb201904028",
+      "title": "我国钢琴音乐中的少数民族音乐元素 ——以张朝的《滇南山谣三首》为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "bsFk2SYCgWawaFNVdaqGRVoqnBFrtoYzFoZEer27H74=",
+      "title": "《中华中医药学刊》稿约",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy201701083",
+      "title": "张朝《滇南山谣三首》的分析与演奏",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "qnsd201808020",
+      "title": "中国钢琴曲《滇南山谣三首》的创作与演奏解析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "bfyy201603046",
+      "title": "拉威尔《波莱罗》作曲技法分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjyky201422026",
+      "title": "论独龙族音乐的元素构成及美学价值——评《中国云南少数民族音乐考源》",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "yfxs-syyyxyxb201804015",
+      "title": "钢琴组曲《南国印象》民族性及音乐特色分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "ysbjzn-x201934080",
+      "title": "糖尿病患者饮食护理",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnzy200704003",
+      "title": "谈《温病条辨》对《伤寒论》的继承与发展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy202005014",
+      "title": "巴赫钢琴组曲的艺术风格研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xhyyxyxb201401017",
+      "title": "朱践耳钢琴组曲《南国印象》中织体的结构力与风格特征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yysk201915004",
+      "title": "云山之南曲尽其妙 ——钢琴组曲《南国印象》艺术研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "yysk202002003",
+      "title": "论中国钢琴组曲《滇南山谣三首》的艺术特色和演奏技巧",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "dzwy201924101",
+      "title": "刍议中国钢琴作品中京剧元素的运用——以钢琴作品《皮黄》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mzsfgdzkxxxb201905009",
+      "title": "钢琴音乐中少数民族元素的应用——以滇南彝族传统音乐为例",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbjyy-kp202013447",
+      "title": "微波消解-ICP-MS法对葛根等5种中药材的重金属及有害元素的分析测定",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy201412038",
+      "title": "肖邦降b小调夜曲的演奏特点分析",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "oYyxl7l1JRBIv/xzmhO5W1sY+fHE7jflzBv8tGgZbyY=",
+      "title": "浅谈建筑管理中如何加强工程质量监督",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yskj201609160",
+      "title": "肖邦《降b小调夜曲》(OP.9NO.1)的演奏特点与风格特征",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zwdmzszxb201904024",
+      "title": "夏良钢琴组曲《版纳风情》研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yysk202018016",
+      "title": "论京剧元素在钢琴作品《皮黄》中的运用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "geh201503017",
+      "title": "越歌元素的创造性运用探究--以室内乐《边寨之夜》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy201523021",
+      "title": "滇峰中的艺术作品--对云艺作曲创作群体陈勇两首小提琴作品音乐分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hhzs201706059",
+      "title": "云南少数民族音乐的艺术特点与传承",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "llxyxb200702061",
+      "title": "钢琴组曲《南国印象》曲式结构试析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jdnsfzkxxxb201603007",
+      "title": "云南彝族音乐与钢琴艺术的完美融合——浅析张朝《滇南山谣三首》的音乐特色与演奏",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xdhl201920031",
+      "title": "国内外妊娠期糖尿病产妇母乳喂养影响因素及促进措施的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yycz201906012",
+      "title": "《滇南山谣三首》对彝族音乐元素的运用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "geh201404017",
+      "title": "交响组曲《云南音诗》中民族音乐元素交响化的运用及历史评价",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonguoyy200702032",
+      "title": "朱践耳钢琴组曲和声研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "7000386969",
+      "title": "民族意象集———朱践耳钢琴组曲《南国印象》的演奏诠释",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgywjjx201412098",
+      "title": "糖尿病患者的饮食护理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "scxj202006030",
+      "title": "张朝钢琴作品《皮黄》中戏曲元素的运用和表现",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ddyy201724010",
+      "title": "民族意象集 ——朱践耳钢琴组曲 《南国印象》 的演奏诠释",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gqys200602012",
+      "title": "钢琴组曲《滇南山谣三首》评析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyy201715038",
+      "title": "论拉威尔钢琴作品《水的嬉戏》演绎方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "htsfgdzkxxxb-hwb201005138",
+      "title": "玉器——传承中华文化的载体",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rtlkDEX0w+vTg6loCjZjGI5QPiRioc9MiXlh1KzIReU=",
+      "title": "经济发展的“网红”模式",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hlykf201311006",
+      "title": "癌症患者希望水平与相关因素的研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tg202002005",
+      "title": "礼玉文化的传承与发展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zyyjk201805020",
+      "title": "中山市前列腺癌患者心理社会适应能力及希望水平现状",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "tg201912024",
+      "title": "浅谈玉器的发展及玉雕器皿件创作",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qilyy201603005",
+      "title": "朱践耳钢琴组曲《南国印象》演奏诠释",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "ddhs201612045",
+      "title": "心灵关怀对癌症居家姑息护理患者希望水平的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdyfyx201124001",
+      "title": "癌症放疗患者希望水平与应对方式、社会支持的相关性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "gjyywsdb201815049",
+      "title": "姑息照护健康教育对肝癌患者希望水平的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "4r22DpQfkxdVwGslQ5m55KQ1zINPvGP7PplQF2N3dE4=",
+      "title": "网红经济发展研究",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "梅国强",
+    "梅国强",
+    "成肇仁",
+    "邱明义",
+    "梅国强",
+    "element购物中心",
+    "梅国强",
+    "梅国强脾胃病",
+    "成肇仁脾胃病",
+    "成肇仁脾胃病",
+    "梅国强",
+    "成肇仁",
+    "梅国强",
+    "梅国强脾胃病",
+    "成肇仁",
+    "梅国强",
+    "邱明义",
+    "肖邦降b小调夜曲",
+    "肖邦降b小调夜曲",
+    "关键词:(临终关怀)",
+    "云南少数民族音乐",
+    "云南音乐",
+    "钢琴演奏技巧",
+    "钢琴演奏技巧",
+    "德彪西梵高",
+    "钢琴演奏技巧",
+    "德彪西",
+    "水中倒影德彪西和声",
+    "水中倒影",
+    "拉威尔水的嬉戏歌声",
+    "拉威尔水的嬉戏和声",
+    "拉威尔全音音阶",
+    "水中倒影德彪西",
+    "水中倒影",
+    "拉威尔创作技巧",
+    "拉威尔全音音阶",
+    "拉威尔水的嬉戏和声",
+    "关键词:('护理')*关键词:(综述)",
+    "南国印象钢琴",
+    "以为例钢琴",
+    "皮黄",
+    "中华中医学学刊",
+    "南国印象",
+    "南国印象钢琴",
+    "南国印象",
+    "以为例",
+    "钢琴组曲特点",
+    "南国印象",
+    "南国印象",
+    "南国印象",
+    "钢琴组曲特点",
+    "关键词:(糖尿病患者)*关键词:(饮食护理)",
+    "水中倒影",
+    "水中倒影德彪西和声",
+    "拉威尔创作技巧",
+    "水中倒影",
+    "水中倒影德彪西和声",
+    "拉威尔创作技巧",
+    "水中倒影德彪西和声",
+    "水中倒影德彪西",
+    "南国印象",
+    "钢琴表演能力",
+    "钢琴发展",
+    "水中倒影德彪西",
+    "滇南山谣三首",
+    "水中倒影",
+    "水中倒影",
+    "德彪西全音音阶",
+    "水中倒影德彪西",
+    "水中倒影德彪西和声",
+    "水中倒影",
+    "云南音乐元素",
+    "水中倒影",
+    "关键词:(研究计划书)*关键词:(反思)",
+    "南国印象钢琴",
+    "南国印象",
+    "钢琴组曲",
+    "关键词:(临终关怀)",
+    "关键词:(糖尿病)*关键词:(饮食护理)",
+    "滇南山谣三首",
+    "以为例钢琴",
+    "南国印象",
+    "南国印象",
+    "皮黄",
+    "以为例",
+    "皮黄",
+    "南国印象",
+    "拉威尔创作技巧",
+    "滇南山谣三首",
+    "水中倒影德彪西和声",
+    "水中倒影",
+    "滇南山谣三首",
+    "水中倒影",
+    "拉威尔水的嬉戏歌声",
+    "云南音乐元素",
+    "水中倒影德彪西和声",
+    "版纳风情",
+    "南国印象钢琴",
+    "版纳风情",
+    "版纳风情钢琴",
+    "版纳风情",
+    "钢琴论文",
+    "肖邦降b小调夜曲",
+    "钢琴演奏技巧暴风雨",
+    "钢琴演奏技巧",
+    "水中倒影",
+    "德彪西梵高",
+    "德彪西",
+    "钢琴组曲",
+    "钢琴组曲特点",
+    "京剧元素在钢琴作品中的艺术运用—以《皮黄》 《红灯记》为例",
+    "京剧元素在钢琴作品中的艺术运用—以《皮黄》 《红灯记》为例",
+    "温病对伤寒的继承与发展",
+    "论建筑照明设计中的亮点——案例浅析",
+    "关键词:(糖尿病患者)*关键词:(饮食护理)",
+    "肖邦降b小调夜曲",
+    "肖邦降b小调夜曲",
+    "钢琴论文",
+    "云南少数民族音乐的艺术特点与传承",
+    "云南少数民族音乐",
+    "水中倒影",
+    "德彪西",
+    "钢琴演奏技巧",
+    "水中倒影",
+    "面向校园的智能储物柜系统设计",
+    "关键词:(研究计划书)",
+    "关键词:(研究计划书)",
+    "钢琴发展俄国",
+    "钢琴发展俄国",
+    "钢琴发展俄国",
+    "钢琴发展",
+    "钢琴发展",
+    "钢琴论文",
+    "肖邦降b小调夜曲",
+    "钢琴论文",
+    "钢琴论文",
+    "云南音乐",
+    "云南少数民族音乐的艺术特点与传承",
+    "微波等离子体 中药",
+    "微波等离子体 中药",
+    "关键词:(研究计划书)",
+    "水中倒影",
+    "钢琴演奏技巧",
+    "钢琴演奏技巧",
+    "钢琴演奏技巧暴风雨",
+    "德彪西梵高",
+    "钢琴表演能力",
+    "钢琴发展",
+    "钢琴发展",
+    "版纳风情钢琴",
+    "版纳风情",
+    "版纳风情",
+    "南国印象",
+    "肖邦降b小调夜曲",
+    "肖邦降b小调夜曲",
+    "肖邦降b小调夜曲",
+    "德彪西",
+    "钢琴演奏技巧",
+    "南国印象",
+    "微波等离子体 中药",
+    "关键词:(研究计划书)*关键词:(撰写)",
+    "(论建筑照明设计中的亮点——案例浅析) 关键词:'建筑照明'",
+    "钢琴发展俄国",
+    "南国印象",
+    "版纳风情",
+    "南国印象",
+    "南国印象",
+    "南国印象",
+    "拉威尔创作技巧",
+    "德彪西全音音阶",
+    "云南音乐元素",
+    "拉威尔水的嬉戏和声",
+    "水中倒影",
+    "钢琴表演能力",
+    "钢琴发展",
+    "钢琴发展",
+    "糖尿病足预防控制",
+    "糖尿病足预防控制",
+    "传统文化",
+    "信息安全",
+    "信息安全",
+    "渗透",
+    "web渗透",
+    "高层建筑风荷载",
+    "农产品产品品牌营销",
+    "罗卷戏",
+    "罗卷戏",
+    "新冠疫情 全球化 单边主义",
+    "配偶产后抑郁",
+    "产后抑郁对婴儿情绪",
+    "产后抑郁对婴儿的影响",
+    "产后抑郁对孩子",
+    "产后抑郁对婴儿的影响",
+    "产后抑郁对婴儿的影响",
+    "产后抑郁对婴儿的影响",
+    "产后抑郁对婴儿情绪",
+    "产后抑郁对新生儿的影响",
+    "产后抑郁对新生儿",
+    "糖尿病足的预防控制",
+    "古代中医外科外治方法",
+    "中国古代麻醉术的迷失",
+    "护士压力对评判性思维的影响",
+    "校园空间模式",
+    "网红经济",
+    "高层建筑风荷载",
+    "高校绩点",
+    "刊名:'国内高等教育教学研究动态'",
+    "高校绩点",
+    "题名:护理礼仪",
+    "网红经济",
+    "网工经济",
+    "网红经济",
+    "癌症患者希望水平",
+    "癌症患者希望水平",
+    "癌症患者希望水平方法研究进展",
+    "高校绩点",
+    "高校绩点",
+    "(名人效应) (Language:'eng' )",
+    "(网红经济) (Language:'eng' )",
+    "网红经济",
+    "直播带货存在的问题",
+    "短视频带货",
+    "网络带货",
+    "网络带货现状",
+    "互联网给人类带来的变化",
+    "互联网给人类生产生活带来的变化",
+    "糖尿病的预防控制",
+    "糖尿病的预防控制",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "网工经济 *(年份:2020)",
+    "网工经济 *(年份:2020)",
+    "网红经济 *(年份:2019)",
+    "名人效应",
+    "网红经济",
+    "(糖尿病足预防) 作者:王琳洁",
+    "刊名:'国内高等教育教学研究动态'",
+    "题名:护理礼仪护生",
+    "绩点",
+    "罗卷戏",
+    "( 作者:张西蒙) (PublishYear:'2016' )",
+    "( 作者:张西蒙) (PublishYear:'2016' )",
+    "基于RFID的图书馆智能管理系统开发设计",
+    "产后抑郁对新生儿",
+    "企业营销渠道分析",
+    "混凝土耐久性影响因素",
+    "混凝土耐久性影响因素",
+    "教育",
+    "(网络销售) (Language:'eng' )",
+    "网工经济发展研究",
+    "全球化 美国",
+    "新冠疫情 全球化",
+    "全球化 脱欧",
+    "配偶产后抑郁",
+    "配偶产后抑郁",
+    "产后抑郁对婴儿的影响",
+    "信息安全",
+    "罗卷戏",
+    "雀巢咖啡",
+    "肥胖率",
+    "癌症患者希望水平",
+    "糖尿病足预防控制",
+    "糖尿病足预防控制",
+    "糖尿病足预防控制",
+    "互联网给人类带来的变化",
+    "直播带货现状",
+    "直播带货现状及未来",
+    "科幻文学",
+    "糖尿病足预防",
+    "产后抑郁对新生儿的影响",
+    "糖尿病足的预防控制",
+    "混凝土耐久性影响因素",
+    "糖尿病预防控制",
+    "绩点",
+    "网红经济",
+    "网工经济",
+    "jiaoyu",
+    "校园空间利用率",
+    "(网红经济) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "营销渠道",
+    "亚马逊公司",
+    "网红经济",
+    "网络销售",
+    "正向激励干预在肿瘤",
+    "预防医学的作用",
+    "抖音带货",
+    "产后抑郁症对婴儿影响分析及护理 王萍",
+    "网红经济",
+    "(网红经济) (Language:'eng' )",
+    "网红经济",
+    "产后抑郁对婴儿",
+    "南国印象",
+    "南国印象",
+    "癌症患者提升希望水平的方法",
+    "信息安全",
+    "信息安全",
+    "信息安全",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "糖尿病足预防控制",
+    "危机干预护理对宫颈癌患者",
+    "文化",
+    "产后抑郁对婴儿的影响",
+    "新生儿父亲产后抑郁",
+    "产后抑郁对婴儿的影响",
+    "(张西蒙) (PublishYear:'2016' )",
+    "直播农产品品牌营销",
+    "高校绩点",
+    "(高校绩点) 关键词:'高等教育普及化'",
+    "题名:护理礼仪",
+    "作者:'吕晓芹' 作者单位:'华南理工大学'",
+    "短视频带货",
+    "网红经济",
+    "网工经济品牌营销",
+    "网红经济",
+    "我国商业保险区域发展差异分析",
+    "农产品地域品牌建设策略分析",
+    "网红直播代言产品",
+    "网红",
+    "名人效应",
+    "网红经济",
+    "网红经济发展",
+    "网工经济",
+    "国外网络销售",
+    "网工经济",
+    "国外网络销售明星效应",
+    "题名或关键词:(玉雕业)*题名或关键词:(发展)",
+    "题名或关键词:(玉器)*题名或关键词:(精神)",
+    "题名或关键词:(玉器)*题名或关键词:(精神)",
+    "教育",
+    "氟利昂制冷",
+    "压缩制冷",
+    "氟利昂制冷系统",
+    "氟利昂制冷系统",
+    "乡村振兴战略下",
+    "(综述) 题名:地域品牌建设策略分析",
+    "地域品牌建设策略分析",
+    "播音",
+    "直播带货现状及",
+    "产后抑郁对婴儿",
+    "题名或关键词:(发展)*题名或关键词:(玉器)*题名或关键词:(传承)",
+    "基于c/s的图书馆管理系统",
+    "危机干预护理对宫颈癌患者",
+    "升降式搬运装卸小车",
+    "(信息安全) (SingleSourceDB:(WF OR 人民邮电出版社 OR 电子四所) )",
+    "配偶产后抑郁",
+    "网红经济背景下农产品品牌营销",
+    "罗卷戏",
+    "罗卷戏",
+    "绩点对学生影响",
+    "绩点对学生的影响",
+    "作者:'贾静杰'",
+    "直播带货",
+    "基于RobotStudio的机器人搬运工作站设计与路径仿真",
+    "农产品品牌营销",
+    "农产品品牌营销",
+    "产后抑郁对新生儿",
+    "产后抑郁对婴儿",
+    "产后抑郁对新生儿的影响",
+    "外治和内治",
+    "华佗外科鼻祖",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "网红经济发展",
+    "网工经济发展研究",
+    "网工经济发展研究",
+    "网工经济",
+    "农产品品牌化经营",
+    "农产品品牌营销",
+    "题名或关键词:(玉器)*题名或关键词:(时代精神)",
+    "氟利昂制冷系统中冷风机融霜方式的设计",
+    "(多足仿生机器人) Date:2017-2020",
+    "南国印象",
+    "产后抑郁对婴儿安全感",
+    "产后抑郁对婴儿情绪",
+    "南国印象",
+    "网红经济",
+    "(雀巢咖啡) (PublishYear:'2019' )",
+    "雀巢咖啡",
+    "肥胖",
+    "肥胖率",
+    "题名:护理礼仪",
+    "产后抑郁对婴儿睡眠",
+    "产后抑郁对婴儿",
+    "癌症患者希望水平方法研究进展",
+    "乡村振兴战略",
+    "糖尿病足",
+    "文化自觉",
+    "(张西蒙) (PublishYear:'2016' )",
+    "张西蒙",
+    "绩点为王",
+    "高校绩点",
+    "网工经济",
+    "网红经济",
+    "短视频带货",
+    "网红直播代言产品",
+    "全球化 脱欧",
+    "题名或关键词:(玉雕业)*题名或关键词:(发展)",
+    "癌症患者希望水平方法研究进展",
+    "网络带货",
+    "短视频带货存在的问题",
+    "题名或关键词:(玉器)*题名或关键词:(精神)",
+    "糖尿病足的预防控制",
+    "糖尿病预防控制",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "农产品品牌营销",
+    "静脉输液港 化疗间歇期",
+    "(乡村振兴战略下) (ClassCodeForSearch:'0/G' )",
+    "全球化 脱欧",
+    "(主题:(web渗透)) (Type:(Periodical OR Thesis OR Conference) )",
+    "高校绩点",
+    "(高校绩点) 关键词:'高等教育普及化'",
+    "网络带货",
+    "网络带货现状",
+    "南国印象",
+    "南国印象",
+    "提高混凝土抗压强度的措施探讨",
+    "产后抑郁对婴儿睡眠",
+    "产后抑郁对婴儿",
+    "网红经济发展",
+    "网工经济",
+    "网红经济发展",
+    "网工经济发展研究",
+    "((题名或关键词:meningococcal AND 题名或关键词:meningitis)) (Type:(Periodical OR Thesis OR Conference OR Standard OR Cstad OR Nstr) )",
+    "生成对抗网络在计算机视觉领域中的应用研究",
+    "web渗透技术",
+    "科幻文学  科技",
+    "老年肥胖症的中医药治疗",
+    "癌症患者希望水平方法研究进展",
+    "癌症患者希望水平方法研究进展",
+    "癌症患者希望水平方法研究进展",
+    "癌症患者希望水平",
+    "癌症患者希望水平方法研究进展",
+    "题名或关键词:(玉器)*题名或关键词:(精神)",
+    "护士压力对评判性思维的影响",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "(高层建筑风荷载) AND (((((Type:Periodical AND  ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Thesis AND ((SingleSourceDB:ISTIC) OR ((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1)))) OR (Type:Patent) OR (Type:Nstr) OR (Type:Claw) OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true)  OR (Type:Conference AND SingleSourceDB:NSTL))))",
+    "预防医学作用",
+    "预防医学意义",
+    "原始时期医学的发展",
+    "中西外科"
+  ]
+}

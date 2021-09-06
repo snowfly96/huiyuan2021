@@ -228,4 +228,96 @@ function drawCirclePacking() {
         myChart.setOption(option);
     }
 }
-drawCirclePacking();
+// drawCirclePacking();
+
+function drawTypeRatio() {
+     var chartDom = document.getElementById('circle-packing');
+     var myChart = echarts.init(chartDom);
+     var type_label={
+             "A": "马克思主义、列宁主义、毛泽东思想",
+            "B": "哲学",
+            "C": "社会科学总论",
+            "D": "政治、法律",
+            "E": "军事",
+            "F": "经济",
+            "G": "文化、科学、教育、体育",
+            "H": "语言、文字",
+            "I": "文学",
+            "J": "艺术",
+            "K": "历史、地理",
+            "N": "自然科学总论",
+            "O": "数理科学和化学",
+            "P": "天文学、地理科学",
+            "Q": "生物科学",
+            "R": "医学卫生",
+            "S": "农业科学",
+            "T": "工业技术",
+            "U": "交通运输",
+            "V": "航空、航天",
+            "X": "安全科学",
+            "Z": "综合性图书"
+     };
+    $.get("./static/data/article_type_matrix.json",function (_rawData) {
+        var data = _rawData["data"];
+        data=data.map(function (item) {
+            return [item[1],item[0],item[2]];
+        });
+        var data_type=data.map(function (item) {
+            return item[1];
+        });
+        data_type=[...new Set(data_type)];
+
+        console.log(data);
+        option = {
+            title: {
+                text: '各类文献下载浏览比'
+            },
+            legend: {
+                data: ['文献'],
+                left: 'right'
+            },
+            tooltip: {
+                position: 'top',
+                // formatter: function (params) {
+                //     return params.value[2] + ' commits in ' + hours[params.value[0]] + ' of ' + days[params.value[1]];
+                // }
+            },
+            grid: {
+                left: 20,
+                bottom: 10,
+                right: "10%",
+                containLabel: true
+            },
+            xAxis: {},
+            yAxis: {
+                type: 'category',
+                boundaryGap: false,
+                data: data_type,
+                axisLabel:{
+                    formatter: function (item) {
+                        return type_label[item];
+                    },
+                    fontSize: 10
+                }
+            },
+            series: [{
+                symbolSize: function (val) {
+                    return Math.sqrt(val[2]);
+                },
+                itemStyle:{
+                    normal:{
+                            color:params=>{
+                                // console.log(params.data);
+                                return "bisque";
+                            }
+                        }
+                    },
+                data: data,
+                type: 'scatter'
+            }]
+        };
+
+        option && myChart.setOption(option);
+    })
+}
+drawTypeRatio();
