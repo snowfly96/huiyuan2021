@@ -160,44 +160,51 @@ function abnormalAnalysisView() {
                 series:[
                     {
                         type: 'tree',
-
+                        id: 0,
+                        name: 'tree1',
                         data: [curNewData],
 
-                        left: '2%',
-                        right: '2%',
-                        top: '8%',
-                        bottom: '20%',
+                        top: '2%',
+                        left: '8%',
+                        bottom: '2%',
+                        right: '20%',
 
-                        symbol: 'emptyCircle',
+                        symbolSize: 12,
 
-                        orient: 'vertical',
+                        edgeShape: 'polyline',
+                        edgeForkPosition: '63%',
+                        initialTreeDepth: 3,
 
-                        expandAndCollapse: true,
+                        lineStyle: {
+                            width: 2
+                        },
 
                         label: {
-                            position: 'top',
-                            rotate: -90,
+                            backgroundColor: '#fff',
+                            position: 'left',
                             verticalAlign: 'middle',
-                            align: 'right',
-                            fontSize: 9
+                            align: 'right'
                         },
 
                         leaves: {
                             label: {
-                                position: 'bottom',
-                                rotate: -90,
+                                position: 'right',
                                 verticalAlign: 'middle',
                                 align: 'left'
                             }
                         },
 
+                        emphasis: {
+                            focus: 'descendant'
+                        },
+
+                        expandAndCollapse: true,
+                        animationDuration: 550,
                         animationDurationUpdate: 750
                     }
                 ]
             });
         });
-
-
         option && myChart.setOption(option);
     }
     drawTopUserArticle();

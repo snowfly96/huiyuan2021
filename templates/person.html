@@ -3,9 +3,9 @@
 {% block content %}
         <div id="left-list">
         <div id="user-article-list" class="list-scroll">
-            <div id="update-list">
-                <i class="fa fa-refresh"></i>
-            </div>
+{#            <div id="update-list">#}
+{#                <i class="fa fa-refresh"></i>#}
+{#            </div>#}
             {#  top列表   #}
         </div>
         <div id="list-setting">
@@ -26,44 +26,49 @@
                         </div>
                     </div>
                 </div>
-                <div id="time-filter-box"  class="filter-box-child">
-                    <div class="filter-box-label">
-                        主题
-                    </div>
-                    <div class="filter-box-content">
-                        <span id="time-filter-slider-start">0</span>
-                        <input type="range" min="0.5" max="1" step="0.05" value="0.2" class="slider" id="slider-start"/>
-                        <span>100%</span>
-                    </div>
-                </div>
-                <div id="frequency-filter-box"  class="filter-box-child">
-                    <div class="filter-box-label">
-                        频率
-                    </div>
-                    <div class="filter-box-content">
-                        <select name="times-selector" id="times-selector" class="tt-selector">
-                            <option value="5">5</option>
-                            <option value="10">10</option>
-                            <option value="20">20</option>
-                            <option value="30">30</option>
-                        </select>
-                        <span>/</span>
-                        <select name="time-selector" id="time-selector"  class="tt-selector">
-                            <option value="5">5</option>
-                            <option value="10">10</option>
-                            <option value="20">20</option>
-                            <option value="30">30</option>
-                        </select>
-                        <div id="times-times-label-box">
-                             <label for="time-selector">次/分钟</label>
-                        </div>
-                    </div>
-                </div>
+{#                <div id="time-filter-box"  class="filter-box-child">#}
+{#                    <div class="filter-box-label">#}
+{#                        主题#}
+{#                    </div>#}
+{#                    <div class="filter-box-content">#}
+{#                        <span id="time-filter-slider-start">0</span>#}
+{#                        <input type="range" min="0.5" max="1" step="0.05" value="0.2" class="slider" id="slider-start"/>#}
+{#                        <span>100%</span>#}
+{#                    </div>#}
+{#                </div>#}
+{#                <div id="frequency-filter-box"  class="filter-box-child">#}
+{#                    <div class="filter-box-label">#}
+{#                        频率#}
+{#                    </div>#}
+{#                    <div class="filter-box-content">#}
+{#                        <select name="times-selector" id="times-selector" class="tt-selector">#}
+{#                            <option value="5">5</option>#}
+{#                            <option value="10">10</option>#}
+{#                            <option value="20">20</option>#}
+{#                            <option value="30">30</option>#}
+{#                        </select>#}
+{#                        <span>/</span>#}
+{#                        <select name="time-selector" id="time-selector"  class="tt-selector">#}
+{#                            <option value="5">5</option>#}
+{#                            <option value="10">10</option>#}
+{#                            <option value="20">20</option>#}
+{#                            <option value="30">30</option>#}
+{#                        </select>#}
+{#                        <div id="times-times-label-box">#}
+{#                             <label for="time-selector">次/分钟</label>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                </div>#}
             </div>
         </div>
     </div>
-    <div id="right-charts">
+    <div id="right-charts-user">
         <div id="right-charts-2">
+            <div id="ab-user-line">
+
+            </div>
+        </div>
+        <div id="right-charts-3">
             <div id="user-word-cloud">
 
             </div>
@@ -73,11 +78,6 @@
                   <option value="month">月份</option>
              </select>
             <div id="user-article-tree">
-
-            </div>
-        </div>
-        <div id="right-charts-3">
-            <div id="ab-user-line">
 
             </div>
         </div>

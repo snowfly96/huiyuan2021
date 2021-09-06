@@ -1,5 +1,4 @@
 // 绘制热门文章以及用户列表
-
 function drawTopList() {
     $.ajax("/list",{
             type:'POST',
@@ -44,6 +43,7 @@ function drawTopList() {
     });
 
     function drawTopArticleList(data,ty) {
+        console.log(data);
         var listSelector=$("#user-article-list");
         listSelector.empty();
         var updateSelector=$("#update-list");
@@ -60,8 +60,9 @@ function drawTopList() {
         Object.keys(sortedData).forEach(function (item,index) {
             var curArticleInfo=sortedData[item];
             var curDownloadCnt=curArticleInfo[0];
-            var curArticleTitle=curArticleInfo[1].length>15?curArticleInfo[1].slice(0,13)+'...':curArticleInfo[1];
-            var curArticleKeywords=curArticleInfo[2].length>15?curArticleInfo[2].slice(0,13)+'...':curArticleInfo[2];
+            var curBrowseCnt=curArticleInfo[1];
+            var curArticleTitle=curArticleInfo[2].length>15?curArticleInfo[2].slice(0,13)+'...':curArticleInfo[2];
+            var curArticleKeywords=curArticleInfo[3].length>15?curArticleInfo[3].slice(0,13)+'...':curArticleInfo[3];
 
             var listItem=$("<div class=\"list-article-item\">\n" +
             "                    <div class=\"list-item-title\">《"+curArticleTitle+"》</div>\n" +
@@ -70,17 +71,24 @@ function drawTopList() {
             "                    </div>\n" +
             "                    <div class=\"list-item-content\">\n" +
             "                        <i class=\"fa fa-download\"></i>\n" +
-            "                        <small>1200&nbsp</small>\n" +
-            "                        <i class=\"fa fa-eye\"></i>\n" +
             "                        <small>"+curDownloadCnt+"&nbsp</small>\n" +
+            "                        <i class=\"fa fa-eye\"></i>\n" +
+            "                        <small>"+curBrowseCnt+"&nbsp</small>\n" +
             "                </div>");
 
-            listItem.attr({"id":"article-item-"+index});
+            listItem.attr({"id":"article-item-"+item});
 
             listSelector.append(listItem);
         });
-        $("#article-item-0").css({"backgroundColor":"bisque"});
-
+        $(".list-article-item").click(function (event) {
+            var curTarget=event.currentTarget;
+            var articleID=curTarget.id;
+            $(".list-article-item").css({"backgroundColor":"white"});
+            $("#"+articleID).css({"backgroundColor":"bisque"});
+            // 更新文章下载浏览曲线
+            // updateArticleLine(articleID);
+        });
+        $("#article-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }
     function drawTopUserList(data,ty){
         var listSelector=$("#user-article-list");
@@ -98,7 +106,6 @@ function drawTopList() {
         });
         Object.keys(sortedData).forEach(function (item,index) {
             var curUserInfo=sortedData[item];
-
             var listItem=$("<div class=\"list-user-item\">\n" +
             "                    <div class=\"list-item-title\" style='padding-left: 10px'>用户：<code>"+item+"</code></div>\n" +
             "                    <div class=\"list-item-content\">\n" +
@@ -111,12 +118,11 @@ function drawTopList() {
             "                    </div>\n" +
             "                </div>");
 
-            listItem.attr({"id":"user-item-"+index});
+            listItem.attr({"id":"user-item-"+item});
 
             listSelector.append(listItem);
         });
-        $("#user-item-0").css({"backgroundColor":"bisque"});
+        $("#user-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }
-
 }
 drawTopList();

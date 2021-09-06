@@ -34,7 +34,10 @@ function setWordCloud(type,month) {
             });
             chart_word_cloud = echarts.init(document.getElementById('word-cloud'));
             option_word_cloud = {
-
+                title: {
+                    text: '下载数据词云',
+                    subtext: '一月份'
+                },
                 series: [ {
                     type: 'wordCloud',
                     sizeRange: [5, 40],

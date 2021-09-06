@@ -185,4 +185,7 @@ input[type="radio"]{
     height: 60%;
     width: 90%;
     border: 1px solid var(--border-color);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }

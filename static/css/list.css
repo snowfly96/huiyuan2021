@@ -83,3 +83,26 @@
     cursor: pointer;
     box-shadow: 0 0 2px 2px var(--border-color);
 }
+
+.tag {
+    width: fit-content;
+    height: fit-content;
+    border: 1px black dashed;
+    font-size: 10px;
+    border-radius: 2px;
+    background-color:var(--active-color);
+    cursor: pointer;
+    align-content: center;
+    margin-right: 4px;
+}
+.tag-content{
+    display: inline;
+}
+.tag-del{
+    display: inline;
+    font-weight: bolder;
+}
+
+#keywords-box{
+    border: 1px salmon solid;
+}

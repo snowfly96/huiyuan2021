@@ -1,15 +1,13 @@
 function drawCirclePacking() {
-    var ROOT_PATH = 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/examples';
     var dom = document.getElementById("circle-packing");
     var myChart = echarts.init(dom);
     var app = {};
 
     var option;
-    let classdatapath='../static/resource/data_circle_echarts.json'
+    let classdatapath='../static/data/data_circle_echarts_zh.json';
 
     let testdata='';
     $.when(
-        //$.get(ROOT_PATH + '/data/asset/data/option-view.json'),
         $.get(classdatapath),
         $.getScript('https://cdn.jsdelivr.net/npm/d3-hierarchy@2.0.0/dist/d3-hierarchy.min.js')
     ).done(function (res) {
@@ -169,6 +167,9 @@ function drawCirclePacking() {
             dataset: {
                 source: seriesData
             },
+            title: {
+                    text: '文献领域分类气泡图'
+                },
             tooltip: {},
             visualMap: {
                 show: false,

@@ -1,3 +1,4 @@
+# coding=utf-8
 from flask import Flask,render_template,request,jsonify,redirect,url_for
 from flask_cors import *
 from config import Config
@@ -57,7 +58,7 @@ def getAnomalyAnalysis():
 
 @app.route('/list',methods=['POST','GET'])
 def getListData():
-    with open('./static/data/top_articles_d.json','rb') as f:
+    with open('./static/data/article_top_list.json','rb') as f:
         top_article_json = json.load(f)
     with open('./static/data/user_top300_list.json','rb') as f:
         top_user_json = json.load(f)

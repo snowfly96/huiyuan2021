@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 存放左右工具类函数
 """
@@ -153,6 +154,27 @@ def get_view_info():
         viewInfo[user].append(cur_user_line_dict)
 
     return viewInfo
+
+
+# import json
+#
+# with open('./static/data/all_year_b_plus.json','rb') as f1:
+#     b_json=json.load(f1)
+# with open('./static/data/all_year_d_plus.json','rb') as f2:
+#     d_json=json.load(f2)
+#
+# b_keywords=list(b_json.keys())
+# d_keywords=list(d_json.keys())
+#
+# for ky in b_keywords:
+#     if ky not in d_keywords:
+#         # 调成下载在前
+#         b_json[ky][0],b_json[ky][1]=b_json[ky][1],b_json[ky][0]
+#         b_json[ky][5],b_json[ky][6]=b_json[ky][6],b_json[ky][5]
+#         d_json[ky]=b_json[ky]
+#
+# with open('./static/data/article_top_list.json','w',encoding='utf-8') as f:
+#         json.dump(d_json,f,ensure_ascii=False,indent=1)
 
 
 

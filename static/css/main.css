@@ -106,18 +106,27 @@ html,body {
 }
 #user-article-list{
     width: 100%;
-    height: 80%;
+    height: 94%;
     box-sizing: border-box;
     border-bottom: 1px solid var(--border-color);
     overflow-y: auto;
 }
 #list-setting{
     width: 100%;
-    height: 20%;
+    height: 6%;
     box-sizing: border-box;
 }
 
-#right-charts{
+#right-charts-user{
+    width: 80%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#right-charts-article{
     width: 80%;
     height: 100%;
     box-sizing: border-box;
