@@ -8,7 +8,7 @@ function initialize(){
         type: "GET",
         url: 'http://127.0.0.1:5000/get_user_line',
         data:  {
-            user:""
+            user:"e651044e474c63a9"
         },
         dataType: "JSON",
         success: function (data) {
@@ -126,6 +126,7 @@ function setUser(user){
         },
         dataType: "JSON",
         success: function (data) {
+            let base = +new Date(2020, 0, 0);
             let oneDay = 24 * 3600 * 1000;
             let true_data_download = [];
             let true_data_scan = [];
