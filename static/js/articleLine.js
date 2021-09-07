@@ -74,7 +74,6 @@ function drawArticleLines() {
             articleLineOption = {
                 title: {
                     text: '文章时段折线图',
-                    subtext: cur_article
                 },
                 tooltip: {
                     trigger: 'axis'

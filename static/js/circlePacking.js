@@ -1,11 +1,12 @@
+let circle_option;
+let ratio_option;
+let my_chart;
 
-function drawCirclePacking(chartDom,myChart) {
-    var app = {};
 
-    var option;
+
+function drawCirclePacking() {
     let classdatapath='../static/data/data_circle_echarts_zh.json';
 
-    let testdata='';
     $.when(
         $.get(classdatapath),
         $.getScript('../static/jslib/d3-hierarchy.min.js')
@@ -16,14 +17,14 @@ function drawCirclePacking(chartDom,myChart) {
 
     function run(rawData) {
 
-        var dataWrap = prepareData(rawData);
+        let dataWrap = prepareData(rawData);
 
         initChart(dataWrap.seriesData, dataWrap.maxDepth);
     }
 
     function prepareData(rawData) {
-        var seriesData = [];
-        var maxDepth = 0;
+        let seriesData = [];
+        let maxDepth = 0;
 
         function convert(source, basePath, depth) {
             if (source == null) {
@@ -41,9 +42,9 @@ function drawCirclePacking(chartDom,myChart) {
                 index: seriesData.length
             });
 
-            for (var key in source) {
+            for (let key in source) {
                 if (source.hasOwnProperty(key) && !key.match(/^\$/)) {
-                    var path = basePath + '.' + key;
+                    let path = basePath + '.' + key;
                     convert(source[key], path, depth + 1);
                 }
             }
@@ -58,7 +59,7 @@ function drawCirclePacking(chartDom,myChart) {
     }
 
     function initChart(seriesData, maxDepth) {
-        var displayRoot = stratify();
+        let displayRoot = stratify();
 
         function stratify() {
             return d3.stratify()
@@ -76,7 +77,7 @@ function drawCirclePacking(chartDom,myChart) {
         }
 
         function overallLayout(params, api) {
-            var context = params.context;
+            let context = params.context;
             d3.pack()
                 .size([api.getWidth() - 2, api.getHeight() - 2])
                 .padding(3)(displayRoot);
@@ -88,7 +89,7 @@ function drawCirclePacking(chartDom,myChart) {
         }
 
         function renderItem(params, api) {
-            var context = params.context;
+            let context = params.context;
 
             // Only do that layout once in each time `setOption` called.
             if (!context.layout) {
@@ -96,25 +97,25 @@ function drawCirclePacking(chartDom,myChart) {
                 overallLayout(params, api);
             }
 
-            var nodePath = api.value('id');
-            var node = context.nodes[nodePath];
+            let nodePath = api.value('id');
+            let node = context.nodes[nodePath];
 
             if (!node) {
                 // Reder nothing.
                 return;
             }
 
-            var isLeaf = !node.children || !node.children.length;
+            let isLeaf = !node.children || !node.children.length;
 
-            var focus = new Uint32Array(node.descendants().map(function (node) {
+            let focus = new Uint32Array(node.descendants().map(function (node) {
                 return node.data.index;
             }));
 
-            var nodeName = isLeaf
+            let nodeName = isLeaf
                 ? nodePath.slice(nodePath.lastIndexOf('.') + 1).split(/(?=[A-Z][^A-Z])/g).join('\n')
                 : '';
 
-            var z2 = api.value('depth') * 2;
+            let z2 = api.value('depth') * 2;
 
             return {
                 type: 'circle',
@@ -162,7 +163,7 @@ function drawCirclePacking(chartDom,myChart) {
             };
         }
 
-        var option = {
+        circle_option = {
             dataset: {
                 source: seriesData
             },
@@ -196,9 +197,9 @@ function drawCirclePacking(chartDom,myChart) {
             }
         };
 
-        myChart.setOption(option);
+       my_chart.setOption(circle_option);
 
-        myChart.on('click', { seriesIndex: 0 }, function (params) {
+        my_chart.on('click', { seriesIndex: 0 }, function (params) {
             drillDown(params.data.id);
         });
 
@@ -212,7 +213,7 @@ function drawCirclePacking(chartDom,myChart) {
             // A trick to prevent d3-hierarchy from visiting parents in this algorithm.
             displayRoot.parent = null;
 
-            myChart.setOption({
+            my_chart.setOption({
                 dataset: {
                     source: seriesData
                 }
@@ -220,21 +221,21 @@ function drawCirclePacking(chartDom,myChart) {
         }
 
         // Reset: click on the blank area.
-        myChart.getZr().on('click', function (event) {
+        my_chart.getZr().on('click', function (event) {
             if (!event.target) {
                 drillDown();
             }
         });
     }
 
-    if (option && typeof option === 'object') {
-        myChart.setOption(option);
+    if (circle_option && typeof option === 'object') {
+        my_chart.setOption(circle_option);
     }
 }
 // drawCirclePacking();
 
-function drawTypeRatio(chartDom,myChart) {
-     var type_label={
+function drawTypeRatio() {
+     let type_label={
              "A": "马克思主义、列宁主义、毛泽东思想",
             "B": "哲学",
             "C": "社会科学总论",
@@ -259,23 +260,19 @@ function drawTypeRatio(chartDom,myChart) {
             "Z": "综合性图书"
      };
     $.get("./static/data/article_type_matrix.json",function (_rawData) {
-        var data = _rawData["data"];
+        let data = _rawData["data"];
         data=data.map(function (item) {
             return [item[1],item[0],item[2]];
         });
-        var data_type=data.map(function (item) {
+        let data_type=data.map(function (item) {
             return item[1];
         });
         data_type=[...new Set(data_type)];
 
         console.log(data);
-        option = {
+        ratio_option = {
             title: {
                 text: '各类文献下载浏览比'
-            },
-            legend: {
-                data: ['文献'],
-                left: 'right'
             },
             tooltip: {
                 position: 'top',
@@ -318,22 +315,29 @@ function drawTypeRatio(chartDom,myChart) {
             }]
         };
 
-        option && myChart.setOption(option);
+        ratio_option && my_chart.setOption(ratio_option);
     })
 }
 
 $(() => {
-    var chartDom = document.getElementById('circle-packing');
-    var myChart = echarts.init(chartDom);
-    drawTypeRatio(chartDom,myChart);
+    let chartDom = document.getElementById('circle-packing');
+    my_chart = echarts.init(chartDom);
+    drawTypeRatio();
 
     $('#select_view').change(() => {
         view_type = $('#select_view').val();
         if(view_type==="circle"){
-            drawCirclePacking(chartDom,myChart);
+            if(!circle_option){
+                drawCirclePacking();
+            }
+            else{
+                my_chart.setOption(circle_option);
+            }
+
         }
         else{
-            drawTypeRatio(chartDom,myChart);
+            my_chart.clear();
+            my_chart.setOption(ratio_option)
         }
     });
 });
