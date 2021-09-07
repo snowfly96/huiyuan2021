@@ -40,7 +40,7 @@ function drawTopUserArticle(curUser) {
                     data: [curNewData],
 
                     top: '8%',
-                    left: '26%',
+                    left: '20%',
                     bottom: '2%',
                     right: '26%',
 
@@ -81,7 +81,7 @@ function drawTopUserArticle(curUser) {
                 {
                 type: 'wordCloud',
                 top: '-20%',
-                left: '-8%',
+                left: '-12%',
                 bottom: '2%',
                 right: '20%',
                 sizeRange: [3, 20],
@@ -110,8 +110,33 @@ function drawTopUserArticle(curUser) {
             }
             ]
         });
+
+        $("#select_type").change(function () {
+            var select_type = $('#select_type').val();
+            var curNewData={"name":curUser,"children":[]};
+            Object.keys(curUserInfo).forEach(function (tp,index) {
+                var keywords=curUserInfo[tp]["data"].map(function (ky) {
+                    return {"name":ky[0],"cnt":ky[1]}
+                });
+                if(tp!==select_type){
+                    keywords=keywords.filter(function (item,index) {
+                        return index<5;
+                    });
+                }
+                curNewData["children"].push({"name":tp,"children":keywords});
+            });
+            var typeDict={"下载":0,"浏览":1,"检索":2};
+
+            wcData=curNewData["children"][typeDict[select_type]]["children"].map(function (item,index) {
+                return {name:item["name"],value:Math.sqrt(item["cnt"])};
+            });
+            option.series[0].data=[curNewData];
+            option.series[1].data=wcData.sort(function (a, b) {
+                    return b.value  - a.value;
+                }).slice(0,150);
+            option && myChart.setOption(option);
+        });
     });
-    option && myChart.setOption(option);
 }
 drawTopUserArticle("e651044e474c63a9");
 

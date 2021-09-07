@@ -12,7 +12,7 @@
 #month-select{
     position: absolute;
     width:50px;
-    left:40%;
+    left:90%;
     top:30px
 }
 #word-cloud{
@@ -51,6 +51,12 @@
     z-index:99;
     left: 88%;
     top: 8%;
+}
+#select_type{
+    position: absolute;
+    z-index:99;
+    left: 80%;
+    top: 4%;
 }
 
 #line{

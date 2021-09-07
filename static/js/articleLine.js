@@ -27,8 +27,8 @@ function drawArticleLines() {
             var scan_valueList = [];
             let download_data = data.download;
             let scan_data = data["scan"]
-            if (cur_article_line_type == "day") {
-                dateList = ['周一', '周二', '周三', '周四', '周五', '周六', '周日']
+            if (cur_article_line_type === "day") {
+                dateList = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
                 for (let i = 0; i < 7; i++) {
                     if (download_data[i]) {
                         download_valueList.push(download_data[i])
@@ -42,7 +42,7 @@ function drawArticleLines() {
                     }
                 }
             }
-            else if (cur_article_line_type == "month") {
+            else if (cur_article_line_type === "month") {
                 for (let i = 1; i <= 12; i++) {
                     dateList.push(i);
                     if (download_data[i]) {
@@ -73,7 +73,8 @@ function drawArticleLines() {
             }
             articleLineOption = {
                 title: {
-                    text: '单篇文章时段折线图'
+                    text: '文章时段折线图',
+                    subtext: cur_article
                 },
                 tooltip: {
                     trigger: 'axis'
