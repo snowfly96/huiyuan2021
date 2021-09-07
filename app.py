@@ -73,34 +73,55 @@ def getArticleData():
     type = str(args["type"])
     with open('./static/data/article_top_list.json','rb') as f:
         article_top_list = json.load(f)
-    times = article_top_list[article][5]
-    map = {}
+    download_times = article_top_list[article][5]
+    scan_times = article_top_list[article][6]
+    map_download = {}
+    map_scan = {}
 
-    for time in times:
+    for time in download_times:
         time = datetime.strptime(time, '%Y-%m-%d %H:%M:%S')
         if type == 'month':
-            if time.month in map:
-                map[time.month] += 1
+            if time.month in map_download:
+                map_download[time.month] += 1
             else:
-                map[time.month] = 1
+                map_download[time.month] = 1
         elif type == 'hour':
-            if time.hour in map:
-                map[time.hour] += 1
+            if time.hour in map_download:
+                map_download[time.hour] += 1
             else:
-                map[time.hour] = 1
+                map_download[time.hour] = 1
         else:
-            if time.weekday() in map:
-                map[time.weekday()] += 1
+            if time.weekday() in map_download:
+                map_download[time.weekday()] += 1
             else:
-                map[time.weekday()] = 1
-        print(map)
-    return map
+                map_download[time.weekday()] = 1
+
+    for time in scan_times:
+        time = datetime.strptime(time, '%Y-%m-%d %H:%M:%S')
+        if type == 'month':
+            if time.month in map_scan:
+                map_scan[time.month] += 1
+            else:
+                map_scan[time.month] = 1
+        elif type == 'hour':
+            if time.hour in map_scan:
+                map_scan[time.hour] += 1
+            else:
+                map_scan[time.hour] = 1
+        else:
+            if time.weekday() in map_scan:
+                map_scan[time.weekday()] += 1
+            else:
+                map_scan[time.weekday()] = 1
+    res = {"download":map_download,"scan":map_scan}
+    print(res)
+    return jsonify(res)
 
 @app.route('/get_user_line',methods=['GET'])
 def getUserLine():
     args = request.args.to_dict()
     user = str(args["user"])
-    with open('./static/data/test.json','rb') as f:
+    with open('./static/data/abnormal_user_469_timeline/'+user+'.json','rb') as f:
         user_line = json.load(f)
     return user_line
 

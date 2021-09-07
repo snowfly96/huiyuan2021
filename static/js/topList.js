@@ -375,8 +375,7 @@ function drawTopList() {
             var articleID=curTarget.id;
             $(".list-article-item").css({"backgroundColor":"white"});
             $("#"+articleID).css({"backgroundColor":"bisque"});
-            // 更新文章下载浏览曲线
-            // updateArticleLine(articleID);
+            setArticle(articleID.split('-')[2]);
         });
         $("#article-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }
@@ -417,8 +416,7 @@ function drawTopList() {
             var userID=curTarget.id;
             $(".list-user-item").css({"backgroundColor":"white"});
             $("#"+userID).css({"backgroundColor":"bisque"});
-            // 更新文章下载浏览曲线
-            // updateUserCharts(userID);
+            setUser(userID.split('-')[2]);
         });
         $("#user-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }

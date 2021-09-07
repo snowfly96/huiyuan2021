@@ -3,11 +3,9 @@
 存放左右工具类函数
 """
 import pandas as pd
-import numpy as np
 import os
 from collections import Counter
 import time
-from matplotlib import pyplot as plt
 
 TYPES = ['下载', '浏览', '检索']
 def toFileName(t, month):
