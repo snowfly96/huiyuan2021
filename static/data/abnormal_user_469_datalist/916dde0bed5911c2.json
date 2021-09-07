@@ -1,0 +1,941 @@
+{
+  "下载": [
+    {
+      "id": "crjy201906015",
+      "title": "高职STEAM教育的内涵、模式及实施路径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zxwl-gzb201912011",
+      "title": "融入STEAM理念的物理课程设计——以摩擦力为例",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjsj-xby201829010",
+      "title": "人工智能时代青少年编程教育体系设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxdjysxjy201916033",
+      "title": "大学生创客教育的实践探索",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjywl201724038",
+      "title": "首款中文版图形化儿童编程工具",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glxxxt-jcjy201410029",
+      "title": "将Scratch引入小学信息技术课堂",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201915148",
+      "title": "工学结合一体化《机电产品机械装配》课程设计理念与思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wysh-whyy201810164",
+      "title": "浅谈编排设计课程教学思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "swxjx201912036",
+      "title": "STEM理念下的生物学课程案例设计",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyyxdycjy201624068",
+      "title": "中药药用凝胶剂的研究概况",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzyxyxb201904003",
+      "title": "从李杲元气阴阳升降浮沉的角度探究阴火",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsgkj201932109",
+      "title": "不同红细胞溶血实验替代兔眼刺激性实验比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-jyxx201612100",
+      "title": "Scratch教后感——以学论教",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cyb201901020",
+      "title": "编程猫李天驰在少儿编程领域跑马圈地的90后",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "bkzs201933020",
+      "title": "设计类课程群整合性教改思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxsslh-jyxjyb201912036",
+      "title": "新课程理念下初中化学作业设计的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dyx-x201932213",
+      "title": "谈新教育理念下的初中物理课程设计策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy201823026",
+      "title": "让掌控板和Scratch无缝连接",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "rlzy201902009",
+      "title": "少儿编程,拓宽创造的边界",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdzyjy201917101",
+      "title": "高职院校计算机应用基础课程设计思路探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxygl-llb201910025",
+      "title": "创客教育'创课'体系构建的困惑及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sekxzk-jxb201404157",
+      "title": "关于数控加工编程技巧的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxjx201912013",
+      "title": "3D打印微型可见分光光度计的制作与应用 ——基于STEAM理念的项目设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyk-zxbzzjx201912005",
+      "title": "人工智能时代的劳动教育",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "tjzy201910011",
+      "title": "浅析'阴火'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcyk201801142",
+      "title": "民国早期的《盛京时报》社长更替研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "krzzyj200503003",
+      "title": "《盛京时报》关于七七事变报道研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyykx201516062",
+      "title": "红细胞溶血试验检测化妆品眼刺激性的初步研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdrbjj200706012",
+      "title": "日本在伪满时期殖民教育的经济分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jrhb-xby201201003",
+      "title": "《盛京时报》之广告研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ranj-jyxdh201905134",
+      "title": "浅谈小学Scratch学玩结合教学策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjykx-gjyj201912014",
+      "title": "大学生学习过程影响因素研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201936063",
+      "title": "我国高校图书馆创建创客空间的策略研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qgdb201930075",
+      "title": "课程游戏化理念指导下的课程设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxygl-llb201912034",
+      "title": "创客背景下小学英语课程创新教学设计",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "szhyh201915266",
+      "title": "《photoshop图形图像处理》课程信息化教学设计思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201922049",
+      "title": "基于创客理念的机器人教学模式探究与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ltsj201806035",
+      "title": "清末民初东北地区报刊业研究——以《盛京时报》为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzyyxxzz201704037",
+      "title": "中药凝胶膏剂研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyzz201903014",
+      "title": "复合中药凝胶剂的制备",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dldxxb201204008",
+      "title": "日本侵华新闻史研究—以创刊初期的《盛京时报》为中心",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwjl201938382",
+      "title": "新课程理念下的小学音乐课堂教学设计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangssl201912020",
+      "title": "国内研学旅行研究进展与展望",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jiaoyu201952001",
+      "title": "人工智能与教育",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zxkcfd-jxyj201914263",
+      "title": "中小学'计算机创意编程'教学探索与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj-shang201901310",
+      "title": "小学信息技术Scratch教学的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-xx201608104",
+      "title": "浅谈小学信息技术Scratch教学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxwl-gzb201912002",
+      "title": "探索STEAM教育项目样态助推科技教育创新变革",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjl201913201",
+      "title": "小学Scratch编程教学初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjyjs201911016",
+      "title": "STEM教育与创客教育辨析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "syhj201921008",
+      "title": "股权激励对象选择与公司创新 ——基于宇通客车的案例研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy201823011",
+      "title": "例谈小学Scratch学玩结合教学策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy201919003",
+      "title": "中小学物联网课程设计的两种思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ybjyxyxb201806051",
+      "title": "利用Scratch培养学生表达能力探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdkf201212017",
+      "title": "不同哺乳动物红细胞溶血替代眼刺激实验的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dhjyyj201911001",
+      "title": "从创客到创造性公民:智慧教育视野下的 创客公民及其培养",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "syjsygl201912053",
+      "title": "STEAM理念下的仪器专业机械设计实践教学新模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc202001045",
+      "title": "产学研互惠性协同的案例分析及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdhjy201911013",
+      "title": "核心素养视域下STEAM教育的课堂教学变革",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "glxxxt-jcjy201810024",
+      "title": "中学生Scratch软件使用调查研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhes201723028",
+      "title": "陈若云:“编”玩边学,让孩子改变世界",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdjyzb201905014",
+      "title": "工程教育认证背景下课程设计教学环节的改革新思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ktnwcxzw-gzb201810030",
+      "title": "少儿编程培训受热捧引担忧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjyjs201909018",
+      "title": "STEAM课程的发展历程、价值取向与本土化建设*",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-jyxx201610331",
+      "title": "浅谈Scratch的游戏教学法与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxwl-gzb201911008",
+      "title": "基于'创客教育'理念黄冈市农村中学物理实验研究与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxjy-jysz201810013",
+      "title": "警惕少儿编程变成吸金噱头",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nbq201905068",
+      "title": "综合素养培养视角下少儿编程教学策略探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxqykj201911026",
+      "title": "跨境电商发展背景下的国际物流模式优化策略探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201902294",
+      "title": "制约跨境电商物流发展的影响因素研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gj201906138",
+      "title": "跨境电商物流发展存在的问题与思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggsm201831011",
+      "title": "我国跨境电商物流发展困境及对策研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jlzyy201008041",
+      "title": "GC-MS法对哈蟆油中甾体类化合物的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzyyxxzz201212009",
+      "title": "259例常染色体显性遗传型多囊肾病患者中医证型分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bjzyydxxb201511002",
+      "title": "浅谈王孟英使用温胆汤治疗痰饮病的证治特色",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjhxxgbdzzz201930033",
+      "title": "由《王孟英医案》浅谈治痰",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jszy201401006",
+      "title": "王孟英气化枢机思想探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyyxb200304002",
+      "title": "浅探朱丹溪的从脾治痰与王孟英的从肺治痰",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzyxyxb201904003",
+      "title": "从李杲元气阴阳升降浮沉的角度探究阴火",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jtkjyjj201505002",
+      "title": "基于神经网络的城市停车需求预测模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxzljddb201909064",
+      "title": "跨境电商背景下的物流问题发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gmzy201208010",
+      "title": "《黄帝内经》外邪学说现代实质新解",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sczy200402001",
+      "title": "王孟英论痰及辨证施治",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-zyzyfc201503003",
+      "title": "《张聿青医案》妇科疾病治法初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201927209",
+      "title": "胃痛胃炎胃溃疡怎么办",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgrdyx200607090",
+      "title": "海洋生物多糖的种类及其生物活性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cczyxyxb200204049",
+      "title": "采用等离子体发射光谱法对不同产地哈蟆油无机元素的含量分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzsw201904015",
+      "title": "中国跨境电商发展的困境解析及电商-物流协同模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsq-jjllyj201903007",
+      "title": "关于跨境电商物流模式创新与发展的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrllyjx201901017",
+      "title": "基于现代分享经济下我国跨境出口电商物流发展策略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggsm201805008",
+      "title": "我国跨境电商物流服务发展的新方向探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201823042",
+      "title": "我国跨境电商物流发展模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csdqyfh201912040",
+      "title": "公共停车场停车需求预测方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwqyj201812016",
+      "title": "物流产业链视角下跨境电商海外仓发展浅析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgltjj201809004",
+      "title": "跨境电商物流渠道选择与发展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "cyykjlt201902005",
+      "title": "跨境电商环境下国际物流发展策略探索",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jlzyy201806020",
+      "title": "长柄侧耳发酵物对乙醇诱导小鼠胃溃疡的保护作用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yycyzx201924005",
+      "title": "沉香提取液对乙醇致大鼠胃溃疡的保护作用及机制",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "jyjxlt201925035",
+      "title": "新形势下吉林省高等中医药教育智库建设探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201907109",
+      "title": "浅析我国跨境电商物流发展问题及对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjlr201618028",
+      "title": "杭州跨境电子商务物流模式选择研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlkj201911016",
+      "title": "中美贸易摩擦背景下 我国跨境电商物流发展路径剖析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxyzz201922014",
+      "title": "川木香中主要药效成分对小鼠急性胃溃疡保护作用的配伍研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201805113",
+      "title": "基于SWOT分析的跨境电商物流研究 ——以阿里巴巴全球速卖通物流为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zjzyzz201807054",
+      "title": "绿威胶囊对乙醇致小鼠急性胃溃疡的保护作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xhwk201801020",
+      "title": "富氢水对乙醇诱导急性胃损伤的保护作用及其机制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jscyyxkcxb200804002",
+      "title": "青蒿化学成份及其与青蒿素伍用对鼠疟的药效学研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ryhxgy200904015",
+      "title": "化妆品功效成分的透皮吸收机理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ajshswzy201304015",
+      "title": "不同产地天麻氨基酸的含量测定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csgdjtyj201007025",
+      "title": "移动闭塞信号系统的列车定位方式",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hxsj201201015",
+      "title": "化妆品功效成分传递载体",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gsny201911016",
+      "title": "播种期对干旱半干旱区 栽培板蓝根产量和质量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201426021",
+      "title": "天麻及其种质资源研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyfjxzz201202075",
+      "title": "微型海绵给药系统研究进展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zghzp200902018",
+      "title": "化妆品功效成分的透皮吸收途径与技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spyjykf201009014",
+      "title": "天麻多糖的结构表征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyykx201812078",
+      "title": "肛肠科青年医师进行基本技能培训的实践与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcekzz201106004",
+      "title": "腹泻患儿扎如病毒感染研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyxcbzz201903011",
+      "title": "高盐高脂饮食及粪菌移植对肠道及肠道菌群的影响",
+      "download_times": 4,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "作者:程智方",
+    "(中华) (ClassCodeForSearch:'0/R' )",
+    "中华",
+    "((中华) 刊名:中华 ) (ClassCodeForSearch:'0/R' )",
+    "中华",
+    "刊名:'中华核医学与分子影像杂志'",
+    "作者:程智方",
+    "中医心理学",
+    "(作者:(刘兵) and 作者单位:(北京农学院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "bland-altman gfr",
+    "bland altman gfr",
+    "周通",
+    "周通 早期肾",
+    "晶状体脱位  继发性青光眼",
+    "脑脊液漏",
+    "肾动态 糖尿病肾病 灌注",
+    "((全部:(随访) and 全部:(髋关节置换术)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(随访) and 全部:(髋关节置换术)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "李航 肾动态",
+    "李航 肾动态",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "gate",
+    "科普 药",
+    "科普 药",
+    "北京地区药学科普志愿者的需求与对策研究",
+    "科普 药",
+    "科普 药",
+    "科普 药",
+    "99mtc dtpa 毒副",
+    "科普 药",
+    "养生保健指南",
+    "bland",
+    "altman",
+    "medcalc",
+    "gate 双血浆",
+    "非布司他治疗痛风的快速卫生技术评估",
+    "眼睑肿物手术设计",
+    "眼睑肿物手术设计",
+    "ECMO治疗重症肺炎合并ARDS患者院间转运的管理",
+    "晶状体脱位  继发性青光眼",
+    "((作者:('江志伟')) and Date:2020-*) (Type:(Periodical OR Thesis) )",
+    "糖尿病 血肌酐",
+    "血肌酐降低",
+    "作者:程智方",
+    "糖尿病肾病 热证 滤过率",
+    "((全部:(髋关节置换术) and 全部:(再住院率)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "诱发电位在儿科的临床应用",
+    "诱发电位在儿科的临床应用",
+    "(全部:(髋关节置换术) and 全部:(再住院率)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((全部:(髋关节置换术) and 全部:(DVT) and 题名:(发生率)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(随访) and 全部:(髋关节置换术)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "((全部:(髋关节置换术) and 全部:(抗凝药) and 全部:(依从性)) and Date:2015-*) (Type:'Periodical' )",
+    "中国儿童保健杂志",
+    "血友病治疗中国指南",
+    "(题名:(血友病) and 题名:(脑出血)) (Type:(Periodical OR Thesis OR Conference) )",
+    "自体皮片移植术预防食管环周早癌内镜黏膜下隧道剥离术后食管狭窄的临床研究",
+    "medcalc gfr",
+    "108种制剂的药物动力学和生物等效性研究",
+    "我国胰腺囊性肿瘤共识意见(草案2013,上海)",
+    "眼睑肿物手术设计",
+    "血肌酐低于正常值 DN",
+    "肌酐低",
+    "诱发电位在儿科的临床应用",
+    "诱发电位在儿科的临床应用",
+    "熊去氧胆酸治疗不同临床分期原发性胆汁性肝硬化患者2年临床疗效观察",
+    "晶状体脱位  继发性青光眼",
+    "北京地区7家三级甲等综合医院药学部科普微信公众号的传播现状调研",
+    "晶状体脱位  继发性青光眼",
+    "脑脊液漏 腰椎",
+    "脑脊液漏 腰椎",
+    "脑脊液漏",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (CorePeriodical:'NJU' Type:'Periodical' )",
+    "gate 双血浆",
+    "bland altman gfr",
+    "肾动态显像 Gates 法评估肾小球滤过率的准确性和可靠性分析",
+    "非热证 肾",
+    "重型红斑狼疮",
+    "脑干听觉诱发电位的发育规律",
+    "晶状体脱位  继发性青光眼",
+    "高尿酸血症流行病学研究",
+    "99mtc dtpa 毒副",
+    "99mtc副作用",
+    "ect 副作用",
+    "99mtc dtpa 透析",
+    "99mtc dtpa 毒",
+    "科普 药",
+    "科普 药",
+    "(全部:(随访) and 全部:(髋关节置换术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(随访) and 全部:(髋关节置换术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(随访) and 全部:(髋关节置换术)) (PublishYear:'2020' Type:(Periodical OR Thesis OR Conference) )",
+    "(全部:(随访) and 全部:(髋关节置换术)) (PublishYear:'2014' Type:(Periodical OR Thesis OR Conference) )",
+    "gate 双血浆",
+    "血肌酐测定 低",
+    "血肌酐低于正常值",
+    "((全部:(髋关节置换术) and 全部:(抗凝药)) and Date:2015-*) (Type:'Periodical' )",
+    "((全部:(随访) and 全部:(抗凝药) and 全部:(依从性)) and Date:2015-*) (Type:'Periodical' )",
+    "((全部:(信息—动机—行为技巧模型)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "题名:诱发电位在重症脑功能检测中的应用",
+    "诱发电位在儿科的临床应用",
+    "题名:听觉诱发电位在重症脑功能检测中的应用",
+    "((全部:(髋关节置换术) and 全部:(再住院率)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "腰椎 雷火灸",
+    "血肌酐低 高滤过",
+    "糖尿病 血肌酐",
+    "血肌酐低 高滤过 糖尿病",
+    "新斯的明拮抗时机对全麻患者术后肌松残余作用的影响",
+    "养生保健指南",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (Type:'Periodical' )",
+    "((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)'))) (Type:'Periodical' )",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (CorePeriodical:'ISTIC' Type:'Periodical' )",
+    "高滤过 证候 糖尿病肾病",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "肾动态显像 副作用",
+    "肾动态 副作用",
+    "肾动态 副作用",
+    "99mtc dtpa",
+    "数据挖掘 王耀献",
+    "(高亚斌) 作者:高亚斌",
+    "数据挖掘 肾",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (Type:'Periodical' )",
+    "高亚斌 数据挖掘",
+    "高滤过 糖尿病肾病",
+    "糖尿病肾病早期 血肌酐",
+    "糖尿病肾病早期 肌酐值",
+    "肌酐低",
+    "题名:听觉诱发电位在重症脑功能检测中的应用",
+    "((全部:(随访) and 全部:(抗凝药) and 全部:(依从性)) and Date:2015-*) (Type:'Periodical' )",
+    "((全部:(抗凝药) and 全部:(依从性差) and 全部:(因素)) and Date:2015-*) (Type:'Periodical' )",
+    "诱发电位在儿科的临床应用",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "腰椎术后 中医",
+    "肾动态 双血浆",
+    "热证",
+    "热证 肾",
+    "手术患者意外伤害",
+    "糖尿病 高尿酸血症",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "嗜血细胞综合征",
+    "红斑狼疮嗜血细胞综合征",
+    "晶状体脱位  继发性青光眼",
+    "经伤椎椎弓根钉置入与跨节段置钉治疗胸腰椎椎体骨折脱位的临床比较",
+    "(作者:(曲鹏) and 作者单位:(兰州大学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(跨节段) and 题名或关键词:(经伤椎)) (Type:(Periodical OR Thesis OR Conference) )",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "(手术患者意外伤害) (PublishYear:'2020' )",
+    "基于微信公众平台的儿科药学知识科普实践",
+    "作者:'刘毅'",
+    "(主题:(血友病) and 主题:(脑出血)) (Type:(Periodical OR Thesis OR Conference) )",
+    "晶状体脱位  继发性青光眼",
+    "(作者:(曲鹏)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(经伤椎) and 题名或关键词:(跨节段)) (Type:(Periodical OR Thesis OR Conference) )",
+    "经伤椎椎弓根钉置入内固定修复胸腰椎椎体骨折脱位:与跨节段置钉的比较",
+    "(题名或关键词:(跨节段) and 题名或关键词:(经伤椎)) (Type:(Periodical OR Thesis OR Conference) )",
+    "高尿酸血症流行病学研究",
+    "IGF-1基因多态性与新疆维吾尔族人群高尿酸血症及2型糖尿病的相关性研究",
+    "腰椎术后 中医",
+    "99mtc dtpa 副作用",
+    "99mtc dtpa副作用",
+    "spect 副作用",
+    "养生保健指南",
+    "数据挖掘",
+    "诱发电位在儿科的临床应用",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "非内热证 肾",
+    "热证",
+    "手术患者意外伤害",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "肾动态显像 不同分期",
+    "((全部:(信息—动机—行为技巧模型)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "高尿酸血症流行病学研究",
+    "我国Meige综合征诊断和治疗专家共识(2018年)",
+    "bland altman",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "腰椎术后 中医",
+    "腰椎术后 中医",
+    "(二代测序技术确诊一例X连锁精神发育迟滞患儿) (Creator:'刘毅' )",
+    "科普 药",
+    "99mtc dtpa 肾损害",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "晶状体脱位 继发性青光眼",
+    "晶状体脱位  继发性青光眼",
+    "晶状体脱位  继发性青光眼",
+    "诱发电位在儿科的临床应用",
+    "诱发电位在儿科的临床应用",
+    "题名:诱发电位在儿科的临床应用",
+    "((全部:(抗凝药) and 全部:(依从性差) and 全部:(因素)) and Date:2015-*) (Type:'Periodical' )",
+    "肾动态 糖尿病肾病 C20",
+    "((全部:(信息—动机—行为技巧模型) and 全部:(髋关节置换术)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "((全部:(信息—动机—行为技巧模型)) and Date:2015-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "腰椎术后 雷火灸",
+    "腰椎术后 中医",
+    "晶状体脱位  继发性青光眼",
+    "高亚斌",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (Type:'Periodical' )",
+    "(((主题:(虚拟现实 OR 'Virtual Reality') AND 主题:(体育 OR 'Games (sport)')) AND Date:2010-2020)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "高滤过 证候",
+    "诱发电位在儿科的临床应用",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "高尿酸血症流行病学研究",
+    "二代测序技术确诊一例X连锁精神发育迟滞患儿",
+    "肾动态显像 不同分期"
+  ]
+}

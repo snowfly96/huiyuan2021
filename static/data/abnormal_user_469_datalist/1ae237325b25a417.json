@@ -1,0 +1,436 @@
+{
+  "下载": [
+    {
+      "id": "zszxtd201923118",
+      "title": "离心机检测技术分析与探讨",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dwyyxb201911038",
+      "title": "热处理对下丘脑食欲调控和腺苷酸活化蛋白激酶信号通路相关基因表达的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcykzz201805020",
+      "title": "大鼠视网膜Müller细胞体外培养特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzyxxzz201804014",
+      "title": "常氧及缺氧培养对成骨细胞hFOB1.19增殖的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdkf202025013",
+      "title": "改良组织块培养法体外培养人角膜上皮干细胞",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglcylxzz202003017",
+      "title": "趋化因子受体4在心肌细胞修复中的作用及其机制研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljzyy201906117",
+      "title": "HDAC2与乙酰化p53k320相互作用对胃癌细胞生物学功能的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cqyx201908002",
+      "title": "线粒体分裂/融合在高糖诱导足细胞损伤中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxxxzz202002020",
+      "title": "miR-33表达与炎症反应的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjjfsyzhyxzz201904011",
+      "title": "PC12神经细胞糖氧剥夺模型的建立",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjyywsdb201920003",
+      "title": "七氟烷体外暴露对乳腺癌患者外周血CD4+T淋巴细胞亚群表达的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhmzxzz98201908008",
+      "title": "DHA对氧糖剥夺-复氧复糖损伤时小胶质细胞活化的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdkf201933012",
+      "title": "低氧诱导骨髓基质干细胞移植治疗激素性股骨头坏死",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "yiyqy201905012",
+      "title": "苦参碱对白血病细胞K562诱导凋亡作用的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201906031",
+      "title": "中华鳖胚胎组织原代细胞培养技术的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxyxyxb201912003",
+      "title": "麦冬皂苷B对人结肠癌SW620细胞增殖和凋亡的影响及机制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlscxyxb201806004",
+      "title": "红鳍东方鲀鳍细胞系的建立及生长特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wnyxyxb201901007",
+      "title": "间歇性循环张力对人间充质干细胞成软骨分化的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jfjyxzz201701004",
+      "title": "活性氧在热打击诱导肠上皮细胞凋亡中的作用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhmzxzz98201808004",
+      "title": "SIRT1-ERK1∕2通路与竹节参皂苷减轻异氟醚致胎鼠海马神经元毒性的关系:离体实验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lnxmsy201608005",
+      "title": "低氧促进小鼠卵泡颗粒细胞凋亡",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyy201914002",
+      "title": "蕨麻多酚对血管内皮细胞糖氧剥夺损伤的改善作用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gdnykx202001018",
+      "title": "精子数量对小鼠体外受精与胚胎早期发育的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwzbjjyx201910006",
+      "title": "严重烧伤患者外周血中性粒细胞凋亡延迟的机制研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "lchsyyxzz202001016",
+      "title": "花旗松素通过抑制NF-κB信号通路对缺氧复氧诱导H9c2心肌细胞损伤的保护作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyxzz201904004",
+      "title": "法舒地尔对过氧化氢介导的内皮损伤后 TGF-β2及IL-8的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyy201912008",
+      "title": "基质金属蛋白酶组织抑制剂-3对喉癌细胞顺铂化疗敏感性提高的机制研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbyx201804003",
+      "title": "不同浓度辣椒素对缺氧复氧后A549细胞凋亡的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjzdclykz201706013",
+      "title": "基于模糊PID参数自整定的细胞培养箱温度控制算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyyslxzz201905020",
+      "title": "甘草次酸对甲状腺癌细胞SW579凋亡的影响及其机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhlnxnxgbzz201809021",
+      "title": "N-乙酰半胱氨酸对高糖合并缺血缺氧小胶质细胞中Toll样受体4通路的作用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tjyy201907004",
+      "title": "细胞交互作用在重叠综合征所致血管内皮损伤中及与细胞间黏附分子-1的作用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdkf202004009",
+      "title": "真皮脱细胞基质复合骨髓间充质干细胞修复比格犬关节软骨缺损",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dtsj201730167",
+      "title": "细胞工厂培养箱在水痘疫苗生产中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcbxhgbxzz201910011",
+      "title": "谷氨酰胺体外抑制脂多糖诱导的NCM460细胞线粒体途径凋亡作用的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgblslzz202002019",
+      "title": "BMP-7/Smads通路参与EndoMT在大鼠HHPH中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgys202004004",
+      "title": "秦皮乙素经p70S6K/4E-BP1信号通路抑制人结肠癌细胞增殖和迁移的作用机制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hyscyj202001014",
+      "title": "尼罗罗非鱼精巢支持细胞分离培养体系建立及优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhmzxzz98201909026",
+      "title": "LC3Ⅱ在高浓度氧致肺泡Ⅱ型上皮细胞凋亡中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxyxyxb201909003",
+      "title": "一种改良的Sprague Dawley新生大鼠视网膜Müller细胞培养方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-yfzdzlyswzpfc201606005",
+      "title": "细胞工厂培养箱在水痘疫苗生产中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgss202001004",
+      "title": "脉管Ⅱ号胶囊对Ang-1/Tie2信号通路及人脐静脉内皮细胞的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchsyyxzz202002011",
+      "title": "曲美他嗪对缺氧状态下血管内皮细胞线粒体损伤的保护作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kmyxyxb201909014",
+      "title": "12外泌体对体外血脑屏障模型功能的影响",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xdkf202019009",
+      "title": "PI3K/Akt通路在低氧诱导脂肪干细胞增殖和向内皮细胞分化中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxykdxxb201912010",
+      "title": "let-7d抑制剂对海马神经元离体氧糖剥夺/复氧细胞损伤的凋亡抑制作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnykx201918018",
+      "title": "黄花蒿醇提物对奶牛乳腺细胞中共轭亚油酸合相关酶基因表达的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201809071",
+      "title": "在普通实验室开展本科生动物细胞培养教学实验的设想",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxdptwkjz201901007",
+      "title": "肝癌组织中PD-L1和HIF-1α的相关性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zglnxzz202006057",
+      "title": "PC12细胞氧糖剥夺不同时间段再灌注后内质网应激及细胞凋亡",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhmzxzz98201809026",
+      "title": "SIRT1∕NF-κB信号通路在小鼠海马神经元氧糖剥夺-复氧复糖损伤中的作用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zjsyyx201706001",
+      "title": "非实验期Jurkat细胞培养方法探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyxyxzz201806032",
+      "title": "不同刺激剂对人外周血淋巴细胞亚群增殖的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglcylxzz201806022",
+      "title": "田蓟苷对A549细胞的抑制作用及其机制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjgy202002012",
+      "title": "脱水离心机液压系统改造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggzsszz201904010",
+      "title": "莱菔硫烷对常氧条件下成骨细胞活性的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmyxzz201903016",
+      "title": "流式细胞术检测NK细胞的细胞毒作用的两种方法比较",
+      "download_times": 9,
+      "browse_times": 6
+    },
+    {
+      "id": "tjdxxb201802015",
+      "title": "基于细胞培养的新型微流体加热器的开发与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-wswxfc202002005",
+      "title": "柯萨奇病毒B3型感染引起HeLa细胞内源性小干扰RNA的变化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjzyydxxb201911009",
+      "title": "侯氏黑散含药血清对氧糖剥夺损伤血管内皮细胞PLCγ2/ERK及TGF-β/Smad2/3表达的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bxyjgdzkxxxb201905008",
+      "title": "落地生根植物组织培养及试管苗的移栽研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyyslxzz201905011",
+      "title": "Atpif1基因对K562细胞血红蛋白合成的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-yfzdzlyswzpfc201901003",
+      "title": "3种中和剂对常用消毒剂在Vero细胞上的中和效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyjydxxb201807003",
+      "title": "核外P53介导的自噬抑制在热打击诱导内皮细胞损伤中的作用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbzyzz201908002",
+      "title": "枸杞多糖对光诱导的人RPE细胞氧化应激的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddyylc201916114",
+      "title": "替莫唑胺联合姜黄素诱导C6胶质瘤细胞凋亡的效果分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syyxzz201813017",
+      "title": "不同缺氧复氧损伤程度对H9c2心肌细胞自噬的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcqzdzz201704007",
+      "title": "优化的羊水细胞培养方法以及培养结果分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjhxnxgbzz201913008",
+      "title": "活血益气方促缺氧人脐静脉内皮细胞迁移及其相关调控基因mRNA表达的拆方研究",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "(主题:('离心机'))*Date:2018-",
+    "(主题:('离心机'))*Date:2015-",
+    "关键词:人脐静脉内皮细胞",
+    "(全部:(倒置显微镜))*Date:2015-",
+    "关键词:管理系统",
+    "(主题:('培养箱')*关键词:('细胞'))*Date:2015-",
+    "(主题:(细胞培养箱))*Date:2015-",
+    "关键词:氧化应激",
+    "(主题:('培养箱')*关键词:('细胞'))*Date:2015-",
+    "细胞培养箱",
+    "(主题:('培养箱')*关键词:('细胞'))*Date:2015-",
+    "(主题:('培养箱')*关键词:('细胞'))*Date:2015-",
+    "(主题:('培养箱')*关键词:('细胞')*关键词:('Co2'))*Date:2015-",
+    "(主题:('培养箱')*关键词:('细胞'))*Date:2015-",
+    "细胞培养箱"
+  ]
+}

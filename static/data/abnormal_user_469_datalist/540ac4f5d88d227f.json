@@ -1,0 +1,228 @@
+{
+  "下载": [
+    {
+      "id": "kqdlxxb200004012",
+      "title": "稀薄气体圆柱绕流的并行化DSMC方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ltlxsyycl200101004",
+      "title": "气动物理地面模拟试验相似律",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200102009",
+      "title": "建立颗粒流方程的推广BGK模型方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200406007",
+      "title": "泰氟隆烧蚀产物对电子密度的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200104006",
+      "title": "超声速、高超声速球锥组合体表面压强估算方法及其应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kqdlxxb200304015",
+      "title": "高超声速平头圆柱绕流化学反应流场的DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjjs200503011",
+      "title": "三维管道超声速气固两相流动的CFD/DSMC仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200202013",
+      "title": "稀薄气体条件下Rayleigh-Benard系统稳定性的DSMC仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjjs200502003",
+      "title": "二维过渡区含化学反应的喷流干扰流场DSMC/EPSM仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jslxxb200303004",
+      "title": "DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200401005",
+      "title": "旋成体跨音速脉动压力环境分析与预测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gfkjdxxb200003011",
+      "title": "氙原子在铂表面散射的分子动力论方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fzgxjckxxb200003006",
+      "title": "具有有限时滞的差分系统的稳定性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200102010",
+      "title": "激波对密度间断层干扰及界面效应的数值模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gfkjdxxb200103005",
+      "title": "三维化学非平衡粘性激波层流场数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200105026",
+      "title": "横风中双层客车车辆的风荷载研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200405003",
+      "title": "微喷管流动的DSMC方法模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyhtyzjs200303009",
+      "title": "复杂外形气动特性的DSMC模拟与桥函数估算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lxjk200303009",
+      "title": "开式空腔流动的蒙特卡罗直接模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200204006",
+      "title": "二维凹槽过渡流的DSMC方法模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200301014",
+      "title": "姿控发动机高空羽流流场干扰效应的DSMC方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200204011",
+      "title": "超声速平板绕流DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjjs200105006",
+      "title": "姿控发动机喷管内流场的DSMC并行算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jslxxb200305010",
+      "title": "气体化学反应流动的DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjsxy200202022",
+      "title": "高超音速竖板绕流DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkjsjs200204002",
+      "title": "过渡区球锥气动力特性的桥函数估算与DSMC仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200204010",
+      "title": "大瑞利数下二维Benard对流演化过程的DSMC仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200304004",
+      "title": "旋转弹丸空气动力特性数值解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lxjk200204008",
+      "title": "Rayleigh-Benard系统不稳定性的DSMC方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysfxyxb200204008",
+      "title": "过渡区球头气动力特性的桥函数与DSMC仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjjs200306005",
+      "title": "二维过渡区喷流干扰流场的DSMC/EPS仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200106006",
+      "title": "再入体表面脉动压力环境的预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lxjk200403009",
+      "title": "低速二维流动的粒子仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200401002",
+      "title": "再入体过渡区气动特性预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200504017",
+      "title": "稀薄流过渡区气固两相喷流的建模与数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kqdlxxb200202012",
+      "title": "超声速平头圆柱绕流DSMC/EPSM混合算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkjdxxb200205022",
+      "title": "具有随机寿命的二维期权定价",
+      "download_times": 2,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": []
+}

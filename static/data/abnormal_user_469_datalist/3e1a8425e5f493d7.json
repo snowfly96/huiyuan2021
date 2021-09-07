@@ -1,0 +1,644 @@
+{
+  "下载": [
+    {
+      "id": "smsj201805284",
+      "title": "DIV+CSS网页布局初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201402089",
+      "title": "基于java的网页聊天工具研究与实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "msdg200712121",
+      "title": "浅谈网站建设中网页设计的注意事项",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201526002",
+      "title": "互联网个人信息垂直搜索系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxsfgdzkxxxb201103053",
+      "title": "个人网页设计中的色彩运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnxx200901020",
+      "title": "个人网页设计与制作",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hbqy201909070",
+      "title": "个人分享C#程序网站的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbmzxyxb-zrkxb200402019",
+      "title": "在教学局域网上实现个人主页上传模拟系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxhlkj201302028",
+      "title": "基于Asp.net的个人网页设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdn201604054",
+      "title": "基于.Net Web Api的物流订单软件的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgkj201008086",
+      "title": "用户界面设计课程项目式教学实践案例——个人主页设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201401263",
+      "title": "论网页设计的几个原则",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnm201303032",
+      "title": "浅谈动态网页的设计及实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gddnydx201709022",
+      "title": "基于HTML+CSS+JQuery的网站开发简述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxyxxh201803039",
+      "title": "简述Dreamweaver中基于CSS的网页制作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy200304038",
+      "title": "个人网站DIY全接触之首页篇--设计网页封面",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201321025",
+      "title": "高校教师个人主页定制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201907190",
+      "title": "基于.net的网络协议教学系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyx-x201713003",
+      "title": "浅谈网页设计与制作中应注意的几个问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjyky200611033",
+      "title": "网页设计课程的研究性学习模式初探",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gddnydx201009041",
+      "title": "基于ASP的个人网站设计及实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxydn201614059",
+      "title": "网页设计中Flash动画的视觉运用探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cczl200925096",
+      "title": "基于项目的网页设计课程教学探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bzsj200103029",
+      "title": "网页设计之我见(上)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xuey201329159",
+      "title": "利用Dreamweaver进行ASP动态网页设计前的配置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj201610106",
+      "title": "网页设计中计算机多媒体技术的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnbcjqywh201908036",
+      "title": "基于CSS选择器技术的信息提取系统设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201513008",
+      "title": "基于动态网页技术的医院信息管理系统的前期设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdxxkj201908044",
+      "title": "基于网站制作的Web前端开发技术与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy200507012",
+      "title": "基于Web服务的个人网页资源管理组件设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzsfxyxb200702016",
+      "title": "试论个人主页设计中的审美艺术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhiy201136086",
+      "title": "Flash个人网站的设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs-zbb201205012",
+      "title": "基于ASP技术的物流平台设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb200707061",
+      "title": "对当代大学生个人网站建设的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxhjs201612324",
+      "title": "浅析网页制作方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "msjyyj201413057",
+      "title": "属于我们的大学网页设计︱︱浅谈大学女生网站网页设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201335092",
+      "title": "个人生活网站的设计与制作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201303151",
+      "title": "基于XML的物流信息交换平台研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chuanm201705033",
+      "title": "面向大众的媒体设计教程——评《人人都是设计师》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljjyxyxb201009041",
+      "title": "网页制作在教学中的设计应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjyqy201408106",
+      "title": "基于Dreamweaver CS5网站的构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxdnyy201207005",
+      "title": "基于ASP技术的Web数据库系统设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201306012",
+      "title": "基于BHO构建轻量级上网行为监控系统",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dnm201301049",
+      "title": "应用ASP技术进行个人网页设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb200831026",
+      "title": "网站的规划与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "huaz201408301",
+      "title": "基于Java web个人空间设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dljyxyxb200301032",
+      "title": "网页设计制作规范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkj200823021",
+      "title": "个人网站的策划与创建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201104048",
+      "title": "网站建设中的策划探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjywl200201027",
+      "title": "网页设计应注意那些问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "huncjgdzkxxxb201605190",
+      "title": "电子商务专业网页设计与制作课程教学研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxxxzz200609004",
+      "title": "基于Web技术的大众健康管理系统设计及意义初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rjdk201305031",
+      "title": "基于ASP的个人博客系统设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgprjyyy201311144",
+      "title": "基于ASP的毕业设计指导网站",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx200811059",
+      "title": "浅淡构成元素在网页设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnm201301039",
+      "title": "浅谈动态网页的设计及实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx200711063",
+      "title": "网页设计中的技术与艺术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdhjy200312026",
+      "title": "教师课程网站主页的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh200821106",
+      "title": "基于WEB的网上订餐系统",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "kjf201018251",
+      "title": "基于Web的就业服务网的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dqpj201304199",
+      "title": "网页设计与制作岗位需求与专业技能调研的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xkc-jy201010326",
+      "title": "网页设计与制作的课程改革新动向",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjrdn200407035",
+      "title": "浅谈制作网页的经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgprjyyy201318124",
+      "title": "静态网页设计简要分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzfzgxyxb201003020",
+      "title": "个人网站系统的设计与实现",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "msdg201106082",
+      "title": "浅析WEB2.0时代的数码设计应如何定位",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syyxyxb200402021",
+      "title": "设计网站应该考虑的几个问题及作法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxdjyzb201024022",
+      "title": "如何制作简单的个人网页",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bangzdh200103015",
+      "title": "Java Script技术在网站'滚动信息窗口'设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx200719064",
+      "title": "浅谈网站建设及网页制作方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy200305037",
+      "title": "个人网站DIY全接触之建设篇设计和应用网页样式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdn200201021",
+      "title": "网页技巧设计的实现方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ntkt199906019",
+      "title": "网页制作与网站建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mdjsfxyxb200103002",
+      "title": "网页设计与开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjcyyk201501039",
+      "title": "网站开发过程与功能实现探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyjxlt201342194",
+      "title": "游戏化展示教学在网页制作这门课中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlgcygl201109025",
+      "title": "基于ASP.NET技术的烟草物流实时数据查询系统的开发应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgc201222008",
+      "title": "结合网页和语句共现的Web社会关系评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjsjy200303043",
+      "title": "个人网站DIY全接触之起步篇--设计网页封面",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201911118",
+      "title": "浅析个人网站设计不可或缺的要素",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "szhyh201326088",
+      "title": "网站制作实用技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjdk201211043",
+      "title": "基于Android系统智能手机的网页地图服务设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb200928024",
+      "title": "网页设计艺术与技巧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjsj-xby201816019",
+      "title": "基于个人简历的Scrapy设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgprjyyy201306043",
+      "title": "Web2.0环境下高职大学生《网页设计与制作》构建个人PLE的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnbcjqywh200920036",
+      "title": "基于网站建设过程的网站策划要点分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "czsfzkxxxb-zhb200304040",
+      "title": "基于Internet的网上图书销售系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgkj201607002",
+      "title": "大学生英语互助连锁网站设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyrj201803015",
+      "title": "大数据时代下的动态可配置数据采集系统的研究与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glxxxt200202027",
+      "title": "教师个人网站创建的教学设计模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "guig201214118",
+      "title": "网站设计及网页制作技巧",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201628050",
+      "title": "基于JavaEE的个人博客系统的设计与实现",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201534026",
+      "title": "浅谈网页制作与手机APP的联系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hubgbdsdxxb200805087",
+      "title": "基于Dreamweaver8的动态网页设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhgglxyxb200502024",
+      "title": "个人网站的规划设计与建立",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhsywk201903064",
+      "title": "肺腺癌患者表皮生长因子受体基因突变与CT征象相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njtdyxyxb201703040",
+      "title": "磨玻璃结节肺腺癌CT征象与病理分类及EGFR、ALK基因突变相关性的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201812012",
+      "title": "肺腺癌CT征象与表皮生长因子受体基因突变相关性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxlwszz201706010",
+      "title": "炎症性肠病患者的心理韧性与社会支持、应对方式的相关性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgggws200505010",
+      "title": "SARS期间文化程度对人群焦虑影响调查",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxlwszz200908015",
+      "title": "本科实习护生离职意愿及影响因素",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201612010",
+      "title": "周围型浸润性肺腺癌EGFR基因突变与CT征象及病理的相关性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjcyy202002030",
+      "title": "电磁导航在骨科诊疗中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xzhl201909016",
+      "title": "踝泵运动预防下肢深静脉血栓的有效性和最佳节律的循证探讨",
+      "download_times": 4,
+      "browse_times": 9
+    },
+    {
+      "id": "bjykdxxx2003z1016",
+      "title": "SARS病人及相关人群的心理特征与心理干预",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "cjj201733031",
+      "title": "大数据视角分析电子商务企业管理模式",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "金融 教学团队建设 高职"
+  ]
+}

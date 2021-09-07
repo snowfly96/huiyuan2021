@@ -1,0 +1,696 @@
+{
+  "下载": [
+    {
+      "id": "kjwh201935087",
+      "title": "基于功能对等理论的英语修辞翻译途径研究",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc201905045",
+      "title": "“掌上图书馆”系统的研究与开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201917217",
+      "title": "数字化测绘在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxfzdx-x201911160",
+      "title": "测绘工程技术在地籍测量中的应用研究",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs202001173",
+      "title": "地面三维激光扫描技术在工程测量中的应用研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dbch201808046",
+      "title": "三维激光扫描技术在旧城改造中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdizhi201901010",
+      "title": "太行山南段丰峪蚀变正长花岗岩LA-ICP-MS锆石U-Pb年龄及构造意义",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kwysdqhxtb201802007",
+      "title": "南太行邯邢地区夕卡岩型铁矿成矿过程的成因矿物学解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rwzy201816090",
+      "title": "新乡市南太行旅游度假区发展的SWOT分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201909030",
+      "title": "太行山的地貌特征及成因分析 ——以太行山中、南段嶂石岩地貌为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shicyj201712014",
+      "title": "新乡南太行地区发展健康旅游业的SWOT分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngtzy201907018",
+      "title": "太行山绿化经验是一笔宝贵财富 ——访河南省自然资源厅党组书记刘金山",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkjxyxb-shkxb201909006",
+      "title": "美学视域下南太行双岭清韩线路的户外资源研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201903016",
+      "title": "南太行崖上原生聚落场所氛围及其成因探析——以辉县黄水乡九峰山村、龙水梯、土梯、南盘、滴水寨为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyzl201809194",
+      "title": "地面三维激光扫描技术在工程测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csdl201804048",
+      "title": "地面三维激光扫描技术在工程测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgtzy201806030",
+      "title": "试论测绘技术在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjch201910017",
+      "title": "基于三维激光扫描的城市微改造设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkjxx201909036",
+      "title": "三维激光扫描技术在公路带状图测量中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sjysjs201913090",
+      "title": "工程测绘中关于地面三维激光扫描技术的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "21sjjzcl201907002",
+      "title": "探讨地籍测量的关键技术及其方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201812103",
+      "title": "测绘技术在地籍测量中的应用探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj2018303611",
+      "title": "测绘工程技术在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfdk201934154",
+      "title": "农村宅基地地籍调查与测量探析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "spyzl201828197",
+      "title": "地籍测量中测绘新技术的应用探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj201826596",
+      "title": "现代测绘技术在地籍测量中应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs201836169",
+      "title": "地籍测量中现代测绘技术的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjstb201810116",
+      "title": "解析测绘新技术在土地确权地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxjz201834110",
+      "title": "现代测绘技术在地籍测量中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zncs201820037",
+      "title": "地籍测量与未来发展方向实践思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201912047",
+      "title": "浅议新时期地籍测量内容和技术方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfdxx201822138",
+      "title": "浅谈测绘工程技术在地籍测量中的实践应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzqykj201934094",
+      "title": "地籍测量工程中数字化测绘技术的应用探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dlkjxx201808002",
+      "title": "地面三维激光扫描点云质量评价技术研究与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201905097",
+      "title": "测绘技术在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl201901065",
+      "title": "地籍测量的技术和方法研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz201935125",
+      "title": "情景教学法融入小学英语课堂实践教学研究",
+      "download_times": 12,
+      "browse_times": 10
+    },
+    {
+      "id": "hnlykj201404018",
+      "title": "河南省太行山绿化工程成效分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zzmt201704001",
+      "title": "河南省太行构造区二1煤层瓦斯地质规律研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shanxlykj201403002",
+      "title": "太行山中南部立地类型划分研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjm201504157",
+      "title": "论南太行旅游区资源整合开发策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scsn201905053",
+      "title": "农村宅基地地籍调查与测量探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl201901065",
+      "title": "地籍测量的技术和方法研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dbch201904059",
+      "title": "浅析地籍测量中数字测量的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncnynm-b201912013",
+      "title": "农村宅基地地籍调查的关键内容与技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sq-zh201946200",
+      "title": "浅谈英语教学中的情景教学法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jcgyxx201918066",
+      "title": "数字化测绘技术在地籍测绘中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxjsxcpjx201923064",
+      "title": "GPS新技术在地籍测绘中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xakyxyxb201402014",
+      "title": "三维激光扫描仪技术在地形测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjlwzx201509005",
+      "title": "利用地面三维激光扫描技术进行地形测绘",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx201912028",
+      "title": "激光扫描技术在农村地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnqx200603038",
+      "title": "新乡市太行山区地质灾害等级预报业务系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dixs201405051",
+      "title": "河南省太行山南脉找水规律分析探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzqykj201436145",
+      "title": "南太行旅游资源及开发序列评析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyjs201714187",
+      "title": "太行山地形影响下的新乡市夏季降水分布特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngtzy201607055",
+      "title": "林虑山: 南太行最美的一段",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qyzl201913146",
+      "title": "浅论测绘工程技术在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dizhixb201712012",
+      "title": "太行山南段铜矿成矿时代厘定及成矿意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcdz201804009",
+      "title": "南太行山平顺辉长岩体锆石SHRIMP U-Pb年龄、地球化学特征及构造意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgmtjj201917152",
+      "title": "层序地层学发展历程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbnydxxb201805012",
+      "title": "太行山南部苹果园土壤养分特征及其与果实品质关系的多元分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyyjs201923064",
+      "title": "南太行地区精准化旅游扶贫问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkyxyxb201901006",
+      "title": "太行山南段长城系大河组石英岩状砂岩的同沉积构造",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-xx201812241",
+      "title": "测绘工程技术在地籍测量中的运用研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zncs201814050",
+      "title": "浅谈城市地籍测量的测绘技术相关问题及策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbzy201804073",
+      "title": "地籍测量中现代测绘技术的应用对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnxtb201919035",
+      "title": "现代测绘技术在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxq201905034",
+      "title": "地籍测量与现代测绘新技术的精度控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj201824605",
+      "title": "全站仪在地籍测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201931088",
+      "title": "现代测绘技术在地籍测量中的应用探讨",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201921072",
+      "title": "城镇地籍调查中地籍测绘方法分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dwjzjs201705038",
+      "title": "BIM结合三维激光扫描在建筑中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddr201815017",
+      "title": "南太行记",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdzxb201701021",
+      "title": "太行山断裂带东南缘地壳三维P波速度结构成像",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnsyxyxb201704005",
+      "title": "太行山中南段长城系赵家庄组沉积特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdl201702003",
+      "title": "太行山南部前寒武纪红层的岩石磁学特征及沉积环境探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mysd-c201807047",
+      "title": "文化基因下景区形象设计研究 ——以新乡南太行旅游地标为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dkxbydz201901017",
+      "title": "太行山南端浅层速度结构成像和隐伏断裂探测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gtyzrzyyj201404020",
+      "title": "太行山南段主要隆升时期探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zydk-dzlyb201512014",
+      "title": "穿越最美的山水奇观--南太行",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201836263",
+      "title": "测绘新技术在农村宅基地测量中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zszxtd201824134",
+      "title": "浅析地籍测量中的测绘新技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201826188",
+      "title": "农村宅基地地籍测量方法的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzdz201601010",
+      "title": "太行山南端盘谷寺-新乡断裂的构造特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hensl201910012",
+      "title": "新乡市防汛工作的现状与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hensl201706009",
+      "title": "某高速公路水土保持分析与评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddlv201807060",
+      "title": "论南太行文化旅游资源的时代价值与深度开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dqxb201805015",
+      "title": "太行山南缘王莽岭地区风化壳的地球化学特征与夷平面形成环境",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201919075",
+      "title": "太行山南麓大果榆育苗技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncxkkj201702009",
+      "title": "太行山南麓气象灾害风险区划——以河南省卫辉市为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hebnykx201904019",
+      "title": "冀中南太行山前平原初秋降水特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gsytb201901024",
+      "title": "南太行邯邢地区符山绿帘石矿物学特征及成因",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201931088",
+      "title": "现代测绘技术在地籍测量中的应用探讨",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "yjck201901016",
+      "title": "测绘工程技术在地籍测量中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj201830118",
+      "title": "关于城镇地籍测量控制网中 GPS 技术的应用分析核心探寻",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngtzy201612063",
+      "title": "跑马岭: 记录南太行28亿年的沧桑演变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxfzdx-x201911160",
+      "title": "测绘工程技术在地籍测量中的应用研究",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "jzyzs201916135",
+      "title": "地面三维激光扫描技术在工程测量中的应用探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjyqy201322235",
+      "title": "三维激光扫描仪在地形测量中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201952532",
+      "title": "谈谈初中英语如何激发初中英语学习兴趣",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "dzdcgcyyj201505002",
+      "title": "利用接收函数研究太行山前断裂南部地区地壳厚度",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qhwjyjjz200404012",
+      "title": "河南省豫北平原区首次在第四系全新统地层中发现石膏矿",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljszfglgbxyxb201904020",
+      "title": "反垄断民事诉讼原告资格的确立",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hensl201522025",
+      "title": "豫北太行山南缘寒武系地层岩溶发育特征研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xdky201605046",
+      "title": "太行山南段洪山火山机构岩相学特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czszxb201902024",
+      "title": "从《无名的裘德》看哈代对维多利亚时代婚姻观的批判与重构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tlhc201603018",
+      "title": "山西中南部铁路太行山隧道岩溶发育成因分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyhk-gzb201933092",
+      "title": "情景教学法在高中英语语法教学中的运用",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgxyxb-shkx202002006",
+      "title": "南太行山区旅游产业扶贫绩效评价及协调度研究 ——以辉县市为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcjsysj201920047",
+      "title": "南太行地区生态环境问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkxbydz201703003",
+      "title": "利用小震震源机制解研究太行山断裂带东南缘地区构造应力场",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mysd-x201910034",
+      "title": "南太行双岭景观的美学视域探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hennannydxxb201904017",
+      "title": "砾石在太行山南麓土壤中的分布特征",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201902093",
+      "title": "新乡南太行旅游发展对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyjs201924020",
+      "title": "基于任务型教学法的高中英语口语教学设计探究",
+      "download_times": 3,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": []
+}

@@ -1,0 +1,1326 @@
+{
+  "下载": [
+    {
+      "id": "zgtxtxxb-a200607002",
+      "title": "监控视频运动目标检测减背景技术的研究现状和展望",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gljtkj201001020",
+      "title": "基于最小二乘支持向量机的车型识别算法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jqr200202005",
+      "title": "CITAVT-IV——视觉导航的自主车",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "njhkht201905012",
+      "title": "基于视频的行人再识别",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yxxzzz201806003",
+      "title": "早泄的行为治疗",
+      "download_times": 6,
+      "browse_times": 10
+    },
+    {
+      "id": "zgxkx201910008",
+      "title": "早泄的治疗现状及进展",
+      "download_times": 25,
+      "browse_times": 39
+    },
+    {
+      "id": "csgh201201017",
+      "title": "民生视域下我国特大型城市交通拥堵问题研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yqyb200304026",
+      "title": "基于最小二乘原理的多传感器加权融合算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201032018",
+      "title": "多传感器粒子滤波融合跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201114043",
+      "title": "基于多传感器信息融合的激光定位与跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdgc200410001",
+      "title": "多传感器模糊融合跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201602009",
+      "title": "基于跟踪精度控制的多传感器管理方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kzyjc200804020",
+      "title": "基于无迹卡尔曼滤波的被动多传感器融合跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz200907032",
+      "title": "用于机动目标跟踪的分布式多传感器异步融合算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gwcsgh201502010",
+      "title": "城市交通公平研究综述",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz200803026",
+      "title": "基于模糊多传感器数据融合的目标跟踪系统",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yjyxs201608014",
+      "title": "高分辨率多传感器融合图像跟踪系统的设计与实现",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgtxtxxb-a201403007",
+      "title": "基于双边滤波的图像去雾",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb200612006",
+      "title": "复杂环境下基于自适应粒子滤波器的目标跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfzsjytxxxb201606001",
+      "title": "基于单目视觉的同时定位与地图构建方法综述",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "jsjyy200601048",
+      "title": "一种雾天图像低对比度增强的快速算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201901019",
+      "title": "基于粒子滤波的多异步传感器检测前跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yjyxs201608011",
+      "title": "多传感器自主跟踪中的数据融合方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gdgc201907009",
+      "title": "基于激光雷达和相机信息融合的目标检测及跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs200909013",
+      "title": "多传感器跟踪系统自适应Kalman滤波融合",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx201212005",
+      "title": "基于Mean Shift的视觉目标跟踪算法综述",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201808017",
+      "title": "基于扩展信息滤波的跟踪传感器选择算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy200925003",
+      "title": "多传感器信息融合的目标跟踪研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zsddjs200705010",
+      "title": "多传感器滤波跟踪型数据融合算法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gljtjs201201030",
+      "title": "道路交通车辆检测技术及发展综述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xtgcydzjs201202016",
+      "title": "基于平方根UKF的多传感器融合再入段目标跟踪研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zggxjsxb200002008",
+      "title": "多传感器数据融合时权的最优分配原则",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "csggjt200707011",
+      "title": "城市交通运行评价指标体系研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qcgc200611017",
+      "title": "一种基于特征的车辆检测方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201910134",
+      "title": "单目视觉和二维激光雷达的配准与融合",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "tjdxxb2017z1007",
+      "title": "视觉和毫米波雷达信息融合行人识别算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyy201009038",
+      "title": "图像去雾技术研究综述与展望",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcsjs201705021",
+      "title": "带有乘性噪声的多传感器强跟踪融合算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyxdh201410003",
+      "title": "多传感器多目标跟踪及航迹融合系统",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyy201806006",
+      "title": "基于三次B样条曲线拟合的智能车轨迹跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kzllyyy201502007",
+      "title": "基于变分贝叶斯势均衡多目标多伯努利滤波的多扩展目标跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyhmb201003015",
+      "title": "毫米波/红外多传感器融合跟踪算法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hnlgdxxb201608018",
+      "title": "基于多特征概率分布的均值漂移行人跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxbkj201303027",
+      "title": "多传感器信息融合的目标跟踪算法研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "xtfzxb200408062",
+      "title": "基于雷达与图像信息融合的目标跟踪仿真研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "chuandjs201302002",
+      "title": "基于卡尔曼滤波的多传感器跟踪融合算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgtxtxxb-a200606018",
+      "title": "遮挡情况下基于特征相关匹配的目标跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hnlgdxxb201110008",
+      "title": "带宽自适应的MeanShift目标跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb200006002",
+      "title": "不同类型传感器的分层融合算法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyszgc200908015",
+      "title": "基于强跟踪滤波器的多传感器信息融合应用研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjjlt201904012",
+      "title": "车路协同自动驾驶发展趋势及建议",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz200303001",
+      "title": "分布式多传感器多目标跟踪融合算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "qcgc201506011",
+      "title": "一种基于雷达和机器视觉信息融合的车辆识别方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gxjs200402011",
+      "title": "基于序列图像的运动目标实时检测方法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "sdgcxyxb201901003",
+      "title": "基于激光雷达与视觉信息融合的SLAM方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf201923006",
+      "title": "基于毫米波雷达和视觉信息融合的车辆检测",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201919095",
+      "title": "先进汽车辅助驾驶系统(ADAS)发展现状及前景",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zggckx201101006",
+      "title": "城市道路网运行实时动态评价理论和技术研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xagljtdx200301020",
+      "title": "路段交通冲突的调查技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "szhyh201923229",
+      "title": "机器视觉摄像机标定研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xxwxjsjxt201908042",
+      "title": "杂波环境下雷达/红外数据融合目标跟踪算法的研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsjtx201912105",
+      "title": "基于图像增强与复原的去雾方法探究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy201006001",
+      "title": "粒子滤波算法研究进展与展望",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcysj201901037",
+      "title": "基于卷积神经网络的视觉位置识别方法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "kmlgdxxb200402009",
+      "title": "机器视觉关键技术的现状及应用展望",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjgcykx201606025",
+      "title": "部分监测区域重叠条件下的扩展目标跟踪",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyjs201006024",
+      "title": "一种基于IMM/MSPDAF的多传感器数据融合目标跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyxdh201902001",
+      "title": "改进ORB算法在图像匹配中的应用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "shjtdxxb200504001",
+      "title": "多传感器稳健融合跟踪算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xtfzxb200812043",
+      "title": "基于平方根UKF的多传感器融合跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gwgl200302004",
+      "title": "美国智能交通系统ITS的近期发展综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccgxjmjxxyxb200802007",
+      "title": "异步多传感器目标跟踪融合",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gljtkj201303021",
+      "title": "基于实时数据的道路承载力研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201106003",
+      "title": "分布式多传感器融合跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "njydxyxb200703018",
+      "title": "基于视频的车辆检测算法综述",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlgdxxb200201029",
+      "title": "多传感器在线自适应加权融合跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb200408009",
+      "title": "一种基于分步式滤波的数据融合算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gljtkj200903026",
+      "title": "对高速公路移动目标跟踪的多传感器采集数据融合",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zggxyyygxwz200905003",
+      "title": "遮挡情况下目标跟踪算法综述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjtxxcy201910018",
+      "title": "车路协同系统高速公路应用浅析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cqjtxyxb201912002",
+      "title": "车路协同环境下信号交叉口速度引导策略",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "dianzixb201010014",
+      "title": "单幅雾天图像复原",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hjhkgcxyxb201602006",
+      "title": "基于改进粒子滤波的多传感器融合空间目标跟踪",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyy201805035",
+      "title": "基于交通场景区域增强的单幅图像去雾方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb201102012",
+      "title": "基于贝叶斯理论的分布式多视角目标跟踪算法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb201707012",
+      "title": "面向跟踪系统的多传感器信息融合鲁棒保性能协方差交叉Kalman估计方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "shjtdxxb200607015",
+      "title": "基于优化组合重采样的粒子滤波算法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzixb200505018",
+      "title": "多传感器最优信息融合白噪声反卷积滤波器",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xddzjs201703012",
+      "title": "基于多传感器融合的运动目标跟踪算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjcg201924017",
+      "title": "多传感器图像融合方法的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hlyzhkz200508004",
+      "title": "连续动态贝叶斯网络实现多传感器融合跟踪",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkxjs201905007",
+      "title": "AI使能的车路协同",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "shdlxyxb201804013",
+      "title": "摄像机标定方法的比较分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-zx201909229",
+      "title": "动力学效应论证反物质属于运动现象而非基础物质",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hnlgdxxb201206017",
+      "title": "一种快速近似模式匹配算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xbpg201817061",
+      "title": "匈牙利算法在指派问题中的运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201907042",
+      "title": "双目立体视觉图像多目标处理精确匹配仿真",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dzkxxk202002008",
+      "title": "基于量子不经意密钥传输的量子匿名认证密钥交换协议",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "jqrcy201906010",
+      "title": "构建智能网联汽车生态",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "szhyh201331023",
+      "title": "智能车辆机器视觉技术的国内外研究现状分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcb201815064",
+      "title": "交通信号灯识别现状研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zzfzgxyxb200801003",
+      "title": "机器视觉的现状及发展趋势",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sbglywx201609004",
+      "title": "机器视觉技术的发展现状与展望",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "xdqb201910019",
+      "title": "机器学习技术发展现状与国际竞争分析",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jxzz201901011",
+      "title": "智能机器人的现状与发展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201005001",
+      "title": "基于视觉的机器人智能化焊接技术现状与发展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyjggc201705002",
+      "title": "基于深度学习的目标跟踪方法研究现状与展望",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201922103",
+      "title": "自动驾驶中传感器融合问题讨论",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sz-xxk201608009",
+      "title": "机器视觉技术发展现状研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jmsjyxyxb201809255",
+      "title": "计算机视觉技术在智能交通系统中的应用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "tyzxjjxyxb200701006",
+      "title": "机器人视觉伺服控制及应用研究的现状",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx201711001",
+      "title": "图像去雾霾算法的研究现状与展望",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "yqyb201002026",
+      "title": "结构化道路中车道线的单目视觉检测方法",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gjstx98200801019",
+      "title": "自主移动机器人视觉信息处理技术研究发展现状",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gl200607031",
+      "title": "我国道路交通事故统计指标体系问题探讨",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jlgydxzrkxxb201302009",
+      "title": "基于反演法的智能车辆弯路换道轨迹跟踪控制",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs200901001",
+      "title": "智能车辆发展及其关键技术研究现状",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "qcgc201009001",
+      "title": "智能环境友好型车辆——概念、体系结构及工程实现",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gljtkj200202033",
+      "title": "世界智能车辆行驶安全保障技术的研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kjsp201704012",
+      "title": "探析智能移动机器人技术现状及展望",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gxyq201804013",
+      "title": "双目立体视觉的研究现状及进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxhlkj201819067",
+      "title": "机器视觉技术的发展现状与应用动态研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dianxjs201905016",
+      "title": "结合匈牙利指派和改进粒子滤波的多目标跟踪算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dianxjs201905016",
+      "title": "结合匈牙利指派和改进粒子滤波的多目标跟踪算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdjsj-xby202006016",
+      "title": "面向停车场场景的多传感器融合匹配算法与融合数据的并行处理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "cgqjs202004011",
+      "title": "多传感器数据加权融合方法",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "cgqjs202004011",
+      "title": "多传感器数据加权融合方法",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtxtxxb-a201910011",
+      "title": "感知器残差网络和超限学习机融合的3D物体识别",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj202003008",
+      "title": "无线传感器网络数据安全融合技术的优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tcykzxb202001003",
+      "title": "机动目标跟踪的多传感器分层加权融合算法",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "scbgxb202001004",
+      "title": "多传感器融合的弹道环境参数存储测试系统研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qbzhkzxtyfzjs202002006",
+      "title": "基于多地并行融合的多传感器目标识别信息融合方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs202004011",
+      "title": "多传感器数据加权融合方法",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjfz201907042",
+      "title": "双目立体视觉图像多目标处理精确匹配仿真",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "scbgxb202001004",
+      "title": "多传感器融合的弹道环境参数存储测试系统研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "qbzhkzxtyfzjs202002007",
+      "title": "基于分布式信息融合的多传感器目标定位算法",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "txxb201911006",
+      "title": "基于特征值的频谱感知融合算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianxjs202003016",
+      "title": "结合新型模糊支持向量机和证据理论的多传感器水质数据融合",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ybjsycgq202003019",
+      "title": "基于融合传感器的气固两相流参数检测系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dpjyqrsxtyy202003011",
+      "title": "多传感器融合的入侵监控系统设计",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "tcykzxb202001003",
+      "title": "机动目标跟踪的多传感器分层加权融合算法",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgtxtxxb-a201506009",
+      "title": "融合图像感知哈希技术的运动目标跟踪",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kcjsyyj202001007",
+      "title": "多感知信息融合的车辆感知方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcgc201910013",
+      "title": "基于多传感器融合的换道预警模型研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjjbydc201923005",
+      "title": "基于专利挖掘的感知人工智能技术融合趋势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "jsjyy202003029",
+      "title": "改进型蚁群算法融合混沌优化的pSPIEL算法的无线传感器布局优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    }
+  ],
+  "浏览": [
+    {
+      "id": "jsjgcysj201901037",
+      "title": "基于卷积神经网络的视觉位置识别方法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxkx201910008",
+      "title": "早泄的治疗现状及进展",
+      "download_times": 25,
+      "browse_times": 39
+    },
+    {
+      "id": "yxxzzz201806003",
+      "title": "早泄的行为治疗",
+      "download_times": 6,
+      "browse_times": 10
+    },
+    {
+      "id": "njhkht201905012",
+      "title": "基于视频的行人再识别",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "njhkht201901002",
+      "title": "二维硼材料的理论和实验研究进展",
+      "download_times": 2,
+      "browse_times": 10
+    },
+    {
+      "id": "njhkht201901001",
+      "title": "金属增材制造变形与残余应力的研究现状",
+      "download_times": 9,
+      "browse_times": 38
+    },
+    {
+      "id": "njhkht201901003",
+      "title": "基于多尺度方法的飞行器结构强度分析",
+      "download_times": 1,
+      "browse_times": 8
+    },
+    {
+      "id": "cqjtxyxb201912002",
+      "title": "车路协同环境下信号交叉口速度引导策略",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "kjdkdz-zx201909229",
+      "title": "动力学效应论证反物质属于运动现象而非基础物质",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xxwxjsjxt201812032",
+      "title": "K近邻近似模式匹配查询",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjfz201907042",
+      "title": "双目立体视觉图像多目标处理精确匹配仿真",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201922103",
+      "title": "自动驾驶中传感器融合问题讨论",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dzkxxk202002008",
+      "title": "基于量子不经意密钥传输的量子匿名认证密钥交换协议",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "hnlgdxxb201206017",
+      "title": "一种快速近似模式匹配算法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dianxjs201905016",
+      "title": "结合匈牙利指派和改进粒子滤波的多目标跟踪算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgtxtxxb-a201506009",
+      "title": "融合图像感知哈希技术的运动目标跟踪",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgkjcg201924017",
+      "title": "多传感器图像融合方法的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "tcykzxb202001003",
+      "title": "机动目标跟踪的多传感器分层加权融合算法",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "scbgxb202001004",
+      "title": "多传感器融合的弹道环境参数存储测试系统研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "fzdxxb201904006",
+      "title": "融合分类与协同过滤的情境感知音乐推荐算法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "qbzhkzxtyfzjs202002007",
+      "title": "基于分布式信息融合的多传感器目标定位算法",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "cgqjs202004011",
+      "title": "多传感器数据加权融合方法",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xdjsj-xby202006016",
+      "title": "面向停车场场景的多传感器融合匹配算法与融合数据的并行处理",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "tcykzxb202001003",
+      "title": "机动目标跟踪的多传感器分层加权融合算法",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "jsjyyyrj202004039",
+      "title": "基于随机自适应方法的多传感器融合算法",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "chtb202002003",
+      "title": "一种融合动态预测的感知哈希目标跟踪算法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kcjsyyj202001007",
+      "title": "多感知信息融合的车辆感知方法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    },
+    {
+      "id": "zsddjs201504020",
+      "title": "基于TMS320C30处理器平台的双算子高精度积分处理方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "caiz201605146",
+      "title": "如何巧用激励性评价提高小学生学习语文兴趣",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2011231465",
+      "title": "浅谈提高篦冷机冷却效率",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbjyy201011031",
+      "title": "微笑性抑郁伤人深",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjtjj202001048",
+      "title": "房产税试点对居民消费的影响研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mtjjyj200708003",
+      "title": "浅谈企业家精神培育机制的构建",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zxsslh-qr201707017",
+      "title": "思想方法导航解决问题轻松",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ycsfxyxb-rwsh200202037",
+      "title": "在语言活动中培养幼儿的创新意识",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "txsj201705185",
+      "title": "电子档案管理方式的研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyxdh202005011",
+      "title": "基于深度学习的目标检测算法研究综述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lchlyyzz201413029",
+      "title": "氧氟沙星与阿奇霉素贯序治疗老年肺部感染的疗效对比观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xbyxjy201902046",
+      "title": "PBL联合CBL教学法在肾内科见习中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyjs201506023",
+      "title": "一种新的k-means聚类雷达信号分选算法",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jkbd001202026070",
+      "title": "推拿配合刮痧治疗儿童腺样体肥大32例临床观察",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyyyrj202005031",
+      "title": "基于YOLOv3与卡尔曼滤波的多目标跟踪算法",
+      "download_times": 6,
+      "browse_times": 9
+    }
+  ],
+  "检索": [
+    "太空",
+    "太空",
+    "黑洞",
+    "太空",
+    "(monocular) Date:2015-",
+    "雷达 视觉 融合",
+    "南京航空航天大学学报",
+    "发热 病理",
+    "车路协同",
+    "(多传感器融合) 标题:跟踪",
+    "(多传感器融合) 标题:跟踪",
+    "(多传感器融合) 标题:跟踪",
+    "一种基于多传感器融合的车辆检测与跟踪方法",
+    "早泄",
+    "宇宙",
+    "雷达 视觉 融合",
+    "(多传感器融合) 标题:跟踪",
+    "发热 病理",
+    "摄像机标定",
+    "智能网联汽车",
+    "机器视觉",
+    "(多传感器融合) 标题:跟踪",
+    "多传感器目标识别的数据融合",
+    "反物质",
+    "早泄",
+    "雷达 视觉 融合",
+    "车路协同",
+    "雷达 视觉 融合",
+    "(多传感器融合) 标题:跟踪",
+    "雷达 视觉 融合",
+    "刊名:'Journal of robotics'",
+    "车路协同",
+    "黑洞",
+    "早泄",
+    "宇宙",
+    "多传感器融合",
+    "monocular",
+    "南京航空航天大学",
+    "发烧 病理",
+    "机器视觉",
+    "黑洞",
+    "反物质",
+    "(多传感器融合) 标题:跟踪",
+    "(monocular localization) Date:2015-",
+    "monocular",
+    "(monocular localization) Date:2015-",
+    "(monocular localization) Date:2015-",
+    "单目视觉",
+    "(monocular) Date:2015-",
+    "南京航空航天大学学报",
+    "南京航空航天大学",
+    "南京航空航天大学学报",
+    "(monocular) Date:2015-",
+    "南京航空航天大学",
+    "南京航空航天大学",
+    "发热 病理",
+    "车路协同",
+    "(monocular) Date:2015-",
+    "雷达 视觉 融合",
+    "雷达 视觉 融合",
+    "雷达 视觉 融合",
+    "雷达 视觉 融合",
+    "(机器视觉) 标题:现状",
+    "(机器视觉) 标题:现状",
+    "(机器视觉) 标题:现状",
+    "David G.Lowe",
+    "轨迹 匹配",
+    "轨迹 匹配",
+    "匈牙利算法",
+    "匹配",
+    "匈牙利算法",
+    "轨迹 匹配",
+    "匹配",
+    "匈牙利算法",
+    "(视觉) 标题:交通",
+    "智能交通",
+    "轨迹 匹配",
+    "(视觉) 标题:交通",
+    "David G.Lowe",
+    "匈牙利算法",
+    "视觉",
+    "(机器视觉) 标题:现状",
+    "匈牙利算法",
+    "匈牙利算法",
+    "匈牙利算法",
+    "智能网联汽车",
+    "匹配",
+    "匹配",
+    "匈牙利",
+    "() 标题:现状",
+    "(机器视觉) 标题:现状",
+    "机器视觉",
+    "目标匹配",
+    "传感器融合",
+    "量子",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "融合感知",
+    "传感器融合",
+    "融合感知",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "传感器融合",
+    "卡尔曼滤波",
+    "融合感知",
+    "传感器融合",
+    "卡尔曼滤波",
+    "双算子高精度",
+    "深度学习 视觉",
+    "浆细胞",
+    "淀粉样性表",
+    "儿童 腺样体肥大",
+    "浆细胞",
+    "浆细胞",
+    "淀粉样性变",
+    "浆细胞",
+    "浆细胞",
+    "淀粉样性变",
+    "卡尔曼滤波",
+    "儿童 腺样体肥大",
+    "卡尔曼滤波",
+    "卡尔曼滤波",
+    "卡尔曼滤波"
+  ]
+}

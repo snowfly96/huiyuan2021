@@ -1,0 +1,734 @@
+{
+  "下载": [
+    {
+      "id": "gcsjyda201604036",
+      "title": "高速公路边坡支护中砂浆锚杆的应用探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sljsjd201804050",
+      "title": "TBM组装洞室加固支护中锚杆类型的选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsysc201809064",
+      "title": "水电站边坡支护锚杆注浆工艺性试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbtkgc200505023",
+      "title": "拱部超长径向系统砂浆锚杆施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjkxyyb201012010",
+      "title": "锚杆声波反射法质量检测的数值模拟分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cqgxyxb200709012",
+      "title": "锚杆无损检测技术及其在工程中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjsy200804018",
+      "title": "纤维砂浆增强锚索锚固作用的机理分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjslsdzkxxxb201601005",
+      "title": "锦屏电站引水隧洞的岩爆特征及防治措施研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zngydxxb201303042",
+      "title": "加筋锈蚀膨胀诱导深埋地下工程锚固结构起裂模式分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sgjs201312010",
+      "title": "洪屏抽水蓄能电站地下厂房岩壁梁岩台精细化开挖技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whgydxxb200604023",
+      "title": "锚固岩体复合材料力学性质的数值模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gl200512050",
+      "title": "粤赣高速公路龙祖山隧道洞口浅埋段施工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zggxjsqy200910020",
+      "title": "锚杆检测技术在水利工程中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjtkj200403009",
+      "title": "砂浆锚杆在潭邵高速公路边坡支护中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyjz201404040",
+      "title": "基于小波分析的砂浆锚杆锚固质量缺陷评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb201403014",
+      "title": "冻融循环对砂浆岩石锚杆锚固力影响的试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsks200909003",
+      "title": "地下洞室锚固结构的力学特性与锚固机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcdqwlxb200901025",
+      "title": "应力波反射法在水泥砂浆锚杆质量检测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjzgcxyxb200102003",
+      "title": "软弱围岩浅埋隧道地表砂浆锚杆预加固施工分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tygc200302004",
+      "title": "摩擦锚杆与砂浆锚杆锚固力的对比试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmcj200711032",
+      "title": "水电工程注浆锚杆质量的无损检测技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcjsysj201201035",
+      "title": "公路隧道砂浆锚杆质量检测技术及应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnt200808024",
+      "title": "纤维提高水泥浆液强度及对锚杆承载性能影响的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytgcxb200708020",
+      "title": "锈蚀锚杆与砂浆黏结机理试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd200805026",
+      "title": "锚喷支护技术在水库除险加固工程中的实际应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnt201205002",
+      "title": "砂浆与岩石黏结性能的试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfyjxyxb201203005",
+      "title": "水泥砂浆锚杆中的导波传播机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjs200501010",
+      "title": "大跨度高边墙地下洞室超长锚杆施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kykb200310009",
+      "title": "锚杆支护的现场试验和工程应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nsbdyslkj200805022",
+      "title": "三峡工程地下电站主厂房顶拱锚杆施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmcj200108013",
+      "title": "永久船闸高强锚杆锚固效果分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytlx201010005",
+      "title": "砂浆受腐蚀锚固体的锚固特性试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdsdjs201404006",
+      "title": "加锚云母片岩隧道围岩失效特征及力学效应",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb2006z2101",
+      "title": "张拉荷载下砂浆锚固岩石锚杆的力学分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gljtkj201810005",
+      "title": "岩质边坡锚固界面剪应力分布的模拟试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjsdz200103012",
+      "title": "提高锚杆锚固力方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjz200412016",
+      "title": "砂浆粘结GFRP锚杆试验研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hfgydxxb200910014",
+      "title": "锚杆砂浆粘结-滑移关系的试验拟合分析与模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jtsj201601018",
+      "title": "砂浆锚杆在高速公路边坡支护中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gljtjs200406005",
+      "title": "锚杆锚固段粘结力分布计算方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ytlx201004033",
+      "title": "围岩作用下锚杆砂浆锈胀开裂过程分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cqjtxyxb201304021",
+      "title": "拉拔荷载下黄土隧道系统锚杆力学特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjjtzyjsxyxb200601003",
+      "title": "锚杆锚固质量无损检测技术在浙江省高速公路中的试验及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx200805180",
+      "title": "砂浆锚杆、预应力锚索在高速公路高边坡防护中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scdxxb-gckx200706006",
+      "title": "全长粘结式灌浆锚杆锈胀机制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sgjs199809006",
+      "title": "湖南国际金融大厦深基础非预应力砂浆锚杆抗浮技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjz201611026",
+      "title": "中空注浆锚杆与普通砂浆锚杆加固效果的比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytlx2002z1051",
+      "title": "砂浆预应力锚杆轴向应力分布研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzsg200704004",
+      "title": "粘结型GFRP岩石锚杆作用机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hntysnzp201402018",
+      "title": "砂浆锚杆粘结性能试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsks201601035",
+      "title": "复杂应力条件下不同锚杆支护的巷道稳定性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cqjtxyxb201005009",
+      "title": "浅埋偏压隧道口的软弱围岩综合加固处治研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cjkxyyb201406015",
+      "title": "端锚粘结式锚杆受力特性试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzmt201805041",
+      "title": "深部高应力软岩巷道围岩整体锚注技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzqykj201112244",
+      "title": "锚杆锚固质量无损检测技术研究与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmhh200104018",
+      "title": "一种简单易行的砂浆锚杆快速安装法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tygc201403014",
+      "title": "高应力破碎巷道锚注补强支护技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjz201908022",
+      "title": "腐蚀土水环境中土锚结构蠕变特性的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znglgc201004018",
+      "title": "隧道全长粘结式锚杆有限元模拟分析研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanxjz200301061",
+      "title": "大跨浅埋隧顶过便道施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahjz201201062",
+      "title": "影响锚杆砂浆粘结滑移因素的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbjzkjxyxb201503008",
+      "title": "压力型锚杆锚固段流变特性试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ljgc200904036",
+      "title": "全长砂浆锚固岩石锚杆的拉拔试验受力分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx201031075",
+      "title": "改进隧道砂浆锚杆施工的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ysjs-ks200002007",
+      "title": "钢筋砂浆锚杆和钢筋混凝土拱一体支护在硐室工程中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmcj201219028",
+      "title": "向家坝水电站砂卵砾层边坡锚杆注浆试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynslfd201105006",
+      "title": "两河口水电站锚杆锚固质量控制与无损检测总结",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201502054",
+      "title": "新城金矿采场支护参数设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx201121558",
+      "title": "锚杆用水泥砂浆配合比设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tdjzjs200204006",
+      "title": "长砂浆锚杆施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxslfd2006z1047",
+      "title": "钢拱架支护在四川沙湾水电站引水灌溉洞塌方处理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scslfd201106013",
+      "title": "溪洛渡水电站左岸泄洪洞锚杆注浆新技术及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcdqwlxb201503024",
+      "title": "锚杆锚固系统砂浆饱满度检测技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdky201407069",
+      "title": "高强度支护技术在厚大破碎矿体中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjcyyk200904075",
+      "title": "隧道不良地质地段围岩预加固技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjl201806018",
+      "title": "不同直径锚杆与砂浆相互作用的试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysjs-ks200104006",
+      "title": "金川矿山井巷工程设计与岩石力学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "huangj201709008",
+      "title": "破碎矿体开采采场锚杆支护参数优化设计及应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "fdcdk201515421",
+      "title": "管缝式锚杆在矿山井巷支护工程中的使用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200301001",
+      "title": "加锚岩体的三维复合单元模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ksylydbgl201102010",
+      "title": "锚杆界面力学试验及剪应力传递规律细观模拟分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytlx200102013",
+      "title": "三峡工程永久船闸高强锚杆现场试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb2007z1127",
+      "title": "应力腐蚀对锚杆使用寿命影响的试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb2013z2104",
+      "title": "广西膨胀岩土滑坡治理工程实录",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200801017",
+      "title": "锚杆锚固质量无损检测几个关键问题的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb2012z1015",
+      "title": "深埋硬岩隧洞系统砂浆锚杆的加固机制与加固效果模拟方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxkj2005z1047",
+      "title": "现场早期砂浆锚杆腐蚀现状的取样研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yslxygcxb200607028",
+      "title": "砂浆锚杆锚固段锈蚀胀裂过程的数值模拟及分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200610024",
+      "title": "新型玻璃纤维增强塑料砂浆锚杆的黏结性能试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cqjzdxxb200106002",
+      "title": "砂浆锚杆的锚固及失效机理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb201002022",
+      "title": "全螺纹GFRP黏结型锚杆锚固性能试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dllgdxxb201305015",
+      "title": "全长粘结岩石锚杆拉拔数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb201108009",
+      "title": "单轴拉伸条件下断续节理岩体锚固效应试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lygxyxb200803018",
+      "title": "全长粘结式砂浆锚杆的力学特性数值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb201108022",
+      "title": "黄土隧道锚杆受力与作用机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200419010",
+      "title": "节理剪切过程中锚杆的变形分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tdxb200001019",
+      "title": "浅埋隧道地表锚杆预加固的作用机理与分析方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zngydxxb200605032",
+      "title": "基于拉格朗日差分法的全长注浆锚杆支护参数优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200708016",
+      "title": "全长黏结玻璃纤维增强聚合物锚杆破坏机制拉拔模型试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb2006z2050",
+      "title": "锚固层状岩体的复合加固理论与数值模拟试验分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb200403021",
+      "title": "螺纹钢与圆钢锚杆工作机理对比试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yslxygcxb200805017",
+      "title": "不同围岩条件玻璃纤维增强塑料锚杆结构破坏机制现场试验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ytgcxb200201013",
+      "title": "土层灌浆锚杆的蠕变损伤特性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytlx200608016",
+      "title": "爆破振动对砂浆锚杆的影响研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjtjs200702019",
+      "title": "浅埋隧道洞口段施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kygc200703002",
+      "title": "基于拉格朗日差分法的全长注浆锚杆参数灵敏度分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kyyjykf200801011",
+      "title": "锚杆锚固特性试验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znglgc200504008",
+      "title": "砂浆锚杆的有限元模拟方法探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzktaq200204015",
+      "title": "锚杆锈蚀对锚喷支护安全性影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtxb200809006",
+      "title": "砂浆锚杆锚固段的界面力学特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yslxygcxb201306020",
+      "title": "锚固结构爆破振动规律与损伤的模型试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dxkj200702011",
+      "title": "浅埋隧道地表砂浆锚杆加固的设计方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynslfd201804019",
+      "title": "关于全固结砂浆锚杆的几个问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sgjs200809021",
+      "title": "浅埋偏压破碎带隧道综合进洞施工技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tkgc200402007",
+      "title": "岩石破碎带处锚杆的施工技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hubeigxyxb200504001",
+      "title": "深基坑锚杆支护上限理论设计法分析",
+      "download_times": 2,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "锚杆支护",
+    "锚杆支护",
+    "锚杆",
+    "锚杆支护",
+    "锚杆支护",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "管缝锚杆支护",
+    "砂浆锚杆",
+    "砂浆锚杆",
+    "管缝锚杆支护",
+    "滑坡防治工程设计与施工技术规范",
+    "滑坡防治工程设计与施工技术规范",
+    "滑坡防治工程设计与施工技术规范",
+    "滑坡防治工程设计与施工技术规范",
+    "锚杆受力状态"
+  ]
+}

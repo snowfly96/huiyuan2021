@@ -1,0 +1,739 @@
+{
+  "下载": [
+    {
+      "id": "czsfgdzkxxxb201805004",
+      "title": "离散代数Riccati方程解的上下界估计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cqdxxb200301005",
+      "title": "透平机叶轮应力和变形计算的新优化方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xadzkjdx200602030",
+      "title": "时间最优开关控制的非线性规划方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjsdxb201601005",
+      "title": "一类黎卡提方程逼近解的求法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjzyjsxyxb201103040",
+      "title": "微分方程数值解及Matlab实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czgxyxb201006016",
+      "title": "关于几种常用一阶常微分方程数值解法的导出",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hdcbgyxy200002010",
+      "title": "一种优化控制条件下的黎卡提方程的解析解",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx201007010",
+      "title": "黎卡提方程的可积条件探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzx200734115",
+      "title": "几种特殊的黎卡提方程求解探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syjzgcxyxb201003038",
+      "title": "基于动态设计变量优化方法的代数黎卡提方程算法与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmhh201607007",
+      "title": "水库调洪计算方法的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201812162",
+      "title": "基于龙格-库塔的非线性电容电路数值解法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201745072",
+      "title": "黎卡提方程的解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201324014",
+      "title": "黎卡提方程的一种解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxyq201305009",
+      "title": "一种LED光源矩形斑照明的优化算法及其仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxzyjsxyxb200802017",
+      "title": "二自由度线性系统龙格-库塔解法的研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxb201220026",
+      "title": "水下航行器新型凸轮发动机点火起动仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shsfdxxb201102004",
+      "title": "连续的龙格库塔方法对多延迟量微分代数方程的渐进稳定性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "pzhxyxb200903020",
+      "title": "几类Riccati方程的求解",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kuasj200901118",
+      "title": "关于运用黎卡提(Riccati)微分方程特解求通解问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxykz200001011",
+      "title": "代数黎卡提不等式与多目标优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcxb200705003",
+      "title": "随机线性二次最优控制在投资组合中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xmdxxb200102004",
+      "title": "两类代数黎卡提方程数值解法的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx-xsb200828259",
+      "title": "一类黎卡提方程的求解",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "glsfgdzkxxxb200701040",
+      "title": "具有初等解法的黎卡提(Riccati)方程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ztsfgdzkxxxb200705001",
+      "title": "一类非线性常微分方程的可积情形",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szszxb201810023",
+      "title": "解线性方程组最小二乘解的迭代法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cskc201004032",
+      "title": "多种微分方程数值计算方法分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyjsjyy200802001",
+      "title": "低阶实时最优Runge-Kutta算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xakyxyxb200402032",
+      "title": "二阶变系数齐次线性微分方程与黎卡提方程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxdljs201702004",
+      "title": "地区电网病态潮流的数值解法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlcf200908088",
+      "title": "常微分方程的数值解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scdxxb201204006",
+      "title": "随机常微分方程的龙格库塔解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjj201624008",
+      "title": "基于MATLAB的常微分方程数值解法综述及经济模型",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "gckz201805014",
+      "title": "变刚度半主动振动控制算法计算研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhongz200302008",
+      "title": "烟草种子超干燥保存验证试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stxb200911066",
+      "title": "重庆岩溶区土壤有机碳库的估算及其空间分布特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs201912007",
+      "title": "浅析我国纯电动汽车二手交易市场的建立",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yljyxyxb200402021",
+      "title": "散落成尘的珠子--论汪曾祺故土小说中的女性形象",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201420027",
+      "title": "基于农业面源污染控制的三峡库区种植业结构优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stnyyj201211021",
+      "title": "三峡生态屏障区耕地承载力与人口生态转移",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "trqsystbcxb200705010",
+      "title": "岩溶区坡面土壤侵蚀特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201908120",
+      "title": "中小企业人才招聘现状分析——以X有限公司为例",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "zxqykj201911089",
+      "title": "我国中小企业人才招聘问题与对策",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "nyhjbh201808026",
+      "title": "不同基质厌氧折流-垂直流人工湿地(ABR-VFW)对农村生活污水的处理效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201917012",
+      "title": "基于热释电红外传感器的智能照明控制系统设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "trqsystbcxb200104008",
+      "title": "应用ARC/INFO预测芋子沟小流域土壤侵蚀量的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyjcygckxxb201002004",
+      "title": "基于GIS的岩溶槽谷区小流域土壤侵蚀量估算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqsystbcxb200501014",
+      "title": "重庆市土壤有机碳库的估算及其空间分布特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb200905038",
+      "title": "基于AHP和熵权法赋权的区域土地开发整理潜力评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nygcxb2005z1028",
+      "title": "土地利用的生态位及调控机制的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfny201728008",
+      "title": "基于农业综合开发的重庆市高标准农田建设模式研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "trqsystbcxb200103032",
+      "title": "坡耕地土壤侵蚀研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shnyxb201404024",
+      "title": "低温和长期储藏对烟草种子萌发及幼苗生长的影响",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "srsfxyxb201903005",
+      "title": "基于互联网+的中小型药店管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "nygcxb200710017",
+      "title": "西南丘陵山区土地整理方案比选研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trxb201306004",
+      "title": "干湿循环条件下重庆地区三种土壤抗剪强度的动态变化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tr201604022",
+      "title": "岩溶区植烟土壤pH、有效铁锰和交换性钙的空间异质性①--以重庆市酉阳县为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caoyexb201711003",
+      "title": "自然粒度酸化紫色土磷形态分级及其流失解析度评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhongz201503018",
+      "title": "低温和长期储藏对烟草种子萌发的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201724009",
+      "title": "基于源汇景观单元的流域土壤侵蚀风险格局识别",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stnyyj201401016",
+      "title": "面源污染减排增汇措施下的农业生态经济系统耦合状态分析——以三峡库区忠县为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stxb201409028",
+      "title": "基于农业面源污染分区的三峡库区生态农业园建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stxb201612036",
+      "title": "坡耕地-桑树系统土壤微生物群落结构的PLFA分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqsystbcxb201702007",
+      "title": "模拟降雨对工程建设区裸露坡地产流产沙及氮素流失的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdgc201101012",
+      "title": "250 ml排量卡丁车的改进设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ybjsycgq201904007",
+      "title": "基于热释电探测器的人体红外感应单元设计",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "csjsllyj201205621",
+      "title": "卡丁车制动性能测试系统的研究与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nsyj200902005",
+      "title": "坡度对三峡库区紫色土坡面径流侵蚀的影响分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowuyj201501008",
+      "title": "不同贮藏年限烟草种子活力研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xnsfdxxb201607026",
+      "title": "农户清洁生产技术采纳行为及影响因素的实证分析--基于涪陵区农户的调查",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyhjbh201702019",
+      "title": "三峡库区不同稻田分布格局下农业小流域径流磷排放特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgstbc201901019",
+      "title": "水土流失和农业面源污染视角下三峡库区农户施肥行为探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb200904043",
+      "title": "四川盆地丘陵区农户行为对耕地质量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygcxb201423018",
+      "title": "紫色土区不同植物篱模式控制坡耕地氮素流失效应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "guig201404120",
+      "title": "货车驱动桥分析与设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201207020",
+      "title": "声光双控节能灯电路设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyyjs201608188",
+      "title": "农机与农艺相结合的必要性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy200603089",
+      "title": "水平抗振液压台的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sz-sxk201725198",
+      "title": "基于MATLAB的液压减震器与新型磁流变减震器的对比分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy201112019",
+      "title": "房屋液压减震装置的设计与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyjggc2006z3061",
+      "title": "固体相干激光雷达多普勒测速实验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsfz201305018",
+      "title": "对FU242皮辊加油机加油嘴的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxyxxh201911054",
+      "title": "激光切割铝合金工艺研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzzgc201706013",
+      "title": "基于PLC的铝合金型材切割机控制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201511043",
+      "title": "重卡气压制动系统匹配设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syjx200909019",
+      "title": "液压机械式钻柱减震器的研制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njhyj201107058",
+      "title": "我国温室屋面除雪的研究现状与趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgcjsysj2018225518",
+      "title": "户外多立柱型展示牌结构风荷载研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lxysj201903005",
+      "title": "暴雪后公交候车亭顶棚坍塌事故的力学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sbglywx200312029",
+      "title": "一种防止油泵抽空的电路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glkxwz201932055",
+      "title": "2019届本科结业生未正常毕业情况分析及对策 ——以新疆农业大学某学院为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdgyjjhxxh201906016",
+      "title": "一种自行车用液压减震器的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxzyjsxyxb201102016",
+      "title": "工业特殊原料自动下料控制系统设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gykzjsj201510020",
+      "title": "自动下料机系统的设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzxdb201205015",
+      "title": "电动车组电气配线自动下料系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zc200504018",
+      "title": "无心磨床自动下料装置的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzgyjs200501013",
+      "title": "气动系统在编带自动下料机中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hunnj201906042",
+      "title": "油电混合动力汽车的技术现状与发展前景",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc201915051",
+      "title": "基于STC90C58RD的鸡舍环境控制器的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzjx201501011",
+      "title": "大型液压挖掘机驾驶室舒适性分析与研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yyyqd201207001",
+      "title": "一种液压减震器的研制与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyyy201617018",
+      "title": "电液伺服试验平台液压系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmzfzy202005198",
+      "title": "水压式沼气池施工技术要点",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjd201602003",
+      "title": "矿用连接器护套管自动下料控制系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hggl201726066",
+      "title": "TiO2光催化材料的制备及催化动力学研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyscl202003020",
+      "title": "Fe3O4/MnO2纳米复合材料光催化深度处理造纸废水",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "tdsyxb201904004",
+      "title": "石墨烯硒化钼异质结的制备与光电特性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201707004",
+      "title": "一种基于单片机的红外遥控光感自动窗帘的设计",
+      "download_times": 3,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "机器视觉",
+    "机器视觉",
+    "machion vision",
+    "机器视觉",
+    "machine vision",
+    "machion vision",
+    "machion vision",
+    "machion vision",
+    "机器视觉",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "字节跳动",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "企业员工流动原因及对策性分析",
+    "字节跳动",
+    "字节跳动",
+    "字节跳动",
+    "血清外泌体miRNA",
+    "外泌体      miRNA",
+    "血清外泌体miRNA",
+    "ctni          胶体金",
+    "消化性溃疡出血         指南",
+    "消化性溃疡出血         指南",
+    "消化性溃疡出血    治疗       指南",
+    "(期刊名称/刊名:('中华急诊医学杂志')) (PublishYear:'2020' Type:'Periodical' )",
+    "智慧公园",
+    "外泌体miRNA在乳腺癌患者血清中的表达及相关靶 基因功能分析",
+    "绩效管理",
+    "绩效管理",
+    "绩效管理",
+    "绩效管理",
+    "国内外绩效管理研究现状",
+    "ctn",
+    "外泌体miRNA在乳腺癌患者血清中的表达及相关靶 基因功能分析",
+    "(ScvO2) (CorePeriodical:'PKU' )",
+    "危险废物综合处理研究进展",
+    "重症性胰腺炎    脓毒症休克",
+    "ctni",
+    "外泌体",
+    "血清外泌体miRNA",
+    "肌钙蛋白",
+    "消化性溃疡出血         指南",
+    "消化性溃疡出血         指南",
+    "绩效管理",
+    "绩效管理",
+    "(作者:(尹冉) and 作者单位:(安徽医科大学第二附属医院)) (Type:(Periodical OR Thesis) )",
+    "智慧公园",
+    "智慧公园",
+    "ctn",
+    "中华急诊医学杂志",
+    "ScvO2",
+    "危险废物综合处理研究",
+    "宫颈癌治疗",
+    "重症性胰腺炎    脓毒症休克   死亡率",
+    "现代技术与设计发展",
+    "消化性溃疡出血         指南",
+    "消化性溃疡出血    治疗",
+    "智慧公园",
+    "(宫颈癌治疗) (CorePeriodical:'PKU' )",
+    "宫颈癌",
+    "温度传感器(AD590)",
+    "蓝莓 猪肉脯",
+    "温度传感器(AD590)",
+    "温度测量控制电路设计",
+    "消化性溃疡出血         指南",
+    "传统文化与现代设计",
+    "智慧公园",
+    "重症性胰腺炎    脓毒症休克",
+    "重症性胰腺炎    脓毒症休克   死亡率",
+    "(期刊名称/刊名:('中华急诊医学杂志')) (Type:'Periodical' )",
+    "ScvO2",
+    "宫颈癌指南",
+    "(宫颈癌治疗) (CorePeriodical:'PKU' )"
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "下载": [
+    {
+      "id": "sxjx201705080",
+      "title": "数控车宏程序的实际应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201728006",
+      "title": "数控铣床复杂零件宏程序的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201826153",
+      "title": "异形特殊螺纹数控车削加工宏程序的使用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201718005",
+      "title": "利用宏程序数控车削双曲线的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsj201307015",
+      "title": "自编子程序提高老式数控机床的加工效率",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mkjx201807031",
+      "title": "数控车子程序在梯形螺纹加工程序编辑中的应用探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcs201709068",
+      "title": "数控编程子程序加工零件的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201718215",
+      "title": "宏程序数控铣削圆弧的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xygzxb201903008",
+      "title": "基于宏程序的抛物线轴类零件的数控编程与加工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsbgc201812097",
+      "title": "基于宏程序编程的滚珠丝杠双圆弧螺纹数控车削加工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201806013",
+      "title": "双二次关联曲面数控加工宏程序参数化编程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glhtgygdzkxxxb201803007",
+      "title": "基于宏程序的数控车削椭圆曲面的方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201103021",
+      "title": "数控车床应用子程序调用G32加工端面螺纹",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hj201509014",
+      "title": "G代码B类宏程序在数控切割参数化图形库中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201622050",
+      "title": "用宏程序编制振动料斗数控加工程序",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jmzzyzdh201704014",
+      "title": "宏程序在圆柱直齿轮数控铣削加工中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201929076",
+      "title": "蜗杆或大导程螺纹车削工艺改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201917037",
+      "title": "高职院校思政教育协同育人路径研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmzzyzdh201903012",
+      "title": "数控铣床在线测量功能的开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201714046",
+      "title": "数控测头测量功能宏程序的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fx-jyb201708114",
+      "title": "薄壁件加工工艺——宏程序在数控铣工竞赛中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgys201606017",
+      "title": "华中数控宏程序在铣削凸双椭圆曲面中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyjx201504018",
+      "title": "西门子802Dsl异步子程序功能在数控转塔冲床上的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzzyzdh201503014",
+      "title": "子程序在数控铣削加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201105055",
+      "title": "数控车削子程序的巧用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201903090",
+      "title": "基于子程序的深切槽类零件的数控车加工方法略谈",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201910015",
+      "title": "辊子模具表面空间圆形凹槽数控加工方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201707013",
+      "title": "基于FANUC-0i数控铣系统的镜像指令与宏程序在生产中的使用技巧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scyj201805014",
+      "title": "宏程序在数控加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsj201815040",
+      "title": "数控车床去除螺纹不完整螺扣宏程序研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdkdz-sx201812237",
+      "title": "宏程序在汽车覆盖件模具模座的数控加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201904005",
+      "title": "基于宏程序的冶金锯片数控加工方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zggxq201906042",
+      "title": "浅述数控车削中宏程序的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkj201922032",
+      "title": "宏程序在数控编程中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slsy201836333",
+      "title": "基于宏程序的倾斜二次曲线数控车削加工",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdgyjs201902010",
+      "title": "宏程序在数控车削加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201510068",
+      "title": "卡盘盘丝螺纹数控加工宏程序的优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201723032",
+      "title": "FANUC数控系统宏程序在轮廓倒圆角中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201705013",
+      "title": "基于BOPPPS教学模型的'数控编程'宏程序教学改革与设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs201911054",
+      "title": "基于宏程序车削旋转椭圆的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdzyjy201709094",
+      "title": "数控宏程序车削凹圆弧异形螺纹探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "mkjx201610040",
+      "title": "圆鼻刀数控宏程序加工斜面实例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cadcamyzzyxxh201008026",
+      "title": "子程序与宏程序在数控车削中的综合运用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201011049",
+      "title": "调用子程序在数控车削编程中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201402017",
+      "title": "子程序在数控铣削加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jx201803018",
+      "title": "链轮齿形数控铣加工工艺研究及宏程序编制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201927015",
+      "title": "宏程序在数控编程中的应用及技巧分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201727011",
+      "title": "UG数控编程结合宏程序的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhiy201833043",
+      "title": "数控车削宏程序的编写思路及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzjsyjc201806040",
+      "title": "加工渐开线齿廓的数控车铣宏程序研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201809026",
+      "title": "圆鼻刀数控宏程序加工曲面分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzzjsyzb201810084",
+      "title": "基于宏程序的梯形螺纹数控车削加工应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgcs201803060",
+      "title": "数控宏程序在盘类零件加工中的应用及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201905049",
+      "title": "宏程序在数控车削特殊螺纹加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njwx201709060",
+      "title": "宏程序在数控车床教学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnkx201502015",
+      "title": "数控车床加工椭圆类非圆曲线宏程序应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzzjsyzb201807077",
+      "title": "宏程序在数控车床改装冷旋压设备中的具体应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxkf201710003",
+      "title": "FANUC系统基于宏程序的球面数控编程",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201813098",
+      "title": "数控宏程序在多轮廓加工中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201916019",
+      "title": "基于宏程序的楔形防松螺纹数控功能开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201806092",
+      "title": "数控车编程教学中宏程序嵌套的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201824167",
+      "title": "数控铣削加工中基于常见特征的宏程序应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjsxgy201806012",
+      "title": "基于宏程序的非圆二次曲线数控车削编程与加工研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nfnj201905216",
+      "title": "综述FANUC数控车床宏程序编程的实例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjzlgl201822226",
+      "title": "FANUC系统数控车削编程中的宏程序运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201314024",
+      "title": "应用子程序在数控车床上加工梯形螺纹",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjjs201301013",
+      "title": "刀具半径补偿和子程序在数控铣削中的应用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mkjx201206067",
+      "title": "基于FUNAC系统数控机床子程序编程的应用方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgycjy201908001",
+      "title": "联通主义:'互联网+教育'的本体论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xkcyj-ls202001032",
+      "title": "互联网时代大学生创新创业教育研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjlt201911013",
+      "title": "'互联网+'背景下高职院校在线开放课程的建设研究——以财经类专业为例",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "wxdnyy201910022",
+      "title": "“互联网+”背景下高职院校继续教育的模式研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "tjts201911026",
+      "title": "“互联网+”时代工科院校创业教育多元化模式构建——评《“互联网+”时代高校创新创业教育》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysyjyts201911052",
+      "title": "生物化学实验精品在线开放课程的建设与研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdycjyyj201906005",
+      "title": "'互联网+'变革高校教学的教育技术文化坐标",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjjczzxt201912001",
+      "title": "工业互联网体系架构2.0",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sctykx201901025",
+      "title": "教育信息化背景下排舞在线课程建设的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzbzh201912071",
+      "title": "高职院校精品在线开放课程建设探讨",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "fmycx-jyxxh202002096",
+      "title": "高职院校在线课程资源建设的理论框架",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201910030",
+      "title": "基于在线开放课程建设的商品基础知识课程教学改革",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "dhjyyj202002004",
+      "title": "'互联网+教育'的学习空间观:联通与融合",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201933283",
+      "title": "高校在线课程建设问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbszjy201924062",
+      "title": "高职院校精品在线开放课程建设实践 ——以省级精品在线开放课程'花卉栽培'为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxygl-llb201909003",
+      "title": "'互联网+教育'的实质与实践",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdycjyyj201605001",
+      "title": "深度推进信息技术与教育的融合创新 ——《教育信息化'十三五'规划》(2016)解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt202002033",
+      "title": "互联网思维与教育",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjyyj201906008",
+      "title": "'互联网+教育'背景下高职教师专业发展策略",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "xwyjdk201911017",
+      "title": "'互联网+教育'背景下在线开放课程的建设应用——以影视后期特效合成课程为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjcy201908125",
+      "title": "互联网+工匠精神融入职业教育的理论研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201951026",
+      "title": "互联网时代教育现状及应对策略",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "msj-xia201912660",
+      "title": "高职院校在线开放课程建设思路",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj201605098",
+      "title": "浅谈PTN网络规划设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbydjs201707104",
+      "title": "基于PTN技术通信网络的规划与设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201529083",
+      "title": "TD-SCDMA无线网络规划",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201827175",
+      "title": "TD-SCDMA室内覆盖特殊场景规划与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdyjs200710012",
+      "title": "微机保护装置抗干扰技术的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsjtx201412009",
+      "title": "PTN网络规划方法探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzsj201408127",
+      "title": "TD-SCDMA无线网络规划问题研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dxkb201409012",
+      "title": "TD-SCDMA无线网络的技术特点及规划流程",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hbydjs201310119",
+      "title": "TD-SCDMA无线网络规划若干问题探讨",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "csjsllyj2013236025",
+      "title": "论述目前TD-SCDMA的无线网络规划及优化解决方案",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj202002047",
+      "title": "火焰原子吸收分光光度法测定土壤和沉积物中5种元素的方法验证",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzzz201414084",
+      "title": "TD-LTE无线网络规划",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xddxkj201206011",
+      "title": "PTN技术在本地传送网中组网探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szyxsj201812137",
+      "title": "基于PTN通信传输网络的发展趋势研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sctxjs201105066",
+      "title": "TD-SCDMA无线网络规划初探",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201606062",
+      "title": "TD-SCDMA无线网络规划与设计研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj201817225",
+      "title": "PTN网络规划方法的分析",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hbydjs201310173",
+      "title": "TD-SCDMA无线网络规划与优化",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sctxjs201106061",
+      "title": "PTN组网模型及网络规划浅析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjdk201133061",
+      "title": "PTN网络规划与建设浅析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj202002073",
+      "title": "PTN传输技术探究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jcdzgc201904012",
+      "title": "直接序列扩频通信抗干扰能力研究",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "qgsj202013062",
+      "title": "无线通信抗干扰技术研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "smsj202003014",
+      "title": "PTN技术的组网方式分析及在其通信传输网络中的效果研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hbydjs201707083",
+      "title": "PTN技术及其在电信网应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sdnrj201704014",
+      "title": "燃气发动机特殊原因爆震停机的分析及处理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs201202014",
+      "title": "朗逸2.0发动机无法启动故障诊断与排除",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "dxjs200906004",
+      "title": "杭州移动PTN组网中DCN的规划与实践",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201919346",
+      "title": "关于通信传输网络中PTN技术的运用分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdtxjs201501008",
+      "title": "对PTN城域网DCN域划分的研究与应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdb201906001",
+      "title": "科技创新,非一日之功",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mykj201607044",
+      "title": "汽车四冲程发动机的工作原理",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "njwx201911064",
+      "title": "汽车发动机启动故障诊断思路解析",
+      "download_times": 5,
+      "browse_times": 8
+    },
+    {
+      "id": "tjqc201707019",
+      "title": "汽油发动机无法启动的故障诊断",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzzz201402141",
+      "title": "无线通信抗干扰技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201025276",
+      "title": "发动机爆震的原因分析",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "njwx201105067",
+      "title": "汽油机爆震的危害及预防",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201415073",
+      "title": "DSSS系统抗干扰性能仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2014092257t",
+      "title": "结合实践对汽车发动机发动机无法启动故障诊断详细分析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "sdqc201920046",
+      "title": "大众迈腾无法起动故障诊断与排除",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "bjsjhldglgbxyxb201302012",
+      "title": "PTN的演进及关键技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsjtx201923052",
+      "title": "浅析基于PTN技术的光传输组网模式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljkjxx201704064",
+      "title": "汽油发动机无法启动故障诊断与分析",
+      "download_times": 8,
+      "browse_times": 10
+    },
+    {
+      "id": "sdmtkj201004043",
+      "title": "浅谈汽车发动机爆震的原因、危害及预防措施",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "qcsyjs201908042",
+      "title": "某汽油发动机爆震问题分析与解决",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "txsj201723014",
+      "title": "PTN网络保护关键技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jmlyjsycp201820046",
+      "title": "简述汽车发动机油底壳自动化打压检测系统工作原理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201302024",
+      "title": "直接序列扩频通信系统性能研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhiy201136085",
+      "title": "汽油发动机产生爆震的原因、危害与预防",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "kjzxdb201117059",
+      "title": "发动机爆震异响故障的诊断及排除方法",
+      "download_times": 7,
+      "browse_times": 8
+    },
+    {
+      "id": "njwx200105015",
+      "title": "6100发动机爆震的原因及预防措施",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hljjtkj201107178",
+      "title": "汽油发动机爆震分析与控制",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "szhyh201841011",
+      "title": "无线通信抗干扰技术性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgjz200111017",
+      "title": "国内信息",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjdkdz-sx201406112",
+      "title": "直接序列扩频通信系统抗干扰技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "szyxsj201812076",
+      "title": "无线通信抗干扰技术性能研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xinnc201614118",
+      "title": "分析发动机爆震爆燃的原因",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "zbzzjs201207115",
+      "title": "汽油发动机爆震的原因与避免措施",
+      "download_times": 8,
+      "browse_times": 7
+    },
+    {
+      "id": "zsyzdkz200103012",
+      "title": "汽车发动机的爆震分析与控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbydjs201308173",
+      "title": "TD-SCDMA无线网络规划方案探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzqc-xsb201304006",
+      "title": "别克陆尊发动机无法启动的故障诊断与排除",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "tjqc201602014",
+      "title": "汽车发动机冷却系统的维护",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsjtx202012009",
+      "title": "无线通信抗干扰技术分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201912079",
+      "title": "发动机无法启动的故障诊断与分析 ——以大众迈腾B8发动机为例",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "gskj201024012",
+      "title": "TD-SCDMA无线网络规划与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsjtx201421076",
+      "title": "以华为TD-SCDMA升级为TD-LTE为例分析TD-LTE无线设备网络的规划与设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcwxyby201908009",
+      "title": "一汽大众迈腾B7L无法启动",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "njwx201312076",
+      "title": "发动机冷却系统的维护",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "802 无线宿舍",
+    "我国电子商务下的物流对策",
+    "我国电子商务下的物流对策",
+    "我国电子商务下的物流对策",
+    "我国电子商务下的物流对策",
+    "浅述“互联网+”时代的汽车智能化",
+    "(杨晓波) (PublishYear:'2020' )",
+    "高职数学课程融入'课程思政'的探讨",
+    "(作者:(徐硕雁) and 作者单位:(四川信息职业技术学院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "卷宗",
+    "(杨晓波) (PublishYear:'2020' )",
+    "多轴加工与研究",
+    "(期刊名称/刊名:(中国多媒体与网络教学学报)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(杨晓波) (PublishYear:'2020' )",
+    "(卷宗) (Type:'Periodical' )",
+    "(杨晓波) (PublishYear:'2020' Type:'Periodical' )",
+    "多轴加工与研究",
+    "多轴加工与研究",
+    "多轴加工与研究",
+    "作者单位:四川信息职业技术学院",
+    "作者单位:四川信息职业技术学院",
+    "S275铁素体钢板窄间隙激光焊的缺陷形成机理及影响因素",
+    "多轴加工与研究",
+    "基于IAP单片机电子秤控制系统设计",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('鲁小霞'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(徐硕雁) and 作者单位:(四川信息职业技术学院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "立体车库",
+    "((作者:('鲁小霞') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "UG与机械设计论文",
+    "多轴加工与研究",
+    "VERICUT论文",
+    "UG论文",
+    "VERICUT论文",
+    "UG论文",
+    "UG论文",
+    "UG论文",
+    "UG论文",
+    "卷宗",
+    "(杨晓波) (Type:'Periodical' )",
+    "高职数学课程融入'课程思政'的探讨",
+    "UG论文",
+    "VERICUT论文",
+    "UG与机械设计论文",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于Geomagic DesignX对刹车手柄的逆向建模",
+    "(作者:(徐硕雁) and 作者单位:(四川信息职业技术学院)) (PublishYear:'2019' Type:(Periodical OR Thesis OR Conference) )",
+    "羽毛球训练",
+    "PLC立体车库",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "作者单位:四川信息职业技术学院",
+    "王云",
+    "((作者:('鲁小霞'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "UG论文",
+    "VERICUT论文",
+    "UG与机械设计论文",
+    "UG与机械设计论文",
+    "VERICUT论文",
+    "UG论文",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "一种多功能自动分拣装置的控制系统设计",
+    "五轴机床后处理旋转角求解及优选研究",
+    "多轴加工与研究",
+    "多轴加工与研究",
+    "VERICUT论文",
+    "UG论文",
+    "UG与机械设计论文",
+    "多轴加工与研究",
+    "UG论文",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "((作者:('段晓丹') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:('马丽') and 作者单位:('四川信息职业技术学院'))) (Type:(Periodical OR Thesis) )",
+    "(杨晓波) (PublishYear:'2020' )",
+    "多轴加工与研究",
+    "UG与机械设计论文",
+    "VERICUT论文",
+    "UG与机械设计论文",
+    "杨晓波"
+  ]
+}

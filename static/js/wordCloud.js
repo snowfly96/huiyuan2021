@@ -37,7 +37,7 @@ function setWordCloud(type,month) {
             option_word_cloud = {
                 title: {
                     text: '下载数据词云',
-                    subtext: '一月份'
+                    // subtext: '一月份'
                 },
                 series: [ {
                     type: 'wordCloud',
@@ -63,7 +63,7 @@ function setWordCloud(type,month) {
                     },
                     data: wcData.sort(function (a, b) {
                         return b.value  - a.value;
-                    }).slice(0,150)
+                    }).slice(0,120)
                 } ]
             };
 

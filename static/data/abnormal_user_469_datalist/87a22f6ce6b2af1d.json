@@ -1,0 +1,1367 @@
+{
+  "下载": [
+    {
+      "id": "gjjs201103009",
+      "title": "基于Pro/Toolkit的齿轮滚刀的参数化建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjc200904005",
+      "title": "基于Pro/Toolkit二次开发的参数化设计系统的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201912120",
+      "title": "基于Creo二次开发实现AutoCAD布局图参数化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd201103033",
+      "title": "基于Pro/TOOLKIT叶片参数化软件的开发研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201726094",
+      "title": "基于Pro/Toolkit的批量点数据分析工具设计与开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjjs201905014",
+      "title": "叶序排布超硬磨粒砂轮滚磨结构化沟槽表面的仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzyzdh201411010",
+      "title": "基于Pro/TOOLKIT的Pro/ENGINEER工程图二次开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201713182",
+      "title": "基于Pro/E的自动化建模和装配系统的研究和实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxjs201410030",
+      "title": "Pro/Toolkit快速开发方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb200923047",
+      "title": "基于MFC开发的Pro/TOOLKIT对话框技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yysk201920079",
+      "title": "音乐在电影中的作用 ——以《智取威虎山》为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjjs201809035",
+      "title": "基于BP神经网络的机器人砂带磨削表面粗糙度研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxyxxh201724009",
+      "title": "简述基于Creo ToolKit二次开发插件的几种常见保护方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jdcpkfycx200901028",
+      "title": "基于Pro/TOOLKIT和VC++6.0的减速器参数化系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbfzgxyxb201705011",
+      "title": "基于Pro/Toolkit的逆变器箱体参数化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzjsyjc200811027",
+      "title": "Pro/Toolkit工程制图功能开发方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201714036",
+      "title": "航空发动机叶片打磨修复机器人的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njgyzyjsxyxb201002009",
+      "title": "基于Pro/toolkit的三片式平行分度凸轮CAD系统研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxjx200801070",
+      "title": "基于Pro/Toolkit的工程绘图系统的开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz200706067",
+      "title": "基于Pro/Toolkit棘轮参数化建模的实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gskj201612006",
+      "title": "基于Pro/Toolkit的Pro/E工程图标注系统的二次开发研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjc200606013",
+      "title": "在VC环境下利用Pro/TOOLKIT对Pro/E进行二次开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tsgdzkxxxb201506018",
+      "title": "基于 Pro/Toolkit 的专用计算机机箱零部件参数化设计的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyyy201915036",
+      "title": "基于VS的摆线针轮减速器参数化设计与有限元分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201510113",
+      "title": "基于CREO平台的齿轮轴参数化实现及二次开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgzjt201706058",
+      "title": "一种大型风机叶片制造合模根部免打磨工艺",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxjx201505028",
+      "title": "基于Pro／Toolkit的Creo2.0二次开发过程研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsy201512561",
+      "title": "基于 Pro/Toolkit 的凸轮机构参数化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdxx201709046",
+      "title": "Creo二次开发参数化设计与自动装配的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxydz201008020",
+      "title": "基于Pro /Toolkit的法兰参数化系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zzyzdh201307007",
+      "title": "基于Pro/TOOLKIT与VC++的减速器参数化设计系统二次开发",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxdnyy201802015",
+      "title": "基于Creo二次开发的零件参数化变型设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mkjx201706068",
+      "title": "Pro/E二次开发在矿用减速器设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201403068",
+      "title": "Creo二次开发参数化设计技术的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb201626026",
+      "title": "Creo2.0二次开发技术在空气压缩机三维参数化设计中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxzzyzdh201702030",
+      "title": "基于Pro/E二次开发的包装机械参数化设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jdxx201212094",
+      "title": "Pro/Toolkit结合Pro/Program进行Pro/E二次开发的方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjxx-xsb200808094",
+      "title": "Pro/TOOLKIT技术二次开发的基本方法的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sgjs202012026",
+      "title": "火神山医院防雷与接地施工技术",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zdhyb202008015",
+      "title": "变电站装配式钢结构建筑防雷装置优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj2015121413",
+      "title": "建筑电气安装中防雷接地施工技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsbgc201815053",
+      "title": "自耦变压器降压启动原理及典型故障分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljzdhjsyyy201305030",
+      "title": "剑指AB PLC编程和组态——杂谈PLC集成构架的发展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201812066",
+      "title": "变频器常见故障的检测与维修探析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc202025071",
+      "title": "变频器常见故障的检测与维修探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bkltdzzz2020060272",
+      "title": "电气自动化在电气工程中的融合运用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc202006370",
+      "title": "电气的自动化在电气工程中融合运用分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfdxx202019101",
+      "title": "电梯检验过程中控制系统常见问题分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjysh201709087",
+      "title": "大功率高压异步电动机就地补偿实例分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdgyjjhxxh202007014",
+      "title": "基于PLC过程控制系统的设计与实现",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc202012095",
+      "title": "智能无功补偿技术在电力自动化中的应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgr201809018",
+      "title": "均压环施工3部曲",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hggl202008122",
+      "title": "工业自动化生产过程中PLC控制系统的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hqsc202007354",
+      "title": "电气的自动化在电气工程中融合运用分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcfzdx202001350",
+      "title": "建筑电气工程低压电气安装施工要点",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcgyxx202020070",
+      "title": "建筑电气工程低压电气安装施工要点讨论",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgzjt202012040",
+      "title": "电气自动化在电气工程中的融合运用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dkj202020140",
+      "title": "工业自动化生产过程中DCS控制系统的设计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sdgyjs201507174",
+      "title": "无功补偿技术在电气自动化中的应用思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spyzl201946084",
+      "title": "电气工程及自动化智能化技术在建筑电气中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgr-ljg201903012",
+      "title": "均压环的弯制及加工",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xfzyjsxyxb201803020",
+      "title": "基于PLC的高层恒压供水自动控制系统设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jlhgxyxb201907012",
+      "title": "恒压供水自动控制实验系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spyzl201617317",
+      "title": "如何巧妙探索电气自动化控制设备的可靠性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2018052517",
+      "title": "浅谈继电器在电气工程及其自动化低压电器中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201803050",
+      "title": "电气自动化在电气工程中的融合运用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcs201513047",
+      "title": "如何巧妙探索电气自动化控制设备的可靠性",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgcjsysj2016151870",
+      "title": "建筑电气安装中防雷接地施工技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdgyjjhxxh202005027",
+      "title": "恒压供水自动控制系统设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfdxx202021190",
+      "title": "电气的自动化在电气工程中融合运用分析",
+      "download_times": 2,
+      "browse_times": 7
+    },
+    {
+      "id": "wxdnyy202005016",
+      "title": "一种PLC过程控制系统装置开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201806183",
+      "title": "浅析电动机无功功率就地补偿",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gcjsysj201008032",
+      "title": "试论高层建筑配电系统安全设计及防雷措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzyzs202012145",
+      "title": "建筑电气设计中的防雷接地技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dkj202003200",
+      "title": "浅谈建筑材料检测在建筑工程中的重要性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcyyk200307041",
+      "title": "工厂级变电站可编程序控制器监控系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hwyy-z201811082",
+      "title": "文本间性的'创造性叛逆'——以《小小小小的火》为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hwyy-x201912101",
+      "title": "二元对立视角下对《小小小小的火》的解读",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyk201905002",
+      "title": "叶酸联合维生素B6及腺苷钴胺对中青年脑梗死患者血浆同型半胱氨酸水平的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "rwzy202015051",
+      "title": "浅析《小小小小的火》对美国华裔成长小说的传承与发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdzsw201420018",
+      "title": "网上花店购物系统功能模块的设计与实现",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "kxdb-kxjy201520192",
+      "title": "网上图书销售系统",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "hwyy-z201901070",
+      "title": "《小小小小的火》的'症候'解读",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylbx201806015",
+      "title": "'互联网+'与大数据 在医疗保险领域中的创新应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgylbx201806020",
+      "title": "大数据在医疗保险 参保管理体系中的应用与影响 ——基于沈阳市的实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wysh-whyy201910007",
+      "title": "简析伍绮诗的小说《小小小小的火》中的母亲形象",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hbbfxyxb-z201701011",
+      "title": "酒店客房管理系统开发研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qnwxj202014083",
+      "title": "不同人生,不同选择 ——从萨特的存在主义视角解读《小小小小的火》",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201601042",
+      "title": "酒店客房管理系统的设计与分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "wclj201801008",
+      "title": "网上图书销售系统的分析与设计",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "dnbcjqywh201412021",
+      "title": "基于ASP.NET的酒店客房管理系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201534038",
+      "title": "基于.NET的酒店客房管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgwsbzgl201920033",
+      "title": "超早期rt-PA静脉溶栓治疗青年急性脑梗死的临床观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgkjyjj201717037",
+      "title": "鲜花网络购物系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dzzz201408058",
+      "title": "基于.NET的酒店客房管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzwy201909016",
+      "title": "每个人的心中都有一团火——评《小小小小的火》",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "shanddz201909078",
+      "title": "'互联网+'与大数据在医疗保险中的应用",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "hqsc201928278",
+      "title": "大数据在医疗保险中的应用",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "lzjyxyxb201905010",
+      "title": "《小小小小的火》中人物形象的召唤结构研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hwyy-z201812084",
+      "title": "追寻:永远在路上——《小小小小的火》主题解析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201213008",
+      "title": "酒店客房管理系统数据库的设计与实现",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dzsj201415104",
+      "title": "基于ASP的网上图书销售系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hqscxxdb201539064",
+      "title": "花店礼品销售系统的设计与实现",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "wjfz200608041",
+      "title": "基于SQL Server 2000的酒店客房智能管理系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxfzdx-x201409121",
+      "title": "酒店客房管理系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjzl202009011",
+      "title": "《小小小小的火》中的身份建构",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shihjs202003001",
+      "title": "冷热水管材用PP-R混配料的开发",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd202019011",
+      "title": "基于多元统计分析的城镇居民消费品支出结构研究",
+      "download_times": 4,
+      "browse_times": 9
+    },
+    {
+      "id": "tangssfxyxb202003006",
+      "title": "基于多元统计分析的枸杞测评",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz201432291",
+      "title": "浅议汽车4S店客户流失原因及解决方案",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "zhiy202012040",
+      "title": "汽车4S店经营管理模式及未来发展的探索与研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "zgky202010012",
+      "title": "以成效评价引导矿山生态修复理念提升",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjnyxb202011008",
+      "title": "靖州杨梅引种试验与表型聚类分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj202012101",
+      "title": "ERP系统在房地产企业数字化转型中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx202020054",
+      "title": "不同产地木豆叶中5种黄酮类成分含量的比较及聚类分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzxb201810013",
+      "title": "废弃羊毛吸声复合材料的制备及其性能",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsyjs202009084",
+      "title": "基于大数据背景下的汽车4S店营销模式优化",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "sylnyx202010004",
+      "title": "血浆脂蛋白相关磷脂酶A2与脑梗死的相关性研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "qcbl202004112",
+      "title": "汽车售后服务顾客满意度调查及其提高途径分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "whsjjglgbxyxb202001012",
+      "title": "软实力视角的养老服务企业核心竞争力评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "shangyyj202001053",
+      "title": "基于商业生态系统视角的养老服务企业商业模式创新案例研究 ——以太和自在城为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sjbzhyzlgl201705016",
+      "title": "基于客户满意度调查的汽车4S店售后服务质量评价研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "gxsyxb200102018",
+      "title": "均匀分布参数的矩估计与最大似然估计",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "syyxyxb202005025",
+      "title": "脂蛋白相关磷脂酶A2与急性脑梗死的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "kjglyj2010z1042",
+      "title": "汽车服务厂服务质量、顾客满意度与管理者认知之研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ncsthj202011019",
+      "title": "基于聚类分析和主成分分析的长江下游稻田氮磷监测指标筛选",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lszg202007009",
+      "title": "保护“海岸卫士”红树林",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nsbdyslkj202004011",
+      "title": "Analysis of the impact of coal mining on the ecological environment of the nature reserve",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hljsxyxb201803016",
+      "title": "基于模糊层次分析法的新能源汽车技术选择",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xygzxb201401003",
+      "title": "均匀分布U[θ-a,θ+a]中参数θ的估计",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "kfdxxb202001009",
+      "title": "物业服务企业开展居家养老业务的途径探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xswzk201904159",
+      "title": "跨国公司在华本土化经营的现状及对策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "guangdyxyxb202005006",
+      "title": "基于多元统计分析的金银花、山银花及川银花质量评价研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bfhj202010027",
+      "title": "松花江流域水质多元统计分析研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201823109",
+      "title": "浅析传统制造业数字化转型中的问题及对策",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [
+    {
+      "id": "zgylbx201806015",
+      "title": "'互联网+'与大数据 在医疗保险领域中的创新应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "9M2UtHkF079nPBuZSCVP7PNZkmazJkN1LKnn/SkKOvM=",
+      "title": "核磁共振在膝关节损伤诊断中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsc201928278",
+      "title": "大数据在医疗保险中的应用",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hqscxxdb201539064",
+      "title": "花店礼品销售系统的设计与实现",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "shanddz201909078",
+      "title": "'互联网+'与大数据在医疗保险中的应用",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylbx201806020",
+      "title": "大数据在医疗保险 参保管理体系中的应用与影响 ——基于沈阳市的实践",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdzsw201420018",
+      "title": "网上花店购物系统功能模块的设计与实现",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "caiz201432291",
+      "title": "浅议汽车4S店客户流失原因及解决方案",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "qcsyjs202009084",
+      "title": "基于大数据背景下的汽车4S店营销模式优化",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "hljsxyxb201803016",
+      "title": "基于模糊层次分析法的新能源汽车技术选择",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhiy202012040",
+      "title": "汽车4S店经营管理模式及未来发展的探索与研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "syyxyxb202005025",
+      "title": "脂蛋白相关磷脂酶A2与急性脑梗死的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "xfdk201605068",
+      "title": "基于模糊层次分析法的汽车4S店流失客户赢回策略的研究",
+      "download_times": 1,
+      "browse_times": 6
+    },
+    {
+      "id": "sjbzhyzlgl201705016",
+      "title": "基于客户满意度调查的汽车4S店售后服务质量评价研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "nmgmtjj202009049",
+      "title": "新时代背景下汽车4S店销售模式发展创新探究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hljsxyxb201803016",
+      "title": "基于模糊层次分析法的新能源汽车技术选择",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xfdk201605068",
+      "title": "基于模糊层次分析法的汽车4S店流失客户赢回策略的研究",
+      "download_times": 1,
+      "browse_times": 6
+    },
+    {
+      "id": "kjglyj2010z1042",
+      "title": "汽车服务厂服务质量、顾客满意度与管理者认知之研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhiy202012040",
+      "title": "汽车4S店经营管理模式及未来发展的探索与研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "zgnbsj201604014",
+      "title": "构筑内部控制防线严控企业财务风险——A公司(汽车4S店)审计案例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyzdx202010012",
+      "title": "急性缺血性脑卒中的发生与脂蛋白相关磷脂酶A2的相关性分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsyjs202009084",
+      "title": "基于大数据背景下的汽车4S店营销模式优化",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "qcbl202004112",
+      "title": "汽车售后服务顾客满意度调查及其提高途径分析",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "抗战",
+    "建设工程招标阶段合同管理策略分析及阐述",
+    "建设工程招标阶段合同管理策略分析及阐述",
+    "建设工程招标阶段合同管理策略分析及阐述 认领",
+    "初中历史核心素养",
+    "小学数学深度学习",
+    "小学数学精准教学实施",
+    "小学语文教研",
+    "小学语文教研",
+    "精准教学数学",
+    "公共图书馆服务",
+    "公共图书馆服务创新",
+    "公共图书馆服务创新",
+    "苯甲苯物系",
+    "数学建模大赛",
+    "醋酸锰与草酸体系的室温固相反应研究",
+    "(题名或关键词:(电力产业发展现状)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('电力产业发展现状')) (Type:(Periodical OR Thesis OR Conference) )",
+    "酒店客房管理系统",
+    "浅谈群文阅读教学中如何提高小学生阅读兴趣",
+    "农村初中语文阅读",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "少数民族学校初中语文阅读存在的问题及对策",
+    "民族初中语文阅读教学",
+    "少数民族初中语文阅读教学",
+    "餐厅传染病传播",
+    "((作者:(谭小波) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "中职历史教学",
+    "单种群模型在传染病传播",
+    "医院传染病传播模型",
+    "((作者:(周帆) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(刘立士) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "(单种群模型在传染病传播) 关键词:'传染病模型'",
+    "((作者:(刘芳) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "道路桥梁预应力技术",
+    "测向精度",
+    "民族学校初中语文阅读",
+    "成本会计",
+    "小学群文阅读阅读兴趣",
+    "发电电能",
+    "电能能源",
+    "化工电能",
+    "各类能源发电",
+    "化工电能",
+    "核磁共振在膝关节损失诊断中的应用作者:吕博",
+    "中职学生思想政治",
+    "高中作文教学原则",
+    "(题名或关键词:('催化工艺')) (Type:(Periodical OR Thesis OR Conference) )",
+    "公共图书馆服务创新",
+    "酒店客房管理系统",
+    "鲜花销售系统",
+    "初中数学精准教学",
+    "信息技术小学语文高年级阅读",
+    "小学数学精准教学",
+    "小学数学针对性教学",
+    "板式塔",
+    "精馏",
+    "苯甲苯",
+    "(题名或关键词:(吸附催化工艺)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "医疗养老保险一体化",
+    "青年 脑梗死",
+    "医疗保险",
+    "成本会计",
+    "如何通过群文阅读教学培养小学生的阅读兴趣",
+    "医院传染病传播",
+    "((作者:(张林丛) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "传染病模型",
+    "((作者:(刘猛) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "传染病医院传播数学模型",
+    "灰色模型在传染病传播",
+    "((作者:(钱博) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "酒店客房管理系统",
+    "弱信号检测技术",
+    "弱信号检测技术",
+    "弱信号检测技术论文",
+    "中职会计职业道德",
+    "传染病传播的数学建模",
+    "(化工设备管理) (PublishYear:'2019' )",
+    "小学群文阅读课堂教学模式初探",
+    "绿色农业种植技术",
+    "发电电能",
+    "电能",
+    "电能能源",
+    "浅谈如何培养学生对体育的学习兴趣刘翠娟",
+    "(题名或关键词:('化工分离技术')) (Type:(Periodical OR Thesis OR Conference) )",
+    "乡镇农业技术推广工作",
+    "基层农业技术推广",
+    "青年 脑梗死",
+    "((作者:(田野) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "传染病医院传播",
+    "灰色预测在传染病传播",
+    "传染病模型'",
+    "精馏",
+    "(题名或关键词:('聚醋酸乙烯乳液')) (Type:(Periodical OR Thesis OR Conference) )",
+    "数学建模",
+    "初中班主任管理工作",
+    "小学数学深度教学",
+    "小学数学深度学习",
+    "京东自建物流",
+    "成本会计",
+    "电动自行车人机工程学",
+    "((作者:(关世杰) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(付立冬) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(关启学) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(臧晶) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "工作人员感染传染病数学模型",
+    "((作者:(蒋强) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(赵运弢) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "英语教学资源",
+    "电能",
+    "电能能源",
+    "(题名或关键词:('绿色能源发电')) (Type:(Periodical OR Thesis OR Conference) )",
+    "安全驾驶规则",
+    "网上销售系统",
+    "SEIR",
+    "传染病模型",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "医疗养老保险一体化",
+    "医疗养老保险一体化智慧社区",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "医疗保险",
+    "精准教学数学",
+    "数学精准教学",
+    "数学精准教学",
+    "小学数学精准教学的实践",
+    "小学数学深度学习",
+    "甘露醇 眼科",
+    "((作者:(冯永新) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "初中数学精准教学",
+    "初中数学精准教学",
+    "小学数学教学",
+    "SEIR",
+    "流动人员seir模型",
+    "传染病模型",
+    "(题名或关键词:(吸附催化工艺)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Markov Chain Realization of Joint Integrated Probabilistic Data Association",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "Research on Object Tracking and Target Recognition Based on Kalman Filter and YOLOV3",
+    "Markov Chain Realization of Joint Integrated Probabilistic Data Association",
+    "鲜花销售系统",
+    "青年 脑梗死",
+    "互联网大数据医疗保险",
+    "医疗保险",
+    "互联网大数据医疗保险",
+    "英汉数字词语与文化对比研究",
+    "小学数学精准教学",
+    "精准教学数学",
+    "初中历史核心素养",
+    "小学数学精准教学",
+    "小学高年级数学自主学习",
+    "小学数学分层教学",
+    "初中数学精准教学",
+    "小学数学针对性教学",
+    "(题名或关键词:('聚醋酸乙烯乳液')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('风能发电')) (Type:(Periodical OR Thesis OR Conference) )",
+    "酒店客房管理系统",
+    "网上销售系统",
+    "网上销售系统",
+    "(浅谈如何培养学生对体育的学习兴趣) 作者:刘翠娟",
+    "中职学生思想政治",
+    "农村初中阅读教学",
+    "中职学生思政",
+    "初中历史核心素养",
+    "小学数学深度学习",
+    "医院传染病传播分析",
+    "((作者:(张文波) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(田明浩) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "传染病传播",
+    "房室模型在传染病传播",
+    "Logistic增长",
+    "((作者:(吕艳辉) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(姜月秋) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "基于一类时滞动力学系统对新型冠状病毒肺炎疫情的建模和预测",
+    "((作者:(张德育) and 作者单位:(沈阳理工大学)) and Date:2018- and ) (Type:(Periodical OR Thesis OR Conference) )",
+    "一类具有两阶段结构的自治SIS传染病 系统",
+    "传染病模型",
+    "初中学生物理学习兴趣",
+    "初中道德与法治法治意识",
+    "小学数学教学",
+    "电能能源化工",
+    "各类能源发电",
+    "网上销售系统",
+    "网上销售系统",
+    "酒店客房管理系统",
+    "鲜花销售系统",
+    "(浅谈如何培养学生对体育的学习兴趣) 作者:刘翠娟",
+    "弱信号检测技术论文",
+    "水利工程",
+    "弱信号检测技术论文",
+    "医用一次性防护服",
+    "封闭系统的传染病传播",
+    "封闭系统的传染病传播问题",
+    "石油化工企业质量检验化验",
+    "初中班主任管理",
+    "名著阅读的初中语文写作",
+    "初中班主任管理中的德育",
+    "化工设备管理",
+    "化工企业化验",
+    "精馏塔",
+    "苯甲苯物系精馏",
+    "精馏板式塔",
+    "数学建模大赛范文",
+    "医疗养老保险一体化智慧社区",
+    "医疗养老保险一体化",
+    "青年 脑梗死",
+    "互联网大数据医疗保险",
+    "甘露醇",
+    "医用一次性防护服",
+    "汽车售后服务顾客满意度调查及其提高途径分析",
+    "公司组网",
+    "工程伦理",
+    "工程伦理",
+    "工程伦理",
+    "打赢脱贫攻坚战",
+    "我国为什么能打赢脱贫攻坚战",
+    "家电品牌感知质量",
+    "通信企业成本管理解析",
+    "上海汽车流失客户分析及挽回资料",
+    "职业教育",
+    "学报",
+    "作者:'《名师在线》编辑部' 作者单位:'不详'",
+    "教学",
+    "南北朝文人诗审美感受",
+    "聚苯乙烯性质",
+    "聚苯乙烯性质",
+    "聚苯乙烯性质与合成",
+    "企业局域组网与系统实施",
+    "肽链等电点计算",
+    "基于客户满意度调查的汽车4S店售后服务质量评价研究",
+    "沈阳建筑大学老校门",
+    "工程伦理",
+    "服务营销中的服务质量管理和顾客满意研究",
+    "家电品牌感知质量",
+    "家电品牌感知质量",
+    "上海汽车流失客户",
+    "上海汽车流失客户",
+    "(作者:(冯永新) and 作者单位:(沈阳理工大学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "极速脉搏波对高血脂患者颈动脉弹性的影响",
+    "人力资源管理；福利；老龄化",
+    "基于服务质量的汽车4S店顾客满意度评价研究",
+    "小儿诺如病毒的症状和预防",
+    "战略成本通信",
+    "战略成本通创新",
+    "镁综述",
+    "基于模糊层次分析法的车险流失客户赢回",
+    "(战略成本通信) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true) )))",
+    "汽车4S营销模式",
+    "职业教育",
+    "职业教育中旬刊",
+    "乐视网合并净利润与利润总额的“不正常关系”",
+    "(作者:(李鸣华) and 作者单位:(霁虹)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((作者:(隋涛) and 作者单位:(沈阳理工大学)) and Date:2016-*) (Type:(Periodical OR Thesis OR Conference) )",
+    "打赢脱贫攻坚战",
+    "企业局域组网",
+    "聚苯乙烯的性质",
+    "(聚苯乙烯) (Type:'Periodical' )",
+    "企业组网与系统实施实践",
+    "聚苯乙烯",
+    "(主题:(人力资源) and 题名或关键词:(劳动关系)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(人力资源) and 题名或关键词:(物业)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(人力资源) and 题名或关键词:(劳动关系)) (ClassCodeForSearch:'0/F' Type:(Periodical OR Thesis OR Conference) )",
+    "基于服务质量的汽车4S店顾客满意度评价研究",
+    "企业组网",
+    "工程伦理",
+    "工程伦理",
+    "工程伦理",
+    "汽车客户流失",
+    "服务营销中的服务质量管理和顾客满意研究",
+    "汽车客户流失",
+    "mg综述",
+    "铝合金杆加工工艺",
+    "((济南地方志) 关键词:'地方志') (ClassCodeForSearch:'0/K' )",
+    "((济南地方志) 关键词:'地方志') 题名:济南地方志",
+    "网络设计原则",
+    "文献综述模糊层次分析法",
+    "汽车4S营销模式",
+    "文献综述模糊层次分析法",
+    "基于模糊层次分析法的车险流失客户赢回",
+    "汽车4S营销模式",
+    "沈阳北京现代",
+    "作者:'《名师在线》编辑部' 作者单位:'不详'",
+    "(((辽宁广播电视大学学报) 关键词:'投稿须知') 关键词:'投稿须知') 关键词:'投稿须知'",
+    "我国为什么能打赢脱贫攻坚战",
+    "打赢脱贫攻坚战",
+    "(主题:(人力资源管理) and 题名或关键词:(企业and福利)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(人力资源管理) and 题名或关键词:(企业、福利)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(人力资源管理) and 题名或关键词:(延迟退休)) (Type:(Periodical OR Thesis OR Conference) )",
+    "战略成本创新",
+    "(战略成本通信) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR ((Type:Periodical AND SingleSourceDB:NSTL)) OR (IsOA:true) )))",
+    "多肽等电点计算",
+    "多肽等电点计算",
+    "(题名或关键词:('水电与中国')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(我国泛在电力物联网产业现状与发展趋势)) (Type:(Periodical OR Thesis OR Conference) )",
+    "极速脉搏波对高血脂患者颈动脉弹性的影响",
+    "极速脉搏波对高血脂患者颈动脉弹性的影响",
+    "基于服务质量的汽车4S店",
+    "基于服务质量的汽车4S店顾客满意度评价研究",
+    "陈荣石",
+    "mg",
+    "中国国际收支分析",
+    "((主题:(人力资源) and 题名或关键词:(企业文化)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "公司组网",
+    "(聚苯乙烯) (Type:'Periodical' )",
+    "网络设计原则",
+    "聚苯乙烯性质与合成",
+    "高管业绩评价",
+    "战略成本通信",
+    "(济南地方志) 关键词:'地方志'",
+    "(济南地方志) 关键词:'地方志'",
+    "教育",
+    "新课堂",
+    "课程教育研究",
+    "(辽宁广播电视大学学报) 关键词:'投稿须知'",
+    "作者:'《名师在线》编辑部' 作者单位:'不详'",
+    "语文新读写",
+    "(沈阳建筑大学老校门) 关键词:'老校门'",
+    "工程伦理",
+    "工程伦理",
+    "工程伦理",
+    "服务营销中的服务质量管理和顾客满意研究",
+    "服务营销中的服务质量管理和顾客满意研究",
+    "汽车客户流失",
+    "沈阳北京现代",
+    "多肽等电点计算",
+    "mg综述",
+    "mg应用现状",
+    "mg综述",
+    "刘清",
+    "古老建筑结构设计",
+    "(题名或关键词:(水电与中国)) (Type:(Periodical OR Thesis OR Conference) )",
+    "战略眼光看风电",
+    "(题名或关键词:('世纪电力')) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "(题名或关键词:('世纪电力')) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "(作者:(邵俊平) and 作者单位:(沈阳理工大学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "组网基本要求",
+    "文献综述模糊层次分析法",
+    "汽车4S营销模式",
+    "汽车4S营销模式",
+    "客户流失文献综述",
+    "汽车4S店客户流失文献综述",
+    "组网基本要求",
+    "组网基本要求",
+    "浅谈儿科与患儿家长的沟通技巧",
+    "上海汽车流失客户",
+    "上海汽车流失客户",
+    "上海汽车流失客户",
+    "上海汽车流失客户分析及挽回资料",
+    "上海汽车流失客户分析及挽回资料",
+    "子网互联",
+    "沈阳建筑大学老校门",
+    "((沈阳建筑大学老校门) 关键词:'老校门景观') 关键词:'传统工艺与工具'",
+    "模糊层次分析法汽车",
+    "作业成本法评价",
+    "基于客户满意度调查的汽车4S店售后服务质量评价研究",
+    "基于客户满意度调查的汽车4S店售后服务质量评价研究",
+    "客户流失文献综述",
+    "甘孜州生态旅游发展研究",
+    "(作者:(李鸣华) and 作者单位:(霁虹)) (Type:'Periodical' )",
+    "南北朝文人诗",
+    "肽链等电点计算",
+    "(作者:('潘家铮')) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "辽宁广播电视大学学报",
+    "名师在线",
+    "语文教学",
+    "佳木斯学报",
+    "考试周刊",
+    "聚苯乙烯性质与合成",
+    "聚苯乙烯",
+    "聚苯乙烯的性质",
+    "((济南地方志) 关键词:'地方志') 题名:济南地方志",
+    "组网基本要求",
+    "联用芝麻素和维生素E抑制PI3K/AKT信号通路改善自发性高血压大鼠的左室纤维化（英文）",
+    "模糊层次分析法汽车",
+    "文献综述模糊层次分析法",
+    "文献综述模糊层次分析法",
+    "客户流失文献综述",
+    "文献综述",
+    "甘孜州旅游发展浅析",
+    "基于改进能量法的直齿轮时变啮合刚度计算",
+    "基于客户让渡价值基于模糊层次分析法的车险流失客户赢回",
+    "植保无人机",
+    "(题名或关键词:('世纪电力')) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "(作者:(李鸣华) and 作者单位:(霁虹)) (Type:(Periodical OR Thesis OR Conference) )",
+    "汽车4S营销模式",
+    "文献综述模糊层次分析法",
+    "人力资源管理",
+    "客户流失文献综述",
+    "汽车4S店客户流失文献综述",
+    "mg综述",
+    "(作者:('潘家铮')) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "(题名或关键词:(世纪电力)) (Type:(Periodical OR Thesis OR Conference OR Cstad) )",
+    "颅内动脉狭窄迂曲血管径路下的支架成形技术",
+    "工程伦理",
+    "服务营销中的服务质量管理和顾客满意研究",
+    "(聚苯乙烯) (Type:'Periodical' )",
+    "丁真",
+    "济南地方志",
+    "曹植对后世的影响"
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "下载": [
+    {
+      "id": "ygxb201904015",
+      "title": "地基激光雷达森林近地面点云精细分类与倒木提取",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ygxb201904015",
+      "title": "地基激光雷达森林近地面点云精细分类与倒木提取",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ygxb201905015",
+      "title": "基于IDL语言的植被指数UNVI软件插件",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lyzygl201902003",
+      "title": "广东省国家级公益林质量评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjlxyxb201906012",
+      "title": "次生常绿阔叶林群落林冠结构对林下植被的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fhlkj201802027",
+      "title": "浅谈黑龙江省地方林业储备林基地建设",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xckj201926043",
+      "title": "国家储备林建设面临的问题及对策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "huah201918163",
+      "title": "桂林国有林场储备林基地建设技术探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lnlykj201903015",
+      "title": "高峰林场国家储备林基地建设模式探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xblxyxb201904028",
+      "title": "基于度量误差方法的杉木储备林间伐与未间伐林分生长模型研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hnlykj201801013",
+      "title": "河南中部低山丘陵区国家储备林营建措施",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xdnckj201811072",
+      "title": "张家口国家储备林建设的发展研究与探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "znlydcgh201804003",
+      "title": "国家储备林划定现状及后期经营管理探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njkj-xxk201804159",
+      "title": "浅议国家储备林基地建设的技术要点",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "nckxsy201810056",
+      "title": "国家战略储备林改培技术探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xckj201824033",
+      "title": "泸溪县国家储备林建设现状和思路",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzw201713090",
+      "title": "国家储备林现有林培育技术及分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lszg201910010",
+      "title": "国家储备林:为未来储备绿色宝藏",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ahny201704094",
+      "title": "国家储备林建设推进举措探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxly201609009",
+      "title": "林业厅与国开行签国家储备林扶贫协议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lydcgh201506014",
+      "title": "云南国家储备林划定存在的问题与对策分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lsdsj201621047",
+      "title": "青阳县国家储备林基地建设技术探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hnlykj201602013",
+      "title": "河南省国家储备林划定的主要做法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201919028",
+      "title": "植被恢复模式对石漠化生态系统碳储量的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stbctb201905042",
+      "title": "荒漠草原不同植被恢复模式的水土保持生态效益",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znlydcgh201801010",
+      "title": "基于三种分割算法的高分辨率影像分割比较",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "trqsystbcxb201906035",
+      "title": "喀斯特石漠化区林草恢复对土壤团聚体及其有机碳含量的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "stxb201920010",
+      "title": "喀斯特石漠化综合治理及其区域恢复效应",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjlxyxb201904010",
+      "title": "马尾松林冠下套种阔叶树对林下植被的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njjzy201812034",
+      "title": "永州金洞林场储备林现状分析及建设措施",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjcf201512028",
+      "title": "储备森林就是储备未来",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyyjs201809036",
+      "title": "国家储备林建设面临的问题及对策建议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxly201911013",
+      "title": "美丽广西的绿色保障——广西建设国家储备林工作纪实",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xckj201805025",
+      "title": "鲁西北平原地区储备林生产技术及管理措施",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xckj201811044",
+      "title": "平原地区集约人工储备林栽培技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "znlydcgh201902005",
+      "title": "河北省国家储备林工程建设问题与对策分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "huah201906135",
+      "title": "浅谈我国储备林建设现状和思路",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "njjzy201708097",
+      "title": "国家储备林建设推进举措探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ahny201714097",
+      "title": "黄山市黄山区国家储备林建设培育的技术模型构建探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201911097",
+      "title": "黄柏山林场国家储备林项目建设探析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ahlykj201701012",
+      "title": "歙县石门林场国家储备林建设模式探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njkj-xxk201804171",
+      "title": "推进国家储备林建设,促进我国林业健康发展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangxyy201606181",
+      "title": "玉龙县国家储备林工程建设现状及对策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lykx201707014",
+      "title": "无人机激光雷达与摄影测量林业应用研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "lykx201807008",
+      "title": "基于机载LiDAR的单木结构参数及林分有效冠的提取",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "lyzygl201805002",
+      "title": "国家储备林运行管理机制分析与优化建议",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nckxsy201921057",
+      "title": "国家储备林建设初探 ——以贵州省铜仁市为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lszg201606013",
+      "title": "全面实施国家储备林制度停止天然林商业性采伐",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lykj201805003",
+      "title": "利用金融贷款建设国家储备林基地 主要森林培育技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "huah201912149",
+      "title": "国家储备林建设推进方法分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zzxx201707017",
+      "title": "茂源林业建设国家储备林基地项目通过专家评审",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxly201807006",
+      "title": "担当全国最大储备林区新使命——广西“政银企”合力建设国家储备林纪实",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gdlykj201703019",
+      "title": "广东省国家储备林划定布局",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "njkj201910252",
+      "title": "国家储备林建设推进方法探究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlyglgbxyxb201601003",
+      "title": "实事求是 科学探索国家储备林建设之路",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zglyqy201703026",
+      "title": "国家储备林建设PPP模式引发的分析与思考",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njkj-xxk201910262",
+      "title": "浅谈光皮梾木在国储林项目中的推广应用",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zrzyxb201911012",
+      "title": "不同恢复模式下红壤区森林植被盖度变化的阈值效应分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynnydxxb201406003",
+      "title": "鸡公山落叶阔叶林和针阔混交林植物物种多样性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201730174",
+      "title": "浅析国有林场国家储备林可持续发展战略",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lcgy201610001",
+      "title": "国家储备林建设PPP模式引发的思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dkj201802141",
+      "title": "广西储备林工程建设现状及策略",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201709082",
+      "title": "曲靖市国家储备林工程建设现状及对策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "nmglydcsj201802035",
+      "title": "论内蒙古大兴安岭重点国有林区国家储备林基地建设的必要性",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hblykj201906012",
+      "title": "关于国家储备林建设PPP项目的思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxly201704003",
+      "title": "广西获国家储备林贷款200亿",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xswzk201706030",
+      "title": "广西国家储备林基地建设的融资模式研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "nyyjs201612215",
+      "title": "国家木材战略储备林改培技术试验",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xnnyxb201909022",
+      "title": "基于灰色关联度的石漠化地区土壤质量评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "znlydcgh201702002",
+      "title": "论储备林储备区域的选择——以五盖山国有林场杉木人工林为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "huah201812190",
+      "title": "国家储备林建设问题研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "ckxx201828144",
+      "title": "关于规范国家储备林质量精准提升工程资金管理的思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201711077",
+      "title": "三门江林场国家战略储备林改培技术探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zglftc201804040",
+      "title": "本溪市如何开展国家储备林基地建设",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201913094",
+      "title": "国家储备林工程建设存在的问题及对策 ——以高望界林场为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxzqykj201906014",
+      "title": "湖北国家储备林建设投融资模式创新",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hblykj201803011",
+      "title": "浅述湖北省政策性银行贷款营造林项目的组织与管理——以湖北长江经济带国家储备林建设暨生态扶贫项目为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyyjs201814186",
+      "title": "国家木材战略储备林改培技术试验",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dtsj201734236",
+      "title": "国家储备林划定与经营管理探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "lsdsj201919051",
+      "title": "储备林项目实施对川北人工林生长的积极影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ncsykjxx201906021",
+      "title": "遂昌县牛头山林场木材战略储备林建设措施与对策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ahlykj201506004",
+      "title": "安徽省国家储备林林分结构特征分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnxtb201618037",
+      "title": "黄山区黄山公益林场木材战略储备基地建设初探",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "rdyrdzwxb201905001",
+      "title": "植被生态系统恢复及其在华南的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stnyyj201909003",
+      "title": "中国北方土石山区植被恢复及其生态效应研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gxly201707005",
+      "title": "“三新”营造“藏富林”——广西国家储备林基地见闻",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "znlydcgh201704008",
+      "title": "基于形态学阈值标记分水岭算法的高分辨率影像单木树冠提取",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lykx201304018",
+      "title": "基于地面激光雷达点云数据的单木三维建模综述",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "lykxyj201906007",
+      "title": "鄂中地区马尾松人工林群落演替特征研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fjlxyxb202001003",
+      "title": "米槠人工林土壤微生物群落组成对凋落物输入的响应",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjlydxxb200702010",
+      "title": "广东省森林植被恢复下的碳储量动态",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zydk-xxhch201908021",
+      "title": "点云与光谱影像产品在森林资源普查中的应用",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gfkjdxxb201902018",
+      "title": "LiDAR点云纹理特征提取方法",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "znlxyxb201810007",
+      "title": "基于Zone模型的森林小班变化信息提取方法研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lykx201901001",
+      "title": "珠海淇澳岛红树林群落分布与景观格局",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201516003",
+      "title": "庐山森林景观空间分布格局及多尺度特征",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zykfysc201601008",
+      "title": "滇金丝猴分布区景观格局现状分析——基于全球30m地表覆盖数据",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201501027",
+      "title": "中国天然林保护、生态恢复与可持续经营的理论与技术",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yystxb200410003",
+      "title": "森林干扰生态研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lykx201101021",
+      "title": "秦岭主要森林类型近自然度评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lykx201707014",
+      "title": "无人机激光雷达与摄影测量林业应用研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "znlxyxb201712010",
+      "title": "基于体元逐层聚类的TLS点云数据单木分割算法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjkx201104004",
+      "title": "点云模型分割及应用技术综述",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yystxb200708003",
+      "title": "川西亚高山暗针叶林恢复过程中不同恢复阶段的定量分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lyzygl201904016",
+      "title": "基于无人机影像的树顶点和树高提取及其影响因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ckjs201910011",
+      "title": "改进GA-PSO优化SVM的行人检测算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "lyzygl201906007",
+      "title": "自然保护地整合优化及可持续发展对策探讨",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "lyzygl202001001",
+      "title": "我国自然保护地整合优化规则与路径研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "znlxyxb201007014",
+      "title": "基于对象的激光点云数据城区树木识别方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201905067",
+      "title": "基于极限学习机的单木枝叶点云分类",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx201806022",
+      "title": "融合影像信息的LiDAR点云多特征分类方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yystxb200311050",
+      "title": "退化生态系统植被恢复的生理生态学研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gctxxb201902009",
+      "title": "基于点云数据的三维目标识别和模型分割方法",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcyyy201918005",
+      "title": "融合PCA、LDA和SVM算法的人脸识别",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "nygcxb201920024",
+      "title": "快速傅里叶变换结合SVM算法识别地表玉米秸秆覆盖率",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gzsfdxxb-zr202001011",
+      "title": "基于LBP和SVM的人脸表情识别系统的设计与实现",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "zwstxb200706011",
+      "title": "海南岛霸王岭热带天然林景观中主要木本植物关键种的潜在分布",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "chxb201802012",
+      "title": "基于DBN的车载激光点云路侧多目标提取",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjxgc201708010",
+      "title": "先验概率与曲线概率阈值分割相结合的消噪方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkxyyjsyxb201903012",
+      "title": "一种基于图割的机载LiDAR单木识别方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjlykj201805009",
+      "title": "基于移动窗口Fourier变换的高分辨率遥感影像森林分类研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lydcgh202001018",
+      "title": "广西森林资源与生态状况监测体系建设构想",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sdjzgcxyxb201706006",
+      "title": "桑基图的可视化图式在建成环境领域的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjyl202003002",
+      "title": "自然保护地整合优化方案思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lykx201812014",
+      "title": "机载激光雷达人工林单木分割方法比较和精度分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lykx201807008",
+      "title": "基于机载LiDAR的单木结构参数及林分有效冠的提取",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "cskc201801010",
+      "title": "基于PCA算法的机载LiDAR点云平面分割算法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dbch201501013",
+      "title": "密度聚类方法在点云数据分割中的应用研究",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "基于森林资源清查的迪庆州森林.",
+    "广东自然保护区现状及发展对策",
+    "无人机激光雷达与摄影测量林业应用研究进展",
+    "山东省春季植被指数变化的遥感监测分析",
+    "广东保护区有效管理",
+    "融合PCA、LDA和SVM算法的人脸识别",
+    "快速傅里叶变换结合SVM算法识别地表玉米秸秆覆盖率",
+    "基于LBP和SVM的人脸表情识别系统的设计与实现",
+    "中国国家公园研究进展",
+    "基于统计检验的面向对象高分辨率遥感图像森林变化检测",
+    "整合优化  保护地",
+    "自然资源价值 评估",
+    "广东省桉树人工林固碳释氧价值核算",
+    "集成高分辨率UAV影像与激光雷达点云的亚热带森林林分特征反演",
+    "森林生态系统的水源涵养功能及其计量方法",
+    "苏省",
+    "山东 林业",
+    "人类活动对中国国家级自然",
+    "广东电白人工",
+    "陈传国",
+    "自然保护地历史遗漏",
+    "中国典型自然保护区",
+    "基于植被信息季节变换的植被覆盖度变化",
+    "基于遥感生态指数的雄安新区生态质量评估",
+    "广东省自然保护区有效管理评估指标体系的构建与应",
+    "林业系统自然保护区森林生态系统服务功能评估",
+    "中国自然保护区历史遗留问题成因及其疏解 途径研究",
+    "陈传国",
+    "杨超裕",
+    "论中国自然保护区的面积上限",
+    "陈传国",
+    "何莹泉 FirstCreator:(何莹泉)",
+    "广东省第四次森林资源二类调查主要结果分析",
+    "LiDAR 点云纹理特征提取方",
+    "基于高分辨率与高光谱遥感影像的北亚热带马尾松及次生落叶树种的分类",
+    "利用轻小型飞机遥感数据建立人工林特征参数模型",
+    "整合优化  保护地",
+    "整合优化  保护地",
+    "a progressive morphological filter for removing",
+    "自然保护地生态系统服务价值评估研究进展",
+    "无人机激光雷达与摄影测量",
+    "湖南省自然保护地体系建设",
+    "湖南建立以国家公园为主体的自然保护地体系策略",
+    "林业勘察设计",
+    "中国自然保护地70年发展 历程与成效",
+    "机载激光雷达数据处理及特征提取技术初探",
+    "小班尺度森林资源质量评价",
+    "改进GA-PSO优化SVM的行人检测算法",
+    "以国家公园为主体的自然保护地体",
+    "世界自然保护地类型体系研究及启示",
+    "基于遥感数据的林地变化检测方法研",
+    "中国自然保护地70 年发展历程与成效",
+    "LiDAR点云数据处理软件对",
+    "国家公园为主体的江西省自然保护地体系建设路径与",
+    "基于社会网络分析的全球",
+    "世界自然保护地类型体系研究及启示",
+    "激光雷达技术在动物生态学领域的研究进展",
+    "基于两期无人机影像的针叶林伐区蓄积量估算",
+    "基于机载激光雷达与L",
+    "广东省第四次森林资源二类调查主要结果分析",
+    "遥感  管理评价 保护地",
+    "林业科技通讯",
+    "中国国家级自然保护区人类活动 分布现状",
+    "森林资源监测中林业3S技术的应用现状与展望",
+    "汪求来",
+    "自然保护地矿业权",
+    "基于文献计量的中国自然保护",
+    "东北林业系统自然保护区",
+    "imputation of individual",
+    "林业勘察设计",
+    "整合优化",
+    "地理信息科学学报",
+    "森林类型遥感分类及变化监测研究进展",
+    "安徽省林地一张图建设及林地年度变更探讨",
+    "编制林分形高表估测林分蓄积量方法的研究",
+    "东江流域森林水源涵养功能空间格局评价",
+    "基于主被动",
+    "广东自然保护区",
+    "整合优化",
+    "整合优化",
+    "自然保护地 评估",
+    "遥感  管理成效 保护",
+    "遥感  管理成效 保护",
+    "遥感  管理成效 保护地",
+    "(苏省) 作者:苏省",
+    "基于logistic  保护区增长",
+    "山东 林业",
+    "生态保护地空间重叠",
+    "滇东南博吉金国家森林公园旅游资源评价研究",
+    "中国自然保护地体系的顶层设计",
+    "国家公园科研监测构成、特点及管理",
+    "自然保护地管理有效性评估方法综",
+    "国家公园体制建设背景下自然保护区建设管理的思考",
+    "中国森林生态系统服务评估及其 价值化实现路径设",
+    "数量特征  保护",
+    "基于遥感空间信息的武夷山",
+    "基于主被动遥感技术的地表覆被类型变化检测方法——以新疆西天山国家级自然保护区为例",
+    "自然保护地生态系统评估",
+    "南瓮河自然保护区",
+    "生态红线  保护地",
+    "生态红线  保护地",
+    "(陈传国) (OrganizationNorm:'广东省林业调查规划院' )",
+    "(陈传国) (OrganizationNorm:'广东省林业调查规划院' )",
+    "基于无人机影像的森林信息获取研究进展",
+    "Remote sensing change detection for ecological monitoring in United States protected areas",
+    "山东省省级自然",
+    "山东省生态环境质量动态变化研究",
+    "robust and parameter-free algorithm for",
+    "基于森林资源清查的迪庆州森林生物量及生产力研究",
+    "立木生物量方程的优度评价和精度分析",
+    "整合优化",
+    "林业科学",
+    "基于无人机影像的森林信息获取研究进展",
+    "广东省森林资源与生态状况动态变化分析与评价",
+    "珠江三角洲城市群生态状况变化遥感评价",
+    "王湘龙",
+    "中国自然草地生态系统",
+    "数量特征  保护",
+    "数量特征  保护",
+    "陈传国",
+    "我国自然保护区集体林现状与问题分析",
+    "生态与农村环境",
+    "一种输电线路",
+    "中国环境管理干部学院学报",
+    "生态与农村环境学报",
+    "自然保护区  人工林",
+    "遥感  管理成效 保护",
+    "基于logistic",
+    "生态保护地空间重叠",
+    "自然保护地  历史遗漏",
+    "陈黄礼",
+    "论我国集体林权制度改革中的法制障碍及解决途径",
+    "我国自然保护区林权改革问题与对策探讨",
+    "无人机高分辨率遥感影像分类方法研",
+    "集体林权制度改革对自然保护区生态旅游社区参与的影响——以广东省为例",
+    "数量特征  保护",
+    "数量特征",
+    "自然保护地  历史遗留问题",
+    "森林类型遥感分类及变化监测研究进展",
+    "集成高分辨率UAV影像与激光雷达点云的亚热带森林林分特征反演",
+    "广东省林地变更调查工作存在的问题与对策研究_区汉明",
+    "安徽省林地 一张图 建设及林地年度变更探讨",
+    "利用Google影像辅助林地年度变更遥感判读的方法",
+    "机载激光雷达平均树高提取研究",
+    "中国自然草地",
+    "基于CART决策树的自然保护区植被类型分布研究",
+    "(陈传国 FirstCreator:(陈传国)) (OrganizationNorm:'广东省林业调查规划院' )",
+    "何莹泉",
+    "我国自然保护地历史遗留问题",
+    "国家公园体制建设背景下自然保护区建设管理的思考",
+    "广东省林地变更调查工作存在的问题与对策研究",
+    "安徽省林地_一张图_建设及林地年度变更探讨",
+    "基于UAV 高分影像的杨树冠幅提取",
+    "关于自然保护地内林地权属与林农权益的研究 ——以浙江省为例",
+    "整合优化",
+    "像的混合像元线性分解方法在澳门植被信息提取中的应用及效果评价"
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "下载": [
+    {
+      "id": "hlyzhkz201405012",
+      "title": "战时装备技术保障风险评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jscxgy201602007",
+      "title": "基于高原环境的保障装备适应性技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201521013",
+      "title": "基于B/S的装备保障远程技术支援系统设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201510025",
+      "title": "基于AHP和模糊理论的通信装备技术保障能力评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdk201910029",
+      "title": "基于SWOT的'双员'型教员队伍能力培养与评价改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "glkxwz201706040",
+      "title": "极大似然参数估计法文献综述",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ylwszb201711037",
+      "title": "高原高寒地区卫生装备的技术保障问题及对策探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ylwszb201611034",
+      "title": "军队制供氧保障技术与装备发展探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xinny201915079",
+      "title": "如何做好气象技术装备保障",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201205004",
+      "title": "高技术武器装备维修保障力量建设之思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201907084",
+      "title": "激光云高仪气象装备保障技术培训系统设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201207017",
+      "title": "高新技术武器装备保障指挥体系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgbmgc200701002",
+      "title": "美军装备保障新理论新技术发展趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hpfsykzxb200802005",
+      "title": "陆军装备远程维修保障及方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hpfsykzxb200804020",
+      "title": "基于UML建模的坦克武器系统保障信息手册设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201901027",
+      "title": "陆军装备器材云保障模式探析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201608013",
+      "title": "基于DEA的装备技术保障综合效能评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjzdclykz201604032",
+      "title": "装备保障体系建模与仿真关键技术研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xbgfyxzz201203057",
+      "title": "部队卫生装备技术保障的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201133239",
+      "title": "基于弹药消耗预测的储备布局优化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnkfyyy201305024",
+      "title": "制导火箭弹弹药消耗量模型",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zjbgcxyxb201004004",
+      "title": "基于战时弹药消耗及补给数据的弹药储备量控制方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "njlgdxxb201202007",
+      "title": "反坦克导弹阵地弹药消耗模型及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201805005",
+      "title": "基于决策偏好的联合火力打击兵力需求优化方法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201403028",
+      "title": "基于系统理论方法的炮兵弹药消耗量预测修正方法",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jxgcxyxb201306003",
+      "title": "面向作战任务的弹药消耗预测模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xahkjsgdzkxxxb201505007",
+      "title": "基于战争视角的航空弹药消耗模型比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qbzhkzxtyfzjs200805012",
+      "title": "舰炮对岸应召射击最优火力分配",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh200710004",
+      "title": "遗传算法在求解多准则火力分配问题中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201607004",
+      "title": "防空作战WTA问题优化仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb200403008",
+      "title": "炮兵营对雷场的破坏程度研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201304016",
+      "title": "反舰导弹协同攻击目标分配与在线再分配方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201702013",
+      "title": "基于匹配度的目标打击武器适宜性分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjtxyxb200801004",
+      "title": "登陆作战弹药消耗及所需汽车运力预测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz200910026",
+      "title": "联合火力打击弹药需求计算动态模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb201204015",
+      "title": "多用途子母弹对巡航导弹毁伤评估模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201702011",
+      "title": "航空战时弹药保障供应能力优化预测仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201502010",
+      "title": "炮兵火力分配建模及优化方法",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb201006019",
+      "title": "地空导弹装备战备完好性指标确定方法研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "xdfyjs201105001",
+      "title": "地空导弹武器系统抗饱和攻击能力研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201408037",
+      "title": "时间约束下的某型火箭炮毁伤概率模型及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjhkgcxyxb201706011",
+      "title": "基于系统动力学的反舰导弹饱和攻击模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201510040",
+      "title": "基于最有利炸点分布模型的火箭弹打击效能分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201802005",
+      "title": "基于离散粒子群优化的无人机协同多任务分配",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjgcdxxb201604006",
+      "title": "基于网络对抗火力分配的改进量子免疫克隆算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyszgc201511011",
+      "title": "基于仿真的战时维修器材消耗规律研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200503070",
+      "title": "航空弹药平时消耗量的预测模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb200304008",
+      "title": "地面火炮毁伤目标的弹药消耗量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hlyzhkz201006039",
+      "title": "舰炮对敌野战炮兵连射击效果实时评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjhkgcxyxb200506025",
+      "title": "机载弹药精确供应保障研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjtxyxb201711006",
+      "title": "美军装备战备完好性评定及启示",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201203004",
+      "title": "舰载火箭子母弹平均弹药消耗量计算模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjsxy201005024",
+      "title": "地面主战武器常规弹药消耗预测方法研究现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "junssl200709007",
+      "title": "从弹药消耗看反法西斯战争之艰苦",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201305011",
+      "title": "基于多Agent的弹药消耗计算模型和方法*",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201012003",
+      "title": "基于SVR弹药消耗数量的预测建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201103013",
+      "title": "炮兵弹药动态消耗规律",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjfz201609020",
+      "title": "空空导弹消耗需求量预测模型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsycyxtgc201204017",
+      "title": "面向装备作战仿真的弹药消耗预测方法研究现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb201301002",
+      "title": "高炮系统火力单元弹药消耗模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjbgcxyxb201101006",
+      "title": "面向装备作战的弹药消耗智能预测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gcbp201901014",
+      "title": "水下爆炸法销毁废旧炮弹技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kxjsygc200714053",
+      "title": "组合预测法在弹药消耗预测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201003071",
+      "title": "航空弹药平时消耗量预测模型对比",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201630071",
+      "title": "弹药保障需求分析实验模型输出数据的验证研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "bgxb201808024",
+      "title": "基于回合制的火力分配优化问题建模方法研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "njlgdxxb201806012",
+      "title": "基于变异粒子群优化与深度神经网络的 航空弹药消耗预测模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201201019",
+      "title": "方案评估动态推演模型设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201510012",
+      "title": "面向火力打击任务的压制武器弹药消耗预计模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201911017",
+      "title": "基于SD模型的对岸火力支援弹药消耗规律分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ranj-jyxdh201208306",
+      "title": "论军校核心竞争力",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201910014",
+      "title": "库存航空弹药事故危险源分类识别优化仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz2001z1019",
+      "title": "自行火炮火力运用和射击指挥的动态方法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hpfsykzxb201102015",
+      "title": "舰载火箭炮最优火力分配模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201332147",
+      "title": "多指标炮兵火力分配模型",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201104012",
+      "title": "基于弹药目标数据库的弹药需求预计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs200704022",
+      "title": "战场弹药总量预测模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200704047",
+      "title": "无线电通信干扰弹射击特点分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb200601014",
+      "title": "支持向量机在弹药训练消耗量预测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201606014",
+      "title": "高寒山地边境反击作战炮兵群火力分配",
+      "download_times": 12,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjkx201705047",
+      "title": "基于IF-HPSO算法的防空作战WTA问题研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxycsjsxb2004z6060",
+      "title": "地地战役战术导弹的弹药消耗量量化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs-zbb201112012",
+      "title": "某型弹药专用叉车货叉的研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201803018",
+      "title": "舰艇编队远洋对陆火力打击分段式补给规划模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh200704046",
+      "title": "弹药消耗预测方法比较研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201112026",
+      "title": "基于分枝定界法的坦克弹药消耗量预测模型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bgzdh201809003",
+      "title": "多型反舰导弹组合攻击最小弹药消耗优化模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201505016",
+      "title": "防空兵弹药消耗标准",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201806015",
+      "title": "战时航空弹药消耗需求实时预测仿真",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scbgxb201709003",
+      "title": "战时弹药消耗预测方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201806008",
+      "title": "关于空战中航空弹药消耗量优化预测仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201909031",
+      "title": "基于模糊逻辑理论的弹药消耗预计模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb200402007",
+      "title": "基于神经网络的弹药消耗预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb200504018",
+      "title": "基于马尔可夫预测的低消耗弹药库存仿真建模分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjsxy201104025",
+      "title": "弹药调拨预决策过程的设计与描述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hlyzhkz201411043",
+      "title": "某型多管火箭炮射击精度对重复毁伤影响",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "hlyzhkz201211042",
+      "title": "目标毁伤幅员的炮兵营火力毁伤效能评估及应用",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201605016",
+      "title": "制导弹药战斗部装药设计安定性评估方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb200201009",
+      "title": "基于自适应模糊神经网络的弹药消耗预计模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhjsxy200505011",
+      "title": "基于Monte Carlo法的35高炮火力单元弹药消耗量仿真估算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201103049",
+      "title": "海岸防御战斗海防师炮兵优化兵器区分的实现",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qbzhkzxtyfzjs201701012",
+      "title": "多弹种条件下压制性武器弹药补给策略",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcdzgc200910016",
+      "title": "云模型在训练弹药消耗预测中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tcykzxb200905012",
+      "title": "改进BP神经网络在航空弹药预测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201902005",
+      "title": "基于Lanchester的航母编队弹药补给时机SD建模",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgykz200908017",
+      "title": "基于消耗规律的战时弹药供应计划优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc200814067",
+      "title": "基于VR-forces的弹药消耗预计中装备建模过程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhkht201805012",
+      "title": "基于NRS-SVM模型的航空弹药消耗预测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlyzhkz201111009",
+      "title": "一种地炮作战效能评估动态推演方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzhkzxtyfzjs201305011",
+      "title": "联合作战目标武器弹药匹配模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb201605001",
+      "title": "基于GM(1,N)-FLR模型的弹药平时消耗量预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hjhkgcxyxb201901009",
+      "title": "基于遗传算法的空空导弹消耗规律神经网络预测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlkj201707038",
+      "title": "动态灰色模型在航空弹药维修器材消耗规律中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201706003",
+      "title": "反舰导弹突击舰艇目标弹药消耗量建模仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201606023",
+      "title": "基于BP神经网络的高寒山地弹药消耗需求分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jcdzgc200911031",
+      "title": "基于UML的战役弹药保障任务测算软件建模研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzlgdxxb200307012",
+      "title": "一种面向弹药保障的消耗预测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh201608011",
+      "title": "多型反舰导弹混合攻击异型舰艇编队多目标整数规划火力分配模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgcxyxb200405014",
+      "title": "陆军诸兵种合同作战兰切斯特方程的弹药消耗预测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sygyxyxb201105012",
+      "title": "蒙特卡洛法在末敏弹毁伤概率计算中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjxx200622104",
+      "title": "基于Visual Baisc 6.0开发平台的低消耗弹药供应仿真模型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxb201403008",
+      "title": "混合目标火力分配及弹药消耗量求解方法",
+      "download_times": 9,
+      "browse_times": 2
+    },
+    {
+      "id": "dnkfyyy201305024",
+      "title": "制导火箭弹弹药消耗量模型",
+      "download_times": 4,
+      "browse_times": 3
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "极大似然估计",
+    "作者:'李正映' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "粒子群算法",
+    "火炮技术保障",
+    "火炮技术保障",
+    "极大似然估计",
+    "装备技术保障",
+    "装备技术保障",
+    "装备技术保障",
+    "火炮技术保障",
+    "装备技术保障",
+    "作者:'李康' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "作者:'姜广胜' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "火炮技术保障",
+    "火炮技术保障",
+    "装备技术保障",
+    "火炮技术保障",
+    "火炮技术保障",
+    "装备技术保障",
+    "装备技术保障",
+    "装备技术保障",
+    "火炮技术保障",
+    "粒子群算法",
+    "火炮技术保障",
+    "火炮技术保障",
+    "作者:'赵汝东' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "极大似然估计",
+    "作者:'赵汝东' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "作者:'史宪铭' 作者单位:'陆军工程大学石家庄校区装备指挥与管理系'",
+    "极大似然估计",
+    "极大似然估计",
+    "极大似然估计",
+    "火炮 粒子群算法",
+    "火炮技术保障",
+    "火炮 粒子群算法",
+    "火炮技术保障",
+    "装备技术保障",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "作者:'张威' 作者单位:'南京炮兵学院自行火炮教研室'",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "主题:( 地地导弹总体性能评定方法)",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "弹药消耗",
+    "完好性评定",
+    "主题:(地空导弹装备战备完好性指标确定方法研究)",
+    "作者:'张威' 作者单位:'炮兵学院'",
+    "南京炮兵学院 张威",
+    "弹药消耗",
+    "作者:'张威' 作者单位:'南京炮兵学院自行火炮教研室'",
+    "弹药消耗",
+    "基于R M理论的装备战备完好状态评价",
+    "基于R M理论的装备战备完好状态评价",
+    "主题:(完好性评定)",
+    "主题:(完好性评定)",
+    "完好性评定",
+    "主题:(GJB 6884-2009 防化装备完好性评定方法)",
+    "地地导弹总体性能评定方法",
+    "地地导弹总体性能评定方法",
+    "作者:'张威'",
+    "作者:'张威' 作者单位:'南京炮兵学院自行火炮教研室'",
+    "作者:'张威' 作者单位:'炮兵'",
+    "主题:('完好性评定')",
+    "制导火箭弹弹药消耗量模型",
+    "地地导弹总体性能评定方法",
+    "地地导弹总体性能评定方法",
+    "完好性评定",
+    "主题:(防化装备完好性评定方法)",
+    "主题:(GJB 6884-2009 防化装备完好性评定方法)"
+  ]
+}

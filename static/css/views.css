@@ -46,6 +46,13 @@
     z-index:99
 }
 
+#select_view{
+    position: absolute;
+    z-index:99;
+    left: 88%;
+    top: 8%;
+}
+
 #line{
     width: 45%;
     height: 90%;

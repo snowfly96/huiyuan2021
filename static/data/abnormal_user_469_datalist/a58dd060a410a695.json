@@ -1,0 +1,513 @@
+{
+  "下载": [
+    {
+      "id": "gdjssfxyxb201502001",
+      "title": "浅谈不定积分与R(黎曼)积分的关系",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "llxyxb201505005",
+      "title": "不定积分∫secn xdx的求解方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cfxyxb201604001",
+      "title": "一道有理函数不定积分题目的多种计算方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201664051",
+      "title": "关于“不定积分概念”的教学设计",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdzyjy201832048",
+      "title": "浅谈不定积分的直接积分法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ytjy201504091",
+      "title": "关于余割函数不定积分多种形式的统一",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "thsfxyxb201710010",
+      "title": "不定积分的五种计算方法",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "jsysc201508041",
+      "title": "一种常见的不定积分错误",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xahkjsgdzkxxxb201501015",
+      "title": "不定积分的分部积分法探究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "huainsfxyxb201805026",
+      "title": "一类不定积分的代数解法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdsxyj201806008",
+      "title": "含参数的三角函数有理式的不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cfxyxb201809011",
+      "title": "五种类型不定积分问题的求解",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyjyxyxb201804007",
+      "title": "不定积分运算中的待定系数法再研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sqzyjsxyxb201902018",
+      "title": "不定积分的运算技巧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjyxyxb-zrkxb201902014",
+      "title": "一例不定积分问题的多种解法探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcjyyj201528146",
+      "title": "巧用三角关系式解不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201549083",
+      "title": "例说计算不定积分的灵活性和技巧性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lhzyjsxyxb201802018",
+      "title": "三角函数不定积分的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dxwl201904001",
+      "title": "量子巨配分函数的洽当导出",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201623084",
+      "title": "'积不出'函数的判定与积分",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hqsgkj201504165",
+      "title": "高等数学不定积分学的两个常见问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qnsd201507050",
+      "title": "浅析“1”在高等数学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hqsgkj201520126",
+      "title": "几个类似例题的不同积分方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jmsj201715273",
+      "title": "积分号下微分法与莱布尼茨公式在求解不定积分中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdsxyj201506002",
+      "title": "有理函数不定积分的一个综合公式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lkahz201501002",
+      "title": "不定积分计算中一个应该注意的问题",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hunnj201504083",
+      "title": "不定积分性质求法分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxdb-kxjy201608316",
+      "title": "不定积分换元积分法的教学思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201619200",
+      "title": "如何求不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201531038",
+      "title": "应用 Taylor 公式解题的优越性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xzk-a201734009",
+      "title": "不定积分的计算方法教学探析——基于数学思想与方法的视角",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szjylt-s201513009",
+      "title": "不定积分概念教学设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jrhb-zxk201503076",
+      "title": "高职高专《高等数学》课程不定积分的概念教学过程设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxjs201506018",
+      "title": "三类特殊不定积分求解的研究与探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kcjyyj-xjsjx201608192",
+      "title": "关于分段函数不定积分求法的若干思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "juanz2016080746",
+      "title": "浅议不定积分的解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jlgxyxb201803020",
+      "title": "不定积分∫secxdx的8种计算方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdsnyglgbxyxb201808085",
+      "title": "定积分与不定积分第二类换元法不同形式的比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ndszxb201804020",
+      "title": "一类有理函数不定积分的求解方法",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kszk201567058",
+      "title": "简谈不定积分的知识串联法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjxk201911043",
+      "title": "浅谈不定积分教学中的几点思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf201925060",
+      "title": "浅谈不定积分的计算方法",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "gdsxyj201806006",
+      "title": "不定积分的一个注记",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnjyxyxb-zrkxb201602014",
+      "title": "关于不定积分解题方法的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dsjj-x201611320",
+      "title": "如何学好不定积分",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dsjj201505318",
+      "title": "不定积分积分方法浅析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzx201907072",
+      "title": "不定积分凑微分法的变式教学探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxsfxyxb201508008",
+      "title": "不定积分∫cscxdx 的解法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ndszxb201502022",
+      "title": "不定积分中凑微分的教学探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cfxyxb201904007",
+      "title": "无理函数不定积分求解技巧的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201542044",
+      "title": "分部积分法在求不定积分中的妙用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jintian201505223",
+      "title": "物理事例在不定积分学习中的应用",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cqsygdzkxxxb201502034",
+      "title": "大学数学教材内容存在的问题及其解决办法",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xjysddzzz-e201738218",
+      "title": "从求导到不定积分的解法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lqjx201812034",
+      "title": "不定积分教学中的思维模式与教学策略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzw201723185",
+      "title": "一元不定积分计算中的常见问题与反例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xlhjtyj201827003",
+      "title": "关于一道不定积分习题的多种解法分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjxk201618047",
+      "title": "不定积分中的一些做题技巧",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gslkxk201910016",
+      "title": "不定积分∫eax sin(βx)dx计算方法的探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dxs-jyjxyj201517179",
+      "title": "利用一题多解培养学生的创新思维",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdsxyj201606009",
+      "title": "广义分部积分公式及其应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdsxyj201506017",
+      "title": "凑法巧解两类特殊类型函数的不定积分",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jyjxlt201615116",
+      "title": "不定积分的一题多解",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cfxyxb201519004",
+      "title": "利用Matlab软件求解积分问题",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "aydxxb201502026",
+      "title": "浅谈不定积分与R（黎曼）积分的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jyjxlt201552098",
+      "title": "有关不定积分教学问题的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdsxyj201806007",
+      "title": "几类三角函数的不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sq-zh201937183",
+      "title": "不定积分的解法汇总",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "sd-xx201603002",
+      "title": "不定积分定义的相关问题探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxdtdxxb201903011",
+      "title": "一类三角函数有理式的不定积分探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gslkxk201909019",
+      "title": "求不定积分易犯错误分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "srsfxyxb201706003",
+      "title": "《数学分析》中不定积分求解方法探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kszk201812090",
+      "title": "用矩阵的逆求不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjzy-jyyjysj201807090",
+      "title": "计算不定积分的种常见方法",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "thsfxyxb201708009",
+      "title": "利用逆矩阵求解正弦函数幂的不定积分",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fskxjsxyxb201703007",
+      "title": "关于不定积分的表达式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "thsfxyxb201504011",
+      "title": "不定积分的求解方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dsjj201505318",
+      "title": "不定积分积分方法浅析",
+      "download_times": 4,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分的天文方面的运用))*Date:2015-",
+    "((主题:(不定积分运用))*$type:perio_artical)*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "主题:(浅谈不定积分的几种简单解法)*作者:(韩贵琴)",
+    "(主题:(不定积分的应用))*Date:2015-",
+    "(主题:(不定积分的物理方面的运用))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分的运用范围))*Date:2015-",
+    "(主题:(不定积分的应用))*Date:2015-",
+    "(主题:(不定积分的运用))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分的研究))*Date:2015-",
+    "(主题:(不定积分运用))*Date:2015-",
+    "主题:(不定积分的解法汇总)",
+    "(主题:(不定积分的研究))*Date:2015-",
+    "(主题:(不定积分的历史研究))*Date:2015-",
+    "(主题:(不定积分的历史))*Date:2015-",
+    "主题:(浅谈不定积分的几种简单解法)*作者:(韩贵琴)",
+    "主题:(浅谈不定积分的几种简单解法)*作者:(韩贵琴)",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "不定积分",
+    "(主题:(不定积分的研究现状))*Date:2015-",
+    "(主题:(不定积分的物理化学生物方面的运用))*Date:2015-",
+    "主题:(浅谈不定积分的几种简单解法)*作者:(韩贵琴)",
+    "主题:(浅谈不定积分的几种简单解法)*作者:(韩贵琴)",
+    "(主题:(不定积分))*Date:2015-",
+    "(主题:(不定积分))*Date:2015-",
+    "主题:(不定积分分部积分法的新探究)",
+    "主题:(不定积分分部积分法的新探究)",
+    "主题:(不定积分分部积分法的新探究)"
+  ]
+}
