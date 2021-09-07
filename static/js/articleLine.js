@@ -1,6 +1,6 @@
 var cur_article_line_type = "day";
 var articleLineOption;
-var chart
+var articleLineChart
 var cur_article = "cqsxyxb202002001"
 
 $(() => {
@@ -21,7 +21,7 @@ function drawArticleLines() {
         },
         dataType: "JSON",
         success: function (data) {
-            chart = echarts.init(document.getElementById('article-line'));
+            articleLineChart = echarts.init(document.getElementById('article-line'));
             var dateList = [];
             var download_valueList = [];
             var scan_valueList = [];
@@ -107,7 +107,7 @@ function drawArticleLines() {
                     }
                 ]
             };
-            chart.setOption(articleLineOption);
+            articleLineChart.setOption(articleLineOption);
         }
     })
 
@@ -178,7 +178,7 @@ function setArticle(article, type = "day") {
             articleLineOption.series[0].data = download_valueList;
             articleLineOption.series[1].data = scan_valueList;
 
-            chart.setOption(articleLineOption);
+            articleLineChart.setOption(articleLineOption);
         }
     })
 }

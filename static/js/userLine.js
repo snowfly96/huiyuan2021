@@ -56,7 +56,6 @@ function initialize(){
                 text: "用户行为时段折线图",
                 textStyle: {
                     fontSize: 18,
-                    color:"black"
                 },
                 top: "1%"
             },
@@ -66,7 +65,7 @@ function initialize(){
                     fontSize: 10
                 },
                 icon: "pin",
-                top: '10%'
+                top: '5%'
             },
             xAxis: {
                 type: 'category',

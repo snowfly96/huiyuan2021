@@ -172,7 +172,7 @@ function abnormalAnalysisView() {
                     fontSize: 10
                 },
                 icon: "pin",
-                top: '10%'
+                top: '5%'
             },
             dataZoom: [{
                 type: 'inside',
