@@ -1,0 +1,480 @@
+{
+  "下载": [
+    {
+      "id": "zgmyxzz201906025",
+      "title": "CRISPR-Cas9系统编辑DNA诱导基因敲除的发展及优缺点",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "yc202001002",
+      "title": "CRISPR/Cas9基因编辑在三维基因组研究中的应用",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zggxq201917018",
+      "title": "浅析CRISPR-Cas9基因编辑技术在人类遗传病的应用",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "qykex201903005",
+      "title": "CRISPR核酸检测技术:开启下一代分子诊断的大门",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsydwxzz201902020",
+      "title": "CRISPR/Cas9基因编辑系统的发展及其在医学 研究领域的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fxcsxb201810015",
+      "title": "CRISPR/Cas技术在核酸检测中的应用进展",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "sdxmsy201910041",
+      "title": "CRISPR/Cas9的发展及在基因组编辑中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyfsyxb201810018",
+      "title": "空肠弯曲菌CRISPR-Cas系统生物信息学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyjscb201804016",
+      "title": "非洲猪瘟病毒CRISPR/Cas9敲除技术研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caoyekx201905026",
+      "title": "CRISPR/Cas系统在植物抗病毒中的应用",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "nyyjs202004006",
+      "title": "CRISPR基因编辑技术及其应用与检测方法",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "qqkjjjlw201901008",
+      "title": "基于论文分析的中美CRISPR/Cas领域对比研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czqkdx201904010",
+      "title": "CRISPR家上新了:第三款CRISPR基因剪刀来袭",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "swjstx201803022",
+      "title": "CRISPR-Cas系统的研究进展及应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx202003006",
+      "title": "基因编辑技术在农业育种中的应用",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "nyswjsxb201906001",
+      "title": "CRISPR/Cas9技术在创制番茄雄性不育株系中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201920007",
+      "title": "CRISPR/Cas9技术及其在水稻和小麦遗传改良中的应用综述",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "swxzz201905003",
+      "title": "斑马鱼hoxb7a基因在hox基因簇中的作用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yc201804002",
+      "title": "CRISPR/Cas9系统在昆虫中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjhsyxzz201901033",
+      "title": "CRISPR/Cas9技术及其在非编码RNA编辑中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsdkx201904004",
+      "title": "利用CRISPR/Cas9系统定向改良水稻稻瘟病抗性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gngfzxb201905008",
+      "title": "非病毒基因编辑CRISPR/Cas9递送载体的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "swhg201905040",
+      "title": "CRISPR/Cas9基因编辑技术研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyzz201904022",
+      "title": "CRISPR/Cas9系统在斑马鱼中的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gywsw201901003",
+      "title": "基于CRISPR/Cas9系统对干酪乳杆菌进行红色荧光蛋白标记",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbgc201902008",
+      "title": "基于专利视角的中美CRISPR/Cas技术发展对比研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lincjyzz201812045",
+      "title": "CRISPR/Cas技术在微生物领域研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hnnykx201902019",
+      "title": "利用CRISPR-Cas9基因编辑技术制备牛MSTN基因编辑胚胎",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzlxxcy201914141",
+      "title": "浅谈CRISPR/Cas9基因编辑技术在医学中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs201824013",
+      "title": "CRISPR/Cas9基因编辑系统在结直肠癌中的应用进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwyxjz201808020",
+      "title": "CRISPR-Cas9基因编辑系统研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sjkx201902003",
+      "title": "追踪CRISPR基因编辑婴儿事件",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201835003",
+      "title": "CRISPR/Cas9基因编辑技术及其在动物细胞系构建中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swxzz201906004",
+      "title": "利用CRISPR/Cas9系统敲除大肠杆菌tnaA基因",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "sjkx201809007",
+      "title": "CRISPR使得癌细胞转攻肿瘤",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sjkx201906009",
+      "title": "CRISPR在美国首次用于人体试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxmsy201806021",
+      "title": "CRISPR/Cas9系统及其在鸡基因组编辑中应用的研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hbnxb201904001",
+      "title": "利用CRISPR/Cas9技术编辑Badh2基因改良粳稻香味",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgycxb201904011",
+      "title": "CRISPR/Cas9介导烟草多基因编辑体系的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwzyyhjxb202002001",
+      "title": "基于CRISPR/Cas9技术的水稻抗稻瘟病基因Pita突变体的创制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "shnyxb202001024",
+      "title": "基因编辑CRISPR/Cas9技术在农业领域的应用",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "sjkx201908007",
+      "title": "微调可使CRISPR准确度提高50倍",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyxylc201804025",
+      "title": "CRISPR/Cas9基因编辑系统研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hyyy201805014",
+      "title": "CRISPR基因编辑技术研究进展及其在水生生物中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxnyxb201903004",
+      "title": "CRISPR/Cas9基因编辑技术在真菌中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxnyxb201907007",
+      "title": "CRISPR-Cas9系统在蔬菜育种上应用研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnykx201910002",
+      "title": "CRISPR/Cas9系统在水稻中的发展和利用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyxyxzz201806049",
+      "title": "CRISPR/Cas9系统及其在血液病基因治疗中的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "sjkx201912007",
+      "title": "中国首次尝试用CRISPR治疗HIV",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swhg201901041",
+      "title": "CRISPR/Cas9技术在基因功能研究中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjrzkj201902013",
+      "title": "利用CRISPR/Cas9基因编辑技术优化作物育种",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "szbytxsyzzz201903007",
+      "title": "利用CRISPR/Cas9构建稳定遗传的斑马鱼TYRO3纯合突变体",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qykex201903007",
+      "title": "高通量CRISPR筛选:定位生物医学研究关键“基因”",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swjsjz201906005",
+      "title": "新RNA编辑技术CRISPR-Cas13",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "xmsyxb201908007",
+      "title": "二代靶向测序在CRISPR/Cas9靶区筛选中的应用性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-lcsw202003001",
+      "title": "基因魔剪CRISPR/Cas:核酸精准检测的新宠和利器",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnnydxxb201905006",
+      "title": "CRISPR/Cas植物基因组编辑技术研究进展",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "swjstx201804020",
+      "title": "CRISPR-Cas9技术在遗传性疾病基因治疗中的研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "kx201906005",
+      "title": "基因编辑技术的 风险和机遇",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxmzz201912006",
+      "title": "CRISPR/Cas9系统在猪基因编辑中的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swjsjz201906006",
+      "title": "CRISPR-Cas生物传感器研究进展",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "dyjydxxb201912019",
+      "title": "CRISPR技术发展及其在骨和软骨组织工程中的应用",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "hnnydxxb201906002",
+      "title": "CRISPR/Cas13b系统对猪流行性腹泻病毒增殖的抑制作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdm201905023",
+      "title": "CRISPR/Cas9技术编辑淀粉合成基因PUL",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjzh201820092",
+      "title": "CRISPR基因编辑技术发展与应用前景",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "swxjx201911001",
+      "title": "基因编辑技术在作物育种上的应用研究进展",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sjkx201906010",
+      "title": "CRISPR治疗竞赛中的三个领跑者",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qykex201903003",
+      "title": "CRISPR基因编辑:更高效、更便捷、更普适",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wswxzz201806015",
+      "title": "CRISPR-Cas9技术在细菌中的研究进展及应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zuowuyj201903018",
+      "title": "CRISPR/Cas技术及其在作物遗传育种中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgnykj201904005",
+      "title": "CRISPR/Cas9和CRISPR/Cpf1基因组编辑技术在农作物基因功能中的研究进展",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "znmzxyxb-zrkx201803015",
+      "title": "一种新型的构建CRISPR/Cas9 KnockOut载体的方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "swjsjz201803001",
+      "title": "CRISPR/Cas基因编辑技术及其在作物育种中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shyxjyzz202002020",
+      "title": "CRISPR/Cas系统在分子检测中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbnydxxb201910006",
+      "title": "CRISPR/Cas9技术发展及其应用进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "rdzwxb201910013",
+      "title": "基于提高CRISPR/Cas基因编辑效率的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr",
+    "crispr"
+  ]
+}

@@ -413,10 +413,14 @@ function drawTopList() {
         });
         $(".list-user-item").click(function (event) {
             var curTarget=event.currentTarget;
-            var userID=curTarget.id;
+            var userID=(curTarget.id).split("-")[2];
             $(".list-user-item").css({"backgroundColor":"white"});
+            $("#user-item-"+userID).css({"backgroundColor":"bisque"});
+            // 更新文章下载浏览曲线
+            drawTopUserArticle(userID);
+            drawUserArticleList(userID);
             $("#"+userID).css({"backgroundColor":"bisque"});
-            setUser(userID.split('-')[2]);
+            setUser(userID);
         });
         $("#user-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }

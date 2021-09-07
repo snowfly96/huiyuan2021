@@ -1,0 +1,605 @@
+{
+  "下载": [
+    {
+      "id": "bzyspjx201204009",
+      "title": "红枣去核设备的研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201919001",
+      "title": "某款新能源纯电动车辆的NVH问题分析与解决",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xxxtgc201610014",
+      "title": "基于MCS-51单片机的车内防窒息报警智能控制系统",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "qyzl201806169",
+      "title": "基于车内环境检测实现无人自救的网络数据平台",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201903020",
+      "title": "红枣去核机技术研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjnjh201902006",
+      "title": "小型手动式红枣去核机的设计与试验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxcd201910032",
+      "title": "350MW火电机组给水泵行星差动调速装置改造的研制与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnny201920031",
+      "title": "高速水稻插秧机关键技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zzkj201905139",
+      "title": "水稻插秧机技术的推广与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlkc201812007",
+      "title": "机架式预制舱三维精细化设计探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ncxjs201904021",
+      "title": "推介四款乘坐式高速插秧机",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljsxyxb201406022",
+      "title": "双气腔油气式缓冲器缓冲性能优化分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njhyj201505023",
+      "title": "转盘式全自动红枣去核机的设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "aqjkhhj201811005",
+      "title": "氮气窒息事故常见原因分析与预防措施",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsnjh201905019",
+      "title": "插秧机市场走势分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njkjtg201910017",
+      "title": "无人驾驶插秧机的研发应用与发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nrjpj201801001",
+      "title": "车内防窒息装置的设计与制造",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gywsyzyb200805015",
+      "title": "密闭空间窒息性气体职业中毒事故原因及预防控制措施分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-xx201602135",
+      "title": "冶金企业煤气柜作业中毒窒息事故分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shlgdxxb200505013",
+      "title": "插齿机主传动机构的运动学仿真与优化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kxjsygc201729055",
+      "title": "起落架活塞杆刚度对缓冲器吸能特性的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201806001",
+      "title": "水稻插秧机技术发展历程与展望",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgaqkxxb200605018",
+      "title": "有限空间作业中毒窒息事故的预防",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slhxx-gsb201409059",
+      "title": "“化学反应与能量”主题教学设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn201918019",
+      "title": "加强'思政课程'与'课程思政'协同互动浅析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ntsfxyxb-zxshkxb201906016",
+      "title": "协同育人理念下高校'课程思政' 改革的理性审视",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "jsgj201911014",
+      "title": "高校专业课教师的课程思政能力表现及其培育路径",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "huol201922277",
+      "title": "大学英语课堂课程思政建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hhgxyxb-rwshkxb201911036",
+      "title": "高校'思政课程'到'课程思政'的实现路径",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdxjx201909013",
+      "title": "大学数学课程思政的'触点'和教学体系建设",
+      "download_times": 9,
+      "browse_times": 0
+    },
+    {
+      "id": "whcxbjyj201811047",
+      "title": "《大学英语》'课程思政'功能研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "kjf201934068",
+      "title": "浅谈高校'课程思政'建设的意义",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "caiz201908047",
+      "title": "将西方文化精髓融入外语课程思政教学研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "tjts201908027",
+      "title": "高校思政课程指导意义的借鉴——评《新时代高校思政课的“打开方式”》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjjy-gjb201911021",
+      "title": "大学英语与中国文化思政融合教育研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rmlt201930039",
+      "title": "大学英语'课程思政'的使命担当",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdxjx201809006",
+      "title": "以点引线 以线带面——高校两类全覆盖课程思政探索与实践",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "shdqn201911178",
+      "title": "'课程思政'视角下的大学英语教学",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dxjy201912051",
+      "title": "地方高师学科教学(英语)教育硕士人才培养改革的探索与思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjck201920025",
+      "title": "中华优秀传统文化思想融入“双一流”大学英语思政建设的实证研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjxk202002051",
+      "title": "高校'课程思政'的应然取向",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxqn202001050",
+      "title": "课程思政教学方法设计研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hbnjh201923083",
+      "title": "高校课程思政的意识形态属性探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wyyj201202012",
+      "title": "大学英语写作多样性评改反馈研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxjy201003013",
+      "title": "谈课程标准对元素化合物知识的教学要求——以'钠及其化合物'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxjx201901003",
+      "title": "化学优秀课的教学情境分析与启示——以江苏省2016年优秀课评比'钠及其化合物'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bdsfzkxxxb202001015",
+      "title": "'课程思政'与思政课程同向同行的逻辑必然及路径选择",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zwjl201941037",
+      "title": "思政课程与课程思政的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cjck201928121",
+      "title": "非思政专业教师课程思政教育能力提升途径",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sxqn201922043",
+      "title": "'平‘语’近人'进高校英语课堂,提升高职生人才培养路径探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbhsdxxb201917039",
+      "title": "新时代高校'思政课程'与'课程思政'的协同育人机制研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jyj201935059",
+      "title": "大学英语'课程思政'的探索与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt201928013",
+      "title": "《大学英语》课堂成为高校思政教育阵地的可行性研究",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "xxdjysxjy201908010",
+      "title": "政法类院校公共英语课'课程思政'教学改革探索",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "nmgsfdxxb-jykx201907018",
+      "title": "'中国风'对英语学习和教学的立体式融入",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "hwyy-z201908009",
+      "title": "英美人本主义文化在课程思政建设中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyy201909152",
+      "title": "把思政教育融入大学英语课堂教学中的策略研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "wjzl201933091",
+      "title": "大学英语课程思政的几点思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjdkdz-xx201911185",
+      "title": "英语专业课与'课程思政'的融入",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjxk202003061",
+      "title": "基于立德树人教育根本任务的'思政课程'与'课程思政'教育改革研究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "caiz201936062",
+      "title": "课程思政课程同行教师评价表设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfjtdxxb-shkx201904005",
+      "title": "新中国成立70年来高校思政课课程建设的 发展历程及经验启示",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shdqn201911023",
+      "title": "试论'大思政'格局视域下的高校课程思政建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxdjysxjy201918017",
+      "title": "论新媒体背景下高校课程思政教学改革",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sxqn202002024",
+      "title": "高校课程思政体系建设研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxzzjyyj201905019",
+      "title": "'课程思政'建设的几个关键问题",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdxjx201910011",
+      "title": "最优化理论视角下大学英语课程思政的教学实现",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "gjxk201923053",
+      "title": "高校课程思政建设的关键点位思考",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxjx200803018",
+      "title": "'质量守恒定律'的教学设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kszk201955168",
+      "title": "基于学科核心素养的创新教学研究——以沪教版《质量守恒定律》为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxsslh-gzb201302014",
+      "title": "《化学反应与能量》学习要点透析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjcy201908130",
+      "title": "课程思政背景下思政教育融入高职人文素质课程的对策研究",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201932188",
+      "title": "建立课程思政与思政课程同向同行育人机制的课程改革探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjcy201908142",
+      "title": "绍兴地方名人文化融入课程思政关联互动研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "caiz202002012",
+      "title": "大学英语课程思政推进途径探析",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sdbg201918088",
+      "title": "高校'思政课程'向'课程思政'转化的路径探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaijj201921007",
+      "title": "泛在学习环境下大学英语的思政融入路径探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyy-z201211011",
+      "title": "大学英语课堂的思政教育渗透",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnjy-gxb201912019",
+      "title": "新时代高校“课程思政”教育的改革创新",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zjwlxyxb201904010",
+      "title": "英语教学中的中国话语嵌入研究 ——以'八个明确'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xawgyxyxb201904014",
+      "title": "博雅教育与高校英语教师人文素养研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cjck201928123",
+      "title": "从立德树人和课程思政谈思政课程改革和创新",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxkjsfxyxb201901019",
+      "title": "国际德育研究对高职外语专业'课程思政'的启示",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxjyx201810022",
+      "title": "基于'宏-微-符'教学理论的教学设计 ——以'化学反应中的能量变化'为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdyw-czb200901059",
+      "title": "传统女性意识与现代女性意识的冲突",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhyxtsgzz200605015",
+      "title": "深圳市、区事业单位性质医疗机构图书馆统计分析",
+      "download_times": 25,
+      "browse_times": 103
+    },
+    {
+      "id": "whkjdxxb201706005",
+      "title": "等离子喷焊Mo-Fe-Cr-B合金覆层的组织性能研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyts201907009",
+      "title": "高熵合金涂层的研究现状",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bmjs201906015",
+      "title": "熔覆电流对FeCoCrNiMn高熵合金涂层组织与性能的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fmyjclkxygc201905002",
+      "title": "等离子熔覆Fe-Cr-Nb-Si-Mo涂层的制备及摩擦学性能",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jdq201408016",
+      "title": "带电压频率正反馈的主动移频式孤岛检测方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czszxb201603015",
+      "title": "一种基于正反馈的有源频率偏移孤岛检测改进算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dianzixb2003z1044",
+      "title": "运用遗传算法综合稀疏阵列",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dbdxxb202002017",
+      "title": "FeCoNiCrMo高熵合金磨削机理及表面粗糙度",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkj201708018",
+      "title": "新型正反馈主动频率偏移法孤岛检测研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzzgc201908012",
+      "title": "基于AT89C51的智能公交刷卡系统改进设计与实现",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "rjggy200823033",
+      "title": "Q235钢等离子弧熔覆铁基合金涂层的组织分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkgyjs201922006",
+      "title": "高熵合金的制备方法及其应用进展",
+      "download_times": 4,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "医疗单位图书馆",
+    "研学旅游",
+    "it企业全渠道",
+    "基于运输规划",
+    "人工智能著作权权益保护",
+    "互联网企业全渠道",
+    "it行业渠道",
+    "互联网企业全渠道",
+    "统计年鉴",
+    "基于运输规划"
+  ]
+}

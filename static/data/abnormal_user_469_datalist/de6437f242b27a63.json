@@ -1,0 +1,1384 @@
+{
+  "下载": [
+    {
+      "id": "cbwzysc202003022",
+      "title": "船舶动力装置的维修费用控制问题研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf202018153",
+      "title": "论船舶机械针对性维修体制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gdzc202001036",
+      "title": "人为因素可靠性分析在船舶维修中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "rjgcs202011007",
+      "title": "船舶等级维修管理系统的设计与开发",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bkltdzzz2020031547",
+      "title": "船舶机械设备维修保养中的常见故障及排除方法探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjx201906010",
+      "title": "船用柴油机热能动力优化与节能改造分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jckxjs202006026",
+      "title": "船用中速柴油机燃油系统仿真研究",
+      "download_times": 7,
+      "browse_times": 10
+    },
+    {
+      "id": "jcdzgc202006036",
+      "title": "基于加窗和EEMD的船用柴油机拉缸故障诊断",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "rhymf201902018",
+      "title": "基于多体动力学的船用柴油机连杆轴承润滑分析",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj201901005",
+      "title": "船用低速柴油机喷孔方向对缸内燃烧影响的仿真研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "nrjgc201905013",
+      "title": "船用低速柴油机缸压闭环控制硬件在环仿真技术研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "nrjpj201911071",
+      "title": "船用柴油机的拉缸故障",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201103014",
+      "title": "高弹性联轴器冲击特性试验研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "whzc200905021",
+      "title": "刚/柔混合建模的动力机械隔振系统特性分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyjsjyzz201802003",
+      "title": "某船用低速柴油机曲柄销轴承弹性流体动力润滑分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjcyj200604009",
+      "title": "某柴油机基座结构抗冲击计算",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cblx201708011",
+      "title": "齿轮箱弹性隔振时的推进装置模态分析研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "hebgcdxxb200205009",
+      "title": "主动式液压伺服隔振系统的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zghh201501004",
+      "title": "基于有限元的机组隔振系统特性分析和优化",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz200906031",
+      "title": "船舶传动系统结构振动控制技术研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201108027",
+      "title": "船用柴油发电机组非线性隔振系统动态特性分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jckxjs201903024",
+      "title": "船舶柴油机主动隔振监控系统设计",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "cyj201903013",
+      "title": "20 RK270型柴油机隔振器的选型及验证",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj202001009",
+      "title": "柴油机喷油器结构参数与磨料流加工效果关联的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201504012",
+      "title": "基于频响函数综合法的柴电机组隔振平台建模仿真",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201202008",
+      "title": "橡胶隔振器的静动态特性影响因素试验研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz201602040",
+      "title": "多通道主动隔振中的通道窜扰抑制算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jscb201206009",
+      "title": "主机隔振及其安装技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjgc201103016",
+      "title": "弹性支撑下柴油机的冲击响应分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201807023",
+      "title": "船用柴油机超低负荷运行及策略分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201824086",
+      "title": "船用柴油机废气再循环技术研究现状概述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb201901002",
+      "title": "进气门晚关米勒循环对高强化柴油机燃烧和换气影响的研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "cyj201605007",
+      "title": "某柴油机发电机组隔振系统设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "jscb201402007",
+      "title": "船舶柴油机主推进系统的隔振设计与性能分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj202001006",
+      "title": "某柴油机滤清器支架的仿真计算及结构优化",
+      "download_times": 14,
+      "browse_times": 16
+    },
+    {
+      "id": "nrjxb200403010",
+      "title": "船载柴油机浮筏隔振系统的主动控制策略研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201806012",
+      "title": "船舶推进电机隔振技术研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hhjs200403021",
+      "title": "船用柴油机的噪声控制技术",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj200802010",
+      "title": "船舶橡胶隔振器失效评估方法研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "syjsygl201712020",
+      "title": "船舶辅机双层隔振教学系统开发设计",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "whzc200204004",
+      "title": "用钢丝绳隔振器进行船舶主机隔振",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201606009",
+      "title": "小型民用船舶柴油发电机组箱装体设计技术及应用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zsyzdkz201706014",
+      "title": "刚柔混合法在双层隔振系统隔振效果预测中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201203010",
+      "title": "船用柴油发电机组悬置隔振特性及隔振器选型分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "chuandjs201603010",
+      "title": "船用柴油机隔振气囊压力自动监测系统设计",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201903056",
+      "title": "喷油器流量对非道路用小型柴油机燃烧和排放影响",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "cyj202003005",
+      "title": "某船用柴油机排气波纹管故障分析与改进",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "jckxjs202004029",
+      "title": "船用大缸径柴油机燃烧系统的仿真研究与工程化应用",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "cyjsjyzz201901002",
+      "title": "我国船用柴油机发展趋势探析",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "cyj201902008",
+      "title": "船用中速柴油机嵌入式机旁监控系统研制",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "jmdxxb-zr201901007",
+      "title": "喷油压力对电控船用中速柴油机性能的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202005010",
+      "title": "船用柴油机振动噪声性能标准分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj202004006",
+      "title": "低速船用柴油机主轴承弹流润滑性能分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "whzc201903033",
+      "title": "船用中速柴油机高压共轨系统的现状与发展趋势",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "whjtkjdxxb201906014",
+      "title": "船用中速柴油机高压共轨燃油系统特性分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zbzzjs201802040",
+      "title": "船用柴油机技术状态评估指标体系研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz201303034",
+      "title": "船舶齿轮箱硬弹性隔振技术研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcytzygkj201907182",
+      "title": "船舶动力系统隔振装置的安装和调试",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzc200302005",
+      "title": "钢丝绳隔振器用于船舶主机隔振",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hdcbgyxy200701014",
+      "title": "柴油机偏移对浮筏隔振系统抗冲击性能的影响分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201905005",
+      "title": "船用低速二冲程柴油机机电复合增压技术影响机制研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjxb201904008",
+      "title": "船用柴油机涡轮增压器的进气消声器性能分析",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "spyzl202027221",
+      "title": "船用柴油机主轴承盖铸件的质量控制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gzhhgdzkxxxb202003008",
+      "title": "船用柴油机STC系统最佳切换点的仿真研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsy-xby202001040",
+      "title": "船用柴油机燃烧过程数值模拟",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx201906149",
+      "title": "船舶柴油机的节能减排技术运用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "sdnrj202005004",
+      "title": "船用中速柴油机气门热负荷降低研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201910228",
+      "title": "船用柴油机状态监测及报警系统研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hebgcdxxb201904018",
+      "title": "船用柴油机增压器压气机高效工况气动噪声预测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201902002",
+      "title": "基于试验缸压曲线的船用柴油机燃烧噪声分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "jxgr-rjg202009009",
+      "title": "船用柴油机焊接部件更换焊材的理解和体会",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl202011116",
+      "title": "船舶防污染现状及治理措施 ——以船用柴油机防污减排措施为例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202002008",
+      "title": "柴油发电机组隔振器安装调整分析",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "zsyzdkz200901029",
+      "title": "橡胶隔振器设计开发研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201506010",
+      "title": "聚氨酯与橡胶隔振器性能对比分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "rhymf201902018",
+      "title": "基于多体动力学的船用柴油机连杆轴承润滑分析",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "jscb201502007",
+      "title": "新型主机组隔振系统的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201506009",
+      "title": "船舶发动机隔振系统的隔振参数优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gkkjdt202004007",
+      "title": "船用低速柴油机废气排放控制技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202001005",
+      "title": "16RK270型柴油机Tier Ⅱ排放水平下的功率提升",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201823117",
+      "title": "船用柴油机尾气处理技术比较",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jscb201402007",
+      "title": "船舶柴油机主推进系统的隔振设计与性能分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj201506009",
+      "title": "船舶发动机隔振系统的隔振参数优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201605007",
+      "title": "某柴油机发电机组隔振系统设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsy-xby202008025",
+      "title": "基于SCR技术提升船用柴油机技术及应用控制措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cbwzysc201910028",
+      "title": "船用柴油机常见故障分析与排除",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjgc201901011",
+      "title": "船用中速柴油机缸压闭环控制技术仿真研究",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "nrj202005014",
+      "title": "基于支持向量机的船用低速柴油机换气系统的故障诊断",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgscwz202005008",
+      "title": "渔船用柴油机履行新排放标准的问题探讨",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201922012",
+      "title": "船用柴油机冷却水温度控制研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zdycj200908018",
+      "title": "船用柴油机运动机构动力学动态分析方法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "sdnrj201205009",
+      "title": "挖泥船16V240ZC型机组隔振器安装设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201604001",
+      "title": "船用柴油发电机组隔振系统建模及模型验证方法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2015210589",
+      "title": "船舶主机隔振方法及发展现状",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202001012",
+      "title": "PA6B柴油机进排气阀断裂原因分析",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "nrjpj202005022",
+      "title": "某船用柴油机机组拉缸故障原因分析及解决方案",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "cyj202001013",
+      "title": "某型大功率柴油机缸套异常磨损分析",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj202002010",
+      "title": "YC12 VC型高速柴油机发火顺序的分析研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjcyj2019z1008",
+      "title": "船用二冲程柴油机的性能故障模拟及分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201901001",
+      "title": "船用柴油机应用柴油/甲醇二元燃料的性能特性研究",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "shenydxxb201903012",
+      "title": "喷雾锥角对船用低速柴油机性能影响仿真研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjcyj201905011",
+      "title": "某船用柴油机排气管路流动分析及均匀性评估",
+      "download_times": 10,
+      "browse_times": 10
+    },
+    {
+      "id": "gjjs201908016",
+      "title": "船用柴油机缸盖喷油器孔的高效加工",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "hebgcdxxb202001020",
+      "title": "喷油角度对低速二冲程船用柴油机燃烧的影响",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "nrjpj201907027",
+      "title": "浅析船用柴油机排放后处理技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjxb200101022",
+      "title": "基于x-RLMS算法的自适应有 源隔振技术研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jscb201502007",
+      "title": "新型主机组隔振系统的应用",
+      "download_times": 2,
+      "browse_times": 2
+    }
+  ],
+  "浏览": [
+    {
+      "id": "cbwzysc202003022",
+      "title": "船舶动力装置的维修费用控制问题研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "bkltdzzz2020031547",
+      "title": "船舶机械设备维修保养中的常见故障及排除方法探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjf202018153",
+      "title": "论船舶机械针对性维修体制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gdzc202001036",
+      "title": "人为因素可靠性分析在船舶维修中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "rjgcs202011007",
+      "title": "船舶等级维修管理系统的设计与开发",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz200901029",
+      "title": "橡胶隔振器设计开发研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jscb201206009",
+      "title": "主机隔振及其安装技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cblx201708011",
+      "title": "齿轮箱弹性隔振时的推进装置模态分析研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "nrjxb200101022",
+      "title": "基于x-RLMS算法的自适应有 源隔振技术研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201506010",
+      "title": "聚氨酯与橡胶隔振器性能对比分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "hebgcdxxb200205009",
+      "title": "主动式液压伺服隔振系统的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201504012",
+      "title": "基于频响函数综合法的柴电机组隔振平台建模仿真",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202002008",
+      "title": "柴油发电机组隔振器安装调整分析",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "zsyzdkz201602040",
+      "title": "多通道主动隔振中的通道窜扰抑制算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj202001006",
+      "title": "某柴油机滤清器支架的仿真计算及结构优化",
+      "download_times": 14,
+      "browse_times": 16
+    },
+    {
+      "id": "nrjpj202005022",
+      "title": "某船用柴油机机组拉缸故障原因分析及解决方案",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "cyj202001013",
+      "title": "某型大功率柴油机缸套异常磨损分析",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj201103014",
+      "title": "高弹性联轴器冲击特性试验研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201108027",
+      "title": "船用柴油发电机组非线性隔振系统动态特性分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "cyj201606009",
+      "title": "小型民用船舶柴油发电机组箱装体设计技术及应用",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgcytzygkj201907182",
+      "title": "船舶动力系统隔振装置的安装和调试",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjxb200403010",
+      "title": "船载柴油机浮筏隔振系统的主动控制策略研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj200802010",
+      "title": "船舶橡胶隔振器失效评估方法研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201604001",
+      "title": "船用柴油发电机组隔振系统建模及模型验证方法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx201906149",
+      "title": "船舶柴油机的节能减排技术运用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjcyj2019z1008",
+      "title": "船用二冲程柴油机的性能故障模拟及分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjgc201901011",
+      "title": "船用中速柴油机缸压闭环控制技术仿真研究",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "zgsy-xby202001040",
+      "title": "船用柴油机燃烧过程数值模拟",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyjsjyzz201901002",
+      "title": "我国船用柴油机发展趋势探析",
+      "download_times": 4,
+      "browse_times": 7
+    },
+    {
+      "id": "jckxjs202006026",
+      "title": "船用中速柴油机燃油系统仿真研究",
+      "download_times": 7,
+      "browse_times": 10
+    },
+    {
+      "id": "tjjs202011018",
+      "title": "船用柴油机多孔喷嘴的喷雾不一致性及其对发动机性能影响的分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nfnj201922012",
+      "title": "船用柴油机冷却水温度控制研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "shenydxxb201903012",
+      "title": "喷雾锥角对船用低速柴油机性能影响仿真研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201902002",
+      "title": "基于试验缸压曲线的船用柴油机燃烧噪声分析",
+      "download_times": 7,
+      "browse_times": 4
+    },
+    {
+      "id": "cyj202001009",
+      "title": "柴油机喷油器结构参数与磨料流加工效果关联的研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "bgxb201901002",
+      "title": "进气门晚关米勒循环对高强化柴油机燃烧和换气影响的研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "QK199800787422",
+      "title": "中低速船用主机的隔振问题",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jscb201402007",
+      "title": "船舶柴油机主推进系统的隔振设计与性能分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "cbgc201908015",
+      "title": "柴油机周期双层隔振系统振动特性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "rhymf201902018",
+      "title": "基于多体动力学的船用柴油机连杆轴承润滑分析",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "cyj201605007",
+      "title": "某柴油机发电机组隔振系统设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "cyj202002010",
+      "title": "YC12 VC型高速柴油机发火顺序的分析研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "sdnrj201205009",
+      "title": "挖泥船16V240ZC型机组隔振器安装设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz201706014",
+      "title": "刚柔混合法在双层隔振系统隔振效果预测中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201806012",
+      "title": "船舶推进电机隔振技术研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "chuandjs201603010",
+      "title": "船用柴油机隔振气囊压力自动监测系统设计",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201203010",
+      "title": "船用柴油发电机组悬置隔振特性及隔振器选型分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "syjsygl201712020",
+      "title": "船舶辅机双层隔振教学系统开发设计",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201506009",
+      "title": "船舶发动机隔振系统的隔振参数优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzc200302005",
+      "title": "钢丝绳隔振器用于船舶主机隔振",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsj201611003",
+      "title": "柴油机双层隔振设计参数问题",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201605007",
+      "title": "某柴油机发电机组隔振系统设计",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "whzc201903033",
+      "title": "船用中速柴油机高压共轨系统的现状与发展趋势",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201901005",
+      "title": "船用低速柴油机喷孔方向对缸内燃烧影响的仿真研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgscwz202005008",
+      "title": "渔船用柴油机履行新排放标准的问题探讨",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjcyj201905011",
+      "title": "某船用柴油机排气管路流动分析及均匀性评估",
+      "download_times": 10,
+      "browse_times": 10
+    },
+    {
+      "id": "jmdxxb-zr201901007",
+      "title": "喷油压力对电控船用中速柴油机性能的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201910228",
+      "title": "船用柴油机状态监测及报警系统研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "rhymf201902018",
+      "title": "基于多体动力学的船用柴油机连杆轴承润滑分析",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "gzhhgdzkxxxb202003008",
+      "title": "船用柴油机STC系统最佳切换点的仿真研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hdcbgyxy200701014",
+      "title": "柴油机偏移对浮筏隔振系统抗冲击性能的影响分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "csjsllyj2015210589",
+      "title": "船舶主机隔振方法及发展现状",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201903013",
+      "title": "20 RK270型柴油机隔振器的选型及验证",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "hhjs200403021",
+      "title": "船用柴油机的噪声控制技术",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj201202008",
+      "title": "橡胶隔振器的静动态特性影响因素试验研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jxsjyzz201903056",
+      "title": "喷油器流量对非道路用小型柴油机燃烧和排放影响",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hebgcdxxb201903006",
+      "title": "船用柴油机燃用生物柴油排放与消烟机理",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "nrj202005014",
+      "title": "基于支持向量机的船用低速柴油机换气系统的故障诊断",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hebgcdxxb201904018",
+      "title": "船用柴油机增压器压气机高效工况气动噪声预测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201902008",
+      "title": "船用中速柴油机嵌入式机旁监控系统研制",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "zgjx201906010",
+      "title": "船用柴油机热能动力优化与节能改造分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgr-rjg202009009",
+      "title": "船用柴油机焊接部件更换焊材的理解和体会",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jckxjs202004029",
+      "title": "船用大缸径柴油机燃烧系统的仿真研究与工程化应用",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "hebgcdxxb202001020",
+      "title": "喷油角度对低速二冲程船用柴油机燃烧的影响",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "jscb201402007",
+      "title": "船舶柴油机主推进系统的隔振设计与性能分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "nrjpj202003019",
+      "title": "某六缸柴油机连杆疲劳强度分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202005010",
+      "title": "船用柴油机振动噪声性能标准分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjcyj200604009",
+      "title": "某柴油机基座结构抗冲击计算",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "whzc200905021",
+      "title": "刚/柔混合建模的动力机械隔振系统特性分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj201506009",
+      "title": "船舶发动机隔振系统的隔振参数优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jscb201502007",
+      "title": "新型主机组隔振系统的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj202001005",
+      "title": "16RK270型柴油机Tier Ⅱ排放水平下的功率提升",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gjjs201908016",
+      "title": "船用柴油机缸盖喷油器孔的高效加工",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201911071",
+      "title": "船用柴油机的拉缸故障",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "cyj202004006",
+      "title": "低速船用柴油机主轴承弹流润滑性能分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "cyj201901001",
+      "title": "船用柴油机应用柴油/甲醇二元燃料的性能特性研究",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "jckxjs201903024",
+      "title": "船舶柴油机主动隔振监控系统设计",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "whzc200204004",
+      "title": "用钢丝绳隔振器进行船舶主机隔振",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz201303034",
+      "title": "船舶齿轮箱硬弹性隔振技术研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zdycj200908018",
+      "title": "船用柴油机运动机构动力学动态分析方法研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zbzzjs201802040",
+      "title": "船用柴油机技术状态评估指标体系研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "QK199900232260",
+      "title": "隔振降噪技术的实船应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jcdzgc202006036",
+      "title": "基于加窗和EEMD的船用柴油机拉缸故障诊断",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "fjzlgl202011116",
+      "title": "船舶防污染现状及治理措施 ——以船用柴油机防污减排措施为例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsy-xby202008025",
+      "title": "基于SCR技术提升船用柴油机技术及应用控制措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "cbwzysc201910028",
+      "title": "船用柴油机常见故障分析与排除",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "sdnrj202005004",
+      "title": "船用中速柴油机气门热负荷降低研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjxb201904008",
+      "title": "船用柴油机涡轮增压器的进气消声器性能分析",
+      "download_times": 5,
+      "browse_times": 7
+    },
+    {
+      "id": "nrjgc201905013",
+      "title": "船用低速柴油机缸压闭环控制硬件在环仿真技术研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "nrjpj201907027",
+      "title": "浅析船用柴油机排放后处理技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spyzl202027221",
+      "title": "船用柴油机主轴承盖铸件的质量控制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "whjtkjdxxb201906014",
+      "title": "船用中速柴油机高压共轨燃油系统特性分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "cyj201905005",
+      "title": "船用低速二冲程柴油机机电复合增压技术影响机制研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jscb201502007",
+      "title": "新型主机组隔振系统的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nrjpj201824086",
+      "title": "船用柴油机废气再循环技术研究现状概述",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjpj201823117",
+      "title": "船用柴油机尾气处理技术比较",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zghh201501004",
+      "title": "基于有限元的机组隔振系统特性分析和优化",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nrjgc201103016",
+      "title": "弹性支撑下柴油机的冲击响应分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202003005",
+      "title": "某船用柴油机排气波纹管故障分析与改进",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "nrjpj201807023",
+      "title": "船用柴油机超低负荷运行及策略分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zsyzdkz200906031",
+      "title": "船舶传动系统结构振动控制技术研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gkkjdt202004007",
+      "title": "船用低速柴油机废气排放控制技术",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "cyj202001012",
+      "title": "PA6B柴油机进排气阀断裂原因分析",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "cyjsjyzz201802003",
+      "title": "某船用低速柴油机曲柄销轴承弹性流体动力润滑分析",
+      "download_times": 1,
+      "browse_times": 1
+    }
+  ],
+  "检索": [
+    "船舶维修",
+    "船用柴油机隔振",
+    "船用柴油机隔振",
+    "柴油机",
+    "船用柴油机",
+    "柴油机",
+    "船用柴油机",
+    "船用柴油机隔振",
+    "船用柴油机隔振",
+    "船用柴油机隔振",
+    "关键词:浮筏",
+    "作者:'郭旭'",
+    "船用柴油机",
+    "船用柴油机",
+    "船用柴油机隔振",
+    "关键词:柴油机",
+    "船用柴油机",
+    "船用柴油机",
+    "关键词:柴油机",
+    "关键词:柴油机隔振"
+  ]
+}

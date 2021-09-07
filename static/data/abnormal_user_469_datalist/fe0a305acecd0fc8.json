@@ -1,0 +1,4057 @@
+{
+  "下载": [
+    {
+      "id": "nmghjbh202008106",
+      "title": "土壤检测质量控制的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fxhx201906015",
+      "title": "大气气溶胶硝酸盐中稳定氮氧同位素比值测定",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "swxjx202001021",
+      "title": "数码成像比色在'检测泡菜中亚硝酸盐含量'实验中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs201811008",
+      "title": "速测盒法快速测定肉及肉制品中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lhjy-hx201608008",
+      "title": "膜透析处理样品-离子色谱法测定奶粉中亚硝酸盐和硝酸盐",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spyjykf201609042",
+      "title": "分光光度法测定水中亚硝酸盐含量的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl202004008",
+      "title": "离子色谱法测定固体废弃物中氨氮、亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyyyypjyfx201903023",
+      "title": "络合滴定法测定复方钾钙镁溶液中氯化钙含量的方法学验证与不确定度分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "ynyj202002019",
+      "title": "ICP-AES法测定硫酸钯中的二十二个杂质元素",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "spyjykf201720036",
+      "title": "分光光度法测定肉制品中亚硝酸盐的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201812012",
+      "title": "EDTA滴定法测定萤石中氟化钙",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zghjjc200301025",
+      "title": "每毫升含1.00μg亚硝酸盐氮标准溶液的稳定性实验",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201806010",
+      "title": "离子色谱法快速测定土壤中的亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyscl201811021",
+      "title": "曙红Y-藏红T能量转移荧光猝灭法测定亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201904023",
+      "title": "高含量碳酸钙基体中氟化钙的准确测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs202004046",
+      "title": "劲骨胶囊功效成分鉴别及其盐酸氨基葡萄糖含量测定",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgtwp202002033",
+      "title": "离子色谱法测定香肠中的亚硝酸盐和硝酸盐",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008007",
+      "title": "桑椹红色素微丸的制备工艺研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201907021",
+      "title": "肉汤味型酵母抽提物在鸡精和素食鸡精中的应用研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201906016",
+      "title": "微波消解-原子吸收光谱法测香菇中的微量元素",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201907017",
+      "title": "卡拉胶与亚麻籽胶复配在枸杞果冻中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201906013",
+      "title": "焦香型灵武长枣清汁饮料的研制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201907003",
+      "title": "4种药用植物5α-还原酶抑制活性及抗氧化活性分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001008",
+      "title": "2,5-二甲基-3-乙酰硫基四氢呋喃立体异构体制备及香气特征",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202001003",
+      "title": "褐变黑枸杞对紫外照射损伤果蝇寿命及抗氧化能力的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201908005",
+      "title": "茶树油中松油烯-4-醇的测定方法研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201912020",
+      "title": "蓝莓果实色度值与化学成分含量的相关性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008004",
+      "title": "湿法净化磷酸在食品行业中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsjtx202001083",
+      "title": "汞单元素标准物质的比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx202009101",
+      "title": "环境监测中地表水检测存在的问题与对策",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ykcs201901008",
+      "title": "应用改进DDARP方法纯化天然水体样品中硫酸钡固体的效果评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdfzjs201805015",
+      "title": "甲酸/氯化锌储存时间对纤维定量准确性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003021",
+      "title": "抗性糊精制备方法、功能特性及在食品中应用研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202004007",
+      "title": "壳聚糖/蒙脱土复合糖用澄清剂的制备工艺及优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnny202011006",
+      "title": "不同氮肥对番茄NO3--N和NH4+-N含量的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyj202007066",
+      "title": "产品质量监管下食用菌的食用安全性分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hqrwdl201710087",
+      "title": "水质中铅的检测方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgwjfxhxwz202004007",
+      "title": "黄芪口服液中8种重金属元素含量的测定",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxmsy202006029",
+      "title": "甘肃某地区奶牛运动场环境中耐药菌流行情况及相关耐药基因检测",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hxfxjl201703035",
+      "title": "国标法测定地表水中阴离子表面活性剂方法优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyy202011018",
+      "title": "葡萄糖酸锌口服溶液中5-羟甲基糠醛限量检查",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ynhg202006031",
+      "title": "对微波消解法在水质重金属检测应用中准确性的分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zyjyyhb202008044",
+      "title": "环境检测实验室危险废物的产生及处理分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zghjkx201602044",
+      "title": "海水中金属铅水质基准定值研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hgsjtx202009101",
+      "title": "环境监测中地表水检测存在的问题与对策",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sp202007012",
+      "title": "固相萃取-超高效液相色谱-串联质谱法检测环境水体中18种农药残留",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zgsptjj202003016",
+      "title": "采收月份对肉桂叶出油率及挥发油品质的影响研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002023",
+      "title": "青稞β-葡聚糖的研究现状与展望",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "fxhx201906015",
+      "title": "大气气溶胶硝酸盐中稳定氮氧同位素比值测定",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zyjyyhb201607040",
+      "title": "硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lhjy-hx201506029",
+      "title": "乙二胺合钴溶液中亚硝酸盐和硝酸盐氮的测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008001",
+      "title": "咪唑类离子液体提取沙棘叶总黄酮的研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyy202007036",
+      "title": "维磷葡钙片质量标准提升研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnsfdx202001009",
+      "title": "不同提取剂提取土壤中重金属能力的对比研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "nmghjbh202008106",
+      "title": "土壤检测质量控制的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs202012045",
+      "title": "土壤有机项目检测过程的质量控制研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hqrwdl201710087",
+      "title": "水质中铅的检测方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "spaqzljcjs202016029",
+      "title": "动物性食品中雌激素检测方法研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "swjggc202004003",
+      "title": "食品中环境激素的检测方法研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nmghjbh202008095",
+      "title": "废水水质检测误差分析及数据处理",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "nmghjbh202007103",
+      "title": "水质检测对人类生活的重要性",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xbpg202012127",
+      "title": "常规水质检测方法研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zyjyyhb202008041",
+      "title": "农村环境保护与环境检测技术的结合",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "spyjykf202016036",
+      "title": "计算机视觉技术在食品品质检测中的应用",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "spaqzljcjs202016050",
+      "title": "食品中甜蜜素检测方法的研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc202014100",
+      "title": "环境检测中地表水监测的现状与进展探讨",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "hgsjtx202010086",
+      "title": "水环境中生物毒性污染物检测技术的运用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgkjxx202017026",
+      "title": "环境检测技术主要问题及改进措施",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qjsfxyxb202003011",
+      "title": "纳米ZnO修饰电极检测食品中的亚硝酸盐",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "ykcs201901008",
+      "title": "应用改进DDARP方法纯化天然水体样品中硫酸钡固体的效果评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jldxzrkxxb202003042",
+      "title": "超声萃取-高效液相色谱分析法测定土壤中2-氯-6-(三氯甲基)吡啶",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zyjyyhb201607040",
+      "title": "硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyzhly202008007",
+      "title": "土壤中速效钾及交换性钙镁同时测定的方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hnny202011006",
+      "title": "不同氮肥对番茄NO3--N和NH4+-N含量的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zyjyyhb201908059",
+      "title": "离子色谱法测定水中亚硝酸盐的不确定度评定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201903014",
+      "title": "沉淀分离-铅试金富集-氯化钠电位滴定法测定贵铋中银",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201906019",
+      "title": "气相分子吸收光谱法快速测定土壤中亚硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "yjfx201708011",
+      "title": "电位滴定法测定含钙合金中氧化钙",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-hx201506029",
+      "title": "乙二胺合钴溶液中亚硝酸盐和硝酸盐氮的测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjyfyx201903026",
+      "title": "一种同时测定净水机滤芯中氟化物、硝酸盐和磷酸盐的离子色谱方法研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "nyhjbh202006006",
+      "title": "腐植酸调节砷酸盐生菜毒性作用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zyjyyhb201908059",
+      "title": "离子色谱法测定水中亚硝酸盐的不确定度评定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyaqyfc201011007",
+      "title": "亚硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005006",
+      "title": "旋覆花挥发油成分的GC-MS分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005008",
+      "title": "辣椒红胶质色素处理工艺研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201912016",
+      "title": "抗坏血酸对火龙果红色素稳定性的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201911025",
+      "title": "辛烯基琥珀酸淀粉钠的合成及结构表征研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201908023",
+      "title": "黄酮类化合物抑菌作用研究进展",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005024",
+      "title": "乳链球菌素最小抑菌浓度(MIC)测定及理化性质分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002010",
+      "title": "离子交换树脂对肉苁蓉总寡糖脱盐脱色工艺研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002017",
+      "title": "响应面法优化芒果叶多酚的浸提工艺",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hxjx201412027",
+      "title": "探析浓硫酸分别与饱和氯化钠和饱和硫酸铜溶液的作用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsl202005015",
+      "title": "全自动烷基汞分析仪测定饲料中的甲基汞和乙基汞",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "gyscl201811021",
+      "title": "曙红Y-藏红T能量转移荧光猝灭法测定亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjsy202013003",
+      "title": "电感耦合等离子体发射光谱法在水质重金属检测中的探究 ——以水中铅、镉检测为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwjfxhxwz202003004",
+      "title": "DMA-80直接测汞仪测定肥料样品中总汞含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nyzhyj202003069",
+      "title": "环境水质重金属检测技术探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsl202005015",
+      "title": "全自动烷基汞分析仪测定饲料中的甲基汞和乙基汞",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hggl201814090",
+      "title": "ICP-MS法和AAS法测定水质中铅、镉的比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fxhx201702001",
+      "title": "海水中硝酸盐的无阀连续流动分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zghjjc201803017",
+      "title": "重氮偶联法测定水中亚硝酸盐氮的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjtb201611046",
+      "title": "基于光电传感δ15N的潍坊地下水硝酸盐污染检测",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fxhx201702001",
+      "title": "海水中硝酸盐的无阀连续流动分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spyjj201701013",
+      "title": "顶空-气相色谱法测定食品中亚硝酸盐",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-hx201712012",
+      "title": "离子色谱法测定肉制品中5种食品添加剂",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs202015051",
+      "title": "气相分子吸收光谱法测定酱腌菜中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gpxygpfx201902046",
+      "title": "基于顺序注射分析的海水亚硝酸盐快速检测方法研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hxgcs201907010",
+      "title": "盐酸萘乙二胺光度法测定格尔木市熟肉制品中NO2-含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs201820007",
+      "title": "液相色谱-串联质谱法测定火腿肠和咸菜中亚硝酸盐含量",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xdfzjs201805015",
+      "title": "甲酸/氯化锌储存时间对纤维定量准确性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201911009",
+      "title": "亚硫酸铵法焦糖色的流变性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201912005",
+      "title": "正交实验法优化菊粉外切酶水解菊粉的工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201908021",
+      "title": "RP-HPLC法同时测定车前子中4种主要成分的含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201912018",
+      "title": "食品微凝胶的制备、表征与应用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hxfxjl201703035",
+      "title": "国标法测定地表水中阴离子表面活性剂方法优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gzty201702011",
+      "title": "紫外分光光度法测定食糖中的硝酸盐含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hjjcglyjs200301019",
+      "title": "每毫升含1.00μg亚硝酸盐氮标准溶液的稳定性",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gyaqyfc201011007",
+      "title": "亚硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jljs201409012",
+      "title": "钾、钠、钙、镁基体的镉标准溶液研制",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hyjs2000z1117",
+      "title": "美试验用头发吸除水面漏油/'硝酸盐——氮等四项系列溶液成分分析标准物质'被批准为国家一级标准物质/我国免费接收美国SeaWiFS资料成功/中国海洋功能区划成果获专家好评",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201607021",
+      "title": "抑制电导离子色谱法测定蔬菜中硝酸盐的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs202012045",
+      "title": "土壤有机项目检测过程的质量控制研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ykcs201602002",
+      "title": "用于多接收器等离子体质谱测定的铁铜锌同位素标准溶液研制",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "kjtb201611046",
+      "title": "基于光电传感δ15N的潍坊地下水硝酸盐污染检测",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201908008",
+      "title": "超声辅助法提取平榛榛仁多酚的工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202001021",
+      "title": "竹笋膳食纤维的改性研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002019",
+      "title": "气相色谱法快速测定大米中甲基嘧啶磷残留量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lhjy-hx202008001",
+      "title": "双席夫碱铜配合物修饰玻碳电极用于碳酸饮料中苯甲酸的测定",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjs2019z1004",
+      "title": "水质生物综合毒性仪检测水体重金属",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nmzfzy202024220",
+      "title": "如何在环境监测全过程质量管理中提升检测水平",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx202008146",
+      "title": "环境监测中化学需氧量的检测过程及展望",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgcjsysj201836312",
+      "title": "水质及食品中铅含量检测技术进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdhg202013073",
+      "title": "探究水质环境微生物检测的质量控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001011",
+      "title": "干青豆复合生物保鲜剂保鲜效果研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003012",
+      "title": "南湖菱护色工艺研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202003001",
+      "title": "华北车前提取物的抑菌活性及其稳定性研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004008",
+      "title": "超声辅助提取庆阳黄花菜中多糖的动力学研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202003013",
+      "title": "一种崂山红茶冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202004012",
+      "title": "酶辅助超声提取阿尔泰金莲花总黄酮工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202002002",
+      "title": "浑浊红球菌PD630对黄曲霉毒素B1的生物降解特性研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj201911024",
+      "title": "高效测定淀粉制品中铝含量的分光光度法",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201911015",
+      "title": "β-木糖苷酶型非淀粉多糖酶对小麦的体外酶解及消化研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008017",
+      "title": "天然植物果胶的提取及其在食品工业中的应用现状",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005007",
+      "title": "褐变黑枸杞抗氧化作用的研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "nyhjbh202006006",
+      "title": "腐植酸调节砷酸盐生菜毒性作用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "swxjx202001021",
+      "title": "数码成像比色在'检测泡菜中亚硝酸盐含量'实验中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsjtx202008146",
+      "title": "环境监测中化学需氧量的检测过程及展望",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgtwp202002033",
+      "title": "离子色谱法测定香肠中的亚硝酸盐和硝酸盐",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zyjyyhb202008044",
+      "title": "环境检测实验室危险废物的产生及处理分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "yjfx201903014",
+      "title": "沉淀分离-铅试金富集-氯化钠电位滴定法测定贵铋中银",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201812012",
+      "title": "EDTA滴定法测定萤石中氟化钙",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zjsy202013003",
+      "title": "电感耦合等离子体发射光谱法在水质重金属检测中的探究 ——以水中铅、镉检测为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdhg202013073",
+      "title": "探究水质环境微生物检测的质量控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spgykj202016057",
+      "title": "微生物挥发性有机物检测及在食品安全监测中的应用",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "jsjs202005004",
+      "title": "两项石油类水质检测标准的解读",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "kjf202022101",
+      "title": "浅谈环境检测作用和环境保护措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jcfzdx202008118",
+      "title": "针对环境保护工程中的环境检测研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsl202016019",
+      "title": "饲料和食品中三聚氰胺毒性与其残留的检测探讨",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zghjjc202003014",
+      "title": "流式细胞术在水质检测领域的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gpxygpfx202004026",
+      "title": "基于荧光发射光谱的水质化学需氧量的检测",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "sdspkj202004014",
+      "title": "食品中抗生素残留的预处理及检测方法研究进展",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hggl202023011",
+      "title": "我国环保水质检测准确可靠性探究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spgykj202018033",
+      "title": "高效液相色谱-串联质谱法同时检测非蛋白饮料中30种食品添加剂",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "sylzyhg202009023",
+      "title": "微流控芯片技术及其在水质检测中的应用进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "swjggc202004005",
+      "title": "食品快速检测产品认证和检测服务能力认可需求分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsptjj202001018",
+      "title": "高效液相色谱法测定白醋中苯甲酸含量的不确定度评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs202016060",
+      "title": "4种蛋白质沉淀剂测定乳粉中非蛋白氮含量的效果",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsjtx202001083",
+      "title": "汞单元素标准物质的比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfhj201909026",
+      "title": "基于石墨炉原子吸收法的水污染中铅含量测定方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs201820007",
+      "title": "液相色谱-串联质谱法测定火腿肠和咸菜中亚硝酸盐含量",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjs2019z1004",
+      "title": "水质生物综合毒性仪检测水体重金属",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hggl201814090",
+      "title": "ICP-MS法和AAS法测定水质中铅、镉的比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yjfx201708011",
+      "title": "电位滴定法测定含钙合金中氧化钙",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzyzhly202008007",
+      "title": "土壤中速效钾及交换性钙镁同时测定的方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jldxzrkxxb202003042",
+      "title": "超声萃取-高效液相色谱分析法测定土壤中2-氯-6-(三氯甲基)吡啶",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "znmzdxxb-rwshkxb202004013",
+      "title": "我国非物质文化遗产传承保护的标准体系构建",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgc202025039",
+      "title": "中国食品安全检测体系研究进展",
+      "download_times": 1,
+      "browse_times": 6
+    },
+    {
+      "id": "spaqzljcjs202016064",
+      "title": "食品检验检测使用浓缩仪的评价验收",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gpxygpfx201905029",
+      "title": "基于LLE-BPNN的小麦岛海水硝酸盐含量分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyy202007036",
+      "title": "维磷葡钙片质量标准提升研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sygydxxb201905008",
+      "title": "Na2SO4掺杂含MgO铝酸钙熟料矿相转变及稳定性能",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl202001019",
+      "title": "气相分子吸收光谱法测定地下水中亚硝酸盐氮、氨氮、硝酸盐氮",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gpxygpfx201909049",
+      "title": "浊度干扰下硝酸盐浓度紫外导数光谱检测方法研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "hnsfdx202001009",
+      "title": "不同提取剂提取土壤中重金属能力的对比研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006015",
+      "title": "5种天然植物提取物中4种多环芳烃的HPLC-FLR测定方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006008",
+      "title": "分光光度法测定桑黄中总三萜的不确定度评定",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202006006",
+      "title": "葡萄籽维生素E软胶囊中原花青素和维生素E的快速测定",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005025",
+      "title": "大米蛋白资源开发利用现状",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201906019",
+      "title": "气相分子吸收光谱法快速测定土壤中亚硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zghjjc201803017",
+      "title": "重氮偶联法测定水中亚硝酸盐氮的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201806010",
+      "title": "离子色谱法快速测定土壤中的亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs201811008",
+      "title": "速测盒法快速测定肉及肉制品中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gpxygpfx201909049",
+      "title": "浊度干扰下硝酸盐浓度紫外导数光谱检测方法研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201912010",
+      "title": "比较基因组分析Yarrowia lipolytica BBE-17的赤藓糖醇合成机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201908007",
+      "title": "响应面法优化乙醇/硫酸铵双水相体系萃取洋葱黄酮的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201911010",
+      "title": "硒化卡拉胶寡糖的制备及抗氧化活性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201907006",
+      "title": "酸杨桃汁抗氧化活性及稳定性研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zghjkx201602044",
+      "title": "海水中金属铅水质基准定值研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sp202007012",
+      "title": "固相萃取-超高效液相色谱-串联质谱法检测环境水体中18种农药残留",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "spaqzljcjs202015051",
+      "title": "气相分子吸收光谱法测定酱腌菜中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hxfxjl202004008",
+      "title": "离子色谱法测定固体废弃物中氨氮、亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ynyj202002019",
+      "title": "ICP-AES法测定硫酸钯中的二十二个杂质元素",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "bfhj201909026",
+      "title": "基于石墨炉原子吸收法的水污染中铅含量测定方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yysx202004009",
+      "title": "用于挥发性气体检测的声表面波器件的环境特性研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "spaqzljcjs202016005",
+      "title": "食品中沙门氏菌快速检测技术方法对比结果分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcsjs202008012",
+      "title": "三聚甲醛制备瓶装甲醛气体标准物质的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yqybyfxjc202003008",
+      "title": "基于电化学检测方法的水质检测系统分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "spaqzljcjs202016002",
+      "title": "广东省食品检验所食品检验检测研究专题",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hqsgkj202022064",
+      "title": "城乡中小河道水质检测实施",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "hxfxjl202004003",
+      "title": "甲醇中6种有机磷混合溶液标准物质研制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "spkx202018039",
+      "title": "大肠杆菌DNA定性标准物质的制备及在枸杞子污染检测中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj201836312",
+      "title": "水质及食品中铅含量检测技术进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyzhyj202003069",
+      "title": "环境水质重金属检测技术探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "spaqzljcjs202004046",
+      "title": "劲骨胶囊功效成分鉴别及其盐酸氨基葡萄糖含量测定",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hxfxjl201904023",
+      "title": "高含量碳酸钙基体中氟化钙的准确测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghjjc202003017",
+      "title": "二氧化氮标准物质校准氮氧化物分析仪的差异性",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "fxhx202008002",
+      "title": "环境中挥发性污染物现场快捷检测系统研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs202015001",
+      "title": "食品安全免疫层析检测技术研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nmghjbh202008084",
+      "title": "生活饮用水水质检测的重要分析",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sxhg202007041",
+      "title": "荧光检测技术在水质检测中的应用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "spgykj202018051",
+      "title": "光谱数据融合技术在食品检测中的应用研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spgykj202014053",
+      "title": "食品中丙烯酰胺检测方法研究进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "gyysyfs202004001",
+      "title": "我国环境水体中双酚A存在现状及标准检测方法研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsptjj202008009",
+      "title": "海芦笋植物盐提取工艺的优化",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202008010",
+      "title": "包埋技术对酸奶中燕麦颗粒完整性的影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005012",
+      "title": "不同方式处理的绿豆对面包品质的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008011",
+      "title": "超声微波协同萃取桃胶多糖的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002009",
+      "title": "红枣色素对高脂饮食小鼠的降血脂作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008003",
+      "title": "含糖醇食品能量和碳水化合物计算方法的比较研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201805002",
+      "title": "粳稻品质特性指标差异性分析研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202008011",
+      "title": "超声微波协同萃取桃胶多糖的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006013",
+      "title": "卵形鲳鲹加工副产物中明胶的提取工艺及性质研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005017",
+      "title": "琼脂-刺槐豆胶协同作用及其凝胶骨架材料缓释性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003009",
+      "title": "牛奶咖啡饮料的稳定性研究",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zgsptjj202002015",
+      "title": "藜麦糠黄酮的抑菌性研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002011",
+      "title": "益生菌发酵香肠工艺条件的筛选",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201903003",
+      "title": "酪蛋白肽电荷性质对其肽-锌螯合物的胃肠稳定性及吸收的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201904008",
+      "title": "响应面法优化牛舌草多糖提取工艺及其对DNA氧化损伤的保护作用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001008",
+      "title": "我国功能糖产业的现状与发展前景",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201903015",
+      "title": "俄罗斯松针油与加拿大冷杉针油挥发性成分比较与分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001010",
+      "title": "环状糊精的络合作用及其在食品中的应用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005016",
+      "title": "一种鳀鱼提取物的开发和生产工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201001016",
+      "title": "植物中γ -氨基丁酸的代谢和功能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001020",
+      "title": "内消旋玉米黄质一种健康功能的重要类胡萝卜素",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004013",
+      "title": "响应面优化超声提取甘草渣总黄酮工艺及抗氧化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202006012",
+      "title": "蓝莓越橘叶黄素颗粒制备工艺研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005016",
+      "title": "一种鳀鱼提取物的开发和生产工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004013",
+      "title": "响应面优化超声提取甘草渣总黄酮工艺及抗氧化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202004014",
+      "title": "低温合成三氯蔗糖-6-苯甲酸酯及其工艺优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002009",
+      "title": "红枣色素对高脂饮食小鼠的降血脂作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003010",
+      "title": "迷迭香提取物对鲊广椒肉丸储藏过程中品质变化的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004016",
+      "title": "响应面法优化微波辅助桃胶水解工艺研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004017",
+      "title": "食品胶对低糖蓝莓果酱的品质影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201905017",
+      "title": "肠源性激素的分泌及其糖尿病干预研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201805019",
+      "title": "高效液相色谱-串联质谱法测定仙草及其产品中苯甲酸含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004014",
+      "title": "低温合成三氯蔗糖-6-苯甲酸酯及其工艺优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003011",
+      "title": "马蹄皮提取物对油条制作过程中丙烯酰胺生成抑制研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002016",
+      "title": "莱菔素-羟丙基-β-环糊精包合物的制备工艺与表征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004015",
+      "title": "一种苦荞冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005012",
+      "title": "不同方式处理的绿豆对面包品质的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008005",
+      "title": "陈皮抗油脂氧化活性成分研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004017",
+      "title": "食品胶对低糖蓝莓果酱的品质影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008010",
+      "title": "包埋技术对酸奶中燕麦颗粒完整性的影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201001013",
+      "title": "栀子黄色素的提取及精制研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201905013",
+      "title": "多管发酵法测定生活饮用水中总大肠菌群不确定度的评定",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202006009",
+      "title": "有机溶剂法提取辣椒红色素的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006013",
+      "title": "卵形鲳鲹加工副产物中明胶的提取工艺及性质研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008008",
+      "title": "复配稳定体系对清爽型酸性乳饮稳定性和口感的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002013",
+      "title": "蛋白质对卡士达馅品质的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008008",
+      "title": "复配稳定体系对清爽型酸性乳饮稳定性和口感的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006009",
+      "title": "有机溶剂法提取辣椒红色素的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008006",
+      "title": "骨泥高钙豆奶的研制及其稳定性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006010",
+      "title": "响应面法优化绿豆抗氧化肽的制备工艺",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004018",
+      "title": "海藻酸钠-乳清蛋白复合益生菌微胶囊的构建及性能评价",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002011",
+      "title": "益生菌发酵香肠工艺条件的筛选",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005017",
+      "title": "琼脂-刺槐豆胶协同作用及其凝胶骨架材料缓释性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002015",
+      "title": "藜麦糠黄酮的抑菌性研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006012",
+      "title": "蓝莓越橘叶黄素颗粒制备工艺研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003008",
+      "title": "超声辅助苦荞中蛋白和黄酮的同步提取工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002016",
+      "title": "莱菔素-羟丙基-β-环糊精包合物的制备工艺与表征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002013",
+      "title": "蛋白质对卡士达馅品质的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004015",
+      "title": "一种苦荞冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005011",
+      "title": "响应面优化缅甸刺梧桐胶多糖制备工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008005",
+      "title": "陈皮抗油脂氧化活性成分研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008006",
+      "title": "骨泥高钙豆奶的研制及其稳定性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003008",
+      "title": "超声辅助苦荞中蛋白和黄酮的同步提取工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201905012",
+      "title": "基于顶空固相微萃取与气相色谱-质谱联用技术分析赣南茶油特征香气成分",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004016",
+      "title": "响应面法优化微波辅助桃胶水解工艺研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008002",
+      "title": "金针菇废菇柄发酵物对衰老模型小鼠氧化应激损伤的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005014",
+      "title": "三氯蔗糖-6-乙酸酯的分离与提纯",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202005011",
+      "title": "响应面优化缅甸刺梧桐胶多糖制备工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005013",
+      "title": "巯基-烯点击化学法合成两亲性叶黄素",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005013",
+      "title": "巯基-烯点击化学法合成两亲性叶黄素",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006010",
+      "title": "响应面法优化绿豆抗氧化肽的制备工艺",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003014",
+      "title": "维生素C改性膨润土的制备及其在蔗汁脱色中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003009",
+      "title": "牛奶咖啡饮料的稳定性研究",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zgsptjj202003010",
+      "title": "迷迭香提取物对鲊广椒肉丸储藏过程中品质变化的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008003",
+      "title": "含糖醇食品能量和碳水化合物计算方法的比较研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003011",
+      "title": "马蹄皮提取物对油条制作过程中丙烯酰胺生成抑制研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003014",
+      "title": "维生素C改性膨润土的制备及其在蔗汁脱色中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsp201903150",
+      "title": "固相微萃取-气相色谱法又对食品添加剂中有害有机挥发杂质的检测",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbzh201919038",
+      "title": "食品营养强化剂β-葡聚糖及其标准化现状与发展建议",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201910016",
+      "title": "高效液相色谱法测定多类食品中胭脂虫红的含量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201909005",
+      "title": "表面增强拉曼光谱法在食品中亚硝酸盐的快速筛查研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201905010",
+      "title": "香肠中次磷酸钠复合添加剂替代亚硝酸钠的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201921253",
+      "title": "探索离子色谱法在食品添加剂检测中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgrkzyyhj201902014",
+      "title": "影响食品添加剂使用行为的主要因素的实证研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zggc201908008",
+      "title": "毛细管柱气相色谱测定食品中甜蜜素的研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201901018",
+      "title": "阿魏酸及其衍生物在食品添加剂领域研究进展",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtwp201905040",
+      "title": "水煮薇菜中食品添加剂的检测",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201910013",
+      "title": "食品添加剂对甜瓜采后病原真菌抑制作用研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zggxq201907152",
+      "title": "石墨炉原子吸收光谱法测试面制食品中铝含量",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004007",
+      "title": "壳聚糖/蒙脱土复合糖用澄清剂的制备工艺及优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lsltjs201905007",
+      "title": "食用香精在烘焙食品中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsp201907060",
+      "title": "食品添加剂维生素B12的检测研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgtwp201904045",
+      "title": "当前食品添加剂监管机制存在的问题与法治策略",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcytzygkj201935188",
+      "title": "食品检验中绿色分析测试技术的应用分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtwp201905003",
+      "title": "食品添加剂对猫眼豆黄酮类化合物抗氧化活性的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtwp201902037",
+      "title": "甜菜根中生物活性物质及其在食品加工业中的应用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201911023",
+      "title": "固相萃取-高效液相色谱法同时测定糕点中13种添加剂的研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201911021",
+      "title": "原子荧光光谱法直接测定食品级磷酸中砷含量",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201902014",
+      "title": "超高效液相色谱-串联质谱法同时测定焙烤食品中9种水溶性添加剂的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201907016",
+      "title": "五种食品增稠剂对面皮冻藏过程中的水分及品质影响",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgwscy201930068",
+      "title": "保健食品研发中添加剂使用的法律监管及建议",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201911017",
+      "title": "多糖及其衍生物在食品微胶囊壁材中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201902016",
+      "title": "食品添加剂植酸钠中无机磷含量测定研究",
+      "download_times": 1,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "kjtb201611046",
+      "title": "基于光电传感δ15N的潍坊地下水硝酸盐污染检测",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hxfxjl202004008",
+      "title": "离子色谱法测定固体废弃物中氨氮、亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfhj201909026",
+      "title": "基于石墨炉原子吸收法的水污染中铅含量测定方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201708011",
+      "title": "电位滴定法测定含钙合金中氧化钙",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gdhg202013073",
+      "title": "探究水质环境微生物检测的质量控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsjtx202008146",
+      "title": "环境监测中化学需氧量的检测过程及展望",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zyjyyhb202008044",
+      "title": "环境检测实验室危险废物的产生及处理分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgtwp202002033",
+      "title": "离子色谱法测定香肠中的亚硝酸盐和硝酸盐",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "spaqzljcjs202015051",
+      "title": "气相分子吸收光谱法测定酱腌菜中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gyaqyfc201011007",
+      "title": "亚硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmzfzy202024220",
+      "title": "如何在环境监测全过程质量管理中提升检测水平",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfzjs201805015",
+      "title": "甲酸/氯化锌储存时间对纤维定量准确性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008007",
+      "title": "桑椹红色素微丸的制备工艺研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hxgcs201907010",
+      "title": "盐酸萘乙二胺光度法测定格尔木市熟肉制品中NO2-含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gpxygpfx201909049",
+      "title": "浊度干扰下硝酸盐浓度紫外导数光谱检测方法研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "spaqzljcjs201820007",
+      "title": "液相色谱-串联质谱法测定火腿肠和咸菜中亚硝酸盐含量",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gzty201702011",
+      "title": "紫外分光光度法测定食糖中的硝酸盐含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zghjjc201803017",
+      "title": "重氮偶联法测定水中亚硝酸盐氮的改进",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spyjykf201720036",
+      "title": "分光光度法测定肉制品中亚硝酸盐的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "fxhx201906015",
+      "title": "大气气溶胶硝酸盐中稳定氮氧同位素比值测定",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ykcs201901008",
+      "title": "应用改进DDARP方法纯化天然水体样品中硫酸钡固体的效果评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hxfxjl201703035",
+      "title": "国标法测定地表水中阴离子表面活性剂方法优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyzhyj202003069",
+      "title": "环境水质重金属检测技术探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zghjkx201602044",
+      "title": "海水中金属铅水质基准定值研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jcfzdx202006072",
+      "title": "环境保护工程中的环境检测研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020091600006755",
+      "title": "影响建筑室内环境检测结果的主要因素分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020080700001732",
+      "title": "环境保护工程中的环境检测研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020090800000281",
+      "title": "加强生态环境检测及环保技术应用探析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsjtx202009101",
+      "title": "环境监测中地表水检测存在的问题与对策",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "QKBJB20202020091600007790",
+      "title": "环境监测实验室水质检测的质量控制分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201908007",
+      "title": "响应面法优化乙醇/硫酸铵双水相体系萃取洋葱黄酮的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001003",
+      "title": "褐变黑枸杞对紫外照射损伤果蝇寿命及抗氧化能力的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201912010",
+      "title": "比较基因组分析Yarrowia lipolytica BBE-17的赤藓糖醇合成机制",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201908005",
+      "title": "茶树油中松油烯-4-醇的测定方法研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201908008",
+      "title": "超声辅助法提取平榛榛仁多酚的工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201912005",
+      "title": "正交实验法优化菊粉外切酶水解菊粉的工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfzjs201805015",
+      "title": "甲酸/氯化锌储存时间对纤维定量准确性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002019",
+      "title": "气相色谱法快速测定大米中甲基嘧啶磷残留量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202001021",
+      "title": "竹笋膳食纤维的改性研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202006015",
+      "title": "5种天然植物提取物中4种多环芳烃的HPLC-FLR测定方法",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202005025",
+      "title": "大米蛋白资源开发利用现状",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005006",
+      "title": "旋覆花挥发油成分的GC-MS分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006006",
+      "title": "葡萄籽维生素E软胶囊中原花青素和维生素E的快速测定",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006008",
+      "title": "分光光度法测定桑黄中总三萜的不确定度评定",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "ynyj202002019",
+      "title": "ICP-AES法测定硫酸钯中的二十二个杂质元素",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002010",
+      "title": "离子交换树脂对肉苁蓉总寡糖脱盐脱色工艺研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003013",
+      "title": "一种崂山红茶冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003021",
+      "title": "抗性糊精制备方法、功能特性及在食品中应用研究",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202004007",
+      "title": "壳聚糖/蒙脱土复合糖用澄清剂的制备工艺及优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002017",
+      "title": "响应面法优化芒果叶多酚的浸提工艺",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201907003",
+      "title": "4种药用植物5α-还原酶抑制活性及抗氧化活性分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj200003003",
+      "title": "功能食品配料-低聚乳果糖",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsjtx202009101",
+      "title": "环境监测中地表水检测存在的问题与对策",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zyjyyhb201908059",
+      "title": "离子色谱法测定水中亚硝酸盐的不确定度评定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202002002",
+      "title": "浑浊红球菌PD630对黄曲霉毒素B1的生物降解特性研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202003016",
+      "title": "采收月份对肉桂叶出油率及挥发油品质的影响研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003001",
+      "title": "华北车前提取物的抑菌活性及其稳定性研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004008",
+      "title": "超声辅助提取庆阳黄花菜中多糖的动力学研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202003012",
+      "title": "南湖菱护色工艺研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj200003006",
+      "title": "阿力甜-性质优良的甜味剂",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201906013",
+      "title": "焦香型灵武长枣清汁饮料的研制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201907017",
+      "title": "卡拉胶与亚麻籽胶复配在枸杞果冻中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201907006",
+      "title": "酸杨桃汁抗氧化活性及稳定性研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201906016",
+      "title": "微波消解-原子吸收光谱法测香菇中的微量元素",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gyscl201811021",
+      "title": "曙红Y-藏红T能量转移荧光猝灭法测定亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zjyfyx201903026",
+      "title": "一种同时测定净水机滤芯中氟化物、硝酸盐和磷酸盐的离子色谱方法研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-hx201712012",
+      "title": "离子色谱法测定肉制品中5种食品添加剂",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "gpxygpfx201902046",
+      "title": "基于顺序注射分析的海水亚硝酸盐快速检测方法研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs201811008",
+      "title": "速测盒法快速测定肉及肉制品中亚硝酸盐",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl201806010",
+      "title": "离子色谱法快速测定土壤中的亚硝酸盐氮和硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hxfxjl202001019",
+      "title": "气相分子吸收光谱法测定地下水中亚硝酸盐氮、氨氮、硝酸盐氮",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gyscl201411022",
+      "title": "对羟基苯甲酸分光光度法测定水中硝酸盐氮",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "lhjy-hx201506029",
+      "title": "乙二胺合钴溶液中亚硝酸盐和硝酸盐氮的测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fxhx201702001",
+      "title": "海水中硝酸盐的无阀连续流动分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hxjx201412027",
+      "title": "探析浓硫酸分别与饱和氯化钠和饱和硫酸铜溶液的作用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "yfyxqbzz202008014",
+      "title": "微波消解-原子荧光法同时检测土壤中砷和汞的方法应用",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "QKBJB20202020090800000209",
+      "title": "环境检测中地表水监测问题探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QKBJB20202020090800007538",
+      "title": "环境检测技术的应用现状及发展趋势",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ynhg202006031",
+      "title": "对微波消解法在水质重金属检测应用中准确性的分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020081710004023",
+      "title": "大气污染问题的环境检测及对策探讨",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008017",
+      "title": "天然植物果胶的提取及其在食品工业中的应用现状",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005008",
+      "title": "辣椒红胶质色素处理工艺研究",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005024",
+      "title": "乳链球菌素最小抑菌浓度(MIC)测定及理化性质分析",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002023",
+      "title": "青稞β-葡聚糖的研究现状与展望",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201912016",
+      "title": "抗坏血酸对火龙果红色素稳定性的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001008",
+      "title": "2,5-二甲基-3-乙酰硫基四氢呋喃立体异构体制备及香气特征",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201911009",
+      "title": "亚硫酸铵法焦糖色的流变性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201908023",
+      "title": "黄酮类化合物抑菌作用研究进展",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201912020",
+      "title": "蓝莓果实色度值与化学成分含量的相关性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201911025",
+      "title": "辛烯基琥珀酸淀粉钠的合成及结构表征研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201911010",
+      "title": "硒化卡拉胶寡糖的制备及抗氧化活性研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001018",
+      "title": "高效液相色谱法测定白醋中苯甲酸含量的不确定度评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "spyjykf201609042",
+      "title": "分光光度法测定水中亚硝酸盐含量的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020070900003321",
+      "title": "化学检测在环境检测中的应用分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020080710001799",
+      "title": "论环境检测在环境保护工作中的重要性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf202022101",
+      "title": "浅谈环境检测作用和环境保护措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxmsy202006029",
+      "title": "甘肃某地区奶牛运动场环境中耐药菌流行情况及相关耐药基因检测",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hgsjtx202001083",
+      "title": "汞单元素标准物质的比较研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jldxzrkxxb202003042",
+      "title": "超声萃取-高效液相色谱分析法测定土壤中2-氯-6-(三氯甲基)吡啶",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "hnny202011006",
+      "title": "不同氮肥对番茄NO3--N和NH4+-N含量的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006008",
+      "title": "分光光度法测定桑黄中总三萜的不确定度评定",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202005007",
+      "title": "褐变黑枸杞抗氧化作用的研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008004",
+      "title": "湿法净化磷酸在食品行业中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "hxfxjl201906019",
+      "title": "气相分子吸收光谱法快速测定土壤中亚硝酸盐氮",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zghjjc200301025",
+      "title": "每毫升含1.00μg亚硝酸盐氮标准溶液的稳定性实验",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004004",
+      "title": "嘉必优的复工之路——FIC2020重要供应商嘉必优专题报道",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001011",
+      "title": "干青豆复合生物保鲜剂保鲜效果研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201907021",
+      "title": "肉汤味型酵母抽提物在鸡精和素食鸡精中的应用研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "spyjj201701013",
+      "title": "顶空-气相色谱法测定食品中亚硝酸盐",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "spaqzljcjs202004046",
+      "title": "劲骨胶囊功效成分鉴别及其盐酸氨基葡萄糖含量测定",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hxfxjl201904023",
+      "title": "高含量碳酸钙基体中氟化钙的准确测定",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yjfx201812012",
+      "title": "EDTA滴定法测定萤石中氟化钙",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "yjfx201903014",
+      "title": "沉淀分离-铅试金富集-氯化钠电位滴定法测定贵铋中银",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyhjbh202006006",
+      "title": "腐植酸调节砷酸盐生菜毒性作用研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyy202007036",
+      "title": "维磷葡钙片质量标准提升研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "spaqzljcjs202012045",
+      "title": "土壤有机项目检测过程的质量控制研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "nmghjbh202008106",
+      "title": "土壤检测质量控制的探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdhg202013073",
+      "title": "探究水质环境微生物检测的质量控制",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxmsy202006029",
+      "title": "甘肃某地区奶牛运动场环境中耐药菌流行情况及相关耐药基因检测",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "fxhx202008002",
+      "title": "环境中挥发性污染物现场快捷检测系统研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hxjx201412027",
+      "title": "探析浓硫酸分别与饱和氯化钠和饱和硫酸铜溶液的作用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "jljs201503015",
+      "title": "重量法制备原子荧光光度计检定用砷标准溶液系列及不确定度的评定",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "lhjy-hx201608008",
+      "title": "膜透析处理样品-离子色谱法测定奶粉中亚硝酸盐和硝酸盐",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zyjyyhb201607040",
+      "title": "硝酸盐氮测定中的稳定性试验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202008001",
+      "title": "咪唑类离子液体提取沙棘叶总黄酮的研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008009",
+      "title": "海芦笋植物盐提取工艺的优化",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsl202005015",
+      "title": "全自动烷基汞分析仪测定饲料中的甲基汞和乙基汞",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202005006",
+      "title": "旋覆花挥发油成分的GC-MS分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005007",
+      "title": "褐变黑枸杞抗氧化作用的研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201911015",
+      "title": "β-木糖苷酶型非淀粉多糖酶对小麦的体外酶解及消化研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201908021",
+      "title": "RP-HPLC法同时测定车前子中4种主要成分的含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201911024",
+      "title": "高效测定淀粉制品中铝含量的分光光度法",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201912018",
+      "title": "食品微凝胶的制备、表征与应用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "swxjx202001021",
+      "title": "数码成像比色在'检测泡菜中亚硝酸盐含量'实验中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hxjyx201910028",
+      "title": "带膜铝片放入硫酸铜溶液的实验探究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201607021",
+      "title": "抑制电导离子色谱法测定蔬菜中硝酸盐的不确定度评定",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dtsj201617011",
+      "title": "水质铅自动在线监测仪对水样铅含量测定",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020091600003495",
+      "title": "生态环境检测及环保技术的应用研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20202020082500003258",
+      "title": "环境检测技术存在的问题及对策研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zyjyyhb202008044",
+      "title": "环境检测实验室危险废物的产生及处理分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202004012",
+      "title": "酶辅助超声提取阿尔泰金莲花总黄酮工艺研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201906015",
+      "title": "山桃花挥发油的化学成分分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj200004021",
+      "title": "索马甜(THAUMATIN)",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfzjs201805015",
+      "title": "甲酸/氯化锌储存时间对纤维定量准确性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hnny202011006",
+      "title": "不同氮肥对番茄NO3--N和NH4+-N含量的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ynyj202002019",
+      "title": "ICP-AES法测定硫酸钯中的二十二个杂质元素",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "hggl201814090",
+      "title": "ICP-MS法和AAS法测定水质中铅、镉的比较",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyzhyj202003069",
+      "title": "环境水质重金属检测技术探究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "sygydxxb201905008",
+      "title": "Na2SO4掺杂含MgO铝酸钙熟料矿相转变及稳定性能",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jljs201409012",
+      "title": "钾、钠、钙、镁基体的镉标准溶液研制",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zghjkx201602044",
+      "title": "海水中金属铅水质基准定值研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnsfdx202001009",
+      "title": "不同提取剂提取土壤中重金属能力的对比研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jldxzrkxxb202003042",
+      "title": "超声萃取-高效液相色谱分析法测定土壤中2-氯-6-(三氯甲基)吡啶",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zjsy202013003",
+      "title": "电感耦合等离子体发射光谱法在水质重金属检测中的探究 ——以水中铅、镉检测为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sp202007012",
+      "title": "固相萃取-超高效液相色谱-串联质谱法检测环境水体中18种农药残留",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zgzyzhly202008007",
+      "title": "土壤中速效钾及交换性钙镁同时测定的方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj201836312",
+      "title": "水质及食品中铅含量检测技术进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hqrwdl201710087",
+      "title": "水质中铅的检测方法",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyyyypjyfx201903023",
+      "title": "络合滴定法测定复方钾钙镁溶液中氯化钙含量的方法学验证与不确定度分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjs2019z1004",
+      "title": "水质生物综合毒性仪检测水体重金属",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005017",
+      "title": "琼脂-刺槐豆胶协同作用及其凝胶骨架材料缓释性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008005",
+      "title": "陈皮抗油脂氧化活性成分研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008011",
+      "title": "超声微波协同萃取桃胶多糖的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004016",
+      "title": "响应面法优化微波辅助桃胶水解工艺研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008003",
+      "title": "含糖醇食品能量和碳水化合物计算方法的比较研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003014",
+      "title": "维生素C改性膨润土的制备及其在蔗汁脱色中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008005",
+      "title": "陈皮抗油脂氧化活性成分研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008001",
+      "title": "咪唑类离子液体提取沙棘叶总黄酮的研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008011",
+      "title": "超声微波协同萃取桃胶多糖的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005011",
+      "title": "响应面优化缅甸刺梧桐胶多糖制备工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008006",
+      "title": "骨泥高钙豆奶的研制及其稳定性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202004015",
+      "title": "一种苦荞冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004016",
+      "title": "响应面法优化微波辅助桃胶水解工艺研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006011",
+      "title": "离子液体催化合成抗氧化剂TBHQ的工艺研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201001011",
+      "title": "茶多酚提取纯化工艺研究进展",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001001",
+      "title": "FIC展走过辉煌20年(1990-2010)中国国际食品添加剂和配料展览会暨全国食品添加剂生产应用技术展览会——FIC展创办20周年回顾",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201904021",
+      "title": "高效液相色谱法同时测定银杏叶及其提取物中4种游离黄酮含量",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201805015",
+      "title": "米曲霉固态发酵餐厨垃圾生产淀粉酶",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001009",
+      "title": "浅析婴幼儿食品中食品添加剂的使用管理问题",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201903005",
+      "title": "萝卜红色素的提取工艺及其稳定性的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201905014",
+      "title": "压力罐消解-原子吸收光谱法测定花生中镉含量不确定度评定",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001012",
+      "title": "乳酸菌细菌素抗菌潜力挖掘研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201906006",
+      "title": "夏枯草水提物对黑腹果蝇寿命的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202008007",
+      "title": "桑椹红色素微丸的制备工艺研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201903015",
+      "title": "俄罗斯松针油与加拿大冷杉针油挥发性成分比较与分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201903003",
+      "title": "酪蛋白肽电荷性质对其肽-锌螯合物的胃肠稳定性及吸收的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008010",
+      "title": "包埋技术对酸奶中燕麦颗粒完整性的影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008003",
+      "title": "含糖醇食品能量和碳水化合物计算方法的比较研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202008008",
+      "title": "复配稳定体系对清爽型酸性乳饮稳定性和口感的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002009",
+      "title": "红枣色素对高脂饮食小鼠的降血脂作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002016",
+      "title": "莱菔素-羟丙基-β-环糊精包合物的制备工艺与表征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004014",
+      "title": "低温合成三氯蔗糖-6-苯甲酸酯及其工艺优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202004017",
+      "title": "食品胶对低糖蓝莓果酱的品质影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202004018",
+      "title": "海藻酸钠-乳清蛋白复合益生菌微胶囊的构建及性能评价",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008004",
+      "title": "湿法净化磷酸在食品行业中的应用研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005016",
+      "title": "一种鳀鱼提取物的开发和生产工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005017",
+      "title": "琼脂-刺槐豆胶协同作用及其凝胶骨架材料缓释性能",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005014",
+      "title": "三氯蔗糖-6-乙酸酯的分离与提纯",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202008007",
+      "title": "桑椹红色素微丸的制备工艺研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005013",
+      "title": "巯基-烯点击化学法合成两亲性叶黄素",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001016",
+      "title": "植物中γ -氨基丁酸的代谢和功能",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001015",
+      "title": "金樱子棕色素的提取及其抗氧化活性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001020",
+      "title": "内消旋玉米黄质一种健康功能的重要类胡萝卜素",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001018",
+      "title": "落葵色素的提取、分离、分析及稳定性研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201905012",
+      "title": "基于顶空固相微萃取与气相色谱-质谱联用技术分析赣南茶油特征香气成分",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201805019",
+      "title": "高效液相色谱-串联质谱法测定仙草及其产品中苯甲酸含量",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201905017",
+      "title": "肠源性激素的分泌及其糖尿病干预研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201905013",
+      "title": "多管发酵法测定生活饮用水中总大肠菌群不确定度的评定",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj201905011",
+      "title": "ICP-MS技术同时测定多种食品添加剂中二十一种元素",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201805002",
+      "title": "粳稻品质特性指标差异性分析研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001010",
+      "title": "环状糊精的络合作用及其在食品中的应用",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201001008",
+      "title": "我国功能糖产业的现状与发展前景",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002011",
+      "title": "益生菌发酵香肠工艺条件的筛选",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002016",
+      "title": "莱菔素-羟丙基-β-环糊精包合物的制备工艺与表征",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201903008",
+      "title": "沙棘甾醇对大豆油和猪油抗氧化作用评价",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006014",
+      "title": "常压室温等离子体诱变技术选育曲霉型豆豉发酵菌种研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj201805007",
+      "title": "超声波辅助番茄皮渣中番茄红素在核桃油中的富集工艺",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201904008",
+      "title": "响应面法优化牛舌草多糖提取工艺及其对DNA氧化损伤的保护作用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201904010",
+      "title": "乙醇冷藏处理对鲜切马铃薯酶促褐变的抑制及其机理研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202005013",
+      "title": "巯基-烯点击化学法合成两亲性叶黄素",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202005011",
+      "title": "响应面优化缅甸刺梧桐胶多糖制备工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003008",
+      "title": "超声辅助苦荞中蛋白和黄酮的同步提取工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003008",
+      "title": "超声辅助苦荞中蛋白和黄酮的同步提取工艺",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202002015",
+      "title": "藜麦糠黄酮的抑菌性研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003012",
+      "title": "南湖菱护色工艺研究",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202003011",
+      "title": "马蹄皮提取物对油条制作过程中丙烯酰胺生成抑制研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008010",
+      "title": "包埋技术对酸奶中燕麦颗粒完整性的影响研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006009",
+      "title": "有机溶剂法提取辣椒红色素的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006012",
+      "title": "蓝莓越橘叶黄素颗粒制备工艺研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008008",
+      "title": "复配稳定体系对清爽型酸性乳饮稳定性和口感的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002010",
+      "title": "离子交换树脂对肉苁蓉总寡糖脱盐脱色工艺研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002011",
+      "title": "益生菌发酵香肠工艺条件的筛选",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202003009",
+      "title": "牛奶咖啡饮料的稳定性研究",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zgsptjj202003013",
+      "title": "一种崂山红茶冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002015",
+      "title": "藜麦糠黄酮的抑菌性研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006012",
+      "title": "蓝莓越橘叶黄素颗粒制备工艺研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002013",
+      "title": "蛋白质对卡士达馅品质的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202002009",
+      "title": "红枣色素对高脂饮食小鼠的降血脂作用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006010",
+      "title": "响应面法优化绿豆抗氧化肽的制备工艺",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202006013",
+      "title": "卵形鲳鲹加工副产物中明胶的提取工艺及性质研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005012",
+      "title": "不同方式处理的绿豆对面包品质的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004013",
+      "title": "响应面优化超声提取甘草渣总黄酮工艺及抗氧化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202004015",
+      "title": "一种苦荞冻凝胶食品的研究与开发",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004017",
+      "title": "食品胶对低糖蓝莓果酱的品质影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008002",
+      "title": "金针菇废菇柄发酵物对衰老模型小鼠氧化应激损伤的影响",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202003010",
+      "title": "迷迭香提取物对鲊广椒肉丸储藏过程中品质变化的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006013",
+      "title": "卵形鲳鲹加工副产物中明胶的提取工艺及性质研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201001014",
+      "title": "顺式-二氢茉莉酮酸甲酯的合成进展",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001019",
+      "title": "培养条件对红曲霉产红曲红色素及桔霉素影响的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201001017",
+      "title": "番茄渣中番茄红素的提取工艺研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006009",
+      "title": "有机溶剂法提取辣椒红色素的工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005016",
+      "title": "一种鳀鱼提取物的开发和生产工艺研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201805005",
+      "title": "ARA微胶囊粉末稳定性及不良气味物质研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202006008",
+      "title": "分光光度法测定桑黄中总三萜的不确定度评定",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202002013",
+      "title": "蛋白质对卡士达馅品质的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003010",
+      "title": "迷迭香提取物对鲊广椒肉丸储藏过程中品质变化的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202006010",
+      "title": "响应面法优化绿豆抗氧化肽的制备工艺",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004013",
+      "title": "响应面优化超声提取甘草渣总黄酮工艺及抗氧化研究",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsptjj202003014",
+      "title": "维生素C改性膨润土的制备及其在蔗汁脱色中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202003009",
+      "title": "牛奶咖啡饮料的稳定性研究",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zgsptjj202003011",
+      "title": "马蹄皮提取物对油条制作过程中丙烯酰胺生成抑制研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsptjj202008001",
+      "title": "咪唑类离子液体提取沙棘叶总黄酮的研究",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201001013",
+      "title": "栀子黄色素的提取及精制研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005012",
+      "title": "不同方式处理的绿豆对面包品质的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202004014",
+      "title": "低温合成三氯蔗糖-6-苯甲酸酯及其工艺优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj202008006",
+      "title": "骨泥高钙豆奶的研制及其稳定性研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202001002",
+      "title": "配方和工艺条件对冷冻酸奶冰淇淋益生菌活菌数的影响",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgspwszz201901013",
+      "title": "食品中爱德万甜检测方法比较研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbzh201919038",
+      "title": "食品营养强化剂β-葡聚糖及其标准化现状与发展建议",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201905010",
+      "title": "香肠中次磷酸钠复合添加剂替代亚硝酸钠的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201911021",
+      "title": "原子荧光光谱法直接测定食品级磷酸中砷含量",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201910013",
+      "title": "食品添加剂对甜瓜采后病原真菌抑制作用研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201909005",
+      "title": "表面增强拉曼光谱法在食品中亚硝酸盐的快速筛查研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201902014",
+      "title": "超高效液相色谱-串联质谱法同时测定焙烤食品中9种水溶性添加剂的研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201903246",
+      "title": "肉类食品亚硝酸盐含量测定中的问题探究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgtwp201905040",
+      "title": "水煮薇菜中食品添加剂的检测",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgtwp201905003",
+      "title": "食品添加剂对猫眼豆黄酮类化合物抗氧化活性的影响",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201905005",
+      "title": "食品级辅酶Q10水可完全稀释微乳液的制备",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtwp201902037",
+      "title": "甜菜根中生物活性物质及其在食品加工业中的应用",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201909017",
+      "title": "复合食品胶对无矾小麦淀粉粉条的品质影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsp201919065",
+      "title": "采用离子色谱法快速准确地检测食品添加剂含量",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsp201903150",
+      "title": "固相微萃取-气相色谱法又对食品添加剂中有害有机挥发杂质的检测",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201911017",
+      "title": "多糖及其衍生物在食品微胶囊壁材中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201910016",
+      "title": "高效液相色谱法测定多类食品中胭脂虫红的含量",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj202005010",
+      "title": "7种芸香科植物精油抑菌活性的研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtwp201904045",
+      "title": "当前食品添加剂监管机制存在的问题与法治策略",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsp201903150",
+      "title": "固相微萃取-气相色谱法又对食品添加剂中有害有机挥发杂质的检测",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zggxq201907152",
+      "title": "石墨炉原子吸收光谱法测试面制食品中铝含量",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsp201907060",
+      "title": "食品添加剂维生素B12的检测研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcytzygkj201921253",
+      "title": "探索离子色谱法在食品添加剂检测中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgrkzyyhj201902014",
+      "title": "影响食品添加剂使用行为的主要因素的实证研究",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zgbzh201919038",
+      "title": "食品营养强化剂β-葡聚糖及其标准化现状与发展建议",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201910001",
+      "title": "亟待深度研发应用的健康食品配料——亚麻籽",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201909005",
+      "title": "表面增强拉曼光谱法在食品中亚硝酸盐的快速筛查研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgspwszz201901013",
+      "title": "食品中爱德万甜检测方法比较研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201902016",
+      "title": "食品添加剂植酸钠中无机磷含量测定研究",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj202004007",
+      "title": "壳聚糖/蒙脱土复合糖用澄清剂的制备工艺及优化",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgcytzygkj201935188",
+      "title": "食品检验中绿色分析测试技术的应用分析",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsptjj201907016",
+      "title": "五种食品增稠剂对面皮冻藏过程中的水分及品质影响",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "lsltjs201905007",
+      "title": "食用香精在烘焙食品中的应用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zggc201908008",
+      "title": "毛细管柱气相色谱测定食品中甜蜜素的研究进展",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwscy201930068",
+      "title": "保健食品研发中添加剂使用的法律监管及建议",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsptjj201901018",
+      "title": "阿魏酸及其衍生物在食品添加剂领域研究进展",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsptjj201911023",
+      "title": "固相萃取-高效液相色谱法同时测定糕点中13种添加剂的研究",
+      "download_times": 1,
+      "browse_times": 3
+    }
+  ],
+  "检索": [
+    "氯化锌标准溶液",
+    "基金:安徽省建设学科基金",
+    "基金:江苏省体育局课题",
+    "Optical communications",
+    "基金:National Science and Technology Support Project of China",
+    "基金:国家973自然科学基金",
+    "汞标准溶液",
+    "环境检测",
+    "环境检测",
+    "水质铅",
+    "基金:广西畜牧局科研项目",
+    "基金:北京市旅游局项目",
+    "硝酸盐标准溶液",
+    "基金:国家973自然科学基金",
+    "凝血酶敏感蛋白类/血液",
+    "土壤检测",
+    "环境检测",
+    "基金:吉林省哲学社科基金",
+    "基金:江门市卫生局课题",
+    "钙标准溶液",
+    "钙标准溶液",
+    "基金:江苏省农业工程项目",
+    "国家标准",
+    "基金:成都医学院立项项目",
+    "硝酸盐标准溶液",
+    "基金:中国国家高技术研究发展计划",
+    "抽搐/化学诱导",
+    "锌",
+    "硫酸铜溶液",
+    "作者单位:大连机车验收室",
+    "基金:陕西省地质勘查基金",
+    "基金:江苏省农业工程项目",
+    "基金:湖南省环保科研课题",
+    "环境检测",
+    "环境检测",
+    "基金:四川省科技计划资助",
+    "基金:西南民族大学研究生",
+    "硝酸盐标准溶液",
+    "环境检测",
+    "基金:江苏大学高级专业人才科研基金",
+    "基金:贵州教育厅资助项目",
+    "食品检测",
+    "汞标准溶液",
+    "环境检测",
+    "硫酸铜溶液",
+    "氨氮",
+    "基金:江苏省环保厅基金",
+    "环境检测",
+    "水质铅",
+    "汞标准溶液",
+    "钙标准溶液",
+    "巯基-烯点击化学法合成两亲性叶黄素",
+    "一种苦荞冻凝胶食品的研究与开发",
+    "7种 香科植物精油抑菌活性的研究",
+    "七种 香科植物精油抑菌活性的研究",
+    "包埋技术对酸奶中燕麦颗粒完整性的影响",
+    "蛋白质对卡士达馅品质的影响",
+    "红枣色素对高脂饮食小鼠的降血脂作用",
+    "含糖醇食品能量和碳水化合物计算方法的",
+    "复配稳定体系对清爽型酸性乳饮稳定性和口感影响",
+    "莱菔素-羟丙基-β-环糊精包合物的制备工艺与表征",
+    "响应面法优化超声提取甘草渣总黄酮工艺及",
+    "益生菌发酵香肠工艺条件的筛选",
+    "骨泥高钙豆奶的研制及其稳定性研究",
+    "常压室温等离子体诱变技术选育曲霉型豆",
+    "响应面法优化缅甸刺梧桐胶多糖制备工艺",
+    "有机溶剂法提取辣椒红色素的工艺研究",
+    "维生素C改性膨润土的制备及其在蔗汁脱",
+    "一种 鱼提取物的开发和生产工艺研究",
+    "蓝莓越橘叶黄素颗粒制备工艺研究",
+    "马蹄皮提取物对油条制作过程中丙烯酰胺生成抑制研究",
+    "不同方式处理的绿豆对面包品质的影响",
+    "卵形鲳加工副产物中明胶的提取工艺及性质研究",
+    "超声微波协同萃取桃胶多糖的工艺研究",
+    "牛奶咖啡饮料的稳定性研究",
+    "低温合成三氯蔗糖-6-苯甲酸酯及其工艺",
+    "藜麦糠黄酮的抑菌性研究",
+    "响应面法优化微波辅助桃胶水解工艺研究",
+    "食品胶对低糖蓝果酱的品质影响",
+    "响应面法优化绿豆抗氧化肽的制备工艺",
+    "7种芸香科植物精油抑菌活性的研究",
+    "琼脂-刺槐豆胶协同作用及其凝胶骨架材",
+    "离子液体催化合成抗氧化剂TBHQ的工艺",
+    "超声辅助苦荞中蛋白和黄酮的同步提取工艺",
+    "陈皮抗油脂氧化活性成分研究",
+    "迷迭香提取物对 广椒肉丸储藏过程中品质变化的影响",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "中国食品添加剂",
+    "中国食品添加剂",
+    "固相微萃取-气相色谱法对食品添加剂中有害有机挥发杂质的检测",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "中国食品添加剂",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "中国食品添加剂",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "壳聚糖/蒙脱土复合糖用澄清剂的制备工艺及优化",
+    "7种芸香科植物精油抑菌活性的研究",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "中国食品添加剂",
+    "(中国食品添加剂) (PublishYear:'2019' )",
+    "(中国食品添加剂) (PublishYear:'2019' )"
+  ]
+}

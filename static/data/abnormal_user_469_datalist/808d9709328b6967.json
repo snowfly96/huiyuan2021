@@ -1,0 +1,1386 @@
+{
+  "下载": [
+    {
+      "id": "dzcpsj201808017",
+      "title": "一种新型共模反馈结构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bdtxb200802015",
+      "title": "增益提高型套筒式全差分跨导放大器的设计与分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csdl201504134",
+      "title": "浅析中小企业信息管理现状及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "hljkjxx201334287",
+      "title": "网络信息时代中小企业竞争情报渠道研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201514073",
+      "title": "中小企业在信息管理中存在的问题及对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hunancjgdzkxxxb200903046",
+      "title": "浅谈中小企业的竞争情报工作",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "dnm201720227",
+      "title": "分析中小企业信息管理与咨询服务体系",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kxyxxh201934148",
+      "title": "探究保密管理信息化建设对军工企业的影响",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsq-jjllyj201817029",
+      "title": "中小企业信息管理平台构建",
+      "download_times": 11,
+      "browse_times": 4
+    },
+    {
+      "id": "hljkjxx201710140",
+      "title": "探究信息管理在中小企业中的应用与策略",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "nmgkjyjj201224009",
+      "title": "浅析中小企业信息管理平台建设",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sdgyjs201814136",
+      "title": "浅析中小企业信息管理平台建设",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "zgbzdb201301011",
+      "title": "企业标准体系信息管理系统的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jskjxx201610013",
+      "title": "中小企业信息管理系统研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "xxb-xsb201806013",
+      "title": "陕西软件和信息服务业的现状、特点及改进方向",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "ahkj201903018",
+      "title": "淮南市信息服务业发展现状的理论研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjcy201902035",
+      "title": "信息管理与信息系统在企业中的应用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201624005",
+      "title": "大数据时代下中国中小企业竞争情报的创新研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "zxqykj200917024",
+      "title": "中小企业竞争与企业情报工作研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjtb201405044",
+      "title": "区域科技信息（情报）机构服务科技创新现状及分析--以浙江省为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201436113",
+      "title": "发达国家竞争情报服务中小企业创新发展经验及启示",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xzqykj201624005",
+      "title": "大数据时代下中国中小企业竞争情报的创新研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "hunancjgdzkxxxb200903046",
+      "title": "浅谈中小企业的竞争情报工作",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "hunancjgdzkxxxb200903046",
+      "title": "浅谈中小企业的竞争情报工作",
+      "download_times": 9,
+      "browse_times": 4
+    },
+    {
+      "id": "qgsq-jjllyj201817029",
+      "title": "中小企业信息管理平台构建",
+      "download_times": 11,
+      "browse_times": 4
+    },
+    {
+      "id": "qgsq-jjllyj201817029",
+      "title": "中小企业信息管理平台构建",
+      "download_times": 11,
+      "browse_times": 4
+    },
+    {
+      "id": "xxxtgc201704026",
+      "title": "中小企业信息管理系统建设存在的问题及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "jjwt201412015",
+      "title": "中小企业战略竞争情报研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "nmgkjyjj201606061",
+      "title": "面向中小企业竞争的图书馆情报服务研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xdqb201004005",
+      "title": "中小企业图书资料管理服务运行机制创新探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxkx201602027",
+      "title": "图书馆开展企业竞争情报业务的思考——浅述企业竞争情报专职业务机构的模型以及发展可能性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjwt201412015",
+      "title": "中小企业战略竞争情报研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xxxtgc201704026",
+      "title": "中小企业信息管理系统建设存在的问题及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "qyjskf-x201507013",
+      "title": "云计算时代的中小企业信息管理思路",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cyykjlt201919129",
+      "title": "中小企业信息管理与咨询服务分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "jskjxx201610013",
+      "title": "中小企业信息管理系统研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "xxxtgc201704026",
+      "title": "中小企业信息管理系统建设存在的问题及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "hljkjxx201710140",
+      "title": "探究信息管理在中小企业中的应用与策略",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "kjqbkfyjj201213003",
+      "title": "面向中小企业的公共图书馆竞争情报服务",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xdqb200904056",
+      "title": "竞争情报在中小企业应用中的问题分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgkjyjj201606061",
+      "title": "面向中小企业竞争的图书馆情报服务研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "shszxb201703036",
+      "title": "自媒体环境下的中小企业竞争情报研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nytsqbxk201209030",
+      "title": "中小企业分布式竞争情报系统基本框架构建研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdgyjs201814136",
+      "title": "浅析中小企业信息管理平台建设",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "xzqykj201624005",
+      "title": "大数据时代下中国中小企业竞争情报的创新研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "jxglkf200604055",
+      "title": "浅析企业竞争性情报的获取与保密",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "glkxwz201909024",
+      "title": "信息服务业运作管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjhjcdl201912027",
+      "title": "2019中国软件和信息服务业十大领军人物",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dnm201808127",
+      "title": "面向电子信息资源的信息服务业及其技术发展动向",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ntfzzyjs201902010",
+      "title": "南通信息服务业发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljkjxx201334287",
+      "title": "网络信息时代中小企业竞争情报渠道研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "kjqbkfyjj200734058",
+      "title": "关于中小企业应用竞争情报的策略思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzqb201402003",
+      "title": "探析中小企业竞争情报系统能力的提升",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsq-jjllyj201817029",
+      "title": "中小企业信息管理平台构建",
+      "download_times": 11,
+      "browse_times": 4
+    },
+    {
+      "id": "jskjxx201610013",
+      "title": "中小企业信息管理系统研究",
+      "download_times": 8,
+      "browse_times": 4
+    },
+    {
+      "id": "sdgyjs201814136",
+      "title": "浅析中小企业信息管理平台建设",
+      "download_times": 11,
+      "browse_times": 3
+    },
+    {
+      "id": "csdl201504134",
+      "title": "浅析中小企业信息管理现状及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "hbhjjlw201907039",
+      "title": "长三角区域信息服务业发展研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjsjjglgbxyxb201803003",
+      "title": "北京信息服务业发展现状、问题与对策建议",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkjdsh201522033",
+      "title": "中小企业的信息管理平台建设探究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hljkjxx201710140",
+      "title": "探究信息管理在中小企业中的应用与策略",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "zxqykj200917024",
+      "title": "中小企业竞争与企业情报工作研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "qyjj200608015",
+      "title": "试论企业情报管理及创新途径",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qygl201910034",
+      "title": "如何做好档案信息资源安全保密",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csdl201504134",
+      "title": "浅析中小企业信息管理现状及对策",
+      "download_times": 9,
+      "browse_times": 3
+    },
+    {
+      "id": "yppj201915024",
+      "title": "臭氧水治疗幽门螺杆菌的临床应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdys-b201911071",
+      "title": "臭氧灌肠联合药物治疗慢性溃疡性结肠炎的效果及安全性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jkr200914008",
+      "title": "臭氧联合阿德福韦酯胶囊治疗乙肝疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgzyy201328017",
+      "title": "恩替卡韦联合臭氧治疗乙型肝炎病毒的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sylcyx201008015",
+      "title": "医用臭氧治疗乙型肝炎后肝硬化的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjyy201206015",
+      "title": "不同浓度臭氧水对口腔综合治疗台水道系统中乙肝病毒作用的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhlcyszz201519003",
+      "title": "医用臭氧及其在肝炎治疗实践十年回顾",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "scyx200510014",
+      "title": "臭氧治疗对慢性乙型肝炎16例临床疗效的初步评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjkwz201328112",
+      "title": "臭氧联合阿德福韦酯胶囊治疗乙肝临床疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxhlzz200608068",
+      "title": "臭氧治疗慢性乙型肝炎1例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgbjyy-kp201710122",
+      "title": "苦参地榆益肠汤联合臭氧灌肠治疗溃疡性结肠炎临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbyx201604006",
+      "title": "医用臭氧对肝癌细胞HepG2生物学行为的实验研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxxzz2013280762",
+      "title": "阿德福韦酯联合医用臭氧治疗慢性乙型肝炎的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzyy200805034",
+      "title": "臭氧自血疗法治疗病毒性肝炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qqhryxyxb201607033",
+      "title": "臭氧治疗非酒精性脂肪肝的临床可行性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dyjydxxb200906059",
+      "title": "医用臭氧治疗慢性乙型病毒性肝炎",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yycyzx201102014",
+      "title": "医用臭氧灌肠治疗慢性乙型肝炎临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcyydzzz201712116",
+      "title": "臭氧灌肠对溃疡性结肠炎疗效及血清IL-6含量影响观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbmtyxyxb201004046",
+      "title": "臭氧治疗肝性脑病35例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdyx201317028",
+      "title": "臭氧自血回输治疗慢性丙型肝炎的疗效",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sylcyx201003013",
+      "title": "拉米夫定联合医用臭氧治疗HBeAg阳性慢性乙型肝炎的疗效及对乙型肝炎病毒YMDD变异的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdkf201507013",
+      "title": "臭氧治疗非酒精性脂肪肝：细胞因子水平的变化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgzbzz201105013",
+      "title": "臭氧化盐水对肝细胞Keap1-Nrf2-ARE通路的激活作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyyzn201320015",
+      "title": "臭氧联合阿德福韦脂胶囊治疗乙型肝炎的安全性评估",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sylcyx201504009",
+      "title": "医用臭氧改善乙肝肝硬化脾功能亢进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xnjy201205028",
+      "title": "臭氧应用于肝脏疾病的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdyyws201719007",
+      "title": "臭氧直肠灌注辅助治疗溃疡性结肠炎(活动期)48例临床观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyykx201307020",
+      "title": "高压臭氧灌肠治疗腹泻型肠易激综合征的临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "amydy201618007",
+      "title": "清热祛湿中药联合臭氧灌肠治疗湿热内蕴型溃疡性结肠炎临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syyjzz201204037",
+      "title": "臭氧治疗非酒精性脂肪肝53例临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "amykfyx-x201211167",
+      "title": "医用臭氧治疗对HBeAg阳性慢性乙型肝炎患者外周血T淋巴细胞亚群的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchsyyxzz201417009",
+      "title": "臭氧自血疗法联合阿德福韦酯对慢性乙型肝炎的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyy201606005",
+      "title": "医用臭氧腹腔灌洗术治疗自发性细菌性腹膜炎对肝功能及炎症指标的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jilinyx201417131",
+      "title": "改良穿刺护理在自体臭氧血回输治疗乙型肝炎患者中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qqhryxyxb201614016",
+      "title": "医用臭氧腹腔灌洗术治疗自发性细菌性腹膜炎的有效性及安全性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxxxzz201405277",
+      "title": "医用臭氧自体血回输治疗慢性丙型肝炎患者的疗效和护理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djjk-z201607250",
+      "title": "腹部手术后肠外瘘采用介入下置管引流联合臭氧治疗的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zwjkwz201137013",
+      "title": "拉米夫定联合阿德福韦酯或医用臭氧与拉米夫定对比治疗HBeAg阳性的慢性乙肝",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qlhlzz201121014",
+      "title": "舒适护理在臭氧自血治疗慢性乙肝患者整体护理中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbjyy-x201210605",
+      "title": "应用臭氧并中药灌肠治疗溃疡性结肠炎临床观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hlxzz200717010",
+      "title": "医用臭氧治疗慢性乙型病毒性肝炎患者的护理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgzyy201302096",
+      "title": "拉米夫定联合医用臭氧治疗HBeAg阳性慢性乙型肝炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyykx201221007",
+      "title": "医用臭氧盐水灌肠治疗慢性乙型肝炎并发高氨血症患者的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzxyjhzz201321025",
+      "title": "医用臭氧联合恩替卡韦治疗慢性乙型病毒性肝炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzxyjhzz201533010",
+      "title": "医用臭氧自体血回输对慢性乙型肝炎患者 HBeAg、HBsAg 及 FibroScan 的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sygzbzz201403010",
+      "title": "高压臭氧自体血回输显著减轻干扰素治疗慢性丙型肝炎患者的不良反应",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bfyx201303065",
+      "title": "干扰素联合医用臭氧治疗慢性丙型肝炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201703120",
+      "title": "臭氧水对幽门螺杆菌感染患者根除的疗效观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jkr200913051",
+      "title": "医用臭氧在1例淋巴瘤化疗中乙肝急发加重的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syzyyzz201405031",
+      "title": "中药配合臭氧大自血疗法治疗慢性乙型肝炎肝纤维化32例观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scyx200106015",
+      "title": "臭氧对乙肝病毒灭活效果检测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tnbtd201907077",
+      "title": "水飞蓟宾联合臭氧治疗非酒精性脂肪肝的疗效",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzxyjhzz201730014",
+      "title": "医用臭氧自体血回输对射频消融术后老年肝细胞性肝癌患者BFGF及AFP的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gz201209002",
+      "title": "医用臭氧治疗慢性乙型肝炎临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxzdyjrfsx201606012",
+      "title": "CT引导下穿刺引流并臭氧脓腔灌注治疗胰腺包裹性坏死的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyjyyxyy201803164",
+      "title": "标准三联联合臭氧对幽门螺杆菌根除率的临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ynbzz201806008",
+      "title": "医用臭氧联合甘草酸二胺胶囊治疗慢性乙型肝炎肝纤维化疗效及对肝功能的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyyy201823063",
+      "title": "分析芍药汤加味结合臭氧直肠灌注治疗溃疡性结肠炎大肠湿热证的临床效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201927113",
+      "title": "臭氧结合三联疗法治疗幽门螺旋杆菌阳性胃病的临床疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jiangxyxjy201305029",
+      "title": "臭氧自血回输治疗丙型肝炎患者实验室检测分析及临床疗效评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyyy201734074",
+      "title": "高压臭氧灌肠联合美沙拉嗪对炎症性肠病治疗的临床效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sygzbzz201004020",
+      "title": "医用臭氧治疗慢性乙型肝炎患者对血清肝纤维化标记物的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyyyypjyfx201905011",
+      "title": "医用臭氧联合甘草酸二铵胶囊治疗慢性乙型肝炎的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csdl201620130",
+      "title": "基于“人的需求层次理论”的建筑演变初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdxhjjrzl201404025",
+      "title": "臭氧灌肠在治疗溃疡性结肠炎中的临床疗效及对白介素-6水平的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjhgbzz201401016",
+      "title": "医用臭氧联合中药治疗慢性乙型肝炎20例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syyxzz201410016",
+      "title": "介入下置管引流联合臭氧治疗腹部手术后肠外瘘临床疗效研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxhlzz200904019",
+      "title": "医用臭氧治疗慢性乙型病毒性肝炎病人的疗效评价和护理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjyywsdb201403001",
+      "title": "医用臭氧在慢性乙肝患者治疗过程中抗纤维化及抗病毒作用的效果分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ylbjqj201308012",
+      "title": "医用臭氧联合恩替卡韦治疗拉米夫定耐药慢性乙肝患者的疗效观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyyy200916125",
+      "title": "三氧联合药物治疗慢性溃疡性结肠炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgzy201735059",
+      "title": "加强心理护理联合医用臭氧治疗慢性乙型病毒性肝炎的效果分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcyydzzz2018A4134",
+      "title": "医用臭氧与甘利欣胶囊用于慢性乙型病毒性肝炎患者的临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgzy201828034",
+      "title": "臭氧在中晚期原发性肝癌的应用探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcyx201209038",
+      "title": "臭氧治疗溃疡性结肠炎临床观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ysbjzn-x201743009",
+      "title": "舒适护理在臭氧自血治疗慢性乙肝患者整体护理中的应用价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxwz-nkxfc200802055",
+      "title": "医用臭氧在肝病防治中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shandyy201609037",
+      "title": "医用臭氧对聚乙二醇干扰素治疗慢性乙型肝炎疗效的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yiyqy201417062",
+      "title": "臭氧联合阿德福韦脂胶囊治疗乙肝四年随访总结",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzdyzl201306023",
+      "title": "臭氧治疗非酒精性脂肪肝60例临床疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxhlzz201701031",
+      "title": "加强心理护理联合医用臭氧治疗慢性乙型病毒性肝炎的效果观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szhyh201928075",
+      "title": "基于Bootstrap的响应式Web开发",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "jslcyxzz200701002",
+      "title": "医用三氧临床应用基础及其在肝炎等疾病治疗中的初步实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zxyjhgbzz200904018",
+      "title": "医用三氧治疗系统治疗慢性乙型肝炎前后血清4种细胞因子的变化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjjyx2015z2180",
+      "title": "中药联合臭氧自血疗法治疗乙肝肝纤维化临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmzyxzz201617015",
+      "title": "臭氧治疗神经系统疾病造成肝功能异常患者的临床体会",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yxxxzz201404224",
+      "title": "医用臭氧治疗慢性乙型肝炎的临床效果观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxzyy201402018",
+      "title": "柴胡疏肝散结合医用臭氧疗法治疗慢性乙型肝炎疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-bdxfc201603011",
+      "title": "医用臭氧联合聚乙二醇干扰素治疗慢性丙型肝炎疗效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxyxzz201307063",
+      "title": "臭氧联合培菲康治疗溃疡性结肠炎临床疗效及对细胞因子IL-6、TGF-1水平的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhlzz200733008",
+      "title": "臭氧直肠灌注治疗慢性腹泻患者的护理",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tjqgyxyxb201903003",
+      "title": "植物乳杆菌CGMCC8198破碎上清液对黑色素生成的抑制作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lchlyyzz201024103",
+      "title": "臭氧灌肠治疗小儿腹泻100例效果观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsy202002074",
+      "title": "关于平面设计专业毕业论文选题的思考",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsqys-yxzy201209070",
+      "title": "医用三氧辅助治疗胃溃疡的疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qbzlgz199902008",
+      "title": "网络环境下的书目情报服务",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "cbfxyj200109020",
+      "title": "我国电子图书产业化发展战略探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg201950229",
+      "title": "5G信息化教学的新起点",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zxsj201951009",
+      "title": "王依增和他半个世纪的甜蜜事业",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qbzlgz200305008",
+      "title": "试析因特网用户的信息交互行为",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdjgcxb201518015",
+      "title": "磁性γ-Fe2O3催化剂NH3-SCR脱硝反应动力学研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dndxxb201505017",
+      "title": "纳米γFe2 O3催化剂 SCR 脱除 NOx 化学反应动力学",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tsyqb202001010",
+      "title": "2014-2018年国内外图书情报与档案管理学科研究热点比较分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "ranj202001016",
+      "title": "5G时代下高校图书馆信息服务模式研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "qbzlgz201906007",
+      "title": "图书情报与档案管理科研创新学术研讨会 ——2019年全国图书情报与档案管理学术期刊高峰论坛在保定举行",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "njlgdxxb200201017",
+      "title": "NH3选择性催化还原NOX的实验研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdtsqbjs200104023",
+      "title": "因特网上金融证券信息检索策略与技巧",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qbzlgz202001006",
+      "title": "数据驱动的图书馆学情报学 ——2019年图书馆学情报学热点鸟瞰",
+      "download_times": 3,
+      "browse_times": 9
+    },
+    {
+      "id": "tsqbgz200611018",
+      "title": "多通道界面对残障网络用户的人文关怀",
+      "download_times": 2,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "gc201709018",
+      "title": "别让会员'昏睡'",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "njcm201805017",
+      "title": "给你的店铺取个好名字",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "IXNMGZzxwgXhpf23Ywvb9ZNS8FCOevRD02mi0Eu22jU=",
+      "title": "理解非言语交际行为差异在文化交流中的作用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "U31Nnuw+v63KPm5Zs8Tr1V9xnYzwv/rIEQE7Hz0ASUs=",
+      "title": "鼠Ⅲ型肝炎病毒H-2K~K限制性CTL表位的初步鉴定",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "p6rWIFTXKlgWSuiwxPyWVhxKMqI7/HUk2J+xmWQvqzc=",
+      "title": "决胜全面小康 共襄复兴伟业",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "A1Nu6H0s/6jWJX4DG9Ixs6D7XIsncXVrrl5aDwIeQyQ=",
+      "title": "决胜全面小康 共襄复兴伟业",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "店铺人脸",
+    "店铺人脸",
+    "店铺会员",
+    "店铺人脸",
+    "小鼠III型肝炎病毒H-2K~K限制性CTL表位预测及初步鉴定",
+    "(理解非语言交际行为在文化交流中的作用) 标题:理解非语言交际行为在文化交流中的作用 作者:黄西林",
+    "广义正弦变换方法及其在配电系统中的应用",
+    "黄西林",
+    "精准扶贫 巫山",
+    "全域旅游背景下城口县旅游精准扶贫基础与模式研究",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) (Language:'eng' )",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) AND ((IsOA:true))",
+    "技术标 建筑",
+    "技术标 建筑",
+    "2019年中国短视频行业研究报告",
+    "账户 评价 体系",
+    "关键词:生鲜电商",
+    "易果生鲜",
+    "关键词:生鲜电商",
+    "抖音 评价 体系",
+    "关键词:易果生鲜",
+    "国内短视频发展现状及趋势分析",
+    "关键词:易果生鲜",
+    "人的行为养成",
+    "城口县农村电子商务助力精准扶贫问题研究",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) (Language:'eng' )",
+    "抖音短视频的核心竞争力研究",
+    "基于SWOT分析的抖音短视频研究",
+    "关键词:生鲜电商物流配送",
+    "短视频 评价 体系",
+    "短视频 评价 体系",
+    "短视频 评价 体系",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) AND ((IsOA:true))",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "国外幼儿教育发展现状与启示探",
+    "精准扶贫 石柱",
+    "精准扶贫 石柱",
+    "技术标 建筑",
+    "(技术标 建筑) AND ((IsOA:true))",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) (Language:'eng' )",
+    "(技术标 建筑) (Language:'eng' )",
+    "(技术标 建筑) AND ((IsOA:true))",
+    "技术标 建筑",
+    "技术标 建筑",
+    "抖音短视频的核心竞争力研究",
+    "来自苛求芽孢杆菌的两种尿酸酶和其突变体及它们的聚乙二醇修饰与应用",
+    "精准扶贫 石柱",
+    "精准扶贫 城口",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "技术标 建筑",
+    "(技术标 建筑) (Language:'eng' )",
+    "技术标 建筑",
+    "(技术标 建筑) AND ((IsOA:true))",
+    "技术标 建筑",
+    "技术标 建筑",
+    "抖音  评价 体系",
+    "抖音 评价 体系",
+    "国内外电子游戏角色设计的差异",
+    "(学生体质健康管理系统发展趋势) (PublishYear:'2018' )",
+    "(室内植物配置) (Type:'Thesis' Degree:'硕士' )",
+    "室内植物配置",
+    "室内植物配置",
+    "(植物运用) (Language:'chi' )",
+    "室内植物配置",
+    "环境设计",
+    "混泥土的应用",
+    "关键词:初心和使命",
+    "(主题:(高校图书馆)) (Type:(Periodical OR Standard) )",
+    "advertising design",
+    "(主题:(library)) (Type:'Periodical' )",
+    "网络广告定价策略研究",
+    "网络广告",
+    "人民日报",
+    "决胜全面小康，共襄复兴伟业",
+    "基于STM32的永磁同步电机",
+    "基于STM32的永磁同步电机",
+    "(主题:(高校图书馆 OR 'academic libraries')) (Type:'Periodical' )",
+    "个税筹划",
+    "library",
+    "广告设计",
+    "大数据信息化发展趋势",
+    "农村电子商务",
+    "农村电子商务",
+    "农村电子商务",
+    "(农村电子商务) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI)))",
+    "浅谈电子信息工程的应用于发展",
+    "基于DSP的永磁同步电机",
+    "智慧校园",
+    "室内植物配置",
+    "室内植物配置",
+    "软装饰的设计风格营造",
+    "关键词:初心和使命",
+    "基于STM32的永磁同步电机",
+    "劳动合同 涉税",
+    "(混泥土的应用) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "混泥土的应用",
+    "数据库",
+    "网络广告定价策略研究",
+    "电子信息工程发展背景",
+    "电子信息工程意义",
+    "(电子商务的就业趋势) (Language:'chi' )",
+    "电子商务的就业趋势",
+    "((主题:数字媒体艺术) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))) (Language:'eng' Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "农村电子商务发展现状和对策研究",
+    "农村电子商务",
+    "(肠系膜淋巴结炎) (ClassCodeForSearch:'0/R' )",
+    "Short Video Strategy Analysis from the Self-Media Industry—Taking ByteDance Company as an Example[",
+    "library",
+    "基于DSP的永磁同步电机",
+    "基于DSP的永磁同步电机",
+    "How to Develop a Membership Marketing Action Plan",
+    "基于灰色关联度的大学生体质健康测试系统的设计与实现",
+    "智能交通国内外研究现状和发展趋势",
+    "植物运用",
+    "新冠疫情对中国的影响",
+    "并行任务的处理方法、装置、电子设备及存储介质",
+    "土木工程",
+    "学术趋势",
+    "钢筋混凝土结构",
+    "香港历史课",
+    "当代婚姻幸福感",
+    "当代婚姻幸福感",
+    "嵌入式系统设计及应用（基于ARM）",
+    "农村电子商务发展现状和对策研究",
+    "学生体质健康管理系统发展趋势",
+    "Emoticon Analysis for Chinese Social Media and E-commerce: The AZEmo System",
+    "室内植物配置",
+    "(室内植物配置) (Degree:'硕士' )",
+    "(关键词:初心和使命) (Language:'chi' )",
+    "关键词:初心和使命",
+    "关键词:初心和使命",
+    "(主题:(TikTok)) (Type:(Periodical OR Thesis OR Conference) )",
+    "library",
+    "library",
+    "(主题:(高校图书馆 OR 'academic libraries')) (Type:'Periodical' )",
+    "(主题:(高校图书馆 OR 'academic libraries')) (Language:'eng' Type:'Periodical' )",
+    "自媒体  评价体系研究",
+    "基于DSP的永磁同步电机",
+    "永磁同步电机控制器硬件电路设计",
+    "(主题:数字媒体艺术) (Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "(主题:(数字媒体艺术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "农村电子商务发展现状和对策研究",
+    "农村电子商务发展现状和对策研究",
+    "Short Video Strategy Analysis from the Self-Media Industry—Taking ByteDance Company as an Example[",
+    "定价",
+    "定价策略",
+    "网络广告定价策略研究",
+    "室内植物配置",
+    "植物运用",
+    "室内植物配置",
+    "室内植物配置",
+    "软装饰的设计风格营造",
+    "(室内植物配置) (ClassCodeForSearch:'0/X' )",
+    "室内植物配置",
+    "(室内植物配置) (Type:'Thesis' )",
+    "(主题:(初心和使命)) (CorePeriodical:'PKU' Type:'Periodical' )",
+    "(主题:(初心和使命)) (Type:'Periodical' )",
+    "(主题:(初心和使命)) (Type:'Periodical' )",
+    "大数据，学生体质健康",
+    "(主题:(Short video)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(幼儿园设计) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))",
+    "(数字媒体艺术) (Language:'eng' )",
+    "(环境设计) (Type:'Periodical' )",
+    "(混泥土的应用) (Language:'chi' )",
+    "混泥土的应用",
+    "基于道路模拟激励谱的 AMT 执行机构虚拟振动试验方法研究",
+    "大学生理想信念的调查研究",
+    "(主题:数字媒体艺术) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(数字媒体艺术)) (Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "基于DSP的永磁同步电机",
+    "基于DSP的永磁同步电机控制器硬件电路设计",
+    "GARCH模型对股票波动性的分析",
+    "方媛金融",
+    "人工智能",
+    "大学生幸福感",
+    "大学生对婚姻",
+    "大学生对婚姻获得幸福感",
+    "(植物运用) (Type:'Cstad' )",
+    "新冠疫情对中国的影响",
+    "植物运用",
+    "(室内植物) (Type:'Thesis' )",
+    "新冠疫情对中国的影响",
+    "基于灰色关联度的大学生体质健康测试系统的设计与实现",
+    "智能交通国内外研究现状分析",
+    "论电商的发展方向",
+    "论电商的发展方向",
+    "钢筋混凝土结构",
+    "人工智能技术难题",
+    "人工智能",
+    "基于STM32永磁同步电机",
+    "植物运用",
+    "(室内植物) (SingleSourceDB:(WF) )",
+    "(新冠疫情对中国的影响) (Language:'eng' )",
+    "((西宁居民消费价格指数) 关键词:'价格总指数') 关键词:'价格总指数'",
+    "智能交通灯",
+    "基于灰色关联度的大学生体质健康测试系统的设计与实现",
+    "多普勒效应振动",
+    "论电商的发展方向",
+    "学术趋势",
+    "STM32",
+    "(主题:(钢筋混凝土)) (Type:'Periodical' )",
+    "(主题:(钢筋混凝土)) (Type:'Periodical' )",
+    "(主题:(钢筋混凝土)) (Language:'eng' Type:'Periodical' )",
+    "(主题:(钢筋混凝土)) (Type:'Periodical' )",
+    "智慧校园",
+    "(主题:(library)) (Type:'Periodical' )",
+    "(主题:(高校图书馆 OR 'academic libraries')) (Language:'eng' Type:'Periodical' )",
+    "library",
+    "advertising design",
+    "(主题:(初心和使命)) (Type:'Periodical' )",
+    "抖音  评价体系研究",
+    "电子产品数据",
+    "网络广告定价策略",
+    "网络广告定价策略研究",
+    "(网络广告定价策略研究) 关键词:网络广告",
+    "幼儿园设计",
+    "香港历史课",
+    "当代婚姻幸福感",
+    "香港历史课",
+    "环境设计",
+    "新冠疫情对中国的影响",
+    "西宁居民消费价格指数",
+    "(室内植物) (Type:'Thesis' SingleSourceDB:(WF) )",
+    "(植物运用) (Type:'Periodical' )",
+    "植物运用",
+    "室内植物",
+    "环境设计",
+    "论电商的发展方向",
+    "(论电商的发展方向) (Language:'chi' )",
+    "论电商的发展方向",
+    "香港历史课",
+    "基于STM32的永磁同步电机",
+    "(主题:(钢筋混凝土)) (Language:'eng' Type:'Periodical' )",
+    "移动互联网",
+    "信息新技术",
+    "室内设计艺术与建筑艺术",
+    "(室内设计艺术与建筑艺术) (Language:'chi' )",
+    "室内设计艺术与建筑艺术",
+    "软装饰的设计风格营造",
+    "室内植物配置",
+    "软装饰在室内设计中的设计风格营造",
+    "体质健康管理系统",
+    "学生体质健康现状",
+    "视频  评价体系研究",
+    "斯物尚存,南北竞秀——南北园林特征对比分析",
+    "TikTok",
+    "(主题:(TikTok)) (Type:(Periodical OR Thesis OR Conference) )",
+    "电子产品数据分析报告2020",
+    "电子产品数据分析报告",
+    "人工智能技术风险",
+    "(当代婚姻幸福感) AND (((((Type:Periodical AND (((SingleSourceDB:WF) AND (HasFulltext:true) AND (ServiceMode:1))))) OR (IsOA:true)  OR (Type:Nstr) OR ((Type:Periodical AND SingleSourceDB:ISTIC)) OR (IsOA:true)  OR (Type:Thesis AND SingleSourceDB:ISTIC))))",
+    "(植物运用) (Type:'Periodical' )",
+    "植物",
+    "智能交通国内外研究现状和发展趋势",
+    "基于灰色关联度的大学生体质健康测试系统的设计与实现",
+    "多普勒效应",
+    "香港历史课",
+    "(主题:(钢筋混凝土)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(钢筋混凝土)) (Type:'Periodical' )",
+    "((主题:(数字媒体艺术)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "数字媒体艺术",
+    "((主题:数字媒体艺术) AND (((Type:Periodical AND ((SingleSourceDB:('Arxiv' OR 'Cambridge' OR 'CSCanada' OR 'David' OR 'DG' OR 'Doaj' OR 'EDP' OR 'EMS' OR 'Exeley' OR 'GJZXSHKXXSQKSJK' OR 'HighWire' OR 'ICT' OR 'IOP' OR 'ISTIC' OR 'J-STAGE' OR 'KISTI' OR 'MDPI' OR 'MECS' OR 'Open J-Gate' OR 'OUP' OR 'PubMed' OR 'SAGE' OR 'SCHOLINK' OR 'SCIRP' OR 'Taylor' OR 'TTP' OR 'WILEY' OR 'WK' OR 'WSJS' OR 'NSTL' OR 'Anglo-American' OR 'Atlantis' OR 'E-Discovery' OR 'ScientificScholar' OR 'ITS' OR 'SCISCAN' OR 'Damray' OR 'Hill' OR 'OAJRC' OR 'Hapres' OR 'Pulsus Group' OR 'New Delhi Publisher' OR 'Project MUSE')))) OR (Type:Conference AND SingleSourceDB:NSTL) OR (Type:Patent NOT CountryOrganization:CN) OR (Type:Nstr AND ReportRange:国外报告) OR (Type:Standard AND SingleSourceDB:科睿唯安)))) (Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "电子信息工程的发展意义",
+    "移动互联网的应用",
+    "活力课堂教学评价体系的研究",
+    "评价体系研究",
+    "全国学生体质健康现状",
+    "我国青少年学生体质健康及监测管理现状研究",
+    "评价体系研究",
+    "大数据在安防领域的应用",
+    "电子产品鉴别",
+    "电子产品分析",
+    "混泥土的应用",
+    "电子信息工程",
+    "数字媒体艺术现代绘画",
+    "数字媒体艺术",
+    "人工智能"
+  ]
+}

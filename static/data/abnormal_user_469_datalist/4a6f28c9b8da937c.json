@@ -1,0 +1,777 @@
+{
+  "下载": [
+    {
+      "id": "rjgcs201912009",
+      "title": "基于区块链的贵重物品可追溯交易平台设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201804005",
+      "title": "医疗大数据平台数据高并发方案设计与关键技术分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201807007",
+      "title": "基于区块链的身份管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201903015",
+      "title": "区块链CNWW3标准的公链搭建子链及其应用部署",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201805009",
+      "title": "冷链物流公共服务平台运营模式分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201804009",
+      "title": "区块链技术与食品安全追溯",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjtt201904007",
+      "title": "金融环境视域下地方政府隐性债务风险影响因素分析",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "sdjr-z201704176",
+      "title": "我国公司债信用利差影响因素分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201901004",
+      "title": "基于多变量二次方程的抗量子区块链快速签名算法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201911004",
+      "title": "一种智能化人体健康信息监测与交互系统设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201908009",
+      "title": "基于Python的招聘网站信息爬取与数据分析",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "zgzdsbjs201905007",
+      "title": "智能集装箱物联网系统关键技术解析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xinny201904003",
+      "title": "智慧农业的智慧",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201806014",
+      "title": "基于128码的烟酒防伪溯源系统设计与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "slxk-zrkx201903020",
+      "title": "区块链推动下的物联网安全研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njxxgcdxxb201905010",
+      "title": "基于Fabric区块链的智能合约协同开发系统",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcyyy201921015",
+      "title": "基于双区块链的用电数据收集方案设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jfjyyglzz201907013",
+      "title": "区块链助力电子医疗数据共享",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjcyyk201910023",
+      "title": "区块链在网络空间安全管理中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bfjtdxxb201905008",
+      "title": "一种面向区块链的优化PBFT共识算法",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonggsm201921014",
+      "title": "基于区块链技术的共享单车服务研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjkx201911001",
+      "title": "区块链系统中智能合约技术综述",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "jlny201709010",
+      "title": "商务部工业和信息化部公安部农业部质检总局国家安全监管总局食品药品监管总局等七部门关于推进重要产品信息化追溯体系建设的指导意见",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcz201521026",
+      "title": "美国市政债券市场发展情况及对我国地方债的借鉴意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjstx98201911009",
+      "title": "我国区块链研究现状及热点分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "njydxyxb201905008",
+      "title": "区块链技术安全威胁分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jscxgy201911019",
+      "title": "基于区块链的油料装备全寿命管理研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjfz201911033",
+      "title": "基于区块链的远程数据验证协议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szszxb201911016",
+      "title": "基于区块链3.0架构的身份认证系统",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "zgzdsbjs201805011",
+      "title": "区块链将颠覆航运业",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201809005",
+      "title": "国产办公信息系统若干关键问题研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zxqykj201909047",
+      "title": "基于区块链技术的可信电子签名应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njxxgcdxxb201905012",
+      "title": "基于区块链的医疗数据云存储共享方案",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "gjstx98201910002",
+      "title": "基于Fabric架构的区块链机房管理系统设计",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzdsbjs201905013",
+      "title": "基于.net QRCoder实现的二维码",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201904008",
+      "title": "GS1与ISO因标准而合作GS1医疗物码同追进阶",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgkjyjj200711015",
+      "title": "美国债券市场发展经验借鉴",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcyyy201920002",
+      "title": "区块链关键技术的研究进展",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "ncjjgl201911006",
+      "title": "基于区块链的农产品溯源体系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcyyy201922004",
+      "title": "针对区块链应用的查询优化模型",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "njxxgcdxxb201905007",
+      "title": "基于区块链的论文评审及追溯系统",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mmxb201904001",
+      "title": "区块链共识机制研究综述",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "dzjsyy201910006",
+      "title": "基于区块链的版权保护方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxwxjsjxt201911015",
+      "title": ".基于区块链的物联网数据共享模型",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201902007",
+      "title": "基于EPCIS标准和区块链技术的追溯系统设计",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "caiz201929194",
+      "title": "五四运动时期知识分子关于马克思主义学说观点综述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201910002",
+      "title": "基于CNWW3区块链网络的域名体系",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201907019",
+      "title": "智慧城市管理大数据采集及应用探究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201909008",
+      "title": "基于大数据的无线传感网络数据采集的研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "wxjyyy201907018",
+      "title": "基于物联网的花卉养护远程监控系统设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201904014",
+      "title": "基于条码和区块链技术的新能源汽车缺陷电池召回追溯研究",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzdsbjs201802015",
+      "title": "完善图书馆RFID应用标准实现图书馆服务智能化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201801011",
+      "title": "基于EPC地址解析的食品安全电子追溯技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201905008",
+      "title": "NFC技术迭代发展催生防伪溯源新应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlgdxxb201911011",
+      "title": "基于区块链存储扩展的结构化数据管理方法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgszyx201908037",
+      "title": "基于区块链技术的PACS研究与应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkjdxxb201906013",
+      "title": "基于环签名的医疗区块链隐私数据共享模型",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgc201905001",
+      "title": "区块链技术综述",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "txjs201908032",
+      "title": "基于区块链的隐私保护数据共享",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "scdxxb201903012",
+      "title": "基于区块链技术的学籍管理系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zghh201903009",
+      "title": "基于区块链技术的海事信息管理场景应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201906020",
+      "title": "某研究院业务平台系统设计和关键技术分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201910001",
+      "title": "区块链在工业控制领域中的应用探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201908006",
+      "title": "大数据环境下医疗数据隐私保护对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201911003",
+      "title": "面向现代数字城市的云平台研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201904003",
+      "title": "SC31联合我国龙头企业助推国际自动识别和数据采集技术标准发展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201903011",
+      "title": "单元化物流在供应链管理中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzdsbjs201905014",
+      "title": "基于GS1的婴幼儿奶粉供应链召回解决方案",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201803011",
+      "title": "GS1编码在气瓶管控追溯中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201811024",
+      "title": "区块链技术在民航领域的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201903013",
+      "title": "发布区块链CNWW3标准的高并发快速交易及交易验证体系模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201901003",
+      "title": "工控系统安全监测及溯源系统的设计与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjrxyxb201805006",
+      "title": "区块链创新应用误区的一些分析与反思",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxaqxb201905007",
+      "title": "物链网综述:区块链在物联网中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201924126",
+      "title": "区块链技术在医疗领域的应用研究综述",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201932076",
+      "title": "基于区块链的电子印章管理系统的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wxjyyy201910003",
+      "title": "基于区块链技术的供应链融资创新研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201907008",
+      "title": "深度学习常用优化算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201901013",
+      "title": "Python使用PIL库识别条码及其可译码度的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201803008",
+      "title": "冷链物流公共信息服务平台中物品编码标识设计原则",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201904015",
+      "title": "二维条码在手机召回中的应用案例设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201901012",
+      "title": "二维码信息安全标准化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjxtyy201911023",
+      "title": "基于区块链和DNSSEC的身份认证模型",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "cwyj201805009",
+      "title": "公司债券限制性契约条款影响因素与经济后果文献评述",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201906018",
+      "title": "基于WebService的数字城管对接机制完善",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201904017",
+      "title": "基于区块链的数字版权登记技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wlkj201812033",
+      "title": "区块链在供应链物流中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjs201908078",
+      "title": "区块链构建新一代物流信息化体系的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjxb201909005",
+      "title": "基于区块链的大数据访问控制机制",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd201907024",
+      "title": "基于区块链的物流服务供应链应用模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201903008",
+      "title": "RFID技术助力危险废物综合处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201902006",
+      "title": "“两会”专家谈万物互联新时代",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzdsbjs201803012",
+      "title": "全球医药包装八大趋势",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201903014",
+      "title": "区块链下电力数据的统一监管与共享交易模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201901021",
+      "title": "基于区块链的云制造平台系统架构模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wxjyyy201811009",
+      "title": "基于区块链的智慧云制造系统安全架构",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlgcygl201811027",
+      "title": "新电商背景下电商平台供应链转型两种模式的比较 ——以拼多多和京东为例",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgzlxxcy201822072",
+      "title": "浅谈物联网时代的物流与供应链管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zncjzfdxxb201903015",
+      "title": "供应链中断应对策略研究评述",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "scxdh201919010",
+      "title": "基于供应链的企业采购管理策略研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syjlr201824041",
+      "title": "基于供应链网络整合视角下的供应商管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lltt201902016",
+      "title": "供应链金融服务新型框架探讨:区块链+大数据",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjjyglyj201805009",
+      "title": "基于物联网的供应链管理模式创新优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcy201905051",
+      "title": "区块链技术对物流供应链的重塑",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201825045",
+      "title": "绿色供应链研究评述",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdtsqbjs201811006",
+      "title": "大数据背景下基于LMBP算法的供应链绩效评价与优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201902060",
+      "title": "如何有效借助云数据的优势为现代供应链管理服务",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cwykj201918015",
+      "title": "D公司数字化转型下的价值链协同管理",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd201806010",
+      "title": "工业4.0时代商业大数据技术智能供应链的模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgltjj201912006",
+      "title": "供应链弹性如何影响供应链绩效:可持续性的中介效应",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "glpl201803020",
+      "title": "零售商主导下TPL介入的生鲜农产品供应链契约效率评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "myjjjsgdzkxxxb202001012",
+      "title": "全要素视角下绿色供应链企业运营效率评价研究 ——以绿色供应链上市企业为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201908069",
+      "title": "浅谈基于供应链管理的成本管控在企业的应用 ——以F公司为例",
+      "download_times": 3,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "西安交通大学学报",
+    "西安交通大学学报 *(年份:2009)",
+    "(electrostat) (PublishYear:'1997' )",
+    "((journal of electrostatics) 作者:sun B",
+    "朱梦筠",
+    "((journal of electrostatics) 作者:sugiarto ) (Language:'eng' )",
+    "() 作者:朱梦筠",
+    "西安交通大学学报 *(年份:2009)",
+    "西安交通大学学报 *(年份:2009)",
+    "dielectric breakdrown of water",
+    "electrostat",
+    "混相高压脉冲放电法处理染料废水的研究",
+    "dielectric breakdrown of water",
+    "周庭蓉",
+    "高尿酸血症和痛风治疗中国专家共识",
+    "ASPEN",
+    "中国女性乳腺癌筛查指南",
+    "肝癌的筛查和诊断",
+    "中国胃食管反流病专家共识意见（2014年）",
+    "肠内营养",
+    "曹建",
+    "叶轮  现状",
+    "叶轮  历史",
+    "叶轮  历史",
+    "中国急性缺血性脑卒中诊治指南",
+    "中国早期胃癌筛查",
+    "甲状腺结节超声诊断规范",
+    "血脂异常基层诊疗指南",
+    "中国高血压防治指南",
+    "ASPEN",
+    "叶轮  现状   焊接",
+    "叶轮  最新",
+    "叶轮  历史",
+    "PID  焊接",
+    "ANSYS焊接",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "叶轮  历史",
+    "鲁新建",
+    "buried bumper syndrome",
+    "buried bumper syndrome",
+    "(奥马珠单抗) Date:2017-2020",
+    "(奥马珠单抗) Date:2017-2020",
+    "buried bumper syndrome",
+    "国家基层糖尿病防治管理指南",
+    "颈动脉狭窄诊治指南",
+    "中国恶性肿瘤流行情况分析（ 2015年）",
+    "景观设计",
+    "肺结节诊治中国专家共识",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "buried bumper syndrome",
+    "奥马珠单抗",
+    "脑卒中，肠内营养",
+    "肠内营养",
+    "肠内营养，吞咽",
+    "肠内营养",
+    "PID  焊缝",
+    "PID  焊接",
+    "buried bumper syndrome",
+    "奥马珠单抗",
+    "(ASPEN) (ClassCodeForSearch:'0/R' )",
+    "ASPEN",
+    "肠内营养",
+    "肠内营养",
+    "肠内营养",
+    "景观设计",
+    "ANSYS焊接",
+    "ANSYS焊接 系统辨识",
+    "ANSYS焊接 速度",
+    "PID  焊接",
+    "PID  焊接",
+    "PID  焊接  图像视觉",
+    "肠内营养",
+    "肠内营养",
+    "PID  焊接",
+    "PID  焊接",
+    "ANSYS焊接",
+    "PID  焊缝",
+    "PID  焊接  图像视觉",
+    "奥马珠单抗",
+    "国早期结直肠癌筛查及内镜诊治指南",
+    "中国成人失眠伴抑郁焦虑诊治专家共识",
+    "PID  焊接  图像视觉"
+  ]
+}

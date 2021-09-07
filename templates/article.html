@@ -42,25 +42,30 @@
     </div>
     <div id="right-charts-article">
         <div id="right-charts-0">
-            <div id="word-cloud">
+            <div id="article-line">
 
             </div>
-            <input id="month-select" type="number" value="1"  min="1" max="12" placeholder="月份"/>
             <div id="circle-packing">
 
             </div>
+            <select id = "select_view">
+                <option value="ratio" selected>比率图</option>
+                <option value="circle">气泡图</option>
+            </select>
+
         </div>
         <div id="right-charts-1">
             <div id="line">
             </div>
             <select id = "select_time">
-                    <option value="day" selected>星期</option>
-                  <option value="hour">小时</option>
-                  <option value="month">月份</option>
+                <option value="day" selected>星期</option>
+                <option value="hour">小时</option>
+                <option value="month">月份</option>
              </select>
-            <div id="article-line">
+            <div id="word-cloud">
 
             </div>
+            <input id="month-select" type="number" value="1" placeholder="月份"/>
         </div>
     </div>
 

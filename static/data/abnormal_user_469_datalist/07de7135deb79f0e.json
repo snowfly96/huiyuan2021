@@ -1,0 +1,330 @@
+{
+  "下载": [
+    {
+      "id": "zhonggsm201314021",
+      "title": "中小企业信息化实施成败的思考",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjwt201303019",
+      "title": "中小企业信息化建设研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxb200502004",
+      "title": "弹道修正弹末段脉冲推力控制研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201703025",
+      "title": "采用CAN总线的生产现场监控系统的设计与实现",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxyxb200703010",
+      "title": "AE/VTMS二元共聚物的合成研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh200504009",
+      "title": "弹丸阻力系数辨识模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201613053",
+      "title": "云计算在中小企业信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201606038",
+      "title": "基于EKF的机载光电吊舱目标定位研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xtfzxb200704040",
+      "title": "气动和结构多学科优化设计过程集成技术研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb200502028",
+      "title": "末段修正迫弹主要参数确定方法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "njlgdxxb200403026",
+      "title": "火箭炮射表编拟及发射诸元快速装定研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "bgxb200803015",
+      "title": "速度追踪制导律制导回路建模及解析分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjmdk201633038",
+      "title": "基于信息化的中小企业供应链管理研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201615020",
+      "title": "“互联网+”时代下的企业信息化管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb200703019",
+      "title": "发射装药挤压破碎对燃烧规律的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ccgcxyxb-shkx201903011",
+      "title": "皖北中小企业内部控制信息化途径探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jskjxx201925007",
+      "title": "新经济环境下中小企业信息化发展的机遇与挑战",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200805056",
+      "title": "基于正交试验设计法的弹道参数优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzyxb200705010",
+      "title": "CL-20的催化热分解行为及非等温分解反应动力学",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jhxk201206039",
+      "title": "中小企业信息化建设模式创新的取向与路径——基于云计算的分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxgys201303009",
+      "title": "云制造环境下中小企业信息化建设思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201212145",
+      "title": "基于中小企业EIP系统的集成信息管理平台总体设计",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201235057",
+      "title": "中小企业信息化建设模式研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gyjsjj200809012",
+      "title": "中小企业信息化的若干问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201207128",
+      "title": "试论面向电子商务的企业信息化网络平台建设",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zsddkzjs200602025",
+      "title": "靶场外弹道试验弹丸速度测定研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb200704006",
+      "title": "弹道修正弹六自由度弹道仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgzdh200503011",
+      "title": "弹道修正弹丸的脉冲控制参数设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdjjxx201924053",
+      "title": "浅议信息化背景下的中小企业管理创新",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "djyzdxb200303021",
+      "title": "欧拉方程计算气动力时的粘性修正研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh201918041",
+      "title": "'云会计'在中小企业会计信息化中的应用分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hzjjykj201922050",
+      "title": "中小企业预算管理探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb201706038",
+      "title": "基于EKF的机载光电吊舱目标定位研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shanddz201908061",
+      "title": "基于诺兰模型的中小企业信息化建设策略分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bgxb200707007",
+      "title": "末段修正迫弹激光探测器及目标方位模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200501017",
+      "title": "末段修正迫弹脉冲修正方案研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjglyj200809087",
+      "title": "基于供应链的中小企业信息化策略研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjgydxxb201006021",
+      "title": "中小企业信息化应用能力的综合评价体系及方法的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxsjyzz201203084",
+      "title": "面向中小企业信息化的云服务选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201206070",
+      "title": "中小企业信息化建设探析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd200914024",
+      "title": "谈中小企业非适度信息化的成因及其防范",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxgys201210009",
+      "title": "中小企业信息化软件选型研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200404054",
+      "title": "弹道修正弹追踪制导律研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddxb200304005",
+      "title": "对比试验法在射表编制中的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200602191",
+      "title": "气动和结构多学科设计优化的需求和流程研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xfdk201945206",
+      "title": "面向中小企业信息化建设的ASP服务平台",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xxzyglxb201601011",
+      "title": "智能时代中小企业信息化(二)——信息环境、信息化现状与信息化战略",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qygl201901039",
+      "title": "世邦:云上的ERP",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzcs201615088",
+      "title": "中小企业信息化系统建设及综合应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "djyzdxb200403004",
+      "title": "地空导弹视线指令制导系统目标跟踪装置模型研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "syhj201414046",
+      "title": "云计算与中小企业信息化建设模式研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangssl200504025",
+      "title": "中小企业信息化建设探讨",
+      "download_times": 2,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "作者:徐劲祥",
+    "关键词:中小企业信息化",
+    "作者:'林瑞雄' 作者单位:北京理工大学",
+    "作者:'张鸿端' 作者单位:北京理工大学",
+    "关键词:中小企业信息化",
+    "关键词:中小企业 信息化",
+    "关键词:中小企业信息化",
+    "关键词:中小企业信息化",
+    "关键词:中小企业信息化",
+    "关键词:中小企业 信息化",
+    "作者:徐劲祥"
+  ]
+}

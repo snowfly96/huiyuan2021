@@ -21,7 +21,6 @@
     position: absolute;
     z-index:99
 }
-
 #word-cloud{
     padding: 10px;
     width: 45%;
@@ -58,6 +57,19 @@
     font-size: 18px;
     position: absolute;
     z-index:99
+}
+
+#select_view{
+    position: absolute;
+    z-index:99;
+    left: 88%;
+    top: 8%;
+}
+#select_type{
+    position: absolute;
+    z-index:99;
+    left: 80%;
+    top: 4%;
 }
 
 #line{

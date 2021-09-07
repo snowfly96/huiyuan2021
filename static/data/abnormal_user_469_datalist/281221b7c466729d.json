@@ -1,0 +1,585 @@
+{
+  "下载": [
+    {
+      "id": "rmlt202001037",
+      "title": "特朗普'美国优先':实用主义者的文明冲突与霸权",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjjyglyj201912013",
+      "title": "开放经济、比特币流动与资本外逃研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ylwszb202001022",
+      "title": "基于深度学习的器官自动分割研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdgydxxb202001014",
+      "title": "多旋翼无人机自主精准降落的控制系统研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "wjfz201912011",
+      "title": "基于深度学习的文本特征提取研究综述",
+      "download_times": 7,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy202001005",
+      "title": "基于深度学习的点云分割方法综述",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "hbkjdx201905006",
+      "title": "动态步长BI-RRT的无人机航迹规划算法",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcyyy202002003",
+      "title": "基于深度学习的图像语义分割技术研究进展",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "jsjyszgc201912048",
+      "title": "基于深度学习的遥感图像新增建筑物语义分割",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jscxgy201912016",
+      "title": "高空长航时无人机工作环境特性",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zggl201723009",
+      "title": "江苏:综合管理无人机公路应用平台",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdgc202001008",
+      "title": "基于深度学习检测器的多角度人脸关键点检测",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jcdzgc201607008",
+      "title": "复杂环境下无人飞行器航路规划技术研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyszgc201912049",
+      "title": "基于深度学习哈希算法的快速图像检索研究",
+      "download_times": 8,
+      "browse_times": 0
+    },
+    {
+      "id": "jxydz201912006",
+      "title": "某无人机载雷达挂架结构设计",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "sjcjycl201906003",
+      "title": "5G移动通信测试技术进展与挑战",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "jcdzgc202001014",
+      "title": "无人机多目标定位算法研究",
+      "download_times": 9,
+      "browse_times": 6
+    },
+    {
+      "id": "jcdzdk201905015",
+      "title": "一种改进的粒子群优化算法及其在无人机航路规划中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gjstx98201303014",
+      "title": "FFT-CZT技术在单天线LFMCW无线电高度表中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dianxjs201912004",
+      "title": "一种无人机载超视距通信系统",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "dzjsyy201209039",
+      "title": "基于GIS的城市电磁环境仿真平台实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "szyxsj201912114",
+      "title": "4G改变生活5G改变社会-5G业务应用",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kjf201725011",
+      "title": "无人机管理控制平台数据库设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjdl201812006",
+      "title": "基于地理信息系统的输电线路无人机巡检管理平台研究与实现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dgykz202001018",
+      "title": "模型不确定及干扰下固定翼无人机姿态控制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hykfygl201912014",
+      "title": "基于无人机平台的海域监管关键技术及其应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dbch201912045",
+      "title": "无人机空地一体化建模技术",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kjgcdxxb201606006",
+      "title": "竞争量子进化算法的巡航导弹航路规划与重规划方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy202002032",
+      "title": "面向轨迹规划的深度强化学习奖励函数设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqysy201906025",
+      "title": "无人机油气管线巡线数据管理系统研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjkx201912041",
+      "title": "基于深度学习的交通信号灯快速检测与识别",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bjhkhtdxxb201909019",
+      "title": "基于深度学习的无人机数据链信噪比估计算法",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "whjtkjdxxb200703003",
+      "title": "电子战跳频接收机的互调抑制设计和测试",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "bjhkhtdxxb200612005",
+      "title": "运动目标RCS特性分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs200607004",
+      "title": "35 GHz与94 GHz毫米波雷达目标特征比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzjsyy201211033",
+      "title": "箭载共形相控阵卫星数据链通信仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjzdclykz201304079",
+      "title": "复杂电磁环境下电子系统抗干扰性能仿真平台设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs200605013",
+      "title": "复杂雷达动目标建模及动态RCS分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tsggzyyj201912013",
+      "title": "图书馆5G技术应用策略探讨",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jryjj201909008",
+      "title": "比特币研究新进展:属性、乱象与监管",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzjsyy201912012",
+      "title": "基于深度学习的图像分类搜索系统",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "tzycy201910023",
+      "title": "比特币等虚拟货币的基本原理及其风险与冲击",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ydtx201912007",
+      "title": "基于AI的5G基站节能技术研究",
+      "download_times": 8,
+      "browse_times": 5
+    },
+    {
+      "id": "dangdsj201912013",
+      "title": "特朗普执政以来美国国内气候政策评析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ydtx201912006",
+      "title": "5G网络切片及其应用",
+      "download_times": 7,
+      "browse_times": 6
+    },
+    {
+      "id": "bjhkhtdxxb200603003",
+      "title": "基于改进蚁群算法的低空突防航迹规划",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hlyzhkz201502038",
+      "title": "改进型Voronoi图和动态权值A*算法的无人机航迹规划",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdfyjs201804004",
+      "title": "采用层次分解策略的多机协同航路规划",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs201807013",
+      "title": "地面运动目标的多UAV协同搜索方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy201909032",
+      "title": "基于Kinect的体育运动辅助训练研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk201931037",
+      "title": "比特币取代法币的可能性分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "rjxb201910007",
+      "title": "面向比特币交易网络的拓扑结构可视探索方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zglnxzz201922027",
+      "title": "基于4D-CT扫描的调强放疗对老年肝癌患者恶性生物学指标的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhwswxhmyx202001002",
+      "title": "2019新型冠状病毒肺炎治疗研究现状",
+      "download_times": 73,
+      "browse_times": 87
+    },
+    {
+      "id": "dzjsyy201912008",
+      "title": "面向5G的车联网安全业务研究",
+      "download_times": 6,
+      "browse_times": 2
+    },
+    {
+      "id": "jjyjdk201933004",
+      "title": "特朗普税改对全球经济的影响述评及对中国经济的影响分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dzkxxk200707038",
+      "title": "雷达目标特征数据库在雷达组网仿真上的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ydtx201912014",
+      "title": "5G室内分布系统解决方案",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "jsjxtyy201912002",
+      "title": "基于深度学习的视频语义分割综述",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "mmxb201902001",
+      "title": "比特币隐私保护综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fzysh201926033",
+      "title": "浅析比特币的法律属性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jszy202002030",
+      "title": "新型冠状病毒感染的肺炎诊疗方案(试行第五版)",
+      "download_times": 15,
+      "browse_times": 18
+    },
+    {
+      "id": "jsjyyyrj201911007",
+      "title": "影响区域房价的客观因素挖掘分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy201905001",
+      "title": "自适应确定DBSCAN算法参数的算法研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjlgdxxb-shkxb201906011",
+      "title": "基于供求关系的房价波动分析",
+      "download_times": 10,
+      "browse_times": 6
+    },
+    {
+      "id": "yhxb201911008",
+      "title": "基于深度学习的组合体航天器模型预测控制",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "fdgjgxpl201902009",
+      "title": "政治修辞视角下特朗普政府对华政策的话语战略探究",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "dangdsj201911011",
+      "title": "美国特朗普政府的移民政策及其影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "dxkx201910003",
+      "title": "面向5G/B5G的智能云化网络架构",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "dzjsyy201912005",
+      "title": "基于5G确定化网络的行业应用研究",
+      "download_times": 8,
+      "browse_times": 2
+    },
+    {
+      "id": "chgc202001007",
+      "title": "无人机有效航片快速筛选算法研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "smsj201911127",
+      "title": "无人机指挥控制系统交互设计研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs202001014",
+      "title": "混合种群 RRT无人机航迹规划方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjgcyyy201922003",
+      "title": "深度学习算法研究进展",
+      "download_times": 8,
+      "browse_times": 3
+    },
+    {
+      "id": "qgsj201936077",
+      "title": "基于无人机低空航摄的地形图测绘应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ranj201901019",
+      "title": "浅谈大型无人机平台应用建设新模式",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxyxjs201912012",
+      "title": "深度学习在脑肿瘤医学图像研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjxtyy202001006",
+      "title": "基于深度学习算法的卫星影像变化监测",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jcdzgc202001001",
+      "title": "美军无人机近距空中支援作战行动规则研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ydtx201910005",
+      "title": "5G核心网安全解决方案",
+      "download_times": 9,
+      "browse_times": 1
+    },
+    {
+      "id": "bjlgdxxb201911010",
+      "title": "深度学习源代码缺陷检测方法",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzsjgc201924028",
+      "title": "基于深度学习的数据交互信息网络安全评估方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzcs201924017",
+      "title": "基于深度学习的汉字书法识别研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lykjkf202001022",
+      "title": "基于无人机航测数据的森林郁闭度和蓄积量估测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "scbgxb201911025",
+      "title": "集群无人机通信控制方式",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zgtxtxxb-a201912001",
+      "title": "深度学习的目标跟踪算法综述",
+      "download_times": 5,
+      "browse_times": 6
+    },
+    {
+      "id": "bgzdh201911019",
+      "title": "无人机可靠性验收方法",
+      "download_times": 4,
+      "browse_times": 4
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "航路网",
+    "航路网",
+    "无人机信息平台",
+    "无人机管理",
+    "赵民强",
+    "比特币",
+    "深度学习",
+    "陶志军",
+    "无人机",
+    "深度学习",
+    "无人机应用平台",
+    "无人机应用平台",
+    "蒋莹",
+    "特朗普",
+    "朱一龙",
+    "蒋莹",
+    "房价",
+    "无人机接口控制",
+    "大疆无人机",
+    "吕睿婧",
+    "无人机应用平台",
+    "无人机管理平台",
+    "陶志军",
+    "陶志军",
+    "无人机数据分析平台",
+    "冠状病毒",
+    "无人机管理平台",
+    "粉圈",
+    "深度学习",
+    "无人机三维地图开发",
+    "深度学习",
+    "无人机场",
+    "无人机信息平台",
+    "5G",
+    "公安网",
+    "大疆无人机对接",
+    "无人机",
+    "5G",
+    "无人机管理平台",
+    "人工智能",
+    "无人机三维地图",
+    "三维地图开发",
+    "无人机测绘",
+    "冠状病毒",
+    "无人机指挥控制",
+    "无人机使能平台",
+    "无人机信息平台",
+    "房价",
+    "肖战",
+    "无人机",
+    "无人机测绘",
+    "无人机应用平台",
+    "陶志军",
+    "陶志军",
+    "蒋莹",
+    "无人机数据分析平台"
+  ]
+}

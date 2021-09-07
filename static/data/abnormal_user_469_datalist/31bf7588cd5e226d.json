@@ -1,0 +1,815 @@
+{
+  "下载": [
+    {
+      "id": "tianjdxxb-shkx201402007",
+      "title": "基于GIS技术与公共服务设施视角的农村居民点用地适宜性评价——以长兴县为例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201127186",
+      "title": "生鲜农产品物流中心选址的优化研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdxxb201804007",
+      "title": "基于AHP与GIS技术的24h便利店选址适宜性评价研究——以厦门市思明区为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201911077",
+      "title": "新型城镇化视角下河南省农产品物流的发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dyyjykf201805008",
+      "title": "陕南移民工程选址空间适宜性评价——以陕西省西乡县为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ybdxxb-zrkxb200901023",
+      "title": "基于GIS技术的延吉市市区适宜性住房选址研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx200603014",
+      "title": "GIS在城市生活垃圾卫生填埋场选址中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgltjj201911004",
+      "title": "农产品供应链中物流与电商的协同机制",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "jjyjdk201921015",
+      "title": "基于产供销一体化的农产品物流配送中心构建",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qgsq-jjllyj201921009",
+      "title": "试析农产品物流中心物流发展问题的普遍性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysfxyxb-zr201902004",
+      "title": "基于最大覆盖模型与AHP的选址问题——以辽宁省农产品物流中心选址为例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "zgstbckx2008z1001",
+      "title": "地质灾害易发山区新农村房屋建设选址理论与方法",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jxnydxxb201301036",
+      "title": "基于GIS的梅岭镇农村居民点用地适宜性评价",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjtb201605042",
+      "title": "基于GIS的城市应急避难场所布局研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdxxb201605011",
+      "title": "基于GIS的全龄化社区选址研究——以福州市中心城区为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygch201907035",
+      "title": "我国农产品冷链物流发展策略",
+      "download_times": 10,
+      "browse_times": 7
+    },
+    {
+      "id": "ahnxtb201008001",
+      "title": "新农村建设中的乡镇公园选址要素综述",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scjz201506016",
+      "title": "留住乡愁—山地新农村建设理念探索——以邛崃市灾后重建安置点规划建设为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "czjsyscxdh201701009",
+      "title": "基于AHP和Floyd算法的农产品物流中心选址研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjj201911053",
+      "title": "乡村振兴战略背景下大连市农产品冷链物流发展对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaijj201922144",
+      "title": "加快农村人居环境整治建设生态宜居新农村",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangndxxb201206004",
+      "title": "基于GIS的福州大学城大型书店布局适宜性评价",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdxxb201804007",
+      "title": "基于AHP与GIS技术的24h便利店选址适宜性评价研究——以厦门市思明区为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hzjz201110033",
+      "title": "基于GIS的传统山地村落选址与布局的生态适宜性分析研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zsjjeqy201618002",
+      "title": "农村文化设施建设现状及对策分析——以河南省孟津县为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjj201908052",
+      "title": "大数据视角下农产品商流与物流的区域整合研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jzgc201922048",
+      "title": "互联网+时代生鲜农产品物流的现状、问题和趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201935064",
+      "title": "基于层次分析法的冷链物流供应商选择标准研究",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zhzjs201709006",
+      "title": "孟津:让乡村美起来靓起来",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201906016",
+      "title": "基于AHP的长沙农产品物流园选址评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201107174",
+      "title": "GIS技术在新农村选址中的应用——以河北省邯郸市涉县为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx200603014",
+      "title": "GIS在城市生活垃圾卫生填埋场选址中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjmdk201930022",
+      "title": "加快补齐城乡冷链物流短板全力打通居民消费升级渠道",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xiandaiyx201911060",
+      "title": "我国农产品冷链物流发展策略",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "scxdh201920012",
+      "title": "济南市内陆港核心区农产品物流园规划研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nygch201906033",
+      "title": "低碳经济下农产品物流配送发展对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stxzz200902022",
+      "title": "基于用地适宜性评价的森林公园景点选址",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lnsfdxxb201703016",
+      "title": "基于GIS的自驾车营地建设适宜性评价 ——以大连市旅顺口区为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangndxxb201206004",
+      "title": "基于GIS的福州大学城大型书店布局适宜性评价",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201420033",
+      "title": "基于GIS的虾夷扇贝养殖适宜性综合评价——以北黄海大小长山岛为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201523032",
+      "title": "生态敏感区旅游开发适宜性评价及生态制图方法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201432105",
+      "title": "基于GIS的大理市低丘缓坡建设适宜性评价研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncxkkj201908017",
+      "title": "新农村建设中的农村环境污染问题及对策分析──以河南省为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kxjsygc201914041",
+      "title": "模糊需求条件下物流中心农产品供应链协调",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201127186",
+      "title": "生鲜农产品物流中心选址的优化研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201905230",
+      "title": "陕西党家村的选址及理水生态智慧初探",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shijny201910006",
+      "title": "美国农产品供应链模式借鉴及政策建议",
+      "download_times": 5,
+      "browse_times": 5
+    },
+    {
+      "id": "jjyjdk201913051",
+      "title": "浅析如何降低农产品冷链物流成本",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsnykx201913003",
+      "title": "低碳条件下鲜活农产品冷链物流配送路径优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201911077",
+      "title": "新型城镇化视角下河南省农产品物流的发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnxtb201008001",
+      "title": "新农村建设中的乡镇公园选址要素综述",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gtyzrzyyj201406006",
+      "title": "城市应急避难场所用地适宜性评价--以广州市为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkxjz201310003",
+      "title": "基于指数模型的郑州—洛阳地区史前聚落遗址空间分布",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nyjj201910053",
+      "title": "乡村振兴战略下现代农产品物流发展路径研究",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxbkj201306052",
+      "title": "新农村规划的选址工作",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201916026",
+      "title": "制度变迁视角下我国农产品物流模式发展研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201107174",
+      "title": "GIS技术在新农村选址中的应用——以河北省邯郸市涉县为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjj201805052",
+      "title": "我国生鲜农产品冷链物流配送路径优化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dwjmsw201908023",
+      "title": "'一带一路'背景下黄河流域农产品跨境电商物流系统构建研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnykx201917058",
+      "title": "'互联网'下的农产品物流车辆配送路线研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wljs201810003",
+      "title": "南通市农产品冷链物流现状及问题分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdglkx201905022",
+      "title": "长三角地区生鲜农产品电商物流问题及优化研究——基于冷链供应链管理系统",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "wljs201904004",
+      "title": "山东省生鲜农产品冷链物流发展现状及对策",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "csjz201914009",
+      "title": "新农村建设中生态保护规划探讨 ——以洛阳市孟津县新农村建设规划为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ckyk201923022",
+      "title": "生鲜农产品电商供应链协同模型的构建",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsnykx201915062",
+      "title": "基于区块链技术的农产品物流信息系统模式",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201923001",
+      "title": "城市农产品流通园区创新发展探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "srsfxyxb201806014",
+      "title": "基于GIS技术的山地度假别墅选址分析——以云天海度假村为例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qdjzgcxyxb201004010",
+      "title": "生态规划理念在北方新农村住宅的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxnyxb201210045",
+      "title": "基于GIS的新农村规划选址研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysd201923028",
+      "title": "流通经济时代下农产品物流技术创新探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx201232068",
+      "title": "新农村“迁村并点”村庄规划探究——以平地、香云庄新村为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qcsyjs201611004",
+      "title": "'互联网+新农村'下的配送中心双层选址模型研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjj201911013",
+      "title": "公共管理视角下新农村建设存在的问题及优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzjz201110033",
+      "title": "基于GIS的传统山地村落选址与布局的生态适宜性分析研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "hzjz201110033",
+      "title": "基于GIS的传统山地村落选址与布局的生态适宜性分析研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "qcsyjs201611004",
+      "title": "'互联网+新农村'下的配送中心双层选址模型研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "csjz201914009",
+      "title": "新农村建设中生态保护规划探讨 ——以洛阳市孟津县新农村建设规划为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "lnsfdxxb201703016",
+      "title": "基于GIS的自驾车营地建设适宜性评价 ——以大连市旅顺口区为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb201420033",
+      "title": "基于GIS的虾夷扇贝养殖适宜性综合评价——以北黄海大小长山岛为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201904004",
+      "title": "山东省生鲜农产品冷链物流发展现状及对策",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    }
+  ],
+  "浏览": [
+    {
+      "id": "tianjdxxb-shkx201402007",
+      "title": "基于GIS技术与公共服务设施视角的农村居民点用地适宜性评价——以长兴县为例",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201904004",
+      "title": "山东省生鲜农产品冷链物流发展现状及对策",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "nyjj201805052",
+      "title": "我国生鲜农产品冷链物流配送路径优化研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "kjtb201605042",
+      "title": "基于GIS的城市应急避难场所布局研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "xiandaiyx201911077",
+      "title": "新型城镇化视角下河南省农产品物流的发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "xiandaiyx201911060",
+      "title": "我国农产品冷链物流发展策略",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ybdxxb-zrkxb200901023",
+      "title": "基于GIS技术的延吉市市区适宜性住房选址研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jiangndxxb201206004",
+      "title": "基于GIS的福州大学城大型书店布局适宜性评价",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sysd201923001",
+      "title": "城市农产品流通园区创新发展探讨",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hzjz201110033",
+      "title": "基于GIS的传统山地村落选址与布局的生态适宜性分析研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsnykx201913003",
+      "title": "低碳条件下鲜活农产品冷链物流配送路径优化",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "stxzz200902022",
+      "title": "基于用地适宜性评价的森林公园景点选址",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ahnykx201107174",
+      "title": "GIS技术在新农村选址中的应用——以河北省邯郸市涉县为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx200603014",
+      "title": "GIS在城市生活垃圾卫生填埋场选址中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "nyjj201911053",
+      "title": "乡村振兴战略背景下大连市农产品冷链物流发展对策研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fzdxxb201804007",
+      "title": "基于AHP与GIS技术的24h便利店选址适宜性评价研究——以厦门市思明区为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jjyjdk201913051",
+      "title": "浅析如何降低农产品冷链物流成本",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx201127186",
+      "title": "生鲜农产品物流中心选址的优化研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nyjj201910053",
+      "title": "乡村振兴战略下现代农产品物流发展路径研究",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201922048",
+      "title": "互联网+时代生鲜农产品物流的现状、问题和趋势",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xiandaiyx201911077",
+      "title": "新型城镇化视角下河南省农产品物流的发展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hzjz201110033",
+      "title": "基于GIS的传统山地村落选址与布局的生态适宜性分析研究",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "stxb201420033",
+      "title": "基于GIS的虾夷扇贝养殖适宜性综合评价——以北黄海大小长山岛为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "csjz201914009",
+      "title": "新农村建设中生态保护规划探讨 ——以洛阳市孟津县新农村建设规划为例",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "qcsyjs201611004",
+      "title": "'互联网+新农村'下的配送中心双层选址模型研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lnsfdxxb201703016",
+      "title": "基于GIS的自驾车营地建设适宜性评价 ——以大连市旅顺口区为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "wljs201904004",
+      "title": "山东省生鲜农产品冷链物流发展现状及对策",
+      "download_times": 6,
+      "browse_times": 7
+    },
+    {
+      "id": "xbdxxb201805017",
+      "title": "'一带一路'下农产品物流中心选址研究——以大西安地区为例",
+      "download_times": 8,
+      "browse_times": 6
+    }
+  ],
+  "检索": [
+    "农产品物流",
+    "新农村",
+    "洛阳新农村",
+    "新农村",
+    "农产品物流中心",
+    "新农村",
+    "新农村建设",
+    "农产品物流",
+    "选址适宜性分析",
+    "农产品物流",
+    "新农村选址",
+    "gis选址适宜性",
+    "gis选址适宜性分析",
+    "新农村选址",
+    "洛阳新农村",
+    "洛阳新农村",
+    "农产品交易中心",
+    "新农村建设",
+    "农产品物流",
+    "新农村",
+    "新农村物流中心",
+    "新农村建设",
+    "农产品物流",
+    "农产品物流",
+    "新农村选址",
+    "农产品交易",
+    "农产品物流",
+    "新农村选址",
+    "选址适宜性分析",
+    "农产品物流",
+    "新农村选址",
+    "新农村选址",
+    "gis选址适宜性分析",
+    "gis选址适宜性分析",
+    "新农村",
+    "农产品物流",
+    "选址适宜性分析",
+    "新农村选址",
+    "农产品物流",
+    "新农村选址",
+    "洛阳新农村选址",
+    "洛阳新农村",
+    "新农村选址",
+    "农产品物流",
+    "洛阳新农村",
+    "农产品物流",
+    "选址适宜性分析",
+    "新农村选址",
+    "gis选址适宜性分析",
+    "农产品交易中心",
+    "gis选址适宜性",
+    "农产品物流",
+    "选址适宜性分析",
+    "洛阳新农村",
+    "农产品物流",
+    "洛阳新农村",
+    "新农村选址",
+    "新农村选址",
+    "关键词:公园选址适宜性分析",
+    "选址适宜性分析",
+    "农产品物流中心",
+    "农产品物流中心",
+    "新农村",
+    "新农村建设",
+    "农产品物流中心",
+    "新农村物流中心",
+    "新农村建设",
+    "关键词选址适宜性分析",
+    "关键词:GIS选址适宜性分析",
+    "关键词:公园选址适宜性分析",
+    "关键词:选址适宜性分析",
+    "农产品物流中心",
+    "新农村",
+    "新农村选址",
+    "新农村选址",
+    "新农村建设",
+    "新农村",
+    "物流中心gis",
+    "中国生鲜",
+    "中国生鲜行业研究报告",
+    "中国生鲜行业研究报告",
+    "农产品物流中心",
+    "农产品物流中心",
+    "商丘粮食",
+    "商丘",
+    "物流中心",
+    "gis选址"
+  ]
+}

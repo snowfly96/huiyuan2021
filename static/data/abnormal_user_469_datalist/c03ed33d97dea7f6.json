@@ -1,0 +1,650 @@
+{
+  "下载": [
+    {
+      "id": "gcjsysj201923104",
+      "title": "土木工程施工中质量控制的重要性与措施分析",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "jcgyxx201924288",
+      "title": "土木工程建筑施工技术及管理创新研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201912276",
+      "title": "土木工程施工中桩基础施工技术",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "jcgyxx201924021",
+      "title": "土木工程建筑中混凝土结构施工技术管理",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcykx201912001",
+      "title": "2019年中国高性能计算机发展现状分析",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201912249",
+      "title": "论土木工程中大体积混凝土结构施工技术",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201912257",
+      "title": "土木工程混凝土浇筑施工技术要点的分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjc201912086",
+      "title": "略谈土木工程施工中边坡支护技术的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs201936005",
+      "title": "关于土木工程施工中钢结构技术的探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zszxtd201924252",
+      "title": "土木工程施工中裂缝处理方法研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxyxxh201935154",
+      "title": "浅谈土木工程与计算机技术的融合与创新",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hnjc202001056",
+      "title": "高层建筑土木工程技术质量的控制方法分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "mlzg201950745",
+      "title": "土木工程施工项目管理的实践与规划研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "msj-xia201912048",
+      "title": "金融行业计算机网络系统的安全性研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs202002024",
+      "title": "土木工程施工中节能绿色环保技术探析",
+      "download_times": 6,
+      "browse_times": 13
+    },
+    {
+      "id": "dzbzh201912016",
+      "title": "计算机在印刷机械维修中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "nfnj201923204",
+      "title": "浅谈计算机内存常见故障及解决办法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj202001105",
+      "title": "计算机网络技术在气象服务中的运用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001171",
+      "title": "探讨高中生如何提高计算机编程能力",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xxgwkzz-d201904207",
+      "title": "浅谈疗养院计算机网络安全管理的难点及对策",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "cyykjlt202001031",
+      "title": "计算机网络技术在电子信息工程中的实践创新",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "shanddz201912039",
+      "title": "计算机信息系统维护效率提升的策略",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy201912038",
+      "title": "信息系统审计中计算机审计的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "szjsyyy201912113",
+      "title": "试谈大数据时代的计算机网络安全及防范措施",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201912298",
+      "title": "浅析自动化仪器仪表与计算机系统的融合",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj202002019",
+      "title": "计算机软件的应用对于人们生活和工作的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj201912074",
+      "title": "大数据下计算机软件技术的应用浅述",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jnszxb201906014",
+      "title": "基于第二课堂的计算机类创新人才培养体系研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "txdyjs202002067",
+      "title": "计算机应用技术应用领域及发展展望",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj202001061",
+      "title": "虚拟仿真技术的应用进展",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj201912063",
+      "title": "计算机软件开发的JAVA编程语言及其实际应用分析",
+      "download_times": 9,
+      "browse_times": 5
+    },
+    {
+      "id": "kjf202006109",
+      "title": "计算机软件工程现代化技术的发展现状与对策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hnjc202001047",
+      "title": "土木工程施工管理关键问题探讨",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "sz-sxk201935267",
+      "title": "计算机技术对社会发展的影响探究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "dnzsyjs-itrzyksb202004085",
+      "title": "嵌入式软件在计算机软件开发过程中的运用分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxyxxh201936048",
+      "title": "关于提高计算机信息处理能力和信息安全能力的实践思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "txsj202001107",
+      "title": "计算机远程网络通讯技术的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf202001027",
+      "title": "网络教学平台下的大学计算机教学策略分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zwxx202001072",
+      "title": "计算机技术在图书馆流通中的应用分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001272",
+      "title": "计算机网络工程安全现状及对策研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf202003105",
+      "title": "关于土木工程荷载与结构设计的分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "msj-xia201912544",
+      "title": "企业土木工程项目施工管理探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001082",
+      "title": "计算机网络安全在大数据系统的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb202005020",
+      "title": "浅谈网络安全问题及其防范措施",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202002100",
+      "title": "大数据技术在计算机信息安全中的应用探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs202004063",
+      "title": "土木工程结构中的抗震问题分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zwxx202001200",
+      "title": "关于优化高职院校计算机一体化教学的几点思考",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xxjlcl201912084",
+      "title": "计算机网络数据库安全防护策略研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf202005093",
+      "title": "计算机信息处理技术在办公自动化中的应用与分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "hnjc202001009",
+      "title": "BIM技术在土木工程施工领域中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001069",
+      "title": "新时期计算机软件开发技术的应用及发展趋势研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201912232",
+      "title": "远程计算机信息管理系统及其运用分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "czjs201912196",
+      "title": "土木工程建设中对建筑结构基础设计的思考",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "shanxjz202002037",
+      "title": "亚麻纤维材料的研究及其在土木工程中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hljzdhjsyyy201912016",
+      "title": "基于计算机的音乐远程教育学习系统设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs202001034",
+      "title": "土木工程施工中的质量控制分析",
+      "download_times": 8,
+      "browse_times": 6
+    },
+    {
+      "id": "smsj201912230",
+      "title": "中老年人计算机培训项目研究",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf202003101",
+      "title": "试论钢结构在土木工程中的施工以及管理",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kjf202007113",
+      "title": "计算机控制技术在自动化生产线上的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gcjsysj201924074",
+      "title": "土木工程施工技术的创新及发展分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "sdhg202003060",
+      "title": "地方院校土木工程专业毕业设计存在问题及对策",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc202001007",
+      "title": "土木工程施工管理中存在的问题分析",
+      "download_times": 8,
+      "browse_times": 1
+    },
+    {
+      "id": "scsn201912068",
+      "title": "浅析土木工程结构设计与施工技术的关系",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "czjs201912072",
+      "title": "绿色建筑材料在土木工程施工中的应用探讨",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201924066",
+      "title": "当代土木工程中的可持续发展战略研究",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "scsn201912180",
+      "title": "浅谈如何做好土木工程的监理工作",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zszxtd201924262",
+      "title": "土木工程土木施工技术创新研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyzs201935155",
+      "title": "探究土木工程管理施工过程质量控制方法",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jxjc201912071",
+      "title": "建筑屋面防水技术的应用探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcyzs201935032",
+      "title": "解析土木工程施工中的裂缝处理措施",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjxtyy202001001",
+      "title": "《计算机系统应用》稿约",
+      "download_times": 7,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201924255",
+      "title": "如何加强土木工程施工项目质量管理",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "nbq202001007",
+      "title": "有关高职土木工程课程教学的几点建议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "21sjjzcl202001066",
+      "title": "基于土木工程施工中防水防渗施工技术分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "msj-xia201912523",
+      "title": "土木工程建筑施工技术创新对策",
+      "download_times": 8,
+      "browse_times": 7
+    },
+    {
+      "id": "jyjxlt202005072",
+      "title": "土木工程专业建筑结构课程教学改革探讨",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "czjs201912174",
+      "title": "探析土木工程造价控制环节的要点",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsy201935452",
+      "title": "计算机网络信息安全及其防护策略的研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wlaqjsyyy201912083",
+      "title": "计算机图像识别技术的现状和改进建议",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zwxx202002003",
+      "title": "计算机网络工程全面信息化管理的应用和发展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201924242",
+      "title": "建筑工程混凝土结构施工技术研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzyjy201936149",
+      "title": "网络环境下计算机软硬件资源的共享",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "txdyjs201912080",
+      "title": "物联网对计算机通信网络产生的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zszxtd201924263",
+      "title": "土木工程施工中钢结构技术的简要分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "wjsjxx201924064",
+      "title": "浅谈微型投影仪与计算机的集成设计与应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201924234",
+      "title": "土木工程建筑施工技术及创新",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj202002041",
+      "title": "试论办公室自动化中计算机信息处理技术的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "juanz201935074",
+      "title": "电子档案的收集与整理",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202002075",
+      "title": "基于计算机软件工程的现代化技术",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "txdyjs202002103",
+      "title": "计算机数据库应用及管理中的安全问题探究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "czjs201912043",
+      "title": "土木工程结构设计存在的问题及设计措施研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001304",
+      "title": "计算机在电力自动化系统中的应用研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201912275",
+      "title": "土木工程钢结构施工技术的有关问题研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jcgyxx201924135",
+      "title": "土木工程施工中节能绿色环保技术探析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb202005105",
+      "title": "从生活实际看计算机中的进制",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "ranj202001056",
+      "title": "云计算技术在计算机数据处理中的应用",
+      "download_times": 4,
+      "browse_times": 27
+    },
+    {
+      "id": "dnzsyjs-itrzyksb202005083",
+      "title": "人工智能在计算机网络技术中的应用研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hnjc202001013",
+      "title": "土木工程施工中边坡支护技术的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj202001121",
+      "title": "探析色彩语言在计算机平面设计中的应用",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201935259",
+      "title": "土木工程中屋面防水工程技术研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jyjxlt202003090",
+      "title": "结构力学教学方法初探 ——以力法为例",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "szjsyyy201912133",
+      "title": "计算机应用的现状与未来发展趋势探索",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "scsn201912172",
+      "title": "试述土木工程施工管理问题探讨",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "txsj202001101",
+      "title": "计算机网站建设的规划和设计",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "kjf202003071",
+      "title": "数据加密技术在计算机网络安全中的应用分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jcfzdx201912308",
+      "title": "基于现代理念下的土木工程施工管理策略",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zszxtd201924266",
+      "title": "论土木工程施工技术创新与发展",
+      "download_times": 3,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": [
+    "企业会计核算存在问题及对策"
+  ]
+}

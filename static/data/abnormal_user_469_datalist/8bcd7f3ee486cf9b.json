@@ -1,0 +1,617 @@
+{
+  "下载": [
+    {
+      "id": "ynxmsy201905007",
+      "title": "新形势下规模化猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "nyxjs-jryzy201906013",
+      "title": "规模化猪场生物安全措施存在的问题与对策",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hljxmsy200502020",
+      "title": "浅谈规模猪场生物安全体系的建立",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyzz201412040",
+      "title": "农村中小规模猪场生物安全体系的构建",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq201806014",
+      "title": "养殖场生物安全体系建设在防控家禽H7N9亚型流感中的作用",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsp201912073",
+      "title": "湖北省动物疫病预防控制中心《规模化猪场生物安全体系建设和疫病净化主推技术实施方案》",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgxmkx201303027",
+      "title": "规模化猪场生物安全体系建设",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgxmzz201306008",
+      "title": "规模化奶牛场口蹄疫的免疫预防及生物安全防控措施",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xmsyzz201104011",
+      "title": "规模化猪场生物安全控制技术研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "fjxmsy201803011",
+      "title": "猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dwbj201806243",
+      "title": "浅谈规模化羊场生物安全体系建立的重要性",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq200701001",
+      "title": "集约化鸡场生物安全体系的建立",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq201120014",
+      "title": "浅谈养鸡场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nyxjs-jryzy201906017",
+      "title": "猪场生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hbxmsy201706014",
+      "title": "浅谈规模化猪场的生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "jcst200404006",
+      "title": "生物安全与家禽疫病控制",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcsdw201501018",
+      "title": "肉牛场生物安全集成技术的研究与推广",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjq201909008",
+      "title": "养鸡场生物安全措施 之消毒篇",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq200118023",
+      "title": "家禽产业的生物安全",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgdwbj201910021",
+      "title": "规模化猪场生物安全措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dwyxjz201607022",
+      "title": "奶牛养殖场生物安全体系建设的现状、问题及对策",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "dwbj200906006",
+      "title": "如何建立规模奶牛场生物安全体系",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggnywz-xm201812090",
+      "title": "规模化猪场生物安全控制对策",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdwbj201910021",
+      "title": "规模化猪场生物安全措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hbxmsy201909026",
+      "title": "武汉市规模猪场生物安全风险防控能力分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dwbj201921006",
+      "title": "'八项举措'保障猪场生物安全",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hebxmsy201608018",
+      "title": "规模猪场如何做好生物安全防控降低疾病带来的风险",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "dwbj201618050",
+      "title": "规模化奶牛场的生物安全管理与防疫管理",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xmsyzz201802025",
+      "title": "规模羊场生物安全体系建立的措施与对策",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dwbj200906005",
+      "title": "羊场生物安全体系的构建",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xckj201906059",
+      "title": "规模化养鸡场生物安全体系创建对策",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq200802013",
+      "title": "如何建立种鸡场的生物安全体系",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq201323019",
+      "title": "标准化蛋鸡场生物安全体系建设的研究与实践",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjq201110014",
+      "title": "集约化肉种鸡场的生物安全控制策略",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "ahny201804133",
+      "title": "规模化羊场生物安全体系的构建",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zjxmsy201906015",
+      "title": "规模猪场生物安全措施",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "hbxmsy201909026",
+      "title": "武汉市规模猪场生物安全风险防控能力分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgsyzz201612045",
+      "title": "规模化封闭奶牛场的生物安全和良好规范",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "ddxqyzy201608063",
+      "title": "规模化猪场生物安全体系的建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdwbj200901007",
+      "title": "规模化猪场生物安全体系的建立",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "dwbj201921006",
+      "title": "'八项举措'保障猪场生物安全",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dwkxydwyx201908014",
+      "title": "养猪场生物安全综合防控措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "nyzs-kxyz200403045",
+      "title": "规模化猪场的生物安全体系建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "xqy201907016",
+      "title": "猪场生物安全体系建设",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "nmgxmkx201303027",
+      "title": "规模化猪场生物安全体系建设",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdwbj200807008",
+      "title": "规模化猪场健康养殖的保健体系建设",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdwbj201903028",
+      "title": "浅析猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjq200915015",
+      "title": "生物安全体系建设对集约化鸡场的经济效益影响",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "xqy201506014",
+      "title": "规模化羊场生物安全体系的建立",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sdjq201902016",
+      "title": "鸡场的生物安全隐患分析与应对措施",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "shxmsytx201705031",
+      "title": "浅议规模化羊场生物安全体系建设",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sdxmsy201410051",
+      "title": "规模化奶牛场生物安全体系的建立",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nyxjs-jryzy201906019",
+      "title": "规模猪场生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "gwxmx-zyq201911016",
+      "title": "非洲猪瘟形势下猪场的生物安全管理",
+      "download_times": 1,
+      "browse_times": 1
+    }
+  ],
+  "浏览": [
+    {
+      "id": "dwbj201921006",
+      "title": "'八项举措'保障猪场生物安全",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgdwbj200807008",
+      "title": "规模化猪场健康养殖的保健体系建设",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "nyzs-kxyz200403045",
+      "title": "规模化猪场的生物安全体系建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "gdxmsykj201405003",
+      "title": "关于规模化猪场生物安全体系建设的几点体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgxmkx201303027",
+      "title": "规模化猪场生物安全体系建设",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdwbj201903028",
+      "title": "浅析猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dwkxydwyx201908014",
+      "title": "养猪场生物安全综合防控措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200001533969",
+      "title": "规模化养猪场的生物安全体系建设",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhonggnywz-xm201812090",
+      "title": "规模化猪场生物安全控制对策",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nyxjs-jryzy201906013",
+      "title": "规模化猪场生物安全措施存在的问题与对策",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nyxjs-jryzy201906017",
+      "title": "猪场生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hebxmsy201608018",
+      "title": "规模猪场如何做好生物安全防控降低疾病带来的风险",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "hbxmsy201706014",
+      "title": "浅谈规模化猪场的生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "xmsyzz201104011",
+      "title": "规模化猪场生物安全控制技术研究",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "fjxmsy201803011",
+      "title": "猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "dwbj200906006",
+      "title": "如何建立规模奶牛场生物安全体系",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdwbj201910021",
+      "title": "规模化猪场生物安全措施",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgxmkx201303027",
+      "title": "规模化猪场生物安全体系建设",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ddxqyzy201608063",
+      "title": "规模化猪场生物安全体系的建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "nyzs-kxyz200403045",
+      "title": "规模化猪场的生物安全体系建设",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "zjxmsy201906015",
+      "title": "规模猪场生物安全措施",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "dwbj201921006",
+      "title": "'八项举措'保障猪场生物安全",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nyxjs-jryzy201906019",
+      "title": "规模猪场生物安全管理要点",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgxmkx201303027",
+      "title": "规模化猪场生物安全体系建设",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "hnxmsy-x201910008",
+      "title": "规模猪场如何构建全方位的生物安全体系",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hbxmsy201909026",
+      "title": "武汉市规模猪场生物安全风险防控能力分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hbxmsy201909026",
+      "title": "武汉市规模猪场生物安全风险防控能力分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ynxmsy201905007",
+      "title": "新形势下规模化猪场的生物安全措施",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "gwxmx-zyq201911016",
+      "title": "非洲猪瘟形势下猪场的生物安全管理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "yzysl201909014",
+      "title": "新建规模猪场选址布局的生物安全风险管控措施",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "CASS_7100098925",
+      "title": "规模化养猪场生物安全体系建设初探",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "nmgxmkx201904029",
+      "title": "江苏省太仓市规模猪场疫病综合防控风险现状评估及对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK200001533969",
+      "title": "规模化养猪场的生物安全体系建设",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dwbj201920065",
+      "title": "关于规模化猪场生物安全体系建设的探讨",
+      "download_times": 3,
+      "browse_times": 4
+    }
+  ],
+  "检索": [
+    "猪场风险防控",
+    "猪场生物安全",
+    "猪场风险防控",
+    "规模化猪场生物安全体系建设",
+    "牛场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "鸡场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "猪场风险防控",
+    "猪场风险防控",
+    "牛场生物安全",
+    "猪场生物安全",
+    "鸡场生物安全",
+    "牛场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "猪场健康保健",
+    "猪场生物安全",
+    "养鸡场生物安全",
+    "牛场生物安全",
+    "牛场生物安全",
+    "猪场生物安全",
+    "猪场风险防控",
+    "猪场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "猪场生物安全",
+    "牛场生物安全",
+    "羊场生物安全",
+    "猪场风险防控",
+    "猪场风险防控",
+    "猪场风险防控",
+    "猪场生物安全",
+    "猪场生物安全",
+    "牛场生物安全",
+    "鸡场生物安全",
+    "鸡场生物安全",
+    "养鸡场生物安全",
+    "养鸡场生物安全",
+    "鸡场生物安全",
+    "牛场生物安全",
+    "牛场生物安全"
+  ]
+}

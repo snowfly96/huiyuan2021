@@ -1,6 +1,5 @@
-function drawCirclePacking() {
-    var dom = document.getElementById("circle-packing");
-    var myChart = echarts.init(dom);
+
+function drawCirclePacking(chartDom,myChart) {
     var app = {};
 
     var option;
@@ -9,7 +8,7 @@ function drawCirclePacking() {
     let testdata='';
     $.when(
         $.get(classdatapath),
-        $.getScript('https://cdn.jsdelivr.net/npm/d3-hierarchy@2.0.0/dist/d3-hierarchy.min.js')
+        $.getScript('../static/jslib/d3-hierarchy.min.js')
     ).done(function (res) {
         console.log(res[0])
         run(res[0]);
@@ -170,6 +169,10 @@ function drawCirclePacking() {
             title: {
                     text: '文献领域分类气泡图'
                 },
+            xAxis:{},
+            yAxis: {
+                show: false
+            },
             tooltip: {},
             visualMap: {
                 show: false,
@@ -230,9 +233,7 @@ function drawCirclePacking() {
 }
 // drawCirclePacking();
 
-function drawTypeRatio() {
-     var chartDom = document.getElementById('circle-packing');
-     var myChart = echarts.init(chartDom);
+function drawTypeRatio(chartDom,myChart) {
      var type_label={
              "A": "马克思主义、列宁主义、毛泽东思想",
             "B": "哲学",
@@ -279,7 +280,7 @@ function drawTypeRatio() {
             tooltip: {
                 position: 'top',
                 // formatter: function (params) {
-                //     return params.value[2] + ' commits in ' + hours[params.value[0]] + ' of ' + days[params.value[1]];
+                //     return "";
                 // }
             },
             grid: {
@@ -320,4 +321,19 @@ function drawTypeRatio() {
         option && myChart.setOption(option);
     })
 }
-drawTypeRatio();
+
+$(() => {
+    var chartDom = document.getElementById('circle-packing');
+    var myChart = echarts.init(chartDom);
+    drawTypeRatio(chartDom,myChart);
+
+    $('#select_view').change(() => {
+        view_type = $('#select_view').val();
+        if(view_type==="circle"){
+            drawCirclePacking(chartDom,myChart);
+        }
+        else{
+            drawTypeRatio(chartDom,myChart);
+        }
+    });
+});

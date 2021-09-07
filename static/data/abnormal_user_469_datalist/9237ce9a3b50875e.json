@@ -1,0 +1,2459 @@
+{
+  "下载": [
+    {
+      "id": "jyjxxyxb201906009",
+      "title": "超声无创评估肝硬化门静脉高压患者门静脉压力变化趋势",
+      "download_times": 6,
+      "browse_times": 1
+    },
+    {
+      "id": "yxyxxzz201906027",
+      "title": "胰腺肿瘤相关性区域性门静脉高压症的影像特征分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdykdxxb201405003",
+      "title": "FOXP3基因多态性与儿童ITP发病及进展的相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gdyx201216013",
+      "title": "肿瘤坏死因子-α基因多态性对非酒精性脂肪性肝病发病和病程进展的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201311018",
+      "title": "3.0T MR对肝前性门静脉高压的诊断价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxmxmr-zx2014120319",
+      "title": "多层螺旋CT血管造影在胰源性区域性门静脉高压症的诊断价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwk201208029",
+      "title": "区域性门静脉高压症合并胃癌一例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyyy201612078",
+      "title": "介入放射技术治疗门静脉高压症中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "tsyxyxb201511016",
+      "title": "多层螺旋 CT 在门静脉高压病人门脉系统侧枝循环建立的应用研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgzy201834005",
+      "title": "CT能谱成像在预测肝硬化门静脉高压并发食管静脉曲张破裂出血风险性中的价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxyxjs200410038",
+      "title": "门静脉高压症介入治疗前后血流动力学变化分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgzxyjhyxxzz201502007",
+      "title": "正常肝脏和肝硬化门静脉高压患者CT增强扫描参数研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcwkzz200407005",
+      "title": "门静脉高压症的介入治疗",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sygzbzz201803003",
+      "title": "介入技术在不明原因的门脉高压症诊治中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "btyxyxb200704011",
+      "title": "三维动态增强MR血管造影在门静脉高压评价及治疗中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xrwk201503010",
+      "title": "肠门分流术治疗肝前型门静脉高压分流断流术后复发出血的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201602031",
+      "title": "门静脉金属内支架置入治疗门静脉海绵样变",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyjyyxyy201820019",
+      "title": "多排螺旋CT门静脉成像在肝硬化门静脉高压致食道胃底静脉曲张破裂出血的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xhwk201810014",
+      "title": "区域性门静脉高压症的CT和MRI检查影像学特征",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcthmrizz201502017",
+      "title": "多层螺旋CT门静脉成像对门静脉高压症的诊断及分类价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdwkzz201505003",
+      "title": "门静脉高压的介入治疗",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyyy201622073",
+      "title": "640层螺旋CT门静脉成像在门静脉高压中的应用价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxqyzz201803006",
+      "title": "多层螺旋CT门静脉成像联合CT肝脏体积测定对评价肝硬化门静脉高压症患者肝硬化程度及预后的价值研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xhwk201810017",
+      "title": "门静脉压力无创测定的方法和研究进展",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hgzy201027150",
+      "title": "门静脉高压症的研究和介入治疗现况",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhptwk201105008",
+      "title": "胃癌合并门静脉高压症的手术治疗选择",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgxdptwkjz201211012",
+      "title": "脾静脉阻塞综合征的诊治现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lincjyzz201409033",
+      "title": "区域性门静脉高压症17例诊治分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgbjyy-kp201708448",
+      "title": "探讨640层螺旋CT门静脉成像在门静脉高压中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ylzb201805017",
+      "title": "多层螺旋CT门静脉成像在门静脉高压及肝硬化程度评价中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ykxjz201808024",
+      "title": "光学相干断层扫描血管成像技术在神经眼科疾病中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sygzbzz201906003",
+      "title": "门静脉血栓介入治疗研究进展",
+      "download_times": 14,
+      "browse_times": 13
+    },
+    {
+      "id": "zgyxyxxzz201703016",
+      "title": "胰源性门静脉高压侧支循环特征的64层螺旋CT表现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrfsxzz201408008",
+      "title": "应用覆膜支架TIPS治疗不同类型慢性门静脉血栓术后肝性脑病发生探讨",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz201812026",
+      "title": "CT量化肝表面结节检测门静脉高压",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcfsxzz200706024",
+      "title": "门静脉高压症的研究和介入治疗现况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wcbxhgbxzz201911018",
+      "title": "TIPS术中运用Viatorr支架与模拟Viatorr支架的回顾性研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhyx201647015",
+      "title": "肝前性门静脉高压30例治疗经验",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcgdbzz201607010",
+      "title": "超声内镜与多层螺旋CT门静脉成像对门静脉高压的诊断及评估",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsywkzz200312004",
+      "title": "门静脉高压症的介入治疗及应用中的并发症",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lincjyzz201405030",
+      "title": "区域性门静脉高压17例诊疗分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jkbd001201808067",
+      "title": "慢性胰腺炎致门静脉高压症1例报道",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wkllysj201906010",
+      "title": "Viatorr支架与覆膜支架联合裸支架在TIPS治疗门静脉高压症中的疗效对比",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gjyywsdb201201012",
+      "title": "69例门静脉高压患者在三维动态增强磁共振血管成像显示侧支循环分布的分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ylbjqj201901004",
+      "title": "OCTA下硅油填充术后视盘血流密度变化分析",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zglcys201911035",
+      "title": "原发性急性闭角型青光眼单次发作后视盘血流变化的随访研究",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "zhykyxzz201905003",
+      "title": "颅内压下降所致眼颅压力梯度增大对视盘血流密度影响的临床研究",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "zhxyx201309019",
+      "title": "中国弥漫大B细胞淋巴瘤诊断与治疗指南(2013年版)",
+      "download_times": 11,
+      "browse_times": 12
+    },
+    {
+      "id": "zhxyx201411001",
+      "title": "地西他滨单药及联合半程和全程CAG方案治疗骨髓增生异常综合征和急性髓系白血病疗效观察",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgykdxxb201104020",
+      "title": "BD方案与VAD方案治疗多发性骨髓瘤的疗效比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxyx201310009",
+      "title": "硼替佐米皮下注射治疗多发性骨髓瘤患者的疗效及安全性研究",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "lcxyxzz-s201106010",
+      "title": "编码TAFI505A/G和1040C/T基因多态性与2型糖尿病关系的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsyxyxzz201504030",
+      "title": "地西他滨联合CAG方案治疗骨髓增生异常综合征-RAEB及难治性急性髓系白血病的临床观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxyx201703001",
+      "title": "成人急性髓系白血病(非急性早幼粒细胞白血病)中国诊疗指南(2017年版)",
+      "download_times": 20,
+      "browse_times": 25
+    },
+    {
+      "id": "yxyjyyxyy201916146",
+      "title": "肝硬化门静脉高压时脾、胃－肾静脉分流的超声诊断",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgdwk201311006",
+      "title": "胰源性门静脉高压症合并脾肿大的诊治分析",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "qqhryxyxb201820011",
+      "title": "支架联合125 I粒子条治疗原发性肝癌合并门静脉癌栓的临床观察",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxhbyyxzz201206001",
+      "title": "门静脉高压症介入治疗",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgzbzz201911015",
+      "title": "弹簧圈联合明胶海绵条封堵穿刺通道在经皮经脾门静脉置管术中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhgdwk200808015",
+      "title": "慢性胰腺炎并发门静脉高压症",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhfsx200212020",
+      "title": "螺旋CT与MR门静脉成像的对照研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwksszz201004021",
+      "title": "磁共振门静脉成像在门静脉高压外科治疗中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcgdbzz201111011",
+      "title": "胰源性区域性门脉高压症合并上消化道出血的诊治分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdywkzz201908002",
+      "title": "门静脉高压症外科手术治疗的历史、现状和展望",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "xdxhjjrzl201602032",
+      "title": "不同介入方法治疗门静脉高压引起的上消化道出血的对照研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdyyyxx201706044",
+      "title": "CT能谱成像在预测肝硬化门静脉高压并发食管静脉曲张破裂出血风险性中的价值",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mzgjykzz201912009",
+      "title": "原发性开角型青光眼视盘周围血管密度变化的研究",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "dyjydxxb200310019",
+      "title": "106例成人急性白血病流式细胞术免疫分型分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxyx201111021",
+      "title": "成人急性髓系白血病(非急性早幼粒细胞白血病)中国诊疗指南(2011年版)",
+      "download_times": 2,
+      "browse_times": 9
+    },
+    {
+      "id": "zhblx200710002",
+      "title": "弥漫大B细胞淋巴瘤免疫表型分型与预后的关系",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxyx201311019",
+      "title": "中国淋巴瘤合并HBV感染患者管理专家共识",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "kjdk201226130",
+      "title": "中美家庭教育的差异比较",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdwkzz201705003",
+      "title": "胰源性门脉高压症的诊治进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxxxzz201633128",
+      "title": "肝细胞癌合并门静脉癌栓行支架置入联合肝动脉灌注化疗栓塞的观察与护理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgdwk200106005",
+      "title": "磁共振血管造影在门静脉高压症外科中的临床应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201307021",
+      "title": "区域性门静脉高压症的多层螺旋CT诊断",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bbyxyxb201309013",
+      "title": "个体化原则在胃癌合并门静脉高压症治疗中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yinsbj201905315",
+      "title": "探究640层螺旋CT门静脉成像在门静脉高压中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgjjfsyzhyxzz201805014",
+      "title": "CT门静脉成像对门静脉高压致上消化道出血的临床预测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhptwk201602001",
+      "title": "胃癌合并门静脉高压症的术式选择及疗效观察",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwk201708024",
+      "title": "门静脉高压症的CT门静脉造影研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hkhtyy201409016",
+      "title": "特发性门静脉高压症CT、MR检查与临床价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhptwk200507006",
+      "title": "进展期胃癌合并门静脉高压症的外科处理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyx201433041",
+      "title": "多层螺旋CT静脉成像在肝硬化门静脉高压症中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdywkzz200901011",
+      "title": "区域性门静脉高压症的诊断与治疗",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ddhs-xsb201512083",
+      "title": "小儿肠系膜上静脉门静脉左支架桥吻合术的手术配合1例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcwkzz200610007",
+      "title": "门静脉高压症的介入治疗",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxyxjs200510020",
+      "title": "三维动态对比增强磁共振血管成像在门静脉系统成像中的应用价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hljyx201810003",
+      "title": "支架置入术在肿瘤所致门静脉及胆道狭窄中的临床应用价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201806033",
+      "title": "CTA和MRA对门静脉高压诊断效果评价",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcnkzz201907002",
+      "title": "门静脉海绵样变的诊疗新进展",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "yxxx-ssxfc201009090",
+      "title": "门静脉高压症的介入治疗现状",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhxyx200608012",
+      "title": "282例原发性骨髓增生异常综合征诊断和分型的前瞻性临床研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxyx201112023",
+      "title": "急性髓系白血病(复发难治性)中国诊疗指南(2011年版)",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxyx201406001",
+      "title": "地西他滨联合DAG方案等三种方案治疗复发、难治急性髓系白血病疗效的比较分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "hhgxyxb-rwshkxb201308034",
+      "title": "框架视域下的美国校园暴力事件报道分析--以广州六份日报对美国“12·14”枪击案报道为例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhblx200402007",
+      "title": "骨髓活检组织淋巴瘤的病理诊断和分型",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzllc201518003",
+      "title": "骨髓增生异常综合征去甲基化治疗的研究新进展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyxyxzz201302026",
+      "title": "101例原发胃肠道非霍奇金淋巴瘤临床及预后分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyxyxzz201501017",
+      "title": "地西他滨联合改良CAG方案治疗复发、难治型急性髓系白血病的临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "whlgdxxb-sk200904019",
+      "title": "中美家庭教育的比较及启示",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxyx201403010",
+      "title": "硼替佐米为基础的化疗方案治疗多发性骨髓瘤患者的疗效及预后因素分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "lczlxzz201310014",
+      "title": "蒽环类药物心脏毒性防治指南(2013年版)",
+      "download_times": 9,
+      "browse_times": 5
+    },
+    {
+      "id": "lcysyblxzz201112023",
+      "title": "淋巴瘤589例构成分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hwyy-z201909122",
+      "title": "Analysis of Family Education Differences between China and America un?der Cross-Cultural Perspective",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx200501007",
+      "title": "根据WHO新分类对493例非霍奇金淋巴瘤的临床病理分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhnk201512022",
+      "title": "中国多发性骨髓瘤诊治指南(2015年修订)",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zhblx200711004",
+      "title": "套细胞淋巴瘤的临床病理特征及预后因素分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyxyxzz201506049",
+      "title": "骨髓增生异常综合征发病机制研究进展",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "zwjkwz200923124",
+      "title": "胰源性门脉高压症的诊断与治疗(附7例报告)",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhgzwkssxdzzz201905019",
+      "title": "介入治疗门静脉高压症合并十二指肠降部静脉曲张破裂出血一例",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhptwk201807007",
+      "title": "胰源性门静脉高压症手术时机及手术方式的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsynkzz200402025",
+      "title": "多发性骨髓瘤218例临床分析",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zdxllysj201202006",
+      "title": "中国淋巴瘤亚型分布:国内多中心性病例10002例分析",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgazzz200603003",
+      "title": "B细胞性非霍奇金淋巴瘤中BCL-6、CD10和BCL-2的蛋白表达及其临床病理意义",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "azjz200605004",
+      "title": "非霍奇金淋巴瘤1125例临床病理分析",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxyx201307014",
+      "title": "标准和减低剂量硼替佐米联合阿霉素及地塞米松治疗多发性骨髓瘤疗效比较",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhnk201711022",
+      "title": "中国多发性骨髓瘤诊治指南(2017年修订)",
+      "download_times": 31,
+      "browse_times": 26
+    },
+    {
+      "id": "zhgzwkssxdzzz201704004",
+      "title": "重视胰源性门静脉高压症的诊治",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syfsxzz201910037",
+      "title": "影像学检查在胰源性门静脉高压诊断中的应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "shandyy200720017",
+      "title": "MMP-3单核苷酸多态性与类风湿关节炎病情和骨侵蚀的相关性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyxxzz201409024",
+      "title": "胰源性区域性门静脉高压的多层螺旋CT诊断及其临床价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xrwk200911016",
+      "title": "肠系膜上静脉门静脉左支架桥吻合术在小儿肝外门静脉梗阻中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxzdyjrfsx201404007",
+      "title": "胰源性区域性门静脉高压的MRI表现",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdywkzz201908003",
+      "title": "门静脉高压症外科治疗的几点思考",
+      "download_times": 6,
+      "browse_times": 0
+    },
+    {
+      "id": "hbyy201910018",
+      "title": "64排螺旋CT和宝石能谱CT在肝硬化门静脉高压侧支循环中的应用研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-lcfsxfc201703002",
+      "title": "CT门静脉成像对门静脉高压食管胃底静脉曲张诊断的临床意义",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxhbyyxzz201806001",
+      "title": "重视门静脉高压的基础与临床研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhwk201002002",
+      "title": "覆膜支架和裸支架行TIPS治疗门静脉高压症的对比研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcgdbzz201606011",
+      "title": "肝硬化门静脉高压CT和磁共振成像的表现及研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgsqys201801071",
+      "title": "128层CT门静脉成像(CTPV)在肝硬化门静脉高压患者中显示食管及胃底静脉曲张的价值分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdzdyzl201207153",
+      "title": "32例黑便原因临床分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxyjyyxyy201704004",
+      "title": "CT门静脉成像分型个体化手术治疗在肝硬化门静脉高压症中的应用价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcwzwz201012022",
+      "title": "腹部手术后胃瘫综合征临床分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhwk200910027",
+      "title": "术中门静脉支架植入治疗晚期胰腺癌门静脉恶性狭窄一例",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jrfsxzz201612009",
+      "title": "门静脉支架联合125I粒子条植入治疗门脉癌栓12例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjryxyzlx201901004",
+      "title": "采用Viatorr支架行TIPS治疗门静脉高压症疗效",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "lcyx201702012",
+      "title": "不同术式治疗胃癌合并门静脉高压症的安全性及疗效分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ykxjz201809011",
+      "title": "光学相干断层扫描血管成像(OCTA)对早期原发性开角型青光眼的诊断能力",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "sygkzz201802010",
+      "title": "前侧入路与传统后外侧入路人工全髋关节置换术的血清学层面对比研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhtnb201609017",
+      "title": "维持机体糖稳态及葡萄糖的感受器：小肠葡萄糖转运体2研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gwyx-nfmx201204011",
+      "title": "肠道K细胞的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgtnbzz201606017",
+      "title": "葡萄糖依赖性促胰岛素多肽在2型糖尿病病理生理中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syyxzz201910004",
+      "title": "基于代谢组学方法研究中段小肠切除大鼠模型发生术后疲劳的机制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyy201602038",
+      "title": "PDCA循环法用于医院药库药品供应管理的效果分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "tsgllysj201408010",
+      "title": "两种学术不端检测系统的差异性及问题讨论",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhonggwcwkzz201601019",
+      "title": "2型糖尿病GK大鼠不同小肠段注射葡萄糖对血糖影响的实验研究?",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxwz-lnyxfc201901029",
+      "title": "胆汁酸膜受体TGR5在代谢性疾病中作用的研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdhl201427048",
+      "title": "自我效能理论在我国护理学中应用的文献分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sxlcyy201007039",
+      "title": "川崎病复发9例临床分析",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sjfhyx201802031",
+      "title": "小儿川崎病的临床诊治进展综述",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zhcsyx202001007",
+      "title": "声触诊组织成像定量技术在初发多发性肌炎诊断中的前瞻性应用研究",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "zhcsyx202006004",
+      "title": "巨大胰腺导管内乳头状黏液性肿瘤累及胃壁及十二指肠超声表现1例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhyxcszz202006012",
+      "title": "超声造影及弹性成像技术对超声造影无增强甲状腺结节良恶性的鉴别诊断价值",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zhcsyx202001014",
+      "title": "超声心动图诊断罕见成人房间隔血性囊肿1例",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zhcsyx201801024",
+      "title": "《中华超声影像学杂志》稿约",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhcsyx202005014",
+      "title": "超声成像新技术在诊断肩袖撕裂中的应用进展",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "zhcsyx202007001",
+      "title": "超声评估新型冠状病毒肺炎病情严重程度的临床价值",
+      "download_times": 3,
+      "browse_times": 9
+    },
+    {
+      "id": "zhcsyx202005002",
+      "title": "超声引导下甲状腺结节细针穿刺细胞学检查实践指南(2019版)",
+      "download_times": 10,
+      "browse_times": 17
+    },
+    {
+      "id": "zgcsyxzz202006012",
+      "title": "超声及超声造影诊断HCC的局限性",
+      "download_times": 2,
+      "browse_times": 13
+    },
+    {
+      "id": "zhcsyx202005005",
+      "title": "迷走右锁骨下动脉伴双侧颈总动脉共干畸形1例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yxyjtx202001003",
+      "title": "胰岛素抵抗对血管系统调节作用的研究进展",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhwcyxzz201602016",
+      "title": "妊娠合并系统性红斑狼疮对母儿结局的影响及孕期管理研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbjyy-kp201724347",
+      "title": "维生素A与新生儿肺炎、败血症及呼吸窘迫综合征相关性探讨",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "ekyx200506006",
+      "title": "静注维生素A辅助治疗新生儿感染性肺炎的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lcfkzz201608023",
+      "title": "低剂量维生素A或多种营养素联合应用对新生儿肺炎的辅助治疗效果",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jyswx201803004",
+      "title": "母亲孕晚期膳食维生素A摄入对新生儿维生素A水平的影响及其相关因素分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gwyx-ekx201105012",
+      "title": "维生素A在治疗新生儿肺疾病中的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yiyqy201727053",
+      "title": "维生素A联合普米克令舒预防新生儿肺发育不良疗效",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "yxmxmr18201804032",
+      "title": "维生素A联合普米克令舒预防新生儿肺发育不良的疗效",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lcyydzzz201645024",
+      "title": "妊娠晚期孕妇维生素A缺乏对新生儿感染性肺炎的影响",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xdlcyxswgcxzz201706011",
+      "title": "维生素A辅助治疗新生儿呼吸窘迫综合征的临床研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxyx201806021",
+      "title": "维生素A与维生素D在新生儿支气管肺发育不良防治中的研究进展",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsyyy202010015",
+      "title": "孕晚期营养素摄入对新生儿出生体重的影响",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zhfck202001001",
+      "title": "黄体期应用来曲唑和GnRH拮抗剂对OHSS预防作用的随机对照试验",
+      "download_times": 14,
+      "browse_times": 60
+    },
+    {
+      "id": "zhfck202001009",
+      "title": "每周监测血清β-hCG和孕酮在早期妊娠结局中的预测意义",
+      "download_times": 5,
+      "browse_times": 23
+    },
+    {
+      "id": "zgxwyxkx201408025",
+      "title": "G蛋白偶联受体的泛素化研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfybj200709025",
+      "title": "维生素A与新生儿免疫功能的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyxlt201808013",
+      "title": "足月新生儿血清维生素A维生素E水平测定结果分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyyzn202010059",
+      "title": "某区新生儿维生素A水平的调查",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-ekx201909021",
+      "title": "孕期维生素D缺乏对新生儿健康发育的影响",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jslcyxzz201519073",
+      "title": "低剂量维生素A或多种营养素佐治新生儿肺炎的临床研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyyy202015020",
+      "title": "血清25羟维生素D与新生儿感染性肺炎的关系研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bjykdxxx202003011",
+      "title": "孕晚期妇女与新生儿血浆维生素A水平的相关性分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gwyx-fybj201906012",
+      "title": "孕期维生素D干预对新生儿维生素D营养水平的影响",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgxdyxzz202009013",
+      "title": "血清25羟基维生素D与新生儿黄疸的关系",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zhwcyxzz201504025",
+      "title": "维生素A预防新生儿支气管肺发育不良的研究进展",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zyyxyxb201802004",
+      "title": "金钗石斛在SD大鼠体内的药代动力学研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fxhx201509030",
+      "title": "基于超高效液相色谱-质谱的药物性肝损伤患者血清代谢组学研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "xsekzz202001006",
+      "title": "新生儿脐血维生素D水平及相关因素分析",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsqys201434032",
+      "title": "小剂量维生素A佐治新生儿感染性肺炎疗效观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gjyywsdb201922026",
+      "title": "维生素D对新生儿宫内感染的影响",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "lcekzz201508018",
+      "title": "早产儿血清维生素A水平与新生儿呼吸窘迫综合征的相关性分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "ddyx201807009",
+      "title": "维生素A与新生儿肺炎、败血症及呼吸窘迫综合征的 临床相关研究",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zgyykx202001040",
+      "title": "母婴维生素A水平的相关性及其对分娩孕周及出生体重的影响分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgswyyy201907020",
+      "title": "不同奶量乳母营养状况的分析及对新生儿发育情况的影响",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "yckj201506008",
+      "title": "UPLC-Q Exactive轨道阱高分辨质谱法测定小鼠血液中的NNN及其7种代谢物",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgylxydl202001010",
+      "title": "纳米材料表观遗传学效应的研究进展",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylxydl202001001",
+      "title": "阿尔茨海默病:与性别、癌症、饮食有关吗?",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgylxydl201106016",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgyykx201715059",
+      "title": "维生素A联合营养素在肺部感染新生儿中的辅助疗效研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jkyj201605017",
+      "title": "大剂量维生素A预防新生儿支气管肺发育不良的临床研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "lchsyyxzz201802004",
+      "title": "维生A水平与妊娠期高血压疾病的关系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylxydl201907007",
+      "title": "磷酸二酯酶4抑制剂治疗炎症性肠病研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gwyx-fybj201909013",
+      "title": "脂溶性维生素与妊娠期高血压疾病临床研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "zwjl201708015",
+      "title": "促进儿科护理人才培养发展教学研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xdhl201933001",
+      "title": "儿科专科护士培养现状与展望",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "jyyb202003053",
+      "title": "人性化管理在儿科护理持续质量改进中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "nfhlxb202005009",
+      "title": "5所三级甲等医院216名儿科护士核心能力现状及影响因素分析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zyyk201304015",
+      "title": "维生素E在新生儿缺氧缺血性脑病中的作用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcyydzzz202034147",
+      "title": "从儿科实习护生存在问题反思学校儿科护理学教学",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bjwh201706226",
+      "title": "国际儿科护理发展现状与展望",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jfjyyglzz202005014",
+      "title": "儿科管理新模式的实施效果",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyy202014024",
+      "title": "糖皮质激素联合乌司他丁治疗川崎病并冠状动脉损伤临床研究",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "jkzy202015375",
+      "title": "优质护理服务在儿科护理中的意义",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "gdzyjsjyyyj202002032",
+      "title": "浅谈中职儿科护理教学存在的问题与对策",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "lcekzz202007001",
+      "title": "川崎病冠状动脉损害相关危险因素分析",
+      "download_times": 8,
+      "browse_times": 24
+    },
+    {
+      "id": "zhnk200901030",
+      "title": "妊娠与系统性红斑狼疮",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhyfyx201705003",
+      "title": "工作场所二氧化钛纳米颗粒职业接触限值的研究与建议",
+      "download_times": 9,
+      "browse_times": 6
+    },
+    {
+      "id": "ysbjzn-x201843110",
+      "title": "儿科护理人员配置现状与思考",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhhlzz201910018",
+      "title": "广西新生儿科护理人力资源现状和培训需求的调查研究",
+      "download_times": 3,
+      "browse_times": 6
+    },
+    {
+      "id": "xdhl202022031",
+      "title": "儿科ICU护士共情能力与尊重氛围的相关性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "mlzg202019002",
+      "title": "浅议儿童护理工作的压力体现及解决对策",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "sxhlzz201502005",
+      "title": "双相情感障碍认知干预研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgqkyx201305001",
+      "title": "双相情感障碍:综述",
+      "download_times": 5,
+      "browse_times": 12
+    },
+    {
+      "id": "fjzlgl202012157",
+      "title": "声音商标的显著性研究",
+      "download_times": 7,
+      "browse_times": 7
+    },
+    {
+      "id": "kjxx201011017",
+      "title": "构树的药理作用综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsl202009028",
+      "title": "杂交构树叶水提液联合抗菌药对多重耐药菌的体外抑菌效果研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzzscq201310007",
+      "title": "论声音商标的显著性及其表达方式",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "kxycf201833190",
+      "title": "论声音商标的显著性——以腾讯QQ消息提示音声音商标案为视角",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "zhldwszyb202004009",
+      "title": "GBZ 2.1-2019《工作场所有害因素职业接触限值　第1部分：化学有害因素》解读",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "nflk202003021",
+      "title": "声音商标的保护研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxmsy201304035",
+      "title": "构树叶提取物对金黄色葡萄球菌的抑制作用及机理研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "fzysh202026013",
+      "title": "论声音商标的注册要件——以李佳琦申注声音商标为例",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "gdgbdsdxxb201804009",
+      "title": "声音商标的显著性判断标准研究——以腾讯声音商标驳回复审行政纠纷案为例",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "zgfltd201908148",
+      "title": "声音商标显著性审查的困境及建议",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zhonggsm201917099",
+      "title": "我国声音商标注册实质审查标准完善研究——以QQ提示音商标注册案为例",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "fzbl201719152",
+      "title": "我国声音商标注册中显著性审查的困境及改善",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "chz201827203",
+      "title": "中外声音商标显著性判定的对比研究",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "sdjr-x201512147",
+      "title": "浅谈声音商标的显著性认定",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yxjygl202004016",
+      "title": "医学院校开设小动物医学影像学技术教学的实践与探索",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhlxbx201911003",
+      "title": "中国流感疫苗预防接种技术指南(2019-2020)",
+      "download_times": 11,
+      "browse_times": 10
+    },
+    {
+      "id": "zgbjyy-kp202026019",
+      "title": "心理护理干预对双相情感障碍患者冲动行为的影响",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "sdjsyx200706033",
+      "title": "双相情感障碍的最新研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zjwlxyxb201805008",
+      "title": "声音商标显著性的比较研究及启示 ——以腾讯声音商标行政驳回复审案为视角",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "fzbl201913093",
+      "title": "我国声音商标注册制度中显著性标准研究综述",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "xdsmgy201920080",
+      "title": "声音商标保护问题研究 ——以腾讯QQ声音商标案为视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sdjr-z201602172",
+      "title": "浅谈声音商标的显著性认定",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "fzysh201904038",
+      "title": "探析声音商标的显著性认定标准——以首例经司法确认的声音商标案为视角",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "fzbl201533014",
+      "title": "声音商标的法律规制*--声音商标的显著性研究",
+      "download_times": 4,
+      "browse_times": 6
+    },
+    {
+      "id": "fzysh201909013",
+      "title": "中国声音商标显著性判断标准探索",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zscq202001005",
+      "title": "论非传统商标的显著性认定:价值立场与论证框架",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zjwlxyxb202004003",
+      "title": "声音商标的注册制度研究 ——以中新商标法比较研究为中心",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hnkx200901012",
+      "title": "构树叶体外抗真菌作用的研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "ahzyxyxb201503030",
+      "title": "构树皮总黄酮提取及抗菌活性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ahnykx201033053",
+      "title": "构树叶提取物抑菌作用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "fjzlgl201823144",
+      "title": "气味商标注册问题研究——以对比声音商标为研究视角",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bjyddxxb-shkxb201705005",
+      "title": "我国声音商标显著性审查标准探析",
+      "download_times": 5,
+      "browse_times": 3
+    },
+    {
+      "id": "hnkj201809007",
+      "title": "论声音商标的显著性——以腾讯声音商标案为视角",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "qyzl201941070",
+      "title": "我国声音商标显著性认定制度之构想",
+      "download_times": 5,
+      "browse_times": 4
+    },
+    {
+      "id": "kjwh201711089",
+      "title": "声音商标显著性之法律探析 ——以腾讯声音商标驳回复审行政诉讼案为视角",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyk202008033",
+      "title": "双相情感障碍、抑郁障碍认知功能相关因素分析",
+      "download_times": 11,
+      "browse_times": 17
+    },
+    {
+      "id": "ddlv201807117",
+      "title": "浅谈我国生态环境污染与防治对策",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyxlt202030060",
+      "title": "基于能级对应的人力资源管理对护理质量的影响",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj2018293539",
+      "title": "浅谈我国生态环境保护及保护对策",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jcfzdx201710326",
+      "title": "浅谈我国生态环境保护与治理的法制机制",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxzxxgyxzz202009004",
+      "title": "网络Meta分析研究进展系列(四):贝叶斯层次网络Meta分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "lczlnbj202005018",
+      "title": "国内恶性肿瘤患者营养不良影响因素Meta分析",
+      "download_times": 6,
+      "browse_times": 4
+    },
+    {
+      "id": "zhyfyx201906017",
+      "title": "河南省男性煤矿工人粉尘暴露与高血压发病风险的关联研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "syxnfxgbzz202001001",
+      "title": "慢性阻塞性肺疾病与心血管疾病关系的研究进展",
+      "download_times": 25,
+      "browse_times": 53
+    },
+    {
+      "id": "caoyexb202010020",
+      "title": "苜蓿皂苷对小白鼠体内溶血的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syxnfxgbzz202001005",
+      "title": "心理弹性、反刍性沉思与行经皮冠状动脉介入治疗的冠心病患者创伤后成长的相关性研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "jtbj201926119",
+      "title": "信息化电子交班系统在临床护理管理中的应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyk201811004",
+      "title": "成人终末期多囊肾病的临床特点分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dyjydxxb202011009",
+      "title": "乳腺浸润性导管癌中JMJD3、MMP-2和VEGF的表达及其与临床病理特征的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jkdsy-xsb202013529",
+      "title": "临床路径信息化管理在剖宫产产妇护理中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sydwkxygl201502008",
+      "title": "成年SD大鼠无创导尿方法",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zjyfyx201908008",
+      "title": "某栀子复方中药制剂的安全性评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyyzn202005209",
+      "title": "信息化管理在临床护理质量管理与持续改进中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "ykyj201909003",
+      "title": "角膜溃疡患者与正常人结膜囊分离金黄色葡萄球菌差异基因表达分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yixjy202011001",
+      "title": "护理硕士专业学位研究生教育现状分析与对策研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sylnyx202011012",
+      "title": "老年综合评估及高血压管理在住养高血压老人中的应用研究",
+      "download_times": 6,
+      "browse_times": 8
+    },
+    {
+      "id": "ahnykx202014040",
+      "title": "植保无人机喷施纳米农药防治水稻主要病虫的药效评价",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zglnxzz202014053",
+      "title": "知母皂苷对慢性乙醇中毒小鼠学习记忆能力和突触可塑性的影响",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "zhfck201403008",
+      "title": "孕11～14周胎儿超声软指标在胎儿心脏结构评估中的价值",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "yxxxzz201903020",
+      "title": "高效氯氰菊酯暴露对小鼠子宫内膜蜕膜化的影响",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgywjj201706001",
+      "title": "大鼠何首乌水提物短期灌胃的肝毒性研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhhlzz202001001",
+      "title": "征程万里风正劲 重任千钧再出发",
+      "download_times": 29,
+      "browse_times": 244
+    },
+    {
+      "id": "zhyfyx201705003",
+      "title": "工作场所二氧化钛纳米颗粒职业接触限值的研究与建议",
+      "download_times": 9,
+      "browse_times": 6
+    },
+    {
+      "id": "dwyxjz202010020",
+      "title": "大熊猫寄生虫病研究现状",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "xrwk201807002",
+      "title": "隐睾诊疗专家共识",
+      "download_times": 14,
+      "browse_times": 6
+    }
+  ],
+  "浏览": [
+    {
+      "id": "zhcsyx201607028",
+      "title": "《中华超声影像学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zhcsyx202001007",
+      "title": "声触诊组织成像定量技术在初发多发性肌炎诊断中的前瞻性应用研究",
+      "download_times": 5,
+      "browse_times": 9
+    },
+    {
+      "id": "zhyxcszz202006012",
+      "title": "超声造影及弹性成像技术对超声造影无增强甲状腺结节良恶性的鉴别诊断价值",
+      "download_times": 2,
+      "browse_times": 11
+    },
+    {
+      "id": "zhcsyx201801024",
+      "title": "《中华超声影像学杂志》稿约",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhcsyx202007001",
+      "title": "超声评估新型冠状病毒肺炎病情严重程度的临床价值",
+      "download_times": 3,
+      "browse_times": 9
+    },
+    {
+      "id": "zhcsyx202006004",
+      "title": "巨大胰腺导管内乳头状黏液性肿瘤累及胃壁及十二指肠超声表现1例",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zhcsyx201707023",
+      "title": "《中华超声影像学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgcsyxzz202006012",
+      "title": "超声及超声造影诊断HCC的局限性",
+      "download_times": 2,
+      "browse_times": 13
+    },
+    {
+      "id": "zhcsyx202005014",
+      "title": "超声成像新技术在诊断肩袖撕裂中的应用进展",
+      "download_times": 6,
+      "browse_times": 5
+    },
+    {
+      "id": "zhcsyx202005002",
+      "title": "超声引导下甲状腺结节细针穿刺细胞学检查实践指南(2019版)",
+      "download_times": 10,
+      "browse_times": 17
+    },
+    {
+      "id": "zhcsyx202001018",
+      "title": "《中华超声影像学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 17
+    },
+    {
+      "id": "zhcsyx202005005",
+      "title": "迷走右锁骨下动脉伴双侧颈总动脉共干畸形1例",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylxydl201106016",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylxydl202001010",
+      "title": "纳米材料表观遗传学效应的研究进展",
+      "download_times": 4,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylxydl202001011",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "lchsyyxzz201802004",
+      "title": "维生A水平与妊娠期高血压疾病的关系研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgfybj200709025",
+      "title": "维生素A与新生儿免疫功能的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zhwcyxzz201504025",
+      "title": "维生素A预防新生儿支气管肺发育不良的研究进展",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "zgyf202005019",
+      "title": "UPLC-Q-Exactive四极杆-静电场轨道阱高分辨率质谱法同时测定参芪健胃颗粒中8个成分的含量",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zyyxyxb201802004",
+      "title": "金钗石斛在SD大鼠体内的药代动力学研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "yckj201506008",
+      "title": "UPLC-Q Exactive轨道阱高分辨质谱法测定小鼠血液中的NNN及其7种代谢物",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "fxhx201509030",
+      "title": "基于超高效液相色谱-质谱的药物性肝损伤患者血清代谢组学研究",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ywfxzz201901014",
+      "title": "基于UPLC-Q-Exactive四极杆-静电场轨道阱高分辨质谱联用技术快速识别补肾活血方的化学成分",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgylxydl202001002",
+      "title": "微RNA-24对过氧化氢诱导的人脐静脉血管内皮细胞凋亡的影响及作用机制",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgylxydl201106016",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 3,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylxydl201909001",
+      "title": "大会报告",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lcfkzz201608023",
+      "title": "低剂量维生素A或多种营养素联合应用对新生儿肺炎的辅助治疗效果",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgbjyy-kp201724347",
+      "title": "维生素A与新生儿肺炎、败血症及呼吸窘迫综合征相关性探讨",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyykx201715059",
+      "title": "维生素A联合营养素在肺部感染新生儿中的辅助疗效研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jcyxlt201808013",
+      "title": "足月新生儿血清维生素A维生素E水平测定结果分析",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsyyy202010015",
+      "title": "孕晚期营养素摄入对新生儿出生体重的影响",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "lcekzz201508018",
+      "title": "早产儿血清维生素A水平与新生儿呼吸窘迫综合征的相关性分析",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "gwyx-fybj201909013",
+      "title": "脂溶性维生素与妊娠期高血压疾病临床研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "zgylxydl201001016",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylxydl201909004",
+      "title": "青年论坛——研究生",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylxydl201907007",
+      "title": "磷酸二酯酶4抑制剂治疗炎症性肠病研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgylxydl202001001",
+      "title": "阿尔茨海默病:与性别、癌症、饮食有关吗?",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgsqys201434032",
+      "title": "小剂量维生素A佐治新生儿感染性肺炎疗效观察",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jslcyxzz201519073",
+      "title": "低剂量维生素A或多种营养素佐治新生儿肺炎的临床研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "gwyx-fybj201909013",
+      "title": "脂溶性维生素与妊娠期高血压疾病临床研究",
+      "download_times": 3,
+      "browse_times": 7
+    },
+    {
+      "id": "zgylxydl201404035",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgylxydl201404035",
+      "title": "《中国药理学与毒理学杂志》稿约",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "sdjsyx200706033",
+      "title": "双相情感障碍的最新研究进展",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "kjxx201011017",
+      "title": "构树的药理作用综述",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxhlzz201502005",
+      "title": "双相情感障碍认知干预研究进展",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "MlHQSd0fqEFdepMEx9yz1MpQW4yxfNU7bWTb/98Of+8=",
+      "title": "β淀粉样肽31-35介导的神经细胞线粒体损伤及机制研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxmsy201304035",
+      "title": "构树叶提取物对金黄色葡萄球菌的抑制作用及机理研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgqkyx201305001",
+      "title": "双相情感障碍:综述",
+      "download_times": 5,
+      "browse_times": 12
+    },
+    {
+      "id": "zgsyfjxzz201319073",
+      "title": "构树叶提取物抑菌活性的初步观察",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgbjyy-kp202026019",
+      "title": "心理护理干预对双相情感障碍患者冲动行为的影响",
+      "download_times": 4,
+      "browse_times": 8
+    },
+    {
+      "id": "bLwjXyIERvXKIq3NjPYYSi8RDiQopcWGFqp8/PwLKBA=",
+      "title": "用Network Meta分析系统评价GLP-1受体激动剂类降糖药的心血管安全性",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhhlzz202001001",
+      "title": "征程万里风正劲 重任千钧再出发",
+      "download_times": 29,
+      "browse_times": 244
+    },
+    {
+      "id": "yxdwfz201704018",
+      "title": "三清方饮料清热作用观察",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dyjydxxb202011009",
+      "title": "乳腺浸润性导管癌中JMJD3、MMP-2和VEGF的表达及其与临床病理特征的关系",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "syxnfxgbzz202001005",
+      "title": "心理弹性、反刍性沉思与行经皮冠状动脉介入治疗的冠心病患者创伤后成长的相关性研究",
+      "download_times": 3,
+      "browse_times": 7
+    }
+  ],
+  "检索": [
+    "中华超声",
+    "超声",
+    "超声",
+    "中华超声",
+    "超声",
+    "中华超声",
+    "新生儿维生素A病例对照",
+    "新生儿维生素A病例对照",
+    "QE",
+    "新生儿维生素",
+    "新生儿维生素A",
+    "中国保健营养",
+    "Q-Exactive",
+    "Q-Exactive",
+    "新生儿维生素A病例对照",
+    "新生儿维生素A",
+    "新生儿维生素A病例对照",
+    "新生儿维生素A",
+    "新生儿维生素A",
+    "新生儿维生素A",
+    "新生儿维生素A",
+    "E—Govemment Adoption:The Challenge of Digital Divide Based on Jorda— nians’Perceptions",
+    "QExac",
+    "Q-Exactive",
+    "QExac",
+    "Q-Exactive",
+    "E—Govemment Adoption：The Challenge of Digital Divide Based on Jorda— nians’Perceptions",
+    "双相情感障碍",
+    "双相情感障碍",
+    "双相情感障碍",
+    "双相情感障碍",
+    "双相情感障碍",
+    "双相情感障碍",
+    "双相情感障碍",
+    "构树抑菌",
+    "工作场所二氧化钛纳米颗粒职业接触限值的研究与建议",
+    "工作场所二氧化钛纳米颗粒职业接触限值的研究与建议",
+    "神经细胞老化的线粒体机制及Spermidine",
+    "混合评价",
+    "(作者:xiaoyu lv) (Type:'Periodical' )",
+    "作者:吕晓瑜",
+    "作者:金培生",
+    "眼科学与科学",
+    "动脉粥样硬化    超敏C反应蛋白",
+    "作者:'刘梦妍'",
+    "(题名或关键词:(支架) and 题名或关键词:(搭桥)) (Type:(Periodical OR Thesis OR Conference) )",
+    "重睑术",
+    "Double Eyelidplasty",
+    "用NetworkMeta分析的系统评价GLP-1受体激动剂类降糖药的心血管",
+    "(国内外支架) (ClassCodeForSearch:'0/R' )",
+    "动脉粥样硬化    MHR",
+    "鼻美学亚单位分区在鼻端缺损修复中的应用",
+    "(作者:xiaoyu lv) (Type:'Periodical' )",
+    "(作者:吕晓瑜) (Type:'Periodical' )",
+    "作者:'吕晓瑜'",
+    "作者:'吕晓瑜'",
+    "(主题:(人口老龄化) and 题名或关键词:(认识)) (Type:(Periodical OR Thesis OR Conference) )",
+    "HPV",
+    "混合评价",
+    "混合学习评价",
+    "混合评价",
+    "(题名或关键词:(法医学) and 题名或关键词:(影像学) and 题名或关键词:(应用)) (Type:(Periodical OR Thesis OR Conference) )",
+    "新型冠状病毒抗体检测现状",
+    "(题名或关键词:(医学知识) and 题名或关键词:(科学技术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "混合评价",
+    "混合评价",
+    "(题名或关键词:(医学知识) and 题名或关键词:(科学技术)) (Type:(Periodical OR Thesis OR Conference) )",
+    "淋巴细胞  分选",
+    "(主题:(人口老龄化) and 题名或关键词:(认识)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(眼科学) and 题名或关键词:(科学)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:xiaoyu lv",
+    "作者:'吕晓瑜'",
+    "作者:'吕晓瑜'",
+    "作者:'吕晓瑜'",
+    "(HPV) (Language:'eng' )",
+    "动脉粥样硬化    PTX3",
+    "国内外支架",
+    "(国内外支架) (ClassCodeForSearch:'0/R' )",
+    "(国内外支架) (ClassCodeForSearch:'0/R' )",
+    "重视胎盘植入的早期诊断及规范化转诊",
+    "淋巴细胞的分选与鉴定",
+    "中华耳鼻咽喉头颈外科杂志",
+    "健康中国 医学生使命担当",
+    "(健康中国 医疗改革) (Type:'Periodical' )",
+    "(主题:(综述) and 主题:(糖尿病足) and 主题:(护理干预)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁家庭组成",
+    "社区护理干预对老年人高血压患者生活质量的研究进展",
+    "((疫情) 题名:心理",
+    "((主题:(脑) and 题名或关键词:(pm2.5)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "雄性李斯特菌",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((题名或关键词:(肾) and 题名或关键词:(pm2.5)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('互联网') and 题名或关键词:(中药)) (Type:(Periodical OR Thesis OR Conference) )",
+    "大鼠味觉厌恶学习对迷走神经传入放电及脑内FOS表达的影响",
+    "(题名或关键词:(肝性脑病) and 题名或关键词:(氨中毒) and 题名或关键词:(家兔)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肝性脑病) and 题名或关键词:(氨中毒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(家兔) and 题名或关键词:(氨中毒) and 题名:(肝性脑病)) (Type:(Periodical OR Thesis OR Conference) )",
+    "正念 肺癌 meta",
+    "少白头",
+    "抑郁青少年",
+    "抑郁青少年",
+    "自噬与糖尿病视神经病变",
+    "认知失调和完美主义",
+    "((关键词:家庭结构) 关键词:心理 ) 作者:叶玉清",
+    "((关键词:家庭结构) 关键词:自杀",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:谷硕硕",
+    "(主题:(眼) and 作者:(刘建伟)) (Type:(Periodical OR Thesis OR Conference) )",
+    "糖尿病性视网膜病变",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(眼) and 作者:(刘建伟)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:'刘建伟'",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:'刘建伟'",
+    "(主题:(肌肉余量) and 题名或关键词:(功能恢复)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(((题名或关键词:(音乐 OR 'Tempo (Music) (2004)' OR 'Music') AND 题名或关键词:(工作记忆 OR 'Working Memory' OR 'Working Memory')) AND Date:2018-2020)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "寂静肺",
+    "(主题:(医疗救助体系) and 主题:(公共卫生)) (Type:(Periodical OR Thesis OR Conference) )",
+    "抑郁青少年",
+    "抑郁青少年",
+    "青少年抑郁亲子依恋",
+    "(题名或关键词:(氨中毒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "正念 肺癌",
+    "题名:Neurobiology of suicidal bahaviour",
+    "(((关键词:家庭结构) 关键词:自杀) 关键词:学生",
+    "作者:刘建伟",
+    "(肺癌的耐药机制) (PublishYear:'2019' )",
+    "(肺癌的耐药机制) (PublishYear:'2019' )",
+    "(主题:(wnt) and 题名或关键词:(lrg1)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "中华耳鼻咽喉头颈外科杂志",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "少白头",
+    "少白头",
+    "(药品超市) 关键词:'内部改革'",
+    "内脏不适与甜味觉在脑干水平的相互作用及其对大鼠味觉",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "脑卒中 认知训练 国外研究现状",
+    "脑卒中 认知训练 进展",
+    "青少年抑郁自我效能感",
+    "(社区护理干预对老年人高血压患者生活质量的研究进展) (PublishYear:'2020' )",
+    "关键词:肝性脑病",
+    "浦肯野细胞",
+    "psychology",
+    "作者:'Dewhurst, Stephen A.'",
+    "认知失调",
+    "中国儿童阻塞性睡眠呼吸暂停诊断及",
+    "中国儿童阻塞性睡眠呼吸暂停",
+    "(非编码RNA) (Type:'Thesis' )",
+    "淋巴细胞鉴别",
+    "T淋巴细胞分离技术的进展",
+    "脑卒中’",
+    "脑卒中 认知训练 进展",
+    "(((关键词:家庭结构) 关键词:自杀) 关键词:学生",
+    "认知失调",
+    "题名:大学生自杀相关行为与不同家庭因素之间的关系研究",
+    "(关键词:家庭结构) 关键词:心理",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "脑卒中 认知训练 现状",
+    "脑卒中 认知训练 现状 国外",
+    "自杀",
+    "(自杀(伤)) 题名:疫情",
+    "疫情",
+    "疫情",
+    "少白头",
+    "少白头",
+    "少白头",
+    "中华耳鼻咽喉头颈外科杂志",
+    "药品超市",
+    "药店超市",
+    "药店超市",
+    "健康中国 国民幸福",
+    "健康中国 疾病预防",
+    "(题名或关键词:(肾) and 题名或关键词:(缺血再灌)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((题名或关键词:(音乐) and 题名或关键词:(工作记忆)) and Date:2018-2020) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(NLRP3) and 题名或关键词:(肾)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(关键词:(肝性脑病) and 关键词:(氨中毒) and 关键词:(家兔)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肝性脑病) and 题名或关键词:(氨中毒) and 题名:(家兔)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肝性脑病) and 题名或关键词:(氨中毒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "刊名:'Journal of experimental psychology. Learning, memory, and cognition'",
+    "(主题:(艾滋病) and 题名或关键词:(免疫治疗)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "Physician Emergency Preparedness: A National Poll of Physicians.",
+    "(题名或关键词:(肾上腺素) and 题名或关键词:(支气管哮喘)) (Type:(Periodical OR Thesis OR Conference) )",
+    "大学附属医院医师临床研究能力与培训需求分析",
+    "((主题:(脑) and 题名或关键词:(pm2.5)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(脑) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "IL-10介导单核细胞增多李斯特菌感染的性别易感性",
+    "(主题:('电玩城')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(青少年抑郁) (ClassCodeForSearch:'0/R' )",
+    "(主题:(智慧药房) and 题名或关键词:(药店)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('艾滋病')) (Type:(Periodical OR Thesis OR Conference) )",
+    "广州市部分大学生自杀意念",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "正视问题 完善措施 不断提高我国的食品安全水平",
+    "(题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(关键词:肝性脑病) 关键词:复方氯化铵",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁",
+    "((主题:(自杀) and 主题:(医学生)) and Date:2018-2019) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('家兔') and 题名或关键词:('氨中毒') and 题名:('肝性脑病')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肝性脑病) and 题名或关键词:(氨中毒) and 题名:(家兔)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(家兔) and 题名或关键词:(氨中毒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "正念减压 meta",
+    "正念 meta",
+    "抑郁",
+    "刊名:'Personality and Social Psychology Bulletin'",
+    "(((关键词:家庭结构) 关键词:自杀) 关键词:学生",
+    "糖尿病性视网膜病变",
+    "刊名:'Journal of experimental psychology. Learning, memory, and cognition'",
+    "(肺癌的耐药机制) (PublishYear:'2019' )",
+    "(主题:(成骨)) (Type:(Periodical OR Thesis OR Conference) )",
+    "肺癌的耐药机制",
+    "少白头",
+    "少白头",
+    "少白头",
+    "少白头",
+    "少白头",
+    "少白头",
+    "青少年抑郁完美主义",
+    "中国儿童阻塞性睡眠呼吸暂停诊断及治疗指南",
+    "(主题:(NLRP3)) (Type:(Periodical OR Thesis OR Conference) )",
+    "淋巴细胞分离",
+    "(主题:(淋巴细胞) and 主题:(分选) and 主题:(鉴别)) (Type:(Periodical OR Thesis OR Conference) )",
+    "淋巴细胞鉴别",
+    "少白头",
+    "(((题名或关键词:(音乐 OR 'Tempo (Music) (2004)' OR 'Music') AND 题名或关键词:(工作记忆 OR 'Working Memory' OR 'Working Memory')) AND Date:2018-2020)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾) and 题名或关键词:(4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "药店超市",
+    "((疫情) 题名:心理",
+    "((疫情) 题名:心理",
+    "(疫情",
+    "纳米二氧化钛和氯氰菊酯复合暴露对斑马鱼的甲状腺内分泌干扰和神经毒性研究",
+    "关键词:自杀意念",
+    "高钾血症",
+    "(题名或关键词:(肾) and 题名或关键词:(chop)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(老年糖尿病) and 题名或关键词:(多组分运动)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(((题名或关键词:(音乐 OR 'Tempo (Music) (2004)' OR 'Music') AND 题名或关键词:(工作记忆 OR 'Working Memory' OR 'Working Memory')) AND Date:2018-2020)) (Type:(Periodical OR Thesis OR Conference) )",
+    "胃肠组织切片",
+    "(主题:(PD1) and 题名或关键词:(肿瘤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(成骨)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁",
+    "青少年抑郁",
+    "青少年抑郁",
+    "青少年抑郁",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "题名:LED光固化灯光照强度对正畸托槽粘接即刻脱落的影响",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(PD1) and 题名或关键词:(肿瘤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('艾滋病')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('艾滋病')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(脑) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((题名或关键词:(肾) and 题名或关键词:(pm2.5)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(电玩城)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('夹娃娃')) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('互联网') and 题名或关键词:(中医院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(骨筋膜式综合症)) (Type:(Periodical OR Thesis OR Conference) )",
+    "自杀(伤)",
+    "认知失调",
+    "认知失调",
+    "认知失调",
+    "神经血管单元的缺血与炎症",
+    "关键词:家庭结构",
+    "糖尿病性视网膜病变研究进展",
+    "从神经血管单元角度认识糖尿病视网膜病变",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(电玩城)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁学习成绩",
+    "正念 meta",
+    "(关键词:(肝性脑病) and 关键词:(氨中毒) and 关键词:(家兔)) (Type:(Periodical OR Thesis OR Conference OR Standard) )",
+    "(关键词:(肝性脑病) and 关键词:(氨中毒)) (Type:(Periodical OR Thesis OR Conference) )",
+    "正念 meta",
+    "寂静肺",
+    "抑郁",
+    "肾上腺素对重症支气管哮喘急性发作患者肺功能及呼吸动力学的影响",
+    "山东省农村居民对村卫生室",
+    "糖尿病性视网膜病变",
+    "作者:'刘建伟'",
+    "(糖尿病性视网膜病变) (PublishYear:'2021' )",
+    "(主题:(成骨)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(成骨)) (Type:(Periodical OR Thesis OR Conference) )",
+    "T淋巴细胞分离技术的进展",
+    "(主题:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(((题名或关键词:(音乐 OR 'Tempo (Music) (2004)' OR 'Music') AND 题名或关键词:(工作记忆 OR 'Working Memory' OR 'Working Memory')) AND Date:2018-2020)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肌肉余量) and 题名或关键词:(功能恢复)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(综述) and 题名或关键词:(糖尿病) and 题名或关键词:(护理措施)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(综述) and 题名或关键词:(妊娠期高血压) and 题名或关键词:(护理措施)) (Type:(Periodical OR Thesis OR Conference) )",
+    "刊名:'Personality and Social Psychology Bulletin'",
+    "(主题:(PD1) and 题名或关键词:(肿瘤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:('艾滋病')) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "多组分运动",
+    "(主题:(脑) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(张红霞) and 题名或关键词:(肾)) (Type:(Periodical OR Thesis OR Conference) )",
+    "多元线性回归",
+    "(主题:(智慧药房) and 题名或关键词:(中药)) (Type:(Periodical OR Thesis OR Conference) )",
+    "作者:刘建伟",
+    "作者:'刘建伟'",
+    "木头击伤",
+    "糖尿病性视网膜病变",
+    "作者:'刘建伟'",
+    "青少年抑郁亲子依恋",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(淋巴细胞分选现状)) (Type:(Periodical OR Thesis OR Conference) )",
+    "淋巴细胞分选",
+    "淋巴细胞鉴别",
+    "(主题:(淋巴细胞) and 主题:(分选) and 主题:(鉴别)) (Type:(Periodical OR Thesis OR Conference) )",
+    "非编码RNA",
+    "(主题:(老年糖尿病) and 题名或关键词:(多组分运动)) (Type:(Periodical OR Thesis OR Conference) )",
+    "肺癌的耐药机制",
+    "作者:'荆琳'",
+    "(作者:(张红霞) and 题名或关键词:(肾)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(秦静) and 作者单位:(潍坊医学院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "刊名:'Personality and Social Psychology Bulletin'",
+    "Journal of personality and social psychology",
+    "(主题:(综述) and 主题:(糖尿病) and 主题:(护理措施)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(综述) and 题名或关键词:(妊娠期糖尿病) and 题名或关键词:(护理干预)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(智慧药房)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁自我效能感",
+    "青少年抑郁",
+    "青少年抑郁自我效能感",
+    "((主题:('矽尘') and 题名或关键词:('肺') and 题名:('大鼠')) and Date:2018-2020) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(药品超市)) (Type:(Periodical OR Thesis OR Conference) )",
+    "青少年抑郁",
+    "青少年抑郁",
+    "浦肯野细胞",
+    "青少年抑郁",
+    "抑郁",
+    "青少年抑郁",
+    "认知失调",
+    "认知失调",
+    "认知失调",
+    "认知失调",
+    "中国儿童阻塞性睡眠呼吸暂停诊断与治疗指南",
+    "(脑卒中 认知训练 ) (Type:'Thesis' )",
+    "脑卒中 认知训练",
+    "(主题:(综述) and 题名或关键词:(糖尿病) and 题名或关键词:(护理措施)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(综述) and 题名或关键词:(妊娠期糖尿病) and 题名或关键词:(产前护理)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(脑) and 题名:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((题名或关键词:(肾) and 题名或关键词:(pm2.5)) AND ((CorePeriodical:(ISTIC OR PKU OR CA OR NJU OR CSCD OR CBST OR EI OR AJ OR SA OR SCI OR CASS OR SCIE OR SSCI) AND Type:Periodical))) (Type:(Periodical OR Thesis OR Conference) )",
+    "(题名或关键词:(肾) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:('智慧药房') and 题名或关键词:(中医院)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(骨筋膜式综合症) and 题名或关键词:(康复)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(肾4-PAB)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(曾美纯) and 题名或关键词:(肺损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "高钾血症",
+    "(题名或关键词:(肾) and 题名或关键词:(bip)) (Type:(Periodical OR Thesis OR Conference) )",
+    "((主题:(肾 OR 'Kidney') AND 题名或关键词:pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "题名:LED光固化灯光照强度对正畸托槽粘接即刻脱落的影响",
+    "(题名或关键词:(pm2.5) and 题名或关键词:(损伤)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(张红霞) and 题名或关键词:(肾)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(脑) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(作者:(张红霞) and 题名或关键词:(肾)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(脑) and 题名或关键词:(pm2.5)) (Type:(Periodical OR Thesis OR Conference) )",
+    "(主题:(药品超市)) (Type:(Periodical OR Thesis OR Conference) )"
+  ]
+}

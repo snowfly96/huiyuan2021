@@ -1,0 +1,756 @@
+{
+  "下载": [
+    {
+      "id": "yycyzx201930042",
+      "title": "大数据时代背景下四川省大健康产业生态圈构建路径研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jjyjdk201930015",
+      "title": "健康中国战略下推动大健康产业可持续发展探析",
+      "download_times": 3,
+      "browse_times": 3
+    },
+    {
+      "id": "kxsd201322308",
+      "title": "产业集群对区域经济发展的影响机理研究",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "jzjj201802010",
+      "title": "基于分析统计的装配式与现浇式成本比较研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "qianx201808022",
+      "title": "街道职责清单:'吹哨报到'的试点基础",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "smsj201910041",
+      "title": "人工智能技术背景下产品设计的新思路",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dglgxyxb201402003",
+      "title": "产业集群对区域经济发展的影响--以东莞虎门镇服装产业集群为例",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201921018",
+      "title": "5G时代下的'去手机'支付",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "xjj201624008",
+      "title": "基于MATLAB的常微分方程数值解法综述及经济模型",
+      "download_times": 5,
+      "browse_times": 0
+    },
+    {
+      "id": "fsjs201401040",
+      "title": "变步长龙格库塔方法在安徽中小水库调洪中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzkj201702001",
+      "title": "用'城市大脑'打造人工智能杭州样本",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jswl201404016",
+      "title": "基于Foliation条件的离散动力系统二维流形计算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtgcydzjs201004034",
+      "title": "基于带回归权重RBF-AR模型的混沌时间序列预测",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "dlyxtxb201105014",
+      "title": "噪声对信号混沌特性的影响研究与分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jjwtts200802014",
+      "title": "近16年来浙江省区域经济发展差异分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxzyxyxb200406037",
+      "title": "多元统计分析在中医证候研究中的应用探析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjnykx201103089",
+      "title": "基于多元统计分析的浙江经济发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyszgc201912009",
+      "title": "基于BP神经网络的深层感知器预测模型",
+      "download_times": 5,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjyyyrj202001021",
+      "title": "基于PCA和IFOA-BP神经网络的股价预测模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnqx201904004",
+      "title": "BP神经网络在油菜花期预报中的应用",
+      "download_times": 7,
+      "browse_times": 3
+    },
+    {
+      "id": "xasyxyxb201906008",
+      "title": "基于遗传算法的BP神经网络气液两相流持液率预测模型优化",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgxyxb202002014",
+      "title": "基于BP神经网络的仿人两指末端执行器抓握模式预测",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wjfz201912016",
+      "title": "基于卷积神经网络的目标检测模型综述",
+      "download_times": 6,
+      "browse_times": 3
+    },
+    {
+      "id": "bpqc201906011",
+      "title": "基于BP神经网络的地下采场爆破振速预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyrj202001008",
+      "title": "基于改进PSO-BP神经网络算法在一般盗窃犯罪预测中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qdhydxxb202002018",
+      "title": "基于BP神经网络的公交动态行程时间预测方法研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgfzdxxb201906010",
+      "title": "粒子群算法优化下的3D增材印花产品质量神经网络预测模型",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjxtyy202001036",
+      "title": "粒子群退火算法优化的BP神经网络及其应用",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "wlxb201924006",
+      "title": "Shimizu-Morioka系统与Finance系统生成Lorenz混沌的微分几何策略",
+      "download_times": 4,
+      "browse_times": 1
+    },
+    {
+      "id": "dlxykzxb201605003",
+      "title": "简化Lorenz系统多翅膀混沌吸引子的设计与电路实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "jxcd201907003",
+      "title": "基于G-P算法关联维数齿轮系统相空间吸引子数值特性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zdycj201919004",
+      "title": "基于激光超声的金属构件表面微裂纹定量检测技术研究",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "yzdxxb-zr201802002",
+      "title": "基于共轭Lorenz系统的新三维混沌系统研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjgcysj201903035",
+      "title": "Lorenz系统的非线性动力学行为及仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "csdxxb201702002",
+      "title": "Lorenz系统参数估计方法研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxxk201912024",
+      "title": "基于混沌吸引子重构和Low-rank聚类的跳频信号电台分选",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gzsfdxxb-zr201902010",
+      "title": "随机金融混沌系统的吸引子与分岔",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "dzqj201905024",
+      "title": "基于Simulink的Lorenz系统标度化设计及硬件其实现",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "bjhkhtdxxb201809012",
+      "title": "基于混沌吸引子的飞轮故障检测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "fjdn201907002",
+      "title": "随机参数下Lorenz系统的混沌特征",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whkjdxxb201906010",
+      "title": "反结构切换混沌系统",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "kmsfgdzkxxxb201906015",
+      "title": "一类广义非自治非线性Kirchhoff型方程的拉回吸引子",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hzdzgyxyxb201904002",
+      "title": "一个具有隐藏与共存吸引子的忆感器混沌系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xddzjs201915027",
+      "title": "基于最小二乘支持向量机对称性的混沌时间序列预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zysfxyxb201804019",
+      "title": "二维离散Lorenz混沌系统的复杂度分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "yyfhfxxb201903010",
+      "title": "强阻尼高阶Kirchhoff方程的整体吸引子族及其维数估计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlxykzxb201803006",
+      "title": "一类Lorenz型超混沌系统的Zero-Zero-Hopf分岔及共存吸引子研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "whsldldxxb-yc201906021",
+      "title": "分数阶细胞神经网络的动力学特性分析及控制设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgafcpxx201905012",
+      "title": "物联网+安防在智慧平安社区建设中的发展和深度应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgwygl201808049",
+      "title": "踏石留印抓铁有痕,打造安保铁军",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "gxgaglgbxyxb201602011",
+      "title": "法治视野下我国的保安服务业",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hjgcdxxb201906017",
+      "title": "基于BP神经网络的磁流变阻尼器逆向模型研究",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xtgcydzjs202001032",
+      "title": "基于灰色神经网络组合模型的故障预测",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "ahnykx201924024",
+      "title": "基于BP神经网络的桃林口水库水质预测",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zdycj201911039",
+      "title": "基于Lorenz系统Lyapunov指数的管道超声导波检测",
+      "download_times": 5,
+      "browse_times": 1
+    },
+    {
+      "id": "hzdxxb201703006",
+      "title": "Yang系统与Lorenz,Chen系统的光滑不等价性研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hndxxbzr201804010",
+      "title": "温和耗散线性非齐次Timoshenko系统整体解的存在性、渐近性和一致吸引子",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjdk201812008",
+      "title": "一类改进Chua系统隐藏吸引子研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kjzxdb201836068",
+      "title": "基于Chen系统与超混沌Lorenz系统的彩色图像 加密算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hnsfdx-zr201906011",
+      "title": "一类随机波动方程的随机吸引子的维数估计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xtdx201901002",
+      "title": "Klein-Gordon方程的全局吸引子的结构及其连续性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sysyjyts201901007",
+      "title": "基于Matlab/Simulink的混沌同步控制实验",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "csfzyj201011009",
+      "title": "智慧城市理念与未来城市发展",
+      "download_times": 2,
+      "browse_times": 6
+    },
+    {
+      "id": "zhongguofz201905002",
+      "title": "因地制宜推进人工智能产业化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bfyany200302047",
+      "title": "切花保鲜技术的研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "qykex201902009",
+      "title": "城市大脑:以数据资源驱动社会可持续发展——谈从电力时代迈向算力时代",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "rjhjcdl201910012",
+      "title": "城市大脑:从'智慧'到'智能'",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hngcxyxb-skb201501008",
+      "title": "清施世骥三海岩诗刻校理与考辨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzclyyqxb201205008",
+      "title": "基于C-C算法的混沌吸引子的相空间重构技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjfz201807045",
+      "title": "混沌系统相空间重构参数选取的仿真研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xjgy201808022",
+      "title": "基于BP神经网络算法的橡胶配方性能预测软件",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "bzycj201706027",
+      "title": "基于Matlab和BP神经网络的爆破振动预测系统",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdjx201403002",
+      "title": "基于BP神经网络的轴承寿命预测程序设计",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gyjsjj201807006",
+      "title": "基于相空间重构的煤炭价格时间序列的混沌特征研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "cgqjs201909032",
+      "title": "基于相空间重构小波神经网络的短期覆冰预测",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "mkaq201911014",
+      "title": "立井爆破振动信号混沌特征研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zgmt201905008",
+      "title": "基于混沌相空间重构的IGA-LSSVM在线煤矿工作面瓦斯浓度预测模型的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyyyj201910015",
+      "title": "基于改进混沌分区算法的模糊信息抽取",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "stxb200109021",
+      "title": "褐飞虱发生的一维时间序列相空间重构及混沌吸引子维数的确定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jczdh201908012",
+      "title": "相空间重构短期风速与发电功率在线预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjdl201512002",
+      "title": "多小水电地区网供负荷预测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sdgyjs201812162",
+      "title": "基于龙格-库塔的非线性电容电路数值解法",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "rjhjcdl201907015",
+      "title": "基于时空图神经网络的交通预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "kzllyyy201902011",
+      "title": "具有共存吸引子的混沌系统及其分数阶系统的镇定",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbgxyxb201905003",
+      "title": "一类反应扩散系统全局吸引子的存在性",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dlqgyxyxb201805018",
+      "title": "基于一维Logistic离散系统控制的最简Lorenz系统动力学分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb200702016",
+      "title": "基于分形自仿射的混沌时间序列预测",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xasyxyxb201101023",
+      "title": "JSON在Ajax数据交换中的应用研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dlkjxx201106002",
+      "title": "从数字城市到智慧城市的理论与实践",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dnzsyjs-itrzyksb201434044",
+      "title": "基于Python语言编程特点及应用之探讨",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "dnbcjqywh201006025",
+      "title": "Python访问MySQL数据库",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgncslsd201912033",
+      "title": "瓦屋山引水隧洞围岩流变特性数值分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "znglgc201702048",
+      "title": "基于BP神经网络学习模型对桥梁变形数据处理研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gslkxk201912004",
+      "title": "常微分方程初值问题的高阶泰勒法与龙格-库塔法之应用对比",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgnjh201710019",
+      "title": "基于Matlab/Simulink的调平系统动力学建模与仿真",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "thsfxyxb201708006",
+      "title": "一阶常微分方程初值问题的数值算法",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "xk-cz201911026",
+      "title": "综合运用城市大脑提升城区治理水平——从杭州上城湖滨街区智慧治理谈起",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "kxycf201832237",
+      "title": "人工智能:照亮智慧城市发展之路",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xxaqytxbm201910011",
+      "title": "人工智能攻击:人工智能安全漏洞以及应对策略",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zgafcpxx201909010",
+      "title": "视频结构化技术在智慧交通领域的新发展与深入应用",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zgtxtxxb-a201909001",
+      "title": "城市视频实景地图构建初探",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "xnjtdxxb200105006",
+      "title": "基于混沌吸引子的时间序列预测方法及其应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "rjhjcdl201910011",
+      "title": "城市大脑与智慧城市",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "dzkxjs201905010",
+      "title": "边缘计算——开启门店科技新时代",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkxjs201902005",
+      "title": "深度学习时代的行人重识别技术",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgncslsd201912018",
+      "title": "基于PNN网络的水质预测研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "dzkxjs201905001",
+      "title": "AI边缘计算技术推动万物智能时代的到来",
+      "download_times": 4,
+      "browse_times": 3
+    },
+    {
+      "id": "zgzkjs201908081",
+      "title": "城市大脑:探索未来的智慧之城",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hdjjgl200302003",
+      "title": "浙江省城市经济发展水平的定量分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hbqy201610032",
+      "title": "江苏省各市经济发展的主成分和聚类分析",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "xdsmgy200914035",
+      "title": "浙江省区域经济发展水平综合统计分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjygl201301016",
+      "title": "基于多元统计分析的区域经济差异研究",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201923042",
+      "title": "大学生购买网络课程的影响因素分析—— 基于因子分析的实证研究",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "dbch201909023",
+      "title": "智慧城市时空大数据汇聚系统关键技术研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dzkxjs201905008",
+      "title": "城市大脑:云边协同城市视觉计算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "jjyjdk200816058",
+      "title": "主成分分析方法在区域经济统计分析中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zhonggsm201230101",
+      "title": "基于多元统计分析的浙江省区域经济发展研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxxyxb200904008",
+      "title": "浙江省区域经济差异的演变轨迹及分解分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mhxb200206009",
+      "title": "引进国外棉花种质资源主要农艺及经济性状鉴定研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "glkxwz201923016",
+      "title": "哈尔滨市新材料产业集群发展研究",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zsjjeqy201401085",
+      "title": "企业新员工培训方案设计——以美的集团辽宁分部为例",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zgsy201502011",
+      "title": "提高我国港口设施保安培训水平的建议",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "zgrmjgdxxb-zxshkxb200505009",
+      "title": "社会结构的变化与保安业的发展",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "wlxb201913006",
+      "title": "新Chua多涡卷混沌吸引子的产生及应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "albsj201904002",
+      "title": "伊朗多民族统一国家认同的建构及启示",
+      "download_times": 3,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": []
+}

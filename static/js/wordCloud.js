@@ -63,7 +63,7 @@ function setWordCloud(type,month) {
                     },
                     data: wcData.sort(function (a, b) {
                         return b.value  - a.value;
-                    }).slice(0,150)
+                    }).slice(0,120)
                 } ]
             };
 

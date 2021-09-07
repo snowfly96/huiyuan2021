@@ -1,0 +1,2966 @@
+{
+  "下载": [
+    {
+      "id": "zhqkyszz201911009",
+      "title": "室性心动过速基层诊疗指南(2019年)",
+      "download_times": 13,
+      "browse_times": 9
+    },
+    {
+      "id": "zhqkyszz201911007",
+      "title": "心脏骤停基层诊疗指南(2019年)",
+      "download_times": 15,
+      "browse_times": 11
+    },
+    {
+      "id": "zhqkyszz201911008",
+      "title": "心脏骤停基层诊疗指南(实践版·2019)",
+      "download_times": 12,
+      "browse_times": 9
+    },
+    {
+      "id": "zhqkyszz201911005",
+      "title": "甲状腺功能减退症基层诊疗指南(2019年)",
+      "download_times": 22,
+      "browse_times": 11
+    },
+    {
+      "id": "yycyzx201901041",
+      "title": "结核感染T细胞斑点试验在肺结核和肺外结核诊断中的价值",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyk201404020",
+      "title": "从各国青光眼指南谈目标眼压",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "ddyx202002059",
+      "title": "结核感染T细胞斑点试验对结核感染诊断的价值",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zhqkyszz201908002",
+      "title": "肺结核基层诊疗指南(2018年)",
+      "download_times": 58,
+      "browse_times": 46
+    },
+    {
+      "id": "kjyy-qywy200601042",
+      "title": "脑血管畸形的治疗进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyxcyszz201302005",
+      "title": "肺结核诊断和治疗指南",
+      "download_times": 13,
+      "browse_times": 12
+    },
+    {
+      "id": "gwyx-lcsw201917023",
+      "title": "结核感染T细胞检测试验的临床应用价值及研究进展",
+      "download_times": 3,
+      "browse_times": 2
+    },
+    {
+      "id": "lcekzz201904010",
+      "title": "结核感染T细胞斑点试验、涂片检查和结核菌素试验在儿童结核病诊断中的价值",
+      "download_times": 6,
+      "browse_times": 8
+    },
+    {
+      "id": "ykxjz201811001",
+      "title": "青光眼诊断与治疗规范——2017年英国专家共识解读",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "zhyk201803001",
+      "title": "重视青光眼临床诊断和治疗的规范化",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zhyk200512023",
+      "title": "《中国青光眼临床工作指南》(2005)公布",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "syyylczz200802006",
+      "title": "脑血管畸形放射外科与立体定向放射治疗进展",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhqkyszz201908001",
+      "title": "加强防控,规范基层肺结核诊疗与管理",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201908003",
+      "title": "肺结核基层诊疗指南(实践版·2018)",
+      "download_times": 22,
+      "browse_times": 18
+    },
+    {
+      "id": "qqhryxyxb201819002",
+      "title": "探讨T-SPOT对结核病的诊断价值研究",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "qlyxjy201802013",
+      "title": "结核感染患者T-SPOT.TB检测的诊断价值",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "zhqkyszz201910023",
+      "title": "提高基层肺结核的诊治能力",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "shtddxxb201704017",
+      "title": "T-Spot试验在结核病诊断中的价值",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "syyxzz201820035",
+      "title": "结核感染T细胞斑点试验在结核病诊断中的价值及影响因素",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "qqhryxyxb201919021",
+      "title": "结核感染T淋巴细胞斑点试验对于非典型肺结核的诊断价值",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "jxyxjy200721010",
+      "title": "中国青光眼临床工作指南",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "sxyyzz201912037",
+      "title": "T细胞斑点试验在结核病诊断中的应用价值",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgyxwz-nkxfc201906037",
+      "title": "内科胸腔镜联合尿激酶治疗结核性包裹性胸腔积液患者疗效分析",
+      "download_times": 1,
+      "browse_times": 3
+    },
+    {
+      "id": "ylzb201920010",
+      "title": "胸腔镜手术治疗结核性包裹性胸腔积液患者的临床效果",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "lcfkzz201611044",
+      "title": "结核性包裹性胸腔积液不同时机手术疗效比较",
+      "download_times": 1,
+      "browse_times": 0
+    },
+    {
+      "id": "sxyyzz201924026",
+      "title": "内科胸腔镜下氩气刀联合尿激酶注入治疗结核性包裹性胸腔积液的疗效",
+      "download_times": 2,
+      "browse_times": 5
+    },
+    {
+      "id": "zgyxqyzz201907001",
+      "title": "心力衰竭合理用药指南(第2版)",
+      "download_times": 13,
+      "browse_times": 15
+    },
+    {
+      "id": "zlyjylc201812002",
+      "title": "中华医学会肺癌临床诊疗指南(2018版)",
+      "download_times": 23,
+      "browse_times": 13
+    },
+    {
+      "id": "zhxxgb201912003",
+      "title": "中国左心耳封堵预防心房颤动卒中专家共识(2019)",
+      "download_times": 28,
+      "browse_times": 22
+    },
+    {
+      "id": "zhxlscxzz201906002",
+      "title": "中国心源性卒中防治指南(2019)",
+      "download_times": 50,
+      "browse_times": 33
+    },
+    {
+      "id": "zhxlsjhxjbzz202001001",
+      "title": "中国心力衰竭患者离子管理专家共识",
+      "download_times": 12,
+      "browse_times": 12
+    },
+    {
+      "id": "zhxxgb202004011",
+      "title": "超高危动脉粥样硬化性心血管疾病患者血脂管理中国专家共识",
+      "download_times": 12,
+      "browse_times": 18
+    },
+    {
+      "id": "zhyxjy202002011",
+      "title": "心力衰竭生物标志物中国专家共识",
+      "download_times": 17,
+      "browse_times": 21
+    },
+    {
+      "id": "zhfck202006001",
+      "title": "《妊娠期高血压疾病诊治指南（2020）》解读",
+      "download_times": 37,
+      "browse_times": 64
+    },
+    {
+      "id": "zhqkyszz202006007",
+      "title": "预激综合征基层诊疗指南（2019年）",
+      "download_times": 10,
+      "browse_times": 9
+    },
+    {
+      "id": "zhqkyszz202004016",
+      "title": "原发性骨质疏松症基层诊疗指南（2019年）",
+      "download_times": 19,
+      "browse_times": 22
+    },
+    {
+      "id": "zhqkyszz202003014",
+      "title": "头晕/眩晕基层诊疗指南（2019年）",
+      "download_times": 25,
+      "browse_times": 21
+    },
+    {
+      "id": "zhqkyszz202001019",
+      "title": "帕金森病基层诊疗指南（2019年）",
+      "download_times": 26,
+      "browse_times": 25
+    },
+    {
+      "id": "zhqkyszz201911005",
+      "title": "甲状腺功能减退症基层诊疗指南(2019年)",
+      "download_times": 22,
+      "browse_times": 11
+    },
+    {
+      "id": "zhqkyszz201903002",
+      "title": "咳嗽基层诊疗指南(2018年)",
+      "download_times": 35,
+      "browse_times": 33
+    },
+    {
+      "id": "zhqkyszz201901008",
+      "title": "成人阻塞性睡眠呼吸暂停基层诊疗指南(2018年)",
+      "download_times": 25,
+      "browse_times": 12
+    },
+    {
+      "id": "zhongguoyy201803036",
+      "title": "替格瑞洛的多效性及其作用机制的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201905005",
+      "title": "急性上呼吸道感染基层诊疗指南(2018年)",
+      "download_times": 30,
+      "browse_times": 19
+    },
+    {
+      "id": "zhqkyszz201908002",
+      "title": "肺结核基层诊疗指南(2018年)",
+      "download_times": 58,
+      "browse_times": 46
+    },
+    {
+      "id": "zhqkyszz201902005",
+      "title": "成人社区获得性肺炎基层诊疗指南(2018年)",
+      "download_times": 49,
+      "browse_times": 38
+    },
+    {
+      "id": "zhfck202004007",
+      "title": "妊娠期高血压疾病诊治指南（2020）",
+      "download_times": 79,
+      "browse_times": 94
+    },
+    {
+      "id": "zhqkyszz202002016",
+      "title": "肥胖症基层诊疗指南（2019年）",
+      "download_times": 12,
+      "browse_times": 10
+    },
+    {
+      "id": "zhqkyszz201910008",
+      "title": "慢性心力衰竭基层诊疗指南(2019年)",
+      "download_times": 35,
+      "browse_times": 31
+    },
+    {
+      "id": "zhqkyszz201905003",
+      "title": "血脂异常基层诊疗指南(2019年)",
+      "download_times": 44,
+      "browse_times": 18
+    },
+    {
+      "id": "zhqkyszz201907003",
+      "title": "慢性腹痛基层诊疗指南(2019年)",
+      "download_times": 14,
+      "browse_times": 9
+    },
+    {
+      "id": "zhqkyszz201909005",
+      "title": "急性胰腺炎基层诊疗指南(2019年)",
+      "download_times": 33,
+      "browse_times": 26
+    },
+    {
+      "id": "zhqkyszz201907005",
+      "title": "胃食管反流病基层诊疗指南(2019年)",
+      "download_times": 20,
+      "browse_times": 10
+    },
+    {
+      "id": "zhqkyszz201904003",
+      "title": "高血压基层诊疗指南(2019年)",
+      "download_times": 34,
+      "browse_times": 34
+    },
+    {
+      "id": "zhxxgb201902006",
+      "title": "晕厥诊断与治疗中国专家共识(2018)",
+      "download_times": 56,
+      "browse_times": 42
+    },
+    {
+      "id": "zhxxgb201910005",
+      "title": "急性ST段抬高型心肌梗死诊断和治疗指南(2019)",
+      "download_times": 170,
+      "browse_times": 158
+    },
+    {
+      "id": "zhxxgb202005007",
+      "title": "冠状动脉生物可吸收支架临床应用中国专家共识",
+      "download_times": 10,
+      "browse_times": 13
+    },
+    {
+      "id": "zhqkyszz201904004",
+      "title": "急性气管-支气管炎基层诊疗指南(2018年)",
+      "download_times": 17,
+      "browse_times": 17
+    },
+    {
+      "id": "yxzs201806030",
+      "title": "替格瑞洛在急性冠状动脉综合征中的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxxgb202003003",
+      "title": "妊娠期高血压疾病血压管理专家共识（2019）",
+      "download_times": 15,
+      "browse_times": 28
+    },
+    {
+      "id": "yxxxzz201701164",
+      "title": "经桡动脉行冠脉介入治疗并发症的预防和护理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxxgb202001005",
+      "title": "中国高血压健康管理规范（2019）",
+      "download_times": 39,
+      "browse_times": 62
+    },
+    {
+      "id": "zgjjyx201602002",
+      "title": "2015中国急诊急性冠状动脉综合征临床实践指南(三)——治疗和预后篇",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxzxxgyxzz202004002",
+      "title": "2019ESC慢性冠脉综合征指南解读",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "zhqkyszz201810002",
+      "title": "支气管哮喘基层诊疗指南(2018年)",
+      "download_times": 51,
+      "browse_times": 42
+    },
+    {
+      "id": "zhqkyszz201811002",
+      "title": "慢性阻塞性肺疾病基层诊疗指南(2018年)",
+      "download_times": 55,
+      "browse_times": 55
+    },
+    {
+      "id": "jzyx201904003",
+      "title": "急性冠脉综合征急诊快速诊治指南(2019)",
+      "download_times": 39,
+      "browse_times": 35
+    },
+    {
+      "id": "zhqkyszz202006002",
+      "title": "心房颤动基层诊疗指南（2019年）",
+      "download_times": 25,
+      "browse_times": 29
+    },
+    {
+      "id": "zhqkyszz201911009",
+      "title": "室性心动过速基层诊疗指南(2019年)",
+      "download_times": 13,
+      "browse_times": 9
+    },
+    {
+      "id": "zhqkyszz201912002",
+      "title": "甲状腺功能亢进症基层诊疗指南(2019年)",
+      "download_times": 43,
+      "browse_times": 43
+    },
+    {
+      "id": "zhqkyszz202004011",
+      "title": "痛风及高尿酸血症基层诊疗指南（2019年）",
+      "download_times": 27,
+      "browse_times": 36
+    },
+    {
+      "id": "zgyy201908032",
+      "title": "替格瑞洛的药理作用、生物学效应及不良反应研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjjyx201601002",
+      "title": "2015中国急诊急性冠状动脉综合征临床实践指南（二）--诊断篇",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjjyx201512002",
+      "title": "急性冠脉综合征临床实践指南（一）",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "zhxxgb201705003",
+      "title": "非ST段抬高型急性冠状动脉综合征诊断和治疗指南(2016)",
+      "download_times": 36,
+      "browse_times": 44
+    },
+    {
+      "id": "zhqkyszz201911007",
+      "title": "心脏骤停基层诊疗指南(2019年)",
+      "download_times": 15,
+      "browse_times": 11
+    },
+    {
+      "id": "zhqkyszz201910004",
+      "title": "胸痛基层诊疗指南(2019年)",
+      "download_times": 27,
+      "browse_times": 18
+    },
+    {
+      "id": "zhqkyszz201910006",
+      "title": "急性心力衰竭基层诊疗指南(2019年)",
+      "download_times": 25,
+      "browse_times": 25
+    }
+  ],
+  "浏览": [
+    {
+      "id": "yycyzx201024064",
+      "title": "星形母细胞瘤1例报告",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ykyj201412002",
+      "title": "共刺激分子Tim-1在角膜移植排斥反应中的作用",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "wszyjy201123066",
+      "title": "医疗器械专业单片机应用技术实训项目探索",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxgc201103081",
+      "title": "经桡动脉行冠状动脉介入诊疗的并发症及处理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hnzy201811010",
+      "title": "秦国政从血论治带状疱疹经验",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "msjyyj201412118",
+      "title": "小学生科幻画创作指导策略探析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgcjsysj2018164454",
+      "title": "基于信息化角度下建筑工程质量的检测技术探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhfck202004007",
+      "title": "妊娠期高血压疾病诊治指南（2020）",
+      "download_times": 79,
+      "browse_times": 94
+    },
+    {
+      "id": "glxj201304335",
+      "title": "浅析杜甫诗歌之语言特色",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zxxdj201608010",
+      "title": "三自由度永磁电励磁组合偏置磁轴承研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ahyy201001025",
+      "title": "经桡动脉途径冠脉介入诊疗常见问题的观察与处理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yxxxzz201701164",
+      "title": "经桡动脉行冠脉介入治疗并发症的预防和护理",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgylqy200812031",
+      "title": "从神经内科临床教学论医学教育",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jyzxyyyswx201401014",
+      "title": "广西德保猪MC1R基因的克隆与分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxxgb202003003",
+      "title": "妊娠期高血压疾病血压管理专家共识（2019）",
+      "download_times": 15,
+      "browse_times": 28
+    },
+    {
+      "id": "zgjcyy201223092",
+      "title": "持续心理干预预防产后心绪不良的效果",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "twhx200804004",
+      "title": "海洋烷烃降解菌Alcanivorax sp.A-11-3的分离鉴定及其降解酶基因研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bfjm201511006",
+      "title": "黑龙江省对俄跨境电子商务发展探析——以“互联网+”为背景",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lhzyjsxyxb201201055",
+      "title": "以社会主义核心价值体系引领高校校园文化建设",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jhlt200505023",
+      "title": "宋朝以后文人士大夫的梅花情结",
+      "download_times": 1,
+      "browse_times": 6
+    },
+    {
+      "id": "zgyxjyjs201405009",
+      "title": "高职医学影像技术专业网络虚拟实践教学平台的构建与应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "niangjkj200611024",
+      "title": "低度石榴果酒的生产工艺",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "rdzwxb201712021",
+      "title": "甘蔗褐锈病菌巢式PCR分子检测方法的建立",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnjh201005011",
+      "title": "我国核桃初加工现状及发展前景的分析研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jtyjsj201801013",
+      "title": "基于分布式出行信息的轨道交通出行特征辨识",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jtck201612003",
+      "title": "部门整体支出绩效评价中存在的问题及对策",
+      "download_times": 3,
+      "browse_times": 21
+    },
+    {
+      "id": "zhqkyszz201910008",
+      "title": "慢性心力衰竭基层诊疗指南(2019年)",
+      "download_times": 35,
+      "browse_times": 31
+    },
+    {
+      "id": "jsncjj201705006",
+      "title": "海安:调结构促转型推进现代禽蛋产业园三产融合发展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yysx201801021",
+      "title": "焊接薄板中S0兰姆波对槽型缺陷响应特性的数值研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201904003",
+      "title": "高血压基层诊疗指南(2019年)",
+      "download_times": 34,
+      "browse_times": 34
+    },
+    {
+      "id": "zhjsxy201304034",
+      "title": "聂万胜教授",
+      "download_times": 0,
+      "browse_times": 7
+    },
+    {
+      "id": "sjzyy200702008",
+      "title": "消乳癖汤治疗乳腺增生96例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyjk201608001",
+      "title": "新疆乌鲁木齐市某甲醇制混合芳烃项目职业病危害因素的识别与控制对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "njxxgcdxxb201902017",
+      "title": "层次分析法和GIS技术在河南省 雷电灾害风险区划中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK200603660343",
+      "title": "王芮:寄读京城的陕西贫困女孩",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzwy201203222",
+      "title": "走进童心的世界——谈少儿舞蹈艺术教育的四大特点及存在的问题和对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gzhg201801014",
+      "title": "生物滴滤塔处理甲硫醚气体动力学模型的研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs201919031",
+      "title": "影像学在动脉瘤性蛛网膜下腔出血预后中的应用进展",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "zhqkyszz201905003",
+      "title": "血脂异常基层诊疗指南(2019年)",
+      "download_times": 44,
+      "browse_times": 18
+    },
+    {
+      "id": "sqyxzz200406007",
+      "title": "急性心肌梗死院前急救临床分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyxyxxzz201612002",
+      "title": "单侧颞叶癫痫患者半球间镜像同伦功能连接的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jkr201736026",
+      "title": "三维超声自由解剖切面联合容积对比成像技术在胎儿胼胝体发育不良诊断中的应用价值",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201908002",
+      "title": "肺结核基层诊疗指南(2018年)",
+      "download_times": 58,
+      "browse_times": 46
+    },
+    {
+      "id": "jldxzrkxxb201702038",
+      "title": "基于原子与光场共振相互作用的W态融合",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nyfzyjr201711033",
+      "title": "学习贯彻十九大脱贫攻坚练本领 —2017年度'金农发行杯'业务技能竞赛决赛在贵州落幕",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shgz201006012",
+      "title": "明确纪律规范内幕信息管理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzwy202010024",
+      "title": "浅析塔希尔·哈达德的女性主义思想",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz202004016",
+      "title": "原发性骨质疏松症基层诊疗指南（2019年）",
+      "download_times": 19,
+      "browse_times": 22
+    },
+    {
+      "id": "sxwlxyxb201403008",
+      "title": "论“伍豪事件”及其当代启示",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gszy201412033",
+      "title": "滋阴补肾方治疗肝肾阴虚围绝经期功血40例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdhl201105002",
+      "title": "介绍一种清洗吸痰器连接管的方法",
+      "download_times": 0,
+      "browse_times": 7
+    },
+    {
+      "id": "dyjydxfxxb200402032",
+      "title": "家庭结构对大学生心理健康的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cswkzz201304037",
+      "title": "ICU中创伤死亡相关问题的研究现状",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201911005",
+      "title": "甲状腺功能减退症基层诊疗指南(2019年)",
+      "download_times": 22,
+      "browse_times": 11
+    },
+    {
+      "id": "yfyxwxxx200601044",
+      "title": "2005年章丘市部分中小学生冻伤情况调查",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwjkwz201016053",
+      "title": "中西医结合'三联疗法'治疗冠心病心绞痛64例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK200702910291",
+      "title": "如果是在古代",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcytzygkj201630241",
+      "title": "发电机同期回路检查及试验分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yfyxwxxx200603050",
+      "title": "济南市艾滋病流行特征与趋势分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz202001019",
+      "title": "帕金森病基层诊疗指南（2019年）",
+      "download_times": 26,
+      "browse_times": 25
+    },
+    {
+      "id": "guizhouyy201907047",
+      "title": "贵阳市部分地区30岁以上人群脑卒中危险因素调查研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QK201103176356",
+      "title": "黑龙江牡丹江将建设3个标准化奶牛养殖小区",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sxzlyx202012039",
+      "title": "抗血管生成在小细胞肺癌治疗中的研究进展",
+      "download_times": 3,
+      "browse_times": 10
+    },
+    {
+      "id": "dangddy200601020",
+      "title": "忠实的背叛 --新版《小城之春》的文化传承与嬗变",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201810002",
+      "title": "支气管哮喘基层诊疗指南(2018年)",
+      "download_times": 51,
+      "browse_times": 42
+    },
+    {
+      "id": "trcwyjykf201505031",
+      "title": "火棘果黄酮对油脂的抗氧化活性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hnyyxx200624015",
+      "title": "生长激素对小鼠子宫内膜容受性的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhonggxj201702037",
+      "title": "桑皮纤维:蚕桑产业链上的又一株新枝",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gngfzxb201401005",
+      "title": "叶酸封端的聚(碳酸酯-co-乙二醇)嵌段共聚物的合成及其胶束的制备",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jzyx201904003",
+      "title": "急性冠脉综合征急诊快速诊治指南(2019)",
+      "download_times": 39,
+      "browse_times": 35
+    },
+    {
+      "id": "zhmnwk201609031",
+      "title": "男性生殖器苔藓样硬化的病因及治疗",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "bfhj201911015",
+      "title": "海河干流沉积物氮磷钾含量及其赋存形态研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yxzs201806030",
+      "title": "替格瑞洛在急性冠状动脉综合征中的研究进展",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgbzdb201507021",
+      "title": "钧瓷",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zjyx200610039",
+      "title": "97例败血症致病菌及耐药性分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wszyjy201316037",
+      "title": "PBL教学模式在高职康复治疗技术专业物理因子治疗技术中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyf201616012",
+      "title": "赤雹果总有机酸对寒凝血瘀模型大鼠凝血时间及血液流变学的影响Δ",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2015071540",
+      "title": "如何选用一般压力表",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgggaq-xsb201503004",
+      "title": "浅谈隐患排查治理工作的重点和难点",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgjjyx201602002",
+      "title": "2015中国急诊急性冠状动脉综合征临床实践指南(三)——治疗和预后篇",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "ynnykj200102006",
+      "title": "溴甲烷处理老三七地防治根腐病和杂草",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qjygd201622061",
+      "title": "社区体育中心运营模式及发展趋势",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "dnm201720020",
+      "title": "浅谈IT技术与企业信息化建设",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zxyjzy-jyyjysj202007192",
+      "title": "小组合作学习在小学数学教学中的运用",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjjyx201601002",
+      "title": "2015中国急诊急性冠状动脉综合征临床实践指南（二）--诊断篇",
+      "download_times": 1,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxxgb201705003",
+      "title": "非ST段抬高型急性冠状动脉综合征诊断和治疗指南(2016)",
+      "download_times": 36,
+      "browse_times": 44
+    },
+    {
+      "id": "gxyx201706047",
+      "title": "B超引导下使用静脉留置针行儿童经外周静脉置入中心静脉导管置管的临床效果",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shenh201724063",
+      "title": "论学习中共党史的重要性",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "zgsyyy202009074",
+      "title": "卒中单元联合奥扎格雷对急性脑梗死患者神经缺损功能恢复的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201901008",
+      "title": "成人阻塞性睡眠呼吸暂停基层诊疗指南(2018年)",
+      "download_times": 25,
+      "browse_times": 12
+    },
+    {
+      "id": "zzkj201202012",
+      "title": "对县级种子管理工作的思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zggyyxzz200806036",
+      "title": "矽肺结核致胸腔积液39例超声诊断分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shij201201023",
+      "title": "巴彦淖尔市乌拉特前旗先锋镇——立足民生创和谐",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nbgbdsdxxb200403010",
+      "title": "诗词可译性探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ahyy201611018",
+      "title": "安徽地区1163例男性不育患者Y染色体无精子因子基因微缺失分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwscy201234040",
+      "title": "中期妊娠引产羊水栓塞急救的临床护理体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20192019062100005990",
+      "title": "关于建筑工程绿色施工技术的几点思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzyyxxzz201504039",
+      "title": "以血管紧张素Ⅱ为靶点的中药抗肾纤维化研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dianzixb200206009",
+      "title": "面向CAD的非对称共面波导模型及分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201902005",
+      "title": "成人社区获得性肺炎基层诊疗指南(2018年)",
+      "download_times": 49,
+      "browse_times": 38
+    },
+    {
+      "id": "bzgc201602037",
+      "title": "重组竹在新中式家具造型设计中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnxgbzz201605006",
+      "title": "内皮素受体拮抗剂BQ-123经PI3-K/Akt信号通路改善蛛网膜下腔出血大鼠早期脑损伤的效果",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wlhxxb201112028",
+      "title": "感应熔炼高锰硅的结构和形貌特性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hnzyxyxb201803016",
+      "title": "脂肪肝常见中医证型与生化指标的关系分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ysglykj200008030",
+      "title": "2000年6月地方财政一般预算收支累计完成情况表",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhlndqgjbzz201512020",
+      "title": "《中华老年多器官疾病杂志》投稿须知",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dxs-jyjxyj201324042",
+      "title": "班主任工作艺术",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "fsdtfx201828035",
+      "title": "浦银安盛投教专栏“Quant工话量化”上线/景顺长城基金:A股具备长线配置价值/富国基金张峰:港股金牛基金经理的投资“秘诀”",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhfck202006001",
+      "title": "《妊娠期高血压疾病诊治指南（2020）》解读",
+      "download_times": 37,
+      "browse_times": 64
+    },
+    {
+      "id": "fzdb200204002",
+      "title": "针织技术的发展与新产品开发",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhxxgb201910005",
+      "title": "急性ST段抬高型心肌梗死诊断和治疗指南(2019)",
+      "download_times": 170,
+      "browse_times": 158
+    },
+    {
+      "id": "csjsllyj2011213474",
+      "title": "论述第四纪中国新构造运动及气候对生物分布的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dmkx200804026",
+      "title": "优化农业基础环境促进农场经济又好又快发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "slsfzkxxxb200805011",
+      "title": "基于ⅡS+ASP+Access网站的安全隐患及防范",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xkc-xx201901397",
+      "title": "初探小班化教育在我校的发展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sxhjyst200311035",
+      "title": "鄱阳湖区生态环境问题及治理对策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ylsbxx201509028",
+      "title": "基于Web的医疗设备维修系统的设计与实现",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shnyxb202002008",
+      "title": "减磷施肥对寒地水稻干物质生产及产量的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgzkjs201705026",
+      "title": "电网企业固定资产账卡物一致性的方法探析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ahny201618123",
+      "title": "降水量变化对乌拉盖地区牧草生长的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gcdzxb200403020",
+      "title": "面向对象的土石坝参数随机反演程序设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sygzbzz201506004",
+      "title": "老年自身免疫性肝炎研究进展",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgyykx201902058",
+      "title": "基层医院健康体检人群血脂水平与高血压的关联性分析及研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ccsfxyxb-z201405020",
+      "title": "洛阳龙门石窟旅游解说系统构建研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ahny201701147",
+      "title": "复合菌液体发酵芝麻饼工艺研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgfp201518008",
+      "title": "金融扶贫的青海经验",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "hzjjykj201419056",
+      "title": "中小企业对外贸易现状及对策",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zwkjzlml-yyws201825045",
+      "title": "伴童年期创伤抑郁症炎症系统及脑影像学研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhongguosc201507040",
+      "title": "我国水产养殖装备研制应用的发展与展望",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwscy201232126",
+      "title": "某汽车零部件项目职业病危害预评价",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201811002",
+      "title": "慢性阻塞性肺疾病基层诊疗指南(2018年)",
+      "download_times": 55,
+      "browse_times": 55
+    },
+    {
+      "id": "gcrwlxb201602033",
+      "title": "泡沫金属内相变材料融化的格子Boltzmann方法孔隙尺度模拟研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzx201414066",
+      "title": "同时采集异步电机定子电流与电压信号的电机电气信号分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zwxx201410309",
+      "title": "邓小平创新党的群众路线思想的几点思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201904004",
+      "title": "急性气管-支气管炎基层诊疗指南(2018年)",
+      "download_times": 17,
+      "browse_times": 17
+    },
+    {
+      "id": "zhongguoyy201803036",
+      "title": "替格瑞洛的多效性及其作用机制的研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201905005",
+      "title": "急性上呼吸道感染基层诊疗指南(2018年)",
+      "download_times": 30,
+      "browse_times": 19
+    },
+    {
+      "id": "hnfzgdzkxxxb200602010",
+      "title": "加强纺织企业产品质量管理的探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwscy201233097",
+      "title": "下肢静脉曲张合并慢性溃疡临床治疗分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "klyd201512049",
+      "title": "文艺向左,爱情往右",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dqdzjxxb200703027",
+      "title": "基于Matlab与单片机的教学测控系统设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zggwjs200605019",
+      "title": "浅谈设计阶段码头工程投资的控制",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdyy201007034",
+      "title": "岭南医药启示录(续篇二十一)",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "dsyy201801008",
+      "title": "饲料蛋白质和脂肪水平对中华鳖生长性能、肌肉质构指标及肝脏相关基因表达的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201812003",
+      "title": "慢性肺源性心脏病基层诊疗指南(2018年)",
+      "download_times": 23,
+      "browse_times": 24
+    },
+    {
+      "id": "wsjjyj200306033",
+      "title": "县级医疗机构面临的挑战",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zghg201406008",
+      "title": "保持先进——访苏州工业园区海关关长顾勤",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lnjyxyxb200909071",
+      "title": "《倾城之恋》艺术风格探析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "yxzs201722004",
+      "title": "核心蛋白聚糖在组织器官纤维化中作用的研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201903002",
+      "title": "咳嗽基层诊疗指南(2018年)",
+      "download_times": 35,
+      "browse_times": 33
+    },
+    {
+      "id": "hkhtyy201504050",
+      "title": "利凡诺联合米非司酮终止4～6个月妊娠的临床分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qgsj201933034",
+      "title": "建筑电气工程中的强电施工与设计方法分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shidjm201320055",
+      "title": "浅谈阿米巴经营模式在中国企业中的应用",
+      "download_times": 2,
+      "browse_times": 4
+    },
+    {
+      "id": "jzgc201115076",
+      "title": "水闸大体积常态混凝土底板浇筑方法及保证措施",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcyydzzz201534082",
+      "title": "优质护理用于老年慢性肺炎的效果观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sjzxyy-e201564105",
+      "title": "柴芍六君子汤治疗肝郁脾虚型慢性乙肝临床观察",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dlsb200505037",
+      "title": "电能表检验技术的进步",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmzyxzz201904032",
+      "title": "丙泊酚和瑞芬太尼联用于腹腔镜手术麻醉中的效果观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201910006",
+      "title": "急性心力衰竭基层诊疗指南(2019年)",
+      "download_times": 25,
+      "browse_times": 25
+    },
+    {
+      "id": "xzsyzcycw201218160",
+      "title": "辅警经费保障问题初探",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjxgc201312003",
+      "title": "服从正态分布随机载荷作用下齿轮弯曲疲劳试验研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sqyxzz200302021",
+      "title": "社区健康教育促进城市卫生管理的效果评价",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwscy201232043",
+      "title": "传统置胃管法与改良置胃管法对小儿急性中毒的观察与护理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "snjs200103026",
+      "title": "生料入窑提升机改造",
+      "download_times": 0,
+      "browse_times": 23
+    },
+    {
+      "id": "zhqkyszz201907005",
+      "title": "胃食管反流病基层诊疗指南(2019年)",
+      "download_times": 20,
+      "browse_times": 10
+    },
+    {
+      "id": "fmycx-jyxxh202006045",
+      "title": "如何提高小学数学线上教学的有效性",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "sxzlyx201617041",
+      "title": "VEGFC/D －VEGFR3／NRP2轴通路相关分子在肿瘤及其淋巴道转移时的变化与意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "qclbj201407023",
+      "title": "煤粉发动机特性研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jsjgcysj201711050",
+      "title": "基于比赛环境特征的多目标运动员跟踪方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ghdqnyyj201506037",
+      "title": "干旱区微咸水滴灌条件下典型土壤盐碱化影响因素研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsqys201701056",
+      "title": "杞菊地黄汤加味配合羟糖甘滴眼液治疗肝肾阴虚型干眼临床研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yfyxqbzz201309020",
+      "title": "姜黄素与炎症诱导的肥胖、糖尿病关系的研究进展",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wszyjy201419017",
+      "title": "院校合作的高职教学质量监控与评价体系构建",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mkaq201906015",
+      "title": "原状与重塑冻结黏土单轴抗压对比试验",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wlxb201207014",
+      "title": "WLW原子核质量模型在γ过程研究中的应用",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zxyjhyj201606006",
+      "title": "加减逍遥散治疗肝郁脾虚型抑郁症的临床疗效观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lnczxb200506009",
+      "title": "'奇':李贺诗歌的审美特征之一",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lcysyblxzz201605029",
+      "title": "探讨两种石蜡包埋组织DNA提取方法",
+      "download_times": 1,
+      "browse_times": 2
+    },
+    {
+      "id": "gyaqyfc201805011",
+      "title": "污水处理系统中原生动物和微型后生动物的作用研究",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zgmjlf201607020",
+      "title": "艾灸治疗放化疗所致白细胞减少症的选穴分析",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "csjsllyj201331830",
+      "title": "浅谈分包队伍管理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "scxdh200824146",
+      "title": "增长极理论的发展历程及其对我国区域经济发展的指导意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201909005",
+      "title": "急性胰腺炎基层诊疗指南(2019年)",
+      "download_times": 33,
+      "browse_times": 26
+    },
+    {
+      "id": "dxs-jyjxyj201303026",
+      "title": "试论学前教育的发展前景与趋势",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "QK200904440230",
+      "title": "网恋",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgnz201804004",
+      "title": "白酒生产用己酸菌发酵液发酵条件及培养基组成的优化",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgjjyx201512002",
+      "title": "急性冠脉综合征临床实践指南（一）",
+      "download_times": 4,
+      "browse_times": 5
+    },
+    {
+      "id": "dxs-jyb201220018",
+      "title": "行走在教育之路上",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sjzxyy-e201582080",
+      "title": "探讨清眩降压汤在肝肾阴虚肝阳上亢型高血压患者治疗中的效果",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gxyjmzszxb201003025",
+      "title": "百色学院首届师范生教学技能大赛测评质量分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hbsshzyxyxb200304002",
+      "title": "'三个代表'重要思想是一个完整的科学理论体系",
+      "download_times": 1,
+      "browse_times": 4
+    },
+    {
+      "id": "cldb201614007",
+      "title": "La0.7Mg0.3-xLixNi2.8Co0.5(x=0.00,0.05,0.10,0.15)合金制备与电化学性能的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsjyyyj201912015",
+      "title": "面向新闻推荐的用户兴趣模型构建与更新",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "afkj200906013",
+      "title": "基于ZLG500的智能卡门禁系统设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "nyzs-kjysn201606026",
+      "title": "木地板打蜡需要注意的事项",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjxx201207271",
+      "title": "基于项目教学的评价体系研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "scsfxyxb-zr201704006",
+      "title": "rDNA-ITS序列分析法和传统分类法对真菌进行分类鉴定",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sh201506018",
+      "title": "水库",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "sxyyzz201508041",
+      "title": "综合康复训练对脑梗死偏瘫住院患者的疗效影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lngasfglgbxyxb201504015",
+      "title": "论民事公益诉讼与行政公益诉讼的制度区别",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "zgyy201908032",
+      "title": "替格瑞洛的药理作用、生物学效应及不良反应研究进展",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "lchlyyzz201910013",
+      "title": "颅内压监测对高血压脑出血术后并发症的预测价值",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "whcsjsxyxb200103019",
+      "title": "关于城市'热岛效应'的思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "QKBJB20192019092600003977",
+      "title": "水工建筑混凝土工程施工及质量控制探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgxzxxgyxzz202004002",
+      "title": "2019ESC慢性冠脉综合征指南解读",
+      "download_times": 1,
+      "browse_times": 5
+    },
+    {
+      "id": "tjhl201606032",
+      "title": "PDA扫描条形码技术在静脉药物调配中心的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lhzyjsxyxb200805010",
+      "title": "高速绷缝机刺料机构刺穿力的反求设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cczyxyxb201801020",
+      "title": "刘德玉从虚、瘀论治膝骨性关节炎",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "ynzwyj201303010",
+      "title": "槭属翅果种内形态变异性及对其化石鉴定的意义",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wlyc201715219",
+      "title": "中职工匠精神教育与学生日常管理的融通性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dizhixb201703003",
+      "title": "青海南山当家寺花岗岩体锆石U-Pb年代学、地球化学及其地质意义",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fzbl201511032",
+      "title": "论反垄断法中两大基本原则的适用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxdjyzb200802058",
+      "title": "多媒体技术在物理教学中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gzdxxb-shkxb200401005",
+      "title": "文学批评与比较文学--读江弱水《重估穆旦》",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "gzhg201012015",
+      "title": "固体酸催化剂研究近况综述",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "csjsllyj2013162744",
+      "title": "浅析当代大学生的遵纪守法教育",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "lhzyjsxyxb201106041",
+      "title": "河南高校科技创新创业成果转化的助推机制研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dqxb200203012",
+      "title": "负压地层形成机制及其对油气藏的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xkc-xx201107198",
+      "title": "对有自闭症倾向学生的教育策略",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxhzz2015z1150",
+      "title": "监测血清NT-proBNP水平指导IABP拔管时机",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhjhhhx201009016",
+      "title": "侵袭性肺真菌病14例确诊病例临床特点分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zdf201201009",
+      "title": "2．1MPa中低低变换装置开车运行总结",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hgsj201503014",
+      "title": "风机布置及管道设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgmzyyzz200501019",
+      "title": "湘西土家族草药摊调查",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "henzyxyxb202002022",
+      "title": "毛德西治疗胃脘痛经验",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zjlcyx201604003",
+      "title": "开颅微血管减压术的手术策略和技巧的应用价值",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz202004011",
+      "title": "痛风及高尿酸血症基层诊疗指南（2019年）",
+      "download_times": 27,
+      "browse_times": 36
+    },
+    {
+      "id": "jyjxxyxb201411015",
+      "title": "中链甘油三酯对高胆固醇血症小鼠胆固醇逆转运的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dswz201619065",
+      "title": "体育休闲旅游发展的理论探究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-jhsyfc201601008",
+      "title": "辅助生殖技术实施后随访系统建立",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "gfzclkxygc201802024",
+      "title": "四乙基氢氧化铵改性聚偏氟乙烯接枝二氧化硅油水分离膜的研制",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyyzn201230224",
+      "title": "1例胰十二指肠切除术预防使用抗菌药物的病例分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201911007",
+      "title": "心脏骤停基层诊疗指南(2019年)",
+      "download_times": 15,
+      "browse_times": 11
+    },
+    {
+      "id": "sxgdxxshkxxb200811024",
+      "title": "从青少年犯罪看对未成年人的保护",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nbyx201709012",
+      "title": "丙酸倍氯米松雾化吸入联合盐酸氨溴索治疗支气管哮喘的临床观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qywh-x201612047",
+      "title": "浅谈加强纪检监察干部队伍建设的几点思考",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201910004",
+      "title": "胸痛基层诊疗指南(2019年)",
+      "download_times": 27,
+      "browse_times": 18
+    },
+    {
+      "id": "jzgcjsysj2016190959",
+      "title": "浅谈高层钢结构抗火设计",
+      "download_times": 0,
+      "browse_times": 5
+    },
+    {
+      "id": "cwykj201106030",
+      "title": "《企业内部控制应用指引第17号——内部信息传递》解读",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "yfyxwxxx200603045",
+      "title": "东营市河口区2002～2004年食(饮)具卫生检测结果分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "njfw201618032",
+      "title": "番薯种植工艺及机械化生产技术体系探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "slxk-zxshkx200305024",
+      "title": "20世纪20年代苏维埃俄国的干部政策",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hbnyzyjsxyxb201901005",
+      "title": "校企共建网络课程的商业化路径探究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz201912002",
+      "title": "甲状腺功能亢进症基层诊疗指南(2019年)",
+      "download_times": 43,
+      "browse_times": 43
+    },
+    {
+      "id": "zgynswdxxb201301007",
+      "title": "牢牢把握夺取中国特色社会主义新胜利的基本要求",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz201907003",
+      "title": "慢性腹痛基层诊疗指南(2019年)",
+      "download_times": 14,
+      "browse_times": 9
+    },
+    {
+      "id": "cbyxyxb201605020",
+      "title": "HER-2蛋白、VEGF在胃癌组织中的表达及相互关系",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "rdyrdzwxb200301009",
+      "title": "广东省茂名油页岩废渣堆放场主要树种的叶片气孔气体交换",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgxwjy201108100",
+      "title": "医患对话的话语结构特征分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhhlzz201803022",
+      "title": "成人输液港堵塞预防与处理的证据总结",
+      "download_times": 4,
+      "browse_times": 12
+    },
+    {
+      "id": "zgkxyyk201504005",
+      "title": "浅谈我国土壤质量变化与耕地资源可持续利用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsyxcyszz201523001",
+      "title": "卫生计生单位接受公益事业捐赠管理办法(试行)",
+      "download_times": 4,
+      "browse_times": 14
+    },
+    {
+      "id": "xdyy201003057",
+      "title": "口腔器械消毒管理",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jzgcjsysj2017115868",
+      "title": "通信工程项目中的网络优化探讨",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jskj201623016",
+      "title": "复杂建筑垃圾再生工艺系统研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnykx201723080",
+      "title": "利用高岭土和玉米秸秆制备复合高吸水性树脂",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "qcsy201414101",
+      "title": "浅析明清传统铺面的装饰艺术--以山西平遥为例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jsnyxb201705017",
+      "title": "肝特异性表达Hnpc1l1转基因巴马小型猪的获得",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjtb201707026",
+      "title": "智慧旅游植物信息二维码设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyyswjs201401022",
+      "title": "炎症状态对CYP2B6活性改变及其作用机制的研究进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "njsfxyxb201412008",
+      "title": "金桂银桂丹桂四季桂脉序比较研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sfyj200102015",
+      "title": "机械活化低品位黑钨矿精矿的直接湿法处理",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhzhjyyx201908007",
+      "title": "2型糖尿病住院患者甲状腺结节的患病情况及相关影响因素分析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "ncsz201903007",
+      "title": "降雨入渗对煤系膨胀土边坡瞬态稳定性影响分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hxxh201702018",
+      "title": "共享经济下的新农业时代",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zyyk202009030",
+      "title": "腺苷蛋氨酸治疗胆汁淤积性肝病的效果及对患者肝功能和血清PLTP、IL－18水平的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "njjzy202005049",
+      "title": "农作物科学种植及病虫害防治技术探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shanxjz200821161",
+      "title": "路基填挖交界处治方案",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jzgc201731009",
+      "title": "浅析昆明市洗车废水的处理现状和存在问题",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yadxxb200904008",
+      "title": "斜对称变换及斜对称矩阵的性质",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wszyjy201422033",
+      "title": "波谱分析课程教学实践中的一些探索",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "abjbtb201903012",
+      "title": "改进型生物慢滤池对饮用水中氟及相关污染物的 去除效果研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "syhggdxx201804003",
+      "title": "不含烷基酚聚氧乙烯醚的硅油乳化剂的研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "dsjj-x201508272",
+      "title": "浅谈对儿童画教学中“创意思维”培养的思考",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "dzgbxk201401016",
+      "title": "我国社会结构转型背景下的社会工作本土化",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwscy201231077",
+      "title": "40例侵袭性肺曲霉病临床诊治分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xxffb-jyb20120416013",
+      "title": "小学数学教学例谈",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dxs-jyjxyj201508129",
+      "title": "浅谈小学科学教学的重要性",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "ahnykx201023114",
+      "title": "汾河源头珍稀濒危植物研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "tjsghglgbxyxb199603011",
+      "title": "一位曾与赫鲁晓夫通信的中国姑娘的悲剧人生",
+      "download_times": 0,
+      "browse_times": 18
+    },
+    {
+      "id": "kjdb201332010",
+      "title": "塔河油田点蚀测试及评价技术应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xjysddzzz-e201702014",
+      "title": "浅谈幼儿园大班数学集体教育活动游戏化",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "kjyqy201506143",
+      "title": "浅谈漠大线林区紧邻管道路基石方路段爆破施工",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lnxxgbzz201602001",
+      "title": "心绞痛患者白细胞介素-6受体、ADAMTS-1浓度与冠状动脉病变程度及稳定性的研究",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "kjygl201705016",
+      "title": "政府、银行、企业三者之间绿色信贷演化博弈分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "yfxs-syyyxyxb201604023",
+      "title": "谈艺术歌曲《忆秦娥·娄山关》的钢琴伴奏",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sjzxyjhzz201812008",
+      "title": "李海松教授运用'诱因辨证'改善精液质量经验",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "jcjyck201314020",
+      "title": "实、巧、情、趣、智让语文课更精彩",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "fzdb201011014",
+      "title": "国内外聚酯生产废水处理技术的进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhyxxxdb201908014",
+      "title": "《中国老年高血压管理指南2019》解读",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "kszk201419165",
+      "title": "玩色游戏——小班美术活动的快乐世界",
+      "download_times": 2,
+      "browse_times": 8
+    },
+    {
+      "id": "djwx201411023",
+      "title": "谈谈钢琴训练的方法",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "jzgc201622036",
+      "title": "深基坑模拟变形值与实测变形值的对比分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jlzyy201811004",
+      "title": "南征教授治疗紫癜性肾炎",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dianzixb199902019",
+      "title": "软件复用与软件构件技术",
+      "download_times": 3,
+      "browse_times": 8
+    },
+    {
+      "id": "slgy200004013",
+      "title": "橡胶粒子的粒径及粒径分布对ABS性能和结构的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "shkxjk201504025",
+      "title": "清代词论的“尊体”取向",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsywkzz201111025",
+      "title": "肝腔静脉结合部解剖及其在肝静脉阻断术中的应用",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "dsjyj201603010",
+      "title": "晚第四纪中国湖泊水量变化及其古环境意义",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgdxsjy200713010",
+      "title": "体验式就业:高校就业指导新模式",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwscy201232142",
+      "title": "澳大利亚医院管理项目学习考察报告",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhzjs201514018",
+      "title": "天鹅城的'康居'梦",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jcyxlt201107058",
+      "title": "婴儿防盗系统在二级医院的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hkdlxb201603014",
+      "title": "多级波瓣引射混合器气动性能数值研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "cqjtxyxb-shkxb200104011",
+      "title": "人性与非人性的交织--《呼啸山庄》中人物形象的隐含意味",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hbslfd201809013",
+      "title": "浅析锦屏一级进水口闸门动水落门试验",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyyzn201816013",
+      "title": "噻托溴铵粉吸入剂思力华联合盐酸氨溴索治疗老年COPD急性加重期的疗效及预后",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgwscy201234021",
+      "title": "“23预防接种护理模式”对儿童预防接种的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "cqjtxyxb-shkxb200104012",
+      "title": "陆晶清早期散文浅析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gdjssfxyxb201604010",
+      "title": "从《龟策列传》看汉代的占卜观",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zyjsjy200829047",
+      "title": "乌鲁木齐地区中等职业学校学生心理健康现状及分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgqydz201801005",
+      "title": "西天山伊犁地区上、下石炭统接触关系的重新厘定及其构造意义——来自沉积学和岩相学的证据",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "zxj201605004",
+      "title": "最是绝佳赏梅处 溧水秦淮梅园里",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgdzsw201414019",
+      "title": "基于ArcServer的开发与应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wysh-whyy201507072",
+      "title": "音乐与生活的关系初探",
+      "download_times": 0,
+      "browse_times": 7
+    },
+    {
+      "id": "yfyxwxxx200102116",
+      "title": "影响接种率评估的两大因素",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bfcy200004029",
+      "title": "江苏如皋蚕桑50年回顾与发展建议",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwqyj200208004",
+      "title": "中国乳业的战国时代",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "llgc201511043",
+      "title": "黄自艺术歌曲小品初探——以《雨后西湖》,《卜算子》为例",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "csgh201001013",
+      "title": "横向思维——首届'理论年聚'有感",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwxx201809251",
+      "title": "新媒体时代我国少数民族文化的海外传播形态",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gdtxjs201402004",
+      "title": "爱立信与高通为澳洲电讯演示全球首次LTE CAT6载波聚合互操作",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "lqjx201105025",
+      "title": "蒙语授课大学生思想政治教育方法探究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shzjzz201410022",
+      "title": "大黄敷脐加穴位按摩治疗血透患者顽固性便秘疗效观察",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "hqzyy201904029",
+      "title": "虚证口疮的中医辨证治疗心得",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wnyxyxb201404024",
+      "title": "双源CT双能量肝脏虚拟平扫的临床应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzclyyqxb201804027",
+      "title": "考虑路径相关性的TG-based缓解电路老化",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyykx201313067",
+      "title": "体检排队系统制作的经验和教训",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ytszzz-e201302001",
+      "title": "",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dzqc-xsb201404013",
+      "title": "提升CR-V舒适性之消除路试阅读灯异音",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ywknw201931137",
+      "title": "网络环境下初中语文'微作文'教学方法探析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lhjy-hx201006002",
+      "title": "纳米金光度法测定药物中盐酸小檗碱",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhqkyszz201911009",
+      "title": "室性心动过速基层诊疗指南(2019年)",
+      "download_times": 13,
+      "browse_times": 9
+    },
+    {
+      "id": "zgjtxxcy200411004",
+      "title": "石竹科技携以色列M-Systems公司最新Flash存储技术进军国内ITS等",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zgkx-cd201408021",
+      "title": "现代人颅骨头面部表面积的纬度分布特点及其与温度的关系",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "zhqkyszz202002016",
+      "title": "肥胖症基层诊疗指南（2019年）",
+      "download_times": 12,
+      "browse_times": 10
+    },
+    {
+      "id": "zgylbx201602018",
+      "title": "总额控制下门诊特病管理效果探析",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhqkyszz202006007",
+      "title": "预激综合征基层诊疗指南（2019年）",
+      "download_times": 10,
+      "browse_times": 9
+    },
+    {
+      "id": "xianysfxyxb201906014",
+      "title": "基于“土地整治+”的土地整治项目质量评价",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjq201002001",
+      "title": "鸡多病因呼吸道病的流行动态",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "rlfd200811008",
+      "title": "垃圾热解能耗及反应热测试方法的探讨",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "xdqb201701025",
+      "title": "基于用户行为数据分析的高校图书馆信息服务平台研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zgyxyxxzz201803009",
+      "title": "基于影像组学方法术前预测结直肠癌淋巴血管侵犯",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "zhqkyszz202003014",
+      "title": "头晕/眩晕基层诊疗指南（2019年）",
+      "download_times": 25,
+      "browse_times": 21
+    },
+    {
+      "id": "wswxtb201701007",
+      "title": "李渡酒窖土遗址中微生物种群的鉴定与分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgcrjy201022045",
+      "title": "高职焊接专业实训基地建设实践——以常州市实训基地建设为例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "aqsfxyxb-zrkx200901035",
+      "title": "总熵判据的使用条件",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "CASS_7100098888",
+      "title": "欢迎订阅《农民致富之友》杂志",
+      "download_times": 0,
+      "browse_times": 12
+    },
+    {
+      "id": "ddtb201303020",
+      "title": "大豆植株高度变化规律的分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "ycygl201405027",
+      "title": "人民币短期利率行为研究方法的一个改进--双指数Jump-GARCH-Vasicek模型的构建与应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xxhjs201611075",
+      "title": "探讨互联网模式下的家居环境室内设计",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsdkx202003006",
+      "title": "转Pi9抗稻瘟病基因水稻株系的比较转录组分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sygzbzz201902032",
+      "title": "胰腺癌患者血清CEMIP、CA19-9和CA242水平变化及其临床意义",
+      "download_times": 0,
+      "browse_times": 3
+    },
+    {
+      "id": "smsj201801092",
+      "title": "关于电子信息科学技术发展现状的思考",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zhxxgb201902006",
+      "title": "晕厥诊断与治疗中国专家共识(2018)",
+      "download_times": 56,
+      "browse_times": 42
+    },
+    {
+      "id": "rmyy200405011",
+      "title": "尊重历史实事求是--北京纪念吴伯超百年诞辰学术活动述评",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyykx201824005",
+      "title": "自动电脑验光仪Topcon KR-8900、LenstarLS900与角膜地形图Atlas 9000测量白内障患者术前角膜曲率的一致性分析",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "ddyx201409005",
+      "title": "三种全麻方式用于小儿人工电子耳蜗植入术的效果比较",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "21sjjzcl202004002",
+      "title": "为中国建材工业实现高质量发展提供导向支撑",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "mftx200501021",
+      "title": "一次发酵法馒头生产工艺研究等10则",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jzxb200701020",
+      "title": "购物者心理与行为在商业建筑设计中的体现",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgwscy201603036",
+      "title": "新民市生活饮用水水质微生物检验分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sxyyzz201508031",
+      "title": "阿替普酶静脉治疗急性脑梗死临床研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "smsj201801159",
+      "title": "EDA技术在通信电子线路中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kyyjykf200505019",
+      "title": "轧钢厂水处理自动控制系统",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwsj-xxb201009007",
+      "title": "有趣的鱼疗",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xbpg202006112",
+      "title": "对马王堆T型帛画绘画元素的当代解读",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zjzyxyxb201708014",
+      "title": "补肾平肝法治疗后循环缺血性眩晕经验与体会",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zhkqyxyjzz201105005",
+      "title": "放射性龋患者唾液中变形链球菌的产酸性及耐酸性",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gwyx-ycxfc201106007",
+      "title": "小G蛋白R- Ras生物学功能新进展",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bfjj200306017",
+      "title": "国家开发银行呼和浩特分行更名为国家开发银行内蒙古自治区分行",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sygcjs200003010",
+      "title": "污水处理场水池防渗漏方法",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "nygcxb201918002",
+      "title": "机械收获方式及籽粒含水率对玉米收获质量的影响",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "zzyzdh201707005",
+      "title": "自动化物流系统在医药制剂生产线中的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "wsjjyj200304010",
+      "title": "镇村卫生组织一体化管理经济效益分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "gdjy-g200502045",
+      "title": "现代文阅读训练",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "szjylt-s201712068",
+      "title": "联肢剪力墙的内力计算及算例分析",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hxxb200005005",
+      "title": "手性含硫噁唑硼烷催化芳酮不对称还原反应的量子化学研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hnjrdn201609004",
+      "title": "国产密码行业应用的初步研究和探索",
+      "download_times": 0,
+      "browse_times": 4
+    },
+    {
+      "id": "dfqn201208162",
+      "title": "培养学生创新精神之我见",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xjzydxxb201504014",
+      "title": "党的群众路线指导下的和谐校园建设--以克拉玛依职业技术学院为例",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "llgc201907034",
+      "title": "嫩江流域少数民族聚落空间文化基因 传承发展策略研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgsykqkzz201609008",
+      "title": "不同铸造固定式功能矫治器矫正青少年骨性Ⅱ类错(牙合)临床疗效对比研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgyz201508021",
+      "title": "八月瓜果籽油功能成分与抗氧化活性研究",
+      "download_times": 0,
+      "browse_times": 6
+    },
+    {
+      "id": "666210391",
+      "title": "五月的江南（外二首）",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "shanxnykx201902009",
+      "title": "苄嘧异丙隆对晋麦47光合特性及产量的影响",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "hyscyj200503013",
+      "title": "我国内陆水域增殖渔业发展存在的问题",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zgjxyxjy201825073",
+      "title": "SFOD-LPME-HPLC测定白芷中香豆素类活性成分",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "zwbh201304015",
+      "title": "ITS片段作为轮枝菌DNA条形码的评价研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "wszyjy201304022",
+      "title": "浅谈中职英语教学中如何评价学生",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kcjcjf201910012",
+      "title": "学科育人:教学改革的指南针和准绳",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "kjzw201702136",
+      "title": "智能电能表检测技术研究",
+      "download_times": 0,
+      "browse_times": 2
+    },
+    {
+      "id": "lnsjtgdzkxxxb201906009",
+      "title": "信息化考勤系统在高速公路建设市场的应用",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "jryjj200805023",
+      "title": "构架我国农业保险体系的环境保障",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "bzgc200701024",
+      "title": "胶版印刷品密度与色度检测关系的研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "xdzdyzl201603044",
+      "title": "依达拉奉联合奥扎格雷注射液治疗急性脑梗死疗效观察",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "sjkxjs-zyxdh201903023",
+      "title": "基于临床文献的糖尿病冠心病中医证候分布规律研究",
+      "download_times": 0,
+      "browse_times": 1
+    },
+    {
+      "id": "dnxx201801020",
+      "title": "一种SOA的工作流管理系统的框架设计",
+      "download_times": 0,
+      "browse_times": 2
+    }
+  ],
+  "检索": [
+    "室性心动过速基层诊疗指南（2019年）",
+    "甲状腺功能减退症基层诊疗指南（2019年）",
+    "心脏骤停基层诊疗指南",
+    "《中国注意缺陷多动障碍防治指南》第二版",
+    "结核菌素试验",
+    "白内障",
+    "白内障防治指南",
+    "激光虹膜截开术",
+    "肺结核治疗指南",
+    "白内障",
+    "白内障",
+    "白内障指南",
+    "白内障指南",
+    "肺结核指南",
+    "青光眼指南",
+    "T-SPOT研究进展",
+    "激光虹膜截开术",
+    "T-SPOT",
+    "白内障指南",
+    "T细胞斑点试验",
+    "白内障防治指南",
+    "白内障",
+    "T-SPOT",
+    "白内障",
+    "T细胞斑点试验",
+    "白内障指南",
+    "白内障指南",
+    "白内障",
+    "肺结核 AND T细胞",
+    "白内障指南",
+    "肺结核指南",
+    "结核包裹性胸腔积液",
+    "抑郁症中西医结合诊疗专家共识",
+    "中国左心耳封堵预防心房颤动卒中专家共识（2019）",
+    "骨代谢生化指标临床应用专家共识（2020）",
+    "心力衰竭用药指南",
+    "结核包裹性胸腔积液",
+    "骨代谢生化指标临床应用专家共识",
+    "中国心源性卒中防治指南（2019）",
+    "急性ST段抬高型心肌梗死诊断和治疗指南2019",
+    "晕厥指南",
+    "心肌梗死诊断和治疗指南",
+    "《中国老年高血压管理指南2019》",
+    "急性ST段抬高型心肌梗死诊断和治疗指南",
+    "急性非ST段抬高型心肌梗死诊断和治疗指南",
+    "预激综合征基层诊疗指南（2019年）",
+    "心肌梗塞指南",
+    "替格瑞洛指南",
+    "替格瑞洛",
+    "基层诊疗指南",
+    "妊娠期高血压疾病诊治指南（2020）",
+    "基层诊疗指南（2019年）",
+    "替格瑞洛",
+    "基层诊疗指南（2018年）",
+    "心肌梗塞指南",
+    "替格瑞洛",
+    "基层诊疗指南（2018年）",
+    "基层诊疗指南",
+    "妊娠期高血压疾病血压管理专家共识（2019）",
+    "妊娠期高血压疾病血压管理专家共识（2019）",
+    "经桡动脉途径冠脉介入并发症及处理",
+    "心力衰竭生物标志物中国专家共识",
+    "心房颤动基层诊疗指南（2019年）",
+    "冠状动脉生物可吸收支架临床应用中国专家共识",
+    "急性冠脉综合征指南",
+    "基层诊疗指南（2018年）",
+    "替格瑞洛研究进展",
+    "经桡动脉途径冠脉介入并发症及处理",
+    "经桡动脉介入诊疗的并发症及处理",
+    "超高危动脉粥样硬化性心血管疾病患者血脂管理中国专家共识",
+    "经桡动脉途径冠脉介入诊疗常见问题的观察与处理",
+    "基层诊疗指南（2019年）",
+    "替格瑞洛",
+    "基层诊疗指南",
+    "经桡动脉途径冠脉介入并发症及处理",
+    "中国高血压健康管理规范（2019）",
+    "经桡动脉途径冠脉介入并发症及处理",
+    "晕厥指南",
+    "晕厥指南",
+    "晕厥诊断与治疗中国专家共识（2018）",
+    "中国心力衰竭患者离子管理专家共识",
+    "ST段抬高型心肌梗塞指南",
+    "替格瑞洛",
+    "基层诊疗指南"
+  ]
+}

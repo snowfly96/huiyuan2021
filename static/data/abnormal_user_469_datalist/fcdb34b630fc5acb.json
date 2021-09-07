@@ -1,0 +1,372 @@
+{
+  "下载": [
+    {
+      "id": "hggdjy201901004",
+      "title": "2013-2017年化工类专业教指委工作回顾、体会与建议",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjsjj201906006",
+      "title": "熔盐储能材料在太阳能光热发电中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "mhg201905003",
+      "title": "天然气自热式转化制合成气的Aspen Plus模拟分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "hgjz201912001",
+      "title": "化石原料制氢技术发展现状与经济性分析",
+      "download_times": 6,
+      "browse_times": 6
+    },
+    {
+      "id": "tianjdxxb201912007",
+      "title": "基于修正Bertotti模型的变压器铁心谐波磁损耗计算与验证",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "hgsj201905008",
+      "title": "大型储罐罐顶优化设计",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxhxgcxb201906004",
+      "title": "偏硼酸锂、五硼酸锂溶液体积性质及离子作用模型",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "hxtb2200809003",
+      "title": "双氢青蒿素衍生物的研究进展",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "huaxsj200305017",
+      "title": "2,6-二乙酰基吡啶合成方法的改进",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qqkjjjlw201604012",
+      "title": "简析美国国家实验室的布局和管理",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qqkjjjlw201810004",
+      "title": "美国联邦资助的研发中心概况",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyjyyy201005048",
+      "title": "带式输送机的结构及常见故障分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gfkj201903008",
+      "title": "美国国防部资助的实验室体系架构",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jien201909015",
+      "title": "基于Aspen Plus煤气化模拟研究及成本分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gykzjsj201908045",
+      "title": "基于Aspen Plus的化学链燃烧数值模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "ddhg201911061",
+      "title": "基于Aspen的氢气在1,4丁二醇中溶解度的计算",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "nmgsyhg201909005",
+      "title": "基于Aspen Plus对电石乙炔法制备醋酸乙烯精馏塔的模拟和优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tjhg201902014",
+      "title": "Aspen Plus软件在乙醇-水分离塔设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwytq201904005",
+      "title": "Aspen Plus软件分析精馏制备高纯五氟乙烷的工艺",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgsjtx201911061",
+      "title": "Aspen Plus在模拟分离环己酮装置多效精馏中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzhg201821047",
+      "title": "Aspen Plus 8.0在化工设计课程教学中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zgcytzygkj201931012",
+      "title": "基于ASPEN PULS的醇胺吸收法烟气脱碳的模拟",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "gzhg201914053",
+      "title": "Aspen Plus在异丁烷产品开发中的应用",
+      "download_times": 2,
+      "browse_times": 2
+    },
+    {
+      "id": "zglj201906008",
+      "title": "四氯乙烯副产氯化氢精馏塔的Aspen Plus优化模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "syhgfsyfh201901010",
+      "title": "基于Aspen Plus的常压塔流程模拟与故障诊断",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "qljjs201902013",
+      "title": "基于Aspen plus的配置储热装置供热机组调峰范围研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgsbygd201904007",
+      "title": "基于Aspen Plus与Matlab联用的ORC系统优化",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mtjs201912050",
+      "title": "基于Aspen Plus的煤气化黑水处理方案对比",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "trqhg201905014",
+      "title": "基于Aspen Plus的一步法煤制天然气工艺优化研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdhg201917052",
+      "title": "基于Aspen Plus软件的对二甲苯生产工艺全流程模拟及优化",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "jxyzyhxp201907006",
+      "title": "基于Aspen Plus的废水湿式氧化处理工艺模拟",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201815025",
+      "title": "Aspen plus模拟甲醇-乙醇精馏分离",
+      "download_times": 3,
+      "browse_times": 5
+    },
+    {
+      "id": "jien201911039",
+      "title": "基于Aspen Plus的供热机组与熔盐蓄热装置耦合系统分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgjz201805010",
+      "title": "基于Aspen Plus的循环流化床工业气化炉模拟",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "kxycf201925054",
+      "title": "Aspen Plus在聚合反应中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "mhg201905003",
+      "title": "天然气自热式转化制合成气的Aspen Plus模拟分析",
+      "download_times": 4,
+      "browse_times": 2
+    },
+    {
+      "id": "trqhg201705016",
+      "title": "基于Aspen Plus的甲烷化过程计算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "tyjx201803021",
+      "title": "Aspen Plus软件在旋风分离器 设计中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "dwytq201904009",
+      "title": "甲烷精馏系统的Aspen Plus模拟计算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gzhg201922070",
+      "title": "工程认证背景下ASPEN PLUS在分离工程教学中应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gdhg201919070",
+      "title": "利用Aspen plus进行电厂脱硫专用电石渣烘干生产线辅助设计的探讨",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hgsk201907012",
+      "title": "Aspen Plus应用于逆流萃取模拟实验教学探索",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hggdjy201801019",
+      "title": "用Aspen-Plus软件辅助化工热力学教学——热力学循环计算",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hebhg201907039",
+      "title": "基于Aspen Plus平台对轻烃燃气露点温度的探究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jscb201902006",
+      "title": "基于Aspen plus的船用脱硝系统性能分析",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "sdhg201916066",
+      "title": "Aspen Plus软件在醋酸-水体系热泵精馏中的应用",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shjsyyy201901011",
+      "title": "Aspen Plus模拟计算在连续重整装置增产碳五中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "gzhg201913062",
+      "title": "Aspen Plus在萃取精馏实验教学中的应用探索",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "sdhg201901051",
+      "title": "Aspen Plus软件在化工原理课程设计中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "hgsjtx201907010",
+      "title": "采用Aspen PIus软件对一氧化碳变换单元的模拟研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "hxgc201801013",
+      "title": "利用Aspen Plus模拟工业MTBE装置",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "zjhg201908009",
+      "title": "Aspen Plus模拟软件在化工中的应用",
+      "download_times": 2,
+      "browse_times": 3
+    },
+    {
+      "id": "huaxsj200801015",
+      "title": "2,6-二乙酰基吡啶的合成",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "shykdxxb201706017",
+      "title": "乙型肝炎病毒与I型干扰素系统相互作用新机制及治疗新策略的研究",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "gxqgy201003004",
+      "title": "双氢青蒿素研究进展",
+      "download_times": 2,
+      "browse_times": 0
+    },
+    {
+      "id": "jsjyxdh201912015",
+      "title": "基于Aspen Plus的酸水汽提模拟",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "hxgyygcjs201901010",
+      "title": "基于Aspen Plus的三组分混合物精馏节能方案的模拟研究",
+      "download_times": 2,
+      "browse_times": 1
+    },
+    {
+      "id": "shhg201508003",
+      "title": "HTRI设计立式热虹吸再沸器",
+      "download_times": 3,
+      "browse_times": 0
+    },
+    {
+      "id": "yygcsj201002003",
+      "title": "立式热虹吸式再沸器的设计",
+      "download_times": 3,
+      "browse_times": 1
+    },
+    {
+      "id": "zdf201806018",
+      "title": "甲醇水分离塔再沸器的工程设计",
+      "download_times": 4,
+      "browse_times": 0
+    },
+    {
+      "id": "shihjs201610229",
+      "title": "立式热虹吸再沸器设计",
+      "download_times": 3,
+      "browse_times": 0
+    }
+  ],
+  "浏览": [],
+  "检索": []
+}
