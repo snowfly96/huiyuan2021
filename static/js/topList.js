@@ -415,15 +415,12 @@ function drawTopList() {
             var curTarget=event.currentTarget;
             var userID=(curTarget.id).split("-")[2];
             $(".list-user-item").css({"backgroundColor":"white"});
-<<<<<<< HEAD
             $("#user-item-"+userID).css({"backgroundColor":"bisque"});
             // 更新文章下载浏览曲线
             drawTopUserArticle(userID);
             drawUserArticleList(userID);
-=======
             $("#"+userID).css({"backgroundColor":"bisque"});
             setUser(userID.split('-')[2]);
->>>>>>> 322a86bfaef34125adde0858b088bb8413f21dc2
         });
         $("#user-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }
