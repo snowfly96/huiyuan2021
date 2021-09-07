@@ -420,7 +420,7 @@ function drawTopList() {
             drawTopUserArticle(userID);
             drawUserArticleList(userID);
             $("#"+userID).css({"backgroundColor":"bisque"});
-            setUser(userID.split('-')[2]);
+            setUser(userID);
         });
         $("#user-item-"+Object.keys(sortedData)[0]).css({"backgroundColor":"bisque"});
     }
