@@ -79,10 +79,10 @@ function initialize(){
             dataZoom: [{
                 type: 'inside',
                 start: 0,
-                end: 20
+                end: 100
             }, {
                 start: 0,
-                end: 20
+                end: 100
             }],
             series: [
                 {
