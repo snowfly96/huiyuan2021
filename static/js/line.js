@@ -24,21 +24,21 @@ function drawLine() {
         myChart.clear();
         if(val == "hour"){
             option.xAxis.data = ["0-1点","1-2点","2-3点","3-4点","4-5点","5-6点","6-7点","7-8点","8-9点","9-10点","10-11点","11-12点","12-13点","13-14点","14-15点","15-16点","16-17点","17-18点","18-19点","19-20点","20-21点","21-22点","22-23点","23-24点"];
-            option.series[0].data = hour_search;
+            option.series[0].data = hour_download;
             option.series[1].data = hour_scan;
-            option.series[2].data = hour_download;
+            option.series[2].data = hour_search;
         }
         else if (val == "month"){
             option.xAxis.data = [1,2,3,4,5,6,7,8,9,10,11,12];
-            option.series[0].data = month_search;
+            option.series[0].data = month_download;
             option.series[1].data = month_scan;
-            option.series[2].data = month_download;
+            option.series[2].data = month_search;
         }
         else{
             option.xAxis.data = ['周一', '周二', '周三', '周四', '周五', '周六', '周日'];
-            option.series[0].data = day_search;
+            option.series[0].data = day_download;
             option.series[1].data = day_scan;
-            option.series[2].data = day_download;
+            option.series[2].data = day_search;
         }
          myChart.setOption(option);
     }
@@ -51,7 +51,7 @@ function drawLine() {
             trigger: 'axis'
         },
         legend: {
-            data: ['检索', '浏览', '下载']
+            data: ['下载', '浏览', '检索']
         },
         grid: {
             left: '3%',
@@ -73,9 +73,9 @@ function drawLine() {
         },
         series: [
             {
-                name: '检索',
+                name: '下载',
                 type: 'line',
-                data: day_search
+                data: day_download
             },
             {
                 name: '浏览',
@@ -83,9 +83,9 @@ function drawLine() {
                 data: day_scan
             },
             {
-                name: '下载',
+                name: '检索',
                 type: 'line',
-                data: day_download
+                data: day_search
             }
         ]
     };
