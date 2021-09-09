@@ -53,7 +53,7 @@ function initialize(){
                 }
             },
             title: {
-                text: "用户行为时段折线图",
+                text: "用户行为时段曲线图",
                 textStyle: {
                     fontSize: 18,
                 },

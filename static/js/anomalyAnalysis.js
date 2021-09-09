@@ -155,15 +155,22 @@ function drawUserArticleList(curUserID) {
         browseData=browseData.map(function (item) {
             return [item['download_times'],item['browse_times'],item['title']];
         });
+        console.log(downloadData.slice(0,500));
         option = {
         xAxis: {
+            name: "下载",
             max: 260,
+            nameTextStyle: {
+                padding: [0, 0, 0, -10]    // 四个数字分别为上右下左与原位置距离
+            }
+
         },
         yAxis: {
+            name: "浏览",
             max: 350,
         },
         title: {
-            text: '用户质量下载浏览数据统计',
+            text: '文献下载浏览热度统计',
             // subtext: '用户: mfzz201312002',
             // left: 'center'
         },
